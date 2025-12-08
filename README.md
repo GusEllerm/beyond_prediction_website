@@ -186,6 +186,21 @@ Custom styles in `src/styles.css` extend Bootstrap's default styles.
 - Bootstrap JavaScript is loaded for interactive components (navbar toggle, etc.)
 - Custom styles should go in `src/styles.css` to extend Bootstrap safely
 
+## Version Control
+
+This project is tracked with Git. The default branch is `main`.
+
+**Repository:** This repository is hosted on GitHub at:
+- https://github.com/GusEllerm/beyond_prediction_website
+
+### Common Git Commands
+
+- Check repository status: `git status`
+- Stage changes: `git add .` or `git add <file>`
+- Commit changes: `git commit -m "your commit message"`
+- Push to GitHub: `git push origin main`
+- Pull latest changes: `git pull origin main`
+
 ## License
 
 This project is private and proprietary.
