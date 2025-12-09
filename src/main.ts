@@ -10,6 +10,11 @@ import './styles.css';
 // Import components
 import { renderNavbar } from './components/navbar';
 import { renderHero } from './components/hero';
+import { renderFooter } from './components/footer';
+
+// Import data
+import { researchCards } from './data/researchCards';
+import { partners } from './data/partners';
 
 /**
  * Main application entry point
@@ -40,12 +45,40 @@ function initApp(): void {
   contentContainer.className = 'content-section';
   appElement.appendChild(contentContainer);
   renderContent(contentContainer);
+
+  // Create footer container
+  // Note: renderFooter returns HTML string, so we set innerHTML directly
+  const footerContainer = document.createElement('div');
+  footerContainer.id = 'footer-container';
+  appElement.appendChild(footerContainer);
+
+  // Render footer with partners from data file
+  footerContainer.innerHTML = renderFooter(partners);
 }
 
 /**
  * Renders the main content section with Bootstrap cards
  */
 function renderContent(container: HTMLElement): void {
+  const cardsHtml = researchCards
+    .map(
+      (card) => `
+      <div class="col-md-4">
+        <a href="${card.href}" class="text-decoration-none text-reset">
+          <div class="card h-100">
+            <div class="card-body">
+              <h5 class="card-title">${card.title}</h5>
+              <p class="card-text">
+                ${card.description}
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    `
+    )
+    .join('');
+
   container.innerHTML = `
     <div class="container">
       <div class="row mb-5">
@@ -55,90 +88,7 @@ function renderContent(container: HTMLElement): void {
         </div>
       </div>
       <div class="row g-4">
-        <div class="col-md-4">
-          <a href="#" class="text-decoration-none text-reset">
-            <div class="card h-100">
-              <div class="card-body">
-                <h5 class="card-title">Live Research Articles (LivePublication)</h5>
-                <p class="card-text">
-                  Transform static papers into live, reproducible research objects that stay linked to their data, code, and workflows.
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a href="#" class="text-decoration-none text-reset">
-            <div class="card h-100">
-              <div class="card-body">
-                <h5 class="card-title">Trustworthy & Explainable AI for Science</h5>
-                <p class="card-text">
-                  Develop AI methods that detect hallucinations, expose their reasoning, and make model decisions auditable in scientific contexts.
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a href="#" class="text-decoration-none text-reset">
-            <div class="card h-100">
-              <div class="card-body">
-                <h5 class="card-title">AI for Research Literature & Dynamic Documents</h5>
-                <p class="card-text">
-                  Use AI-native document structures, knowledge graphs, and auto-updating reports to turn the research literature into a queryable, living resource.
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a href="#" class="text-decoration-none text-reset">
-            <div class="card h-100">
-              <div class="card-body">
-                <h5 class="card-title">Genomics Data Science & Evolutionary Inference</h5>
-                <p class="card-text">
-                  Build Bayesian and phylogenetic methods that unlock new insights from genomic data—from single-cell tumours to human evolution.
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a href="#" class="text-decoration-none text-reset">
-            <div class="card h-100">
-              <div class="card-body">
-                <h5 class="card-title">Biodiversity, Ecology & Biosecurity Modelling</h5>
-                <p class="card-text">
-                  Model adaptation, resilience, and invasion risk in species that matter for Aotearoa's ecosystems and biosecurity.
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a href="#" class="text-decoration-none text-reset">
-            <div class="card h-100">
-              <div class="card-body">
-                <h5 class="card-title">Māori Genomics & Data Sovereignty</h5>
-                <p class="card-text">
-                  Co-develop genomic tools and population models that support Māori health, equity, and tino rangatiratanga over data.
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a href="#" class="text-decoration-none text-reset">
-            <div class="card h-100">
-              <div class="card-body">
-                <h5 class="card-title">Digital Research Skills & Communities</h5>
-                <p class="card-text">
-                  Grow national capability through ResBaz, Carpentries, and open training in data, coding, and reproducible research.
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
+        ${cardsHtml}
       </div>
     </div>
   `;

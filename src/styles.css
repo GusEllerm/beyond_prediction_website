@@ -60,3 +60,105 @@ body {
 .section-padding {
   padding: 4rem 0;
 }
+
+/* Footer styles */
+.site-footer {
+  background-color: #f8f9fa; /* light neutral to match Bootstrap defaults */
+  font-size: 0.9rem;
+}
+
+.site-footer-heading {
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
+.footer-logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-logo-placeholder {
+  width: 110px;
+  height: 60px;
+  border-radius: 0.75rem;
+  border: 1px dashed #ced4da;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #adb5bd;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  transition:
+    border-color 0.2s ease,
+    border-style 0.2s ease;
+}
+
+.footer-logo {
+  color: inherit;
+  text-decoration: none;
+}
+
+.footer-logo:hover .footer-logo-placeholder {
+  border-style: solid;
+  border-color: #6c757d;
+  color: #6c757d;
+}
+
+.footer-logo-name {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  color: #6c757d;
+}
+
+.footer-logo-image {
+  width: 110px;
+  height: 60px;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  padding: 0.5rem;
+  transition: opacity 0.2s ease;
+}
+
+.footer-logo:hover .footer-logo-image {
+  opacity: 0.8;
+}
+
+/* Screen-reader only helper (Bootstrap has this, but including for compatibility) */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Responsive adjustments for footer logos */
+@media (max-width: 576px) {
+  .footer-logo-grid {
+    gap: 0.75rem;
+  }
+
+  .footer-logo-placeholder {
+    width: 90px;
+    height: 50px;
+    font-size: 0.65rem;
+  }
+
+  .footer-logo-image {
+    width: 90px;
+    height: 50px;
+  }
+}
