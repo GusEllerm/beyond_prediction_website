@@ -10,6 +10,7 @@ import './styles.css';
 // Import components
 import { renderNavbar } from './components/navbar';
 import { renderFooter } from './components/footer';
+import { renderPersonCard } from './components/personCard';
 
 // Import data
 import { partners } from './data/partners';
@@ -18,7 +19,6 @@ import {
   coInvestigators,
   industryPartners,
   postDocs,
-  type Person,
 } from './data/people';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
@@ -49,65 +49,15 @@ function escapeHtml(text: string): string {
  * @param people - Array of people to render
  * @returns HTML string for the section
  */
-function renderPeopleSection(heading: string, people: Person[]): string {
+function renderPeopleSection(
+  heading: string,
+  people: Array<{ slug: string; name: string; title?: string; affiliation?: string; bioShort?: string; photoUrl?: string }>
+): string {
   if (!people.length) {
     return '';
   }
 
-  const cards = people
-    .map((person) => {
-      const href = person.slug
-        ? `/person.html?person=${encodeURIComponent(person.slug)}`
-        : '#';
-
-      const photoHtml = person.photoUrl
-        ? `
-          <div class="col-auto">
-            <img 
-              src="${escapeHtml(person.photoUrl)}" 
-              alt="${escapeHtml(person.name)}" 
-              class="person-card-photo rounded"
-              style="width: 80px; height: 80px; object-fit: cover;"
-            />
-          </div>
-        `
-        : '';
-
-      const contentColumnClass = person.photoUrl ? 'col' : 'col-12';
-
-      return `
-        <div class="col-md-4 col-lg-3">
-          <a href="${href}" class="text-decoration-none text-reset d-block h-100">
-            <div class="card h-100">
-              <div class="card-body">
-                <div class="row g-2 align-items-start">
-                  <div class="${contentColumnClass}">
-                    <h3 class="h5 card-title mb-1">${escapeHtml(person.name)}</h3>
-                    ${
-                      person.title
-                        ? `<p class="card-subtitle text-muted mb-1">${escapeHtml(person.title)}</p>`
-                        : ''
-                    }
-                    ${
-                      person.affiliation
-                        ? `<p class="card-text mb-2"><small>${escapeHtml(person.affiliation)}</small></p>`
-                        : ''
-                    }
-                    ${
-                      person.bioShort
-                        ? `<p class="card-text"><small>${escapeHtml(person.bioShort)}</small></p>`
-                        : ''
-                    }
-                  </div>
-                  ${photoHtml}
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-      `;
-    })
-    .join('');
+  const cards = people.map((person) => renderPersonCard(person)).join('');
 
   return `
     <section class="mb-5">

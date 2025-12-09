@@ -176,16 +176,35 @@ function renderPersonDetailBody(p: Person): string {
   // Build badges for the left column (under image)
   const badges: string[] = [];
 
+  // Compute badge URLs for role and organisation
+  const roleQuery = p.roleLabel ? encodeURIComponent(p.roleLabel) : '';
+  const orgQuery = p.affiliation ? encodeURIComponent(p.affiliation) : '';
+
+  const roleHref = roleQuery ? `/search.html?q=${roleQuery}&type=people` : null;
+  const orgHref = orgQuery ? `/search.html?q=${orgQuery}&type=people` : null;
+
   if (p.roleLabel) {
-    badges.push(
-      `<span class="badge rounded-pill bg-secondary me-1 mb-1">${escapeHtml(p.roleLabel)}</span>`
-    );
+    if (roleHref) {
+      badges.push(
+        `<a href="${roleHref}" class="badge rounded-pill bg-secondary me-1 mb-1 text-decoration-none">${escapeHtml(p.roleLabel)}</a>`
+      );
+    } else {
+      badges.push(
+        `<span class="badge rounded-pill bg-secondary me-1 mb-1">${escapeHtml(p.roleLabel)}</span>`
+      );
+    }
   }
 
   if (p.affiliation) {
-    badges.push(
-      `<span class="badge rounded-pill bg-primary me-1 mb-1">${escapeHtml(p.affiliation)}</span>`
-    );
+    if (orgHref) {
+      badges.push(
+        `<a href="${orgHref}" class="badge rounded-pill bg-primary me-1 mb-1 text-decoration-none">${escapeHtml(p.affiliation)}</a>`
+      );
+    } else {
+      badges.push(
+        `<span class="badge rounded-pill bg-primary me-1 mb-1">${escapeHtml(p.affiliation)}</span>`
+      );
+    }
   }
 
   if (p.orcidId) {

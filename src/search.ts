@@ -10,19 +10,12 @@ import './styles.css';
 // Import components
 import { renderNavbar } from './components/navbar';
 import { renderFooter } from './components/footer';
+import { renderPersonCard } from './components/personCard';
 import { partners } from './data/partners';
 
 // Import search utilities
-import { searchRecords, type SearchRecord } from './searchIndex';
-
-/**
- * Parses the search query from URL query parameters
- * @returns The search query string or empty string if not found
- */
-function getSearchQueryFromUrl(): string {
-  const params = new URLSearchParams(window.location.search);
-  return params.get('q') ?? '';
-}
+import { searchItems, type SearchItem, type SearchItemType } from './data/searchIndex';
+import { allPeople, type Person } from './data/people';
 
 /**
  * Escapes HTML special characters to prevent XSS
@@ -36,31 +29,128 @@ function escapeHtml(text: string): string {
 }
 
 /**
+ * Parses the search query and type filter from URL query parameters
+ * @returns Object with query string and optional type filter
+ */
+function getSearchParamsFromUrl(): { query: string; typeFilter?: SearchItemType } {
+  const params = new URLSearchParams(window.location.search);
+  const query = (params.get('q') ?? '').trim();
+  const typeParam = params.get('type');
+  const typeFilter: SearchItemType | undefined =
+    typeParam === 'people' ? 'person' : typeParam === 'projects' ? 'project' : undefined;
+  return { query, typeFilter };
+}
+
+/**
+ * Renders the projects section
+ * @param container - The container element to render into
+ * @param results - Array of project search items
+ */
+function renderProjectsSection(
+  container: HTMLElement,
+  results: SearchItem[]
+): void {
+  if (!results.length) return;
+
+  const cardsHtml = results
+    .map(
+      (item) => `
+        <div class="col-md-4 mb-3">
+          <a href="${escapeHtml(item.url)}" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">${escapeHtml(item.title)}</h5>
+                <p class="card-text">${escapeHtml(item.summary)}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+      `
+    )
+    .join('');
+
+  container.innerHTML += `
+    <section class="mt-4">
+      <h2 class="h5 mb-3">Projects</h2>
+      <div class="row g-3">
+        ${cardsHtml}
+      </div>
+    </section>
+  `;
+}
+
+/**
+ * Renders the people section
+ * @param container - The container element to render into
+ * @param results - Array of person search items
+ */
+function renderPeopleSection(
+  container: HTMLElement,
+  results: SearchItem[]
+): void {
+  if (!results.length) return;
+
+  // Build a slug → Person map
+  const personBySlug = new Map<string, Person>(
+    allPeople.map((p) => [p.slug, p])
+  );
+
+  const cardsHtml = results
+    .map((item) => {
+      const person = personBySlug.get(item.id);
+      if (!person) return '';
+      return renderPersonCard(person);
+    })
+    .join('');
+
+  container.innerHTML += `
+    <section class="mt-4">
+      <h2 class="h5 mb-3">People</h2>
+      <div class="row g-4">
+        ${cardsHtml}
+      </div>
+    </section>
+  `;
+}
+
+/**
  * Renders search results in the container
  * @param container - The container element to render results into
- * @param q - The search query string
- * @param records - Array of search result records
+ * @param query - The search query string
+ * @param typeFilter - Optional type filter
  */
 function renderResults(
   container: HTMLElement,
-  q: string,
-  records: SearchRecord[]
+  query: string,
+  typeFilter?: SearchItemType
 ): void {
-  if (!q) {
+  if (!query) {
     container.innerHTML = `
       <div class="container py-5">
         <h1 class="mb-4">Search</h1>
-        <p class="text-muted">Enter a term in the search bar above to find research themes and projects.</p>
+        <p class="text-muted">Enter a term in the search bar above to find research themes, projects, and people.</p>
       </div>
     `;
     return;
   }
 
-  if (records.length === 0) {
+  // Perform search
+  const allMatches = searchItems(query, typeFilter);
+
+  // Split results by type
+  let projectResults = allMatches.filter((item) => item.type === 'project');
+  let personResults = allMatches.filter((item) => item.type === 'person');
+
+  // If type=people was passed, hide project results
+  if (typeFilter === 'person') {
+    projectResults = [];
+  }
+
+  if (allMatches.length === 0) {
     container.innerHTML = `
       <div class="container py-5">
         <h1 class="mb-4">Search results</h1>
-        <p class="text-muted">No results found for "<strong>${escapeHtml(q)}</strong>".</p>
+        <p class="text-muted">No results found for "<strong>${escapeHtml(query)}</strong>".</p>
         <p class="text-muted">Try a different keyword, or browse the main research themes.</p>
         <a href="/" class="btn btn-outline-primary mt-3">Back to research themes</a>
       </div>
@@ -68,31 +158,20 @@ function renderResults(
     return;
   }
 
-  const itemsHtml = records
-    .map(
-      (record) => `
-        <div class="col-md-6">
-          <div class="card h-100">
-            <div class="card-body">
-              <h2 class="h5 card-title">${escapeHtml(record.title)}</h2>
-              <p class="card-text">${escapeHtml(record.summary)}</p>
-              <a href="${escapeHtml(record.href)}" class="stretched-link">View project</a>
-            </div>
-          </div>
-        </div>
-      `
-    )
-    .join('');
-
-  container.innerHTML = `
-    <div class="container py-5">
-      <h1 class="mb-4">Search results</h1>
-      <p class="text-muted mb-4">Showing ${records.length} result(s) for "<strong>${escapeHtml(q)}</strong>".</p>
-      <div class="row g-4">
-        ${itemsHtml}
-      </div>
-    </div>
+  // Create a wrapper div for the results
+  const wrapper = document.createElement('div');
+  wrapper.className = 'container py-5';
+  wrapper.innerHTML = `
+    <h1 class="mb-4">Search results</h1>
+    <p class="text-muted mb-4">Showing ${allMatches.length} result(s) for "<strong>${escapeHtml(query)}</strong>".</p>
   `;
+
+  // Render projects first, then people
+  renderProjectsSection(wrapper, projectResults);
+  renderPeopleSection(wrapper, personResults);
+
+  container.innerHTML = '';
+  container.appendChild(wrapper);
 }
 
 /**
@@ -111,23 +190,22 @@ function initSearchPage(): void {
   app.appendChild(navbarContainer);
   renderNavbar(navbarContainer);
 
-  // Get search query from URL
-  const query = getSearchQueryFromUrl();
+  // Get search parameters from URL
+  const { query, typeFilter } = getSearchParamsFromUrl();
 
   // Sync the search input with the query if present
-  const searchInput = navbarContainer.querySelector<HTMLInputElement>('#bp-search-input');
+  const searchInput = navbarContainer.querySelector<HTMLInputElement>(
+    '#bp-search-input'
+  );
   if (searchInput && query) {
     searchInput.value = query;
   }
-
-  // Perform search
-  const results = query ? searchRecords(query) : [];
 
   // Create main content container
   const mainContainer = document.createElement('div');
   mainContainer.id = 'search-results-container';
   app.appendChild(mainContainer);
-  renderResults(mainContainer, query, results);
+  renderResults(mainContainer, query, typeFilter);
 
   // Create footer container
   const footerContainer = document.createElement('div');
@@ -142,4 +220,3 @@ if (document.readyState === 'loading') {
 } else {
   initSearchPage();
 }
-
