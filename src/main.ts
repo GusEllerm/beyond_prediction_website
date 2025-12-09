@@ -50,43 +50,94 @@ function renderContent(container: HTMLElement): void {
     <div class="container">
       <div class="row mb-5">
         <div class="col-12 text-center">
-          <h2 class="display-5 mb-4">Our Services</h2>
-          <p class="lead text-muted">Discover what we offer</p>
+          <h2 class="display-5 mb-4">Research and Development</h2>
+          <p class="lead text-muted">Explore the research and case studies of Beyond Prediction</p>
         </div>
       </div>
       <div class="row g-4">
         <div class="col-md-4">
-          <div class="card h-100">
-            <div class="card-body">
-              <h5 class="card-title">Data Analytics</h5>
-              <p class="card-text">
-                Transform your raw data into actionable insights with our advanced analytics platform.
-              </p>
-              <a href="#" class="btn btn-outline-primary">Learn More</a>
+          <a href="#" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">Live Research Articles (LivePublication)</h5>
+                <p class="card-text">
+                  Transform static papers into live, reproducible research objects that stay linked to their data, code, and workflows.
+                </p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>
         <div class="col-md-4">
-          <div class="card h-100">
-            <div class="card-body">
-              <h5 class="card-title">Predictive Modeling</h5>
-              <p class="card-text">
-                Leverage machine learning to forecast trends and make data-driven decisions.
-              </p>
-              <a href="#" class="btn btn-outline-primary">Learn More</a>
+          <a href="#" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">Trustworthy & Explainable AI for Science</h5>
+                <p class="card-text">
+                  Develop AI methods that detect hallucinations, expose their reasoning, and make model decisions auditable in scientific contexts.
+                </p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>
         <div class="col-md-4">
-          <div class="card h-100">
-            <div class="card-body">
-              <h5 class="card-title">Custom Solutions</h5>
-              <p class="card-text">
-                Tailored software solutions designed to meet your specific business needs.
-              </p>
-              <a href="#" class="btn btn-outline-primary">Learn More</a>
+          <a href="#" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">AI for Research Literature & Dynamic Documents</h5>
+                <p class="card-text">
+                  Use AI-native document structures, knowledge graphs, and auto-updating reports to turn the research literature into a queryable, living resource.
+                </p>
+              </div>
             </div>
-          </div>
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a href="#" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">Genomics Data Science & Evolutionary Inference</h5>
+                <p class="card-text">
+                  Build Bayesian and phylogenetic methods that unlock new insights from genomic data—from single-cell tumours to human evolution.
+                </p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a href="#" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">Biodiversity, Ecology & Biosecurity Modelling</h5>
+                <p class="card-text">
+                  Model adaptation, resilience, and invasion risk in species that matter for Aotearoa's ecosystems and biosecurity.
+                </p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a href="#" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">Māori Genomics & Data Sovereignty</h5>
+                <p class="card-text">
+                  Co-develop genomic tools and population models that support Māori health, equity, and tino rangatiratanga over data.
+                </p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a href="#" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">Digital Research Skills & Communities</h5>
+                <p class="card-text">
+                  Grow national capability through ResBaz, Carpentries, and open training in data, coding, and reproducible research.
+                </p>
+              </div>
+            </div>
+          </a>
         </div>
       </div>
     </div>
