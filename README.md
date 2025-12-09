@@ -185,5 +185,3 @@ Custom styles in `src/styles.css` extend Bootstrap's default styles.
 - The main application logic is in `src/main.ts`
 - Bootstrap JavaScript is loaded for interactive components (navbar toggle, etc.)
 - Custom styles should go in `src/styles.css` to extend Bootstrap safely
-
-

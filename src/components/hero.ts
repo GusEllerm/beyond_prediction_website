@@ -8,9 +8,9 @@ export function renderHero(container: HTMLElement): void {
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6">
-            <h1 class="display-4 fw-bold mb-4">Welcome to Beyond Prediction</h1>
+            <h1 class="display-4 fw-bold mb-4">Beyond Prediction: explanatory and transparent data science </h1>
             <p class="lead mb-4">
-              Building the future with data-driven insights and innovative solutions.
+              Developing explainable, auditable data science methods for Aotearoa New Zealand’s environment, health and society.
             </p>
             <a href="#contact" class="btn btn-primary btn-lg">
               Get Started
