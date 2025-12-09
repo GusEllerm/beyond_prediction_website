@@ -1,0 +1,243 @@
+{
+  "slug": "nigel-french",
+  "orcidId": "0000-0002-6334-0657",
+  "updatedAt": "2025-12-09T20:44:56.777Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4415704803",
+      "title": "Temporal reconstruction of a Salmonella Enteritidis ST11 outbreak in New Zealand",
+      "year": 2025,
+      "venue": "Microbial Genomics",
+      "doi": "https://doi.org/10.1099/mgen.0.001525",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001525"
+    },
+    {
+      "id": "https://openalex.org/W4413941094",
+      "title": "A decade of genomic surveillance tracks the disappearance and reintroduction of seasonal influenza virus in Aotearoa New Zealand",
+      "year": 2025,
+      "doi": "https://doi.org/10.21203/rs.3.rs-7503135/v1",
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-7503135/latest.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4413783574",
+      "title": "Longitudinal survey investigating vectors and reservoirs for <i>Campylobacter</i> colonization of chickens on a New Zealand broiler poultry farm",
+      "year": 2025,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "https://doi.org/10.1128/aem.01206-25",
+      "openAccessUrl": "https://doi.org/10.1128/aem.01206-25"
+    },
+    {
+      "id": "https://openalex.org/W4412653460",
+      "title": "20 years later: unravelling the genomic success of New Zealand’s home-grown AK3 community-associated methicillin-resistant Staphylococcus aureus",
+      "year": 2025,
+      "venue": "Microbial Genomics",
+      "doi": "https://doi.org/10.1099/mgen.0.001452",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001452"
+    },
+    {
+      "id": "https://openalex.org/W4411793508",
+      "title": "Factors associated with post-dural puncture headache: A single-center retrospective review",
+      "year": 2025,
+      "venue": "The Neuroradiology Journal",
+      "doi": "https://doi.org/10.1177/19714009251345109",
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12209233"
+    },
+    {
+      "id": "https://openalex.org/W4411516547",
+      "title": "Practitioner perspectives on informing decisions in One Health sectors with predictive models",
+      "year": 2025,
+      "venue": "Humanities and Social Sciences Communications",
+      "doi": "https://doi.org/10.1057/s41599-025-05077-3",
+      "openAccessUrl": "https://www.nature.com/articles/s41599-025-05077-3.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4408956595",
+      "title": "A METAGENOMIC INVESTIGATION INTO APTERYX ROWI DERMATOSIS IDENTIFIES MULTIPLE NOVEL VIRUSES AND A HIGHLY ABUNDANT NEMATODE",
+      "year": 2025,
+      "venue": "Journal of Wildlife Diseases",
+      "doi": "https://doi.org/10.7589/jwd-d-24-00115",
+      "openAccessUrl": "https://doi.org/10.7589/jwd-d-24-00115"
+    },
+    {
+      "id": "https://openalex.org/W4410190750",
+      "title": "Ethnic equity in Aotearoa New Zealand's COVID-19 response: A descriptive epidemiological study",
+      "year": 2025,
+      "venue": "Public Health",
+      "doi": "https://doi.org/10.1016/j.puhe.2025.105732",
+      "openAccessUrl": "https://doi.org/10.1016/j.puhe.2025.105732"
+    },
+    {
+      "id": "https://openalex.org/W4410052144",
+      "title": "Transmission pathways of Campylobacter jejuni between humans and livestock in rural Ethiopia are highly complex and interdependent",
+      "year": 2025,
+      "venue": "Gut Pathogens",
+      "doi": "https://doi.org/10.1186/s13099-025-00691-7",
+      "openAccessUrl": "https://gutpathogens.biomedcentral.com/counter/pdf/10.1186/s13099-025-00691-7"
+    },
+    {
+      "id": "https://openalex.org/W4409605651",
+      "title": "Evidence for a Role of Extraintestinal Pathogenic <scp> <i>Escherichia coli</i> </scp> , <scp> <i>Enterococcus faecalis</i> </scp> and <scp> <i>Streptococcus gallolyticus</i> </scp> in the Aetiology of Exudative Cloacitis in the Critically Endangered Kākāpō ( <scp> <i>Strigops habroptilus</i> </scp> )",
+      "year": 2025,
+      "venue": "Molecular Ecology",
+      "doi": "https://doi.org/10.1111/mec.17761",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17761"
+    },
+    {
+      "id": "https://openalex.org/W4408555609",
+      "title": "Preparing for the next pandemic: insights from Aotearoa New Zealand’s Covid-19 response",
+      "year": 2025,
+      "venue": "The Lancet Regional Health - Western Pacific",
+      "doi": "https://doi.org/10.1016/j.lanwpc.2025.101525",
+      "openAccessUrl": "https://doi.org/10.1016/j.lanwpc.2025.101525"
+    },
+    {
+      "id": "https://openalex.org/W4406923784",
+      "title": "Metabarcoding captures genetic diversity and links cases in outbreaks of cryptosporidiosis in New Zealand",
+      "year": 2025,
+      "venue": "Journal of Infection",
+      "doi": "https://doi.org/10.1016/j.jinf.2025.106427",
+      "openAccessUrl": "https://doi.org/10.1016/j.jinf.2025.106427"
+    },
+    {
+      "id": "https://openalex.org/W4406127608",
+      "title": "Campylobacter colonization and undernutrition in infants in rural eastern Ethiopia — a longitudinal community-based birth cohort study",
+      "year": 2025,
+      "venue": "Frontiers in Public Health",
+      "doi": "https://doi.org/10.3389/fpubh.2024.1467462",
+      "openAccessUrl": "https://doi.org/10.3389/fpubh.2024.1467462"
+    },
+    {
+      "id": "https://openalex.org/W4405984869",
+      "title": "Transmission pathways of Campylobacter jejuni between humans and livestock in rural Ethiopia are highly complex and interdependent",
+      "year": 2025,
+      "doi": "https://doi.org/10.21203/rs.3.rs-5735672/v1",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-5735672/v1"
+    },
+    {
+      "id": "https://openalex.org/W4405028469",
+      "title": "Zoonotic transmission of asymptomatic carriage Staphylococcus aureus on dairy farms in Canterbury, New Zealand",
+      "year": 2024,
+      "venue": "Microbial Genomics",
+      "doi": "https://doi.org/10.1099/mgen.0.001318",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001318"
+    },
+    {
+      "id": "https://openalex.org/W4404536951",
+      "title": "Evidence for a role of extraintestinal pathogenic Escherichia coli, Enterococcus faecalis and Streptococcus gallolyticus in the aetiology of exudative cloacitis in the critically endangered kākāpō (Strigops habroptilus)",
+      "year": 2024,
+      "doi": "https://doi.org/10.22541/au.173211005.58187819/v1",
+      "openAccessUrl": "https://doi.org/10.22541/au.173211005.58187819/v1"
+    },
+    {
+      "id": "https://openalex.org/W4404489259",
+      "title": "Out of (the) bag—encoding categorical predictors impacts out-of-bag samples",
+      "year": 2024,
+      "venue": "PeerJ Computer Science",
+      "doi": "https://doi.org/10.7717/peerj-cs.2445",
+      "openAccessUrl": "https://doi.org/10.7717/peerj-cs.2445"
+    },
+    {
+      "id": "https://openalex.org/W4404230159",
+      "title": "Spatial and temporal transmission dynamics of respiratory syncytial virus in New Zealand before and after the COVID-19 pandemic",
+      "year": 2024,
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-024-53998-5",
+      "openAccessUrl": "https://www.nature.com/articles/s41467-024-53998-5.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4404128410",
+      "title": "Evidence for a role of extraintestinal pathogenic Escherichia coli, Enterococcus faecalis and Streptococcus gallolyticus in the aetiology of exudative cloacitis in the critically endangered kākāpō (Strigops habroptilus)",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.11.07.622535",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/07/2024.11.07.622535.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4404060840",
+      "title": "Genomic diversity of Campylobacter jejuni and Campylobacter coli isolates recovered from human and poultry in Australia and New Zealand, 2017 to 2019",
+      "year": 2024,
+      "venue": "Microbial Genomics",
+      "doi": "https://doi.org/10.1099/mgen.0.001319",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001319"
+    },
+    {
+      "id": "https://openalex.org/W4402828490",
+      "title": "Population Structure and Antimicrobial Resistance in<i>Campylobacter jejuni</i>and<i>C. coli</i>Isolated from Humans with Diarrhea and from Poultry, East Africa",
+      "year": 2024,
+      "venue": "Emerging infectious diseases",
+      "doi": "https://doi.org/10.3201/eid3010.231399",
+      "openAccessUrl": "https://doi.org/10.3201/eid3010.231399"
+    },
+    {
+      "id": "https://openalex.org/W4402214987",
+      "title": "Effectiveness of COVID-19 vaccines against hospitalisation, death and infection over time in Aotearoa New Zealand: a retrospective cohort study",
+      "year": 2024,
+      "venue": "New Zealand Medical Journal",
+      "doi": "https://doi.org/10.26635/6965.6573",
+      "openAccessUrl": "https://doi.org/10.26635/6965.6573"
+    },
+    {
+      "id": "https://openalex.org/W4400610738",
+      "title": "Home range overlaps of the brushtail possum (Trichosurus vulpecula): implications for disease transmission",
+      "year": 2024,
+      "venue": "European Journal of Wildlife Research",
+      "doi": "https://doi.org/10.1007/s10344-024-01827-x",
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10344-024-01827-x.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4398770176",
+      "title": "Foodborne bacterial pathogens: genome-based approaches for enduring and emerging threats in a complex and changing world",
+      "year": 2024,
+      "venue": "Nature Reviews Microbiology",
+      "doi": "https://doi.org/10.1038/s41579-024-01051-z",
+      "openAccessUrl": "https://doi.org/10.1038/s41579-024-01051-z"
+    },
+    {
+      "id": "https://openalex.org/W4398200215",
+      "title": "<i>Campylobacter</i>colonization and undernutrition in infants in rural Eastern Ethiopia: a longitudinal community-based birth cohort study",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.05.21.24307707",
+      "openAccessUrl": "https://www.medrxiv.org/content/medrxiv/early/2024/05/22/2024.05.21.24307707.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4395031407",
+      "title": "Steps towards operationalizing One Health approaches",
+      "year": 2024,
+      "venue": "One Health",
+      "doi": "https://doi.org/10.1016/j.onehlt.2024.100740",
+      "openAccessUrl": "https://doi.org/10.1016/j.onehlt.2024.100740"
+    },
+    {
+      "id": "https://openalex.org/W4394684642",
+      "title": "Lost in the Forest: Encoding categorical variables and the absent levels problem",
+      "year": 2024,
+      "venue": "Data Mining and Knowledge Discovery",
+      "doi": "https://doi.org/10.1007/s10618-024-01019-w",
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10618-024-01019-w.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4392948688",
+      "title": "Steps towards operationalizing One Health approaches",
+      "year": 2024,
+      "venue": "Research Square (Research Square)",
+      "doi": "https://doi.org/10.21203/rs.3.rs-4000380/v1",
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-4000380/latest.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4392594207",
+      "title": "Effective use of models in intelligence-to-decision workflows within and across One Health sectors",
+      "year": 2024,
+      "doi": "https://doi.org/10.21203/rs.3.rs-3917726/v1",
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-3917726/latest.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4390971229",
+      "title": "A mathematical, classical stratification modeling approach to disentangling the impact of weather on infectious diseases: A case study using spatio-temporally disaggregated Campylobacter surveillance data for England and Wales",
+      "year": 2024,
+      "venue": "PLoS Computational Biology",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1011714",
+      "openAccessUrl": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011714&type=printable"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "slug": "phillip-wilcox",
+  "orcidId": "0000-0001-8485-6962",
+  "updatedAt": "2025-12-09T20:44:37.832Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4416144642",
+      "title": "Protocol for a two-arm parallel randomized controlled trial to evaluate patient and researcher co-presentation of research results: the Scleroderma Patient-centered Intervention Network—Patients Alongside Investigators in Research-Sharing (SPIN-PAIRS) trial",
+      "year": 2025,
+      "venue": "Trials",
+      "doi": "https://doi.org/10.1186/s13063-025-09256-0",
+      "openAccessUrl": "https://trialsjournal.biomedcentral.com/counter/pdf/10.1186/s13063-025-09256-0"
+    },
+    {
+      "id": "https://openalex.org/W4413483463",
+      "title": "Return of the huia? Why Māori worldviews must be part of the ‘de-extinction’ debate",
+      "year": 2025,
+      "doi": "https://doi.org/10.64628/aa.p7mvd7xpx",
+      "openAccessUrl": "https://doi.org/10.64628/aa.p7mvd7xpx"
+    },
+    {
+      "id": "https://openalex.org/W4408773180",
+      "title": "Rakeiora Genomics Platform: a pathfinder for genomic medicine research in Aotearoa New Zealand",
+      "year": 2025,
+      "venue": "Journal of the Royal Society of New Zealand",
+      "doi": "https://doi.org/10.1080/03036758.2025.2469626",
+      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/03036758.2025.2469626?needAccess=true"
+    },
+    {
+      "id": "https://openalex.org/W4403514997",
+      "title": "The population-specific Thr44Met OCT3 coding variant affects metformin pharmacokinetics with subsequent effects on insulin sensitivity in C57Bl/6J mice",
+      "year": 2024,
+      "venue": "Diabetologia",
+      "doi": "https://doi.org/10.1007/s00125-024-06287-1",
+      "openAccessUrl": "https://doi.org/10.1007/s00125-024-06287-1"
+    },
+    {
+      "id": "https://openalex.org/W4396500081",
+      "title": "Safety and Tolerability of SGLT-2 Inhibitors Following Lung Transplantation",
+      "year": 2024,
+      "doi": "https://doi.org/10.1164/ajrccm-conference.2024.209.1_meetingabstracts.a3724",
+      "openAccessUrl": "https://doi.org/10.1164/ajrccm-conference.2024.209.1_meetingabstracts.a3724"
+    },
+    {
+      "id": "https://openalex.org/W4393098580",
+      "title": "De Novo Brain Vascular Malformations in Hereditary Hemorrhagic Telangiectasia",
+      "year": 2024,
+      "venue": "Pediatric Neurology",
+      "doi": "https://doi.org/10.1016/j.pediatrneurol.2024.03.013",
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/11102835"
+    },
+    {
+      "id": "https://openalex.org/W4393074704",
+      "title": "Brain AVM compactness score in children with hereditary hemorrhagic telangiectasia",
+      "year": 2024,
+      "venue": "Child s Nervous System",
+      "doi": "https://doi.org/10.1007/s00381-024-06366-z",
+      "openAccessUrl": "https://doi.org/10.1007/s00381-024-06366-z"
+    },
+    {
+      "id": "https://openalex.org/W4392376440",
+      "title": "Impact of surgical lung biopsy on lung function and survival in patients with idiopathic pulmonary fibrosis in a multi‐centre registry cohort",
+      "year": 2024,
+      "venue": "Respirology",
+      "doi": "https://doi.org/10.1111/resp.14695",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/resp.14695"
+    },
+    {
+      "id": "https://openalex.org/W4390115811",
+      "title": "Characteristics and risk factors of interstitial pneumonia with autoimmune features",
+      "year": 2023,
+      "venue": "Respiratory Medicine",
+      "doi": "https://doi.org/10.1016/j.rmed.2023.107500",
+      "openAccessUrl": "https://doi.org/10.1016/j.rmed.2023.107500"
+    },
+    {
+      "id": "https://openalex.org/W4386523631",
+      "title": "Predicting New-onset Exertional and Resting Hypoxemia in Fibrotic Interstitial Lung Disease",
+      "year": 2023,
+      "venue": "Annals of the American Thoracic Society",
+      "doi": "https://doi.org/10.1513/annalsats.202303-208oc",
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12392296"
+    },
+    {
+      "id": "https://openalex.org/W4366815654",
+      "title": "Circulating cytokine levels in systemic sclerosis related interstitial lung disease and idiopathic pulmonary fibrosis",
+      "year": 2023,
+      "venue": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-023-31232-4",
+      "openAccessUrl": "https://www.nature.com/articles/s41598-023-31232-4.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4362664568",
+      "title": "An analysis of sex differences in pulmonary arteriovenous malformation presentation, complications and management in a large, multinational registry of patients with hereditary haemorrhagic telangiectasia",
+      "year": 2023,
+      "venue": "ERJ Open Research",
+      "doi": "https://doi.org/10.1183/23120541.00751-2022",
+      "openAccessUrl": "https://openres.ersjournals.com/content/erjor/early/2023/03/23/23120541.00751-2022.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4322758564",
+      "title": "Eligibility criteria from pharmaceutical randomised controlled trials of idiopathic pulmonary fibrosis: a registry-based study",
+      "year": 2023,
+      "venue": "European Respiratory Journal",
+      "doi": "https://doi.org/10.1183/13993003.02163-2022",
+      "openAccessUrl": "https://doi.org/10.1183/13993003.02163-2022"
+    },
+    {
+      "id": "https://openalex.org/W4312131377",
+      "title": "Pulmonary exacerbation inflammatory phenotypes in adults with cystic fibrosis",
+      "year": 2022,
+      "venue": "Journal of Cystic Fibrosis",
+      "doi": "https://doi.org/10.1016/j.jcf.2022.12.013",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcf.2022.12.013"
+    },
+    {
+      "id": "https://openalex.org/W4306932083",
+      "title": "High-quality read-based phasing of cystic fibrosis cohort informs genetic understanding of disease modification",
+      "year": 2022,
+      "venue": "Human Genetics and Genomics Advances",
+      "doi": "https://doi.org/10.1016/j.xhgg.2022.100156",
+      "openAccessUrl": "https://doi.org/10.1016/j.xhgg.2022.100156"
+    },
+    {
+      "id": "https://openalex.org/W4293224976",
+      "title": "Diagnostic agreement among experts assessing adults presenting with possible cystic fibrosis: need for improvement and implications for patient care",
+      "year": 2022,
+      "venue": "ERJ Open Research",
+      "doi": "https://doi.org/10.1183/23120541.00227-2022",
+      "openAccessUrl": "https://openres.ersjournals.com/content/erjor/8/4/00227-2022.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4292400347",
+      "title": "Patient Characteristics and Survival for Progressive Pulmonary Fibrosis Using Different Definitions",
+      "year": 2022,
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "doi": "https://doi.org/10.1164/rccm.202205-0910le",
+      "openAccessUrl": "https://doi.org/10.1164/rccm.202205-0910le"
+    },
+    {
+      "id": "https://openalex.org/W4229002017",
+      "title": "Inhalational exposures in patients with fibrotic interstitial lung disease: Presentation, pulmonary function and survival in the <scp>Canadian Registry</scp> for <scp>Pulmonary Fibrosis</scp>",
+      "year": 2022,
+      "venue": "Respirology",
+      "doi": "https://doi.org/10.1111/resp.14267",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/resp.14267"
+    },
+    {
+      "id": "https://openalex.org/W4224223834",
+      "title": "Neurovascular Complications and Pulmonary Arteriovenous Malformation Feeding Artery Size",
+      "year": 2022,
+      "venue": "Annals of the American Thoracic Society",
+      "doi": "https://doi.org/10.1513/annalsats.202202-130rl",
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/9353961"
+    },
+    {
+      "id": "https://openalex.org/W4226145696",
+      "title": "Genetic evidence supports the development of SLC26A9 targeting therapies for the treatment of lung disease",
+      "year": 2022,
+      "venue": "npj Genomic Medicine",
+      "doi": "https://doi.org/10.1038/s41525-022-00299-9",
+      "openAccessUrl": "https://www.nature.com/articles/s41525-022-00299-9.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4220935612",
+      "title": "Association between elevated peripheral blood eosinophil count and respiratory outcomes in adults with cystic fibrosis",
+      "year": 2022,
+      "venue": "Journal of Cystic Fibrosis",
+      "doi": "https://doi.org/10.1016/j.jcf.2022.03.009",
+      "openAccessUrl": "http://www.cysticfibrosisjournal.com/article/S1569199322000868/pdf"
+    },
+    {
+      "id": "https://openalex.org/W4221133498",
+      "title": "High Quality Phasing Using Linked-Read Whole Genome Sequencing of Patient Cohorts Informs Genetic Understanding of Complex Traits",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.03.28.486092",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/03/29/2022.03.28.486092.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4308461014",
+      "title": "Experience to date with CFTR modulators during pregnancy and breastfeeding in the British Columbia Cystic Fibrosis clinic",
+      "year": 2022,
+      "venue": "Respiratory Medicine Case Reports",
+      "doi": "https://doi.org/10.1016/j.rmcr.2022.101778",
+      "openAccessUrl": "https://doi.org/10.1016/j.rmcr.2022.101778"
+    },
+    {
+      "id": "https://openalex.org/W4200044924",
+      "title": "Effect of continued antifibrotic therapy after forced vital capacity decline in patients with idiopathic pulmonary fibrosis; a real world multicenter cohort study",
+      "year": 2021,
+      "venue": "Respiratory Medicine",
+      "doi": "https://doi.org/10.1016/j.rmed.2021.106722",
+      "openAccessUrl": "https://doi.org/10.1016/j.rmed.2021.106722"
+    },
+    {
+      "id": "https://openalex.org/W4200602236",
+      "title": "Malignancy Risk Associated With Mycophenolate Mofetil or Azathioprine in Patients With Fibrotic Interstitial Lung Disease",
+      "year": 2021,
+      "venue": "CHEST Journal",
+      "doi": "https://doi.org/10.1016/j.chest.2021.12.636",
+      "openAccessUrl": "https://doi.org/10.1016/j.chest.2021.12.636"
+    },
+    {
+      "id": "https://openalex.org/W3215650992",
+      "title": "Pain levels and associated factors in the Scleroderma Patient-centered Intervention Network (SPIN) cohort: a multicentre cross-sectional study",
+      "year": 2021,
+      "venue": "The Lancet Rheumatology",
+      "doi": "https://doi.org/10.1016/s2665-9913(21)00318-0",
+      "openAccessUrl": "http://www.thelancet.com/article/S2665991321003180/pdf"
+    },
+    {
+      "id": "https://openalex.org/W3214088631",
+      "title": "Association of BMI and Change in Weight With Mortality in Patients With Fibrotic Interstitial Lung Disease",
+      "year": 2021,
+      "venue": "CHEST Journal",
+      "doi": "https://doi.org/10.1016/j.chest.2021.11.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.chest.2021.11.008"
+    },
+    {
+      "id": "https://openalex.org/W3205420171",
+      "title": "154: Characterizing pulmonary exacerbation inflammatory phenotypes in cystic fibrosis",
+      "year": 2021,
+      "venue": "Journal of Cystic Fibrosis",
+      "doi": "https://doi.org/10.1016/s1569-1993(21)01579-4",
+      "openAccessUrl": "https://doi.org/10.1016/s1569-1993(21)01579-4"
+    },
+    {
+      "id": "https://openalex.org/W3206195356",
+      "title": "Genetic evidence supports the development of SLC26A9 targeting therapies for the treatment of lung disease",
+      "year": 2021,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2021.10.07.21264392",
+      "openAccessUrl": "https://www.medrxiv.org/content/medrxiv/early/2022/01/10/2021.10.07.21264392.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3199508671",
+      "title": "Utility of modified Rankin Scale for brain vascular malformations in hereditary hemorrhagic telangiectasia",
+      "year": 2021,
+      "venue": "Orphanet Journal of Rare Diseases",
+      "doi": "https://doi.org/10.1186/s13023-021-02012-y",
+      "openAccessUrl": "https://ojrd.biomedcentral.com/track/pdf/10.1186/s13023-021-02012-y"
+    }
+  ]
+}

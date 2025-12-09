@@ -9,13 +9,13 @@ export interface SearchRecord {
   href: string; // Final URL to navigate to (e.g. /project.html?project=slug)
 }
 
-import { researchProjectDetails } from './data/researchProjects';
+import { researchProjects } from './data/researchProjects';
 
 /**
  * Search index built from research project details
  * Uses project details (preferred) to build a searchable index
  */
-export const searchIndex: SearchRecord[] = researchProjectDetails.map((project) => ({
+export const searchIndex: SearchRecord[] = researchProjects.map((project) => ({
   slug: project.slug,
   title: project.title,
   summary: project.shortDescription ?? '',

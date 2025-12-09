@@ -1,0 +1,240 @@
+{
+  "slug": "ben-adams",
+  "orcidId": "0000-0002-1657-9809",
+  "updatedAt": "2025-12-09T20:44:31.115Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4416011129",
+      "title": "Impacts of COVID-19 pandemic on kidney biopsy research, practice, and diagnoses: A cross-sectional audit",
+      "year": 2025,
+      "venue": "Medicine",
+      "doi": "https://doi.org/10.1097/md.0000000000045597",
+      "openAccessUrl": "https://doi.org/10.1097/md.0000000000045597"
+    },
+    {
+      "id": "https://openalex.org/W4415287662",
+      "title": "Embodied Hermeneutics: Oral Bible Translation and Embodied Cognition",
+      "year": 2025,
+      "venue": "Journal of Language Culture and Religion",
+      "doi": "https://doi.org/10.64830/001c.144559",
+      "openAccessUrl": "https://jlcr.diu.edu/article/144559.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4413499879",
+      "title": "Epidemiology of Musculoskeletal Injuries of U.S. Coast Guard Academy Cadets During Initial Military Training From 2018 to 2023",
+      "year": 2025,
+      "venue": "Military Medicine",
+      "doi": "https://doi.org/10.1093/milmed/usaf323",
+      "openAccessUrl": "https://doi.org/10.1093/milmed/usaf323"
+    },
+    {
+      "id": "https://openalex.org/W4412827018",
+      "title": "Non-Fungible Programs",
+      "year": 2025,
+      "venue": "Ledger",
+      "doi": "https://doi.org/10.5195/ledger.2025.406",
+      "openAccessUrl": "https://ledger.pitt.edu/ojs/ledger/article/download/406/322"
+    },
+    {
+      "id": "https://openalex.org/W4412674516",
+      "title": "Performance Pay, Gender, and Divorce among Full-Time American Workers",
+      "year": 2025,
+      "doi": "https://doi.org/10.21203/rs.3.rs-7103256/v1",
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-7103256/latest.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4415345243",
+      "title": "KEA Explain: Explanations of Hallucinations using Graph Kernel Analysis",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2507.03847",
+      "openAccessUrl": "https://arxiv.org/pdf/2507.03847"
+    },
+    {
+      "id": "https://openalex.org/W4411770621",
+      "title": "Editorial",
+      "year": 2025,
+      "venue": "Journal of Spatial Information Science",
+      "doi": "https://doi.org/10.5311/josis.2025.30.487",
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/487/204"
+    },
+    {
+      "id": "https://openalex.org/W4417093091",
+      "title": "Distilled Circuits: A Mechanistic Study of Internal Restructuring in Knowledge Distillation",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2505.10822",
+      "openAccessUrl": "https://arxiv.org/pdf/2505.10822"
+    },
+    {
+      "id": "https://openalex.org/W4400100399",
+      "title": "Research articles in the GPT era",
+      "year": 2024,
+      "venue": "Journal of Spatial Information Science",
+      "doi": "https://doi.org/10.5311/josis.2024.28.383",
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/383/187"
+    },
+    {
+      "id": "https://openalex.org/W4399428974",
+      "title": "Big data",
+      "year": 2024,
+      "doi": "https://doi.org/10.4324/9780429265853-78",
+      "openAccessUrl": "https://doi.org/10.4324/9780429265853-78"
+    },
+    {
+      "id": "https://openalex.org/W4393023625",
+      "title": "Pre-Trained Language Models Represent Some Geographic Populations Better Than Others",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2403.11025",
+      "openAccessUrl": "https://arxiv.org/pdf/2403.11025"
+    },
+    {
+      "id": "https://openalex.org/W4387005217",
+      "title": "LivePublication: The Science Workflow Creates and Updates the Publication",
+      "year": 2023,
+      "doi": "https://doi.org/10.1109/e-science58273.2023.10254857",
+      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857"
+    },
+    {
+      "id": "https://openalex.org/W4387076226",
+      "title": "Magneto-optical trap performance for high-bandwidth applications",
+      "year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2309.14026",
+      "openAccessUrl": "https://arxiv.org/pdf/2309.14026"
+    },
+    {
+      "id": "https://openalex.org/W4386081327",
+      "title": "cantnlp@LT-EDI-2023: Homophobia/Transphobia Detection in Social Media Comments using Spatio-Temporally Retrained Language Models",
+      "year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2308.10370",
+      "openAccessUrl": "https://arxiv.org/pdf/2308.10370"
+    },
+    {
+      "id": "https://openalex.org/W4382776333",
+      "title": "Spatial Information Science in 2023",
+      "year": 2023,
+      "venue": "Journal of Spatial Information Science",
+      "doi": "https://doi.org/10.5311/josis.2023.26.305",
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/305/178"
+    },
+    {
+      "id": "https://openalex.org/W4321503102",
+      "title": "Screening, service provision, and information sharing practices of juvenile facilities",
+      "year": 2023,
+      "venue": "Children and Youth Services Review",
+      "doi": "https://doi.org/10.1016/j.childyouth.2023.106883",
+      "openAccessUrl": "https://doi.org/10.1016/j.childyouth.2023.106883"
+    },
+    {
+      "id": "https://openalex.org/W4311487515",
+      "title": "Analysing Environmental Narratives Computationally",
+      "year": 2022,
+      "venue": "Ubiquity Press eBooks",
+      "doi": "https://doi.org/10.5334/bcs.c",
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.c/download/5953/"
+    },
+    {
+      "id": "https://openalex.org/W4311428163",
+      "title": "Showing the Potential of Computational Analysis to Support Environmental Narrative Research",
+      "year": 2022,
+      "venue": "Ubiquity Press eBooks",
+      "doi": "https://doi.org/10.5334/bcs.d",
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.d/download/5954/"
+    },
+    {
+      "id": "https://openalex.org/W4311469668",
+      "title": "Surveying the Terrain and Looking Forward",
+      "year": 2022,
+      "venue": "Ubiquity Press eBooks",
+      "doi": "https://doi.org/10.5334/bcs.l",
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.l/download/5962/"
+    },
+    {
+      "id": "https://openalex.org/W4311428216",
+      "title": "Interdisciplinary Perspectives on Environmental Narratives",
+      "year": 2022,
+      "venue": "Ubiquity Press eBooks",
+      "doi": "https://doi.org/10.5334/bcs.b",
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.b/download/5952/"
+    },
+    {
+      "id": "https://openalex.org/W4311469605",
+      "title": "The Wild Process: Constructing Multi-Scalar Environmental Narratives",
+      "year": 2022,
+      "venue": "Ubiquity Press eBooks",
+      "doi": "https://doi.org/10.5334/bcs.h",
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.h/download/5958/"
+    },
+    {
+      "id": "https://openalex.org/W4311487508",
+      "title": "Introduction",
+      "year": 2022,
+      "venue": "Ubiquity Press eBooks",
+      "doi": "https://doi.org/10.5334/bcs.a",
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.a/download/5951/"
+    },
+    {
+      "id": "https://openalex.org/W4306655056",
+      "title": "Adaptive thermal image velocimetry of spatial wind movement on landscapes using near-target infrared cameras",
+      "year": 2022,
+      "venue": "Atmospheric measurement techniques",
+      "doi": "https://doi.org/10.5194/amt-15-5681-2022",
+      "openAccessUrl": "https://amt.copernicus.org/articles/15/5681/2022/amt-15-5681-2022.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4312933824",
+      "title": "Enabling LivePublication",
+      "year": 2022,
+      "doi": "https://doi.org/10.1109/escience55777.2022.00067",
+      "openAccessUrl": "https://zenodo.org/record/7145478"
+    },
+    {
+      "id": "https://openalex.org/W4294816704",
+      "title": "A Descriptive Analysis Of Knee Surgeries In The U.S. Army From 2017-2020",
+      "year": 2022,
+      "venue": "Medicine & Science in Sports & Exercise",
+      "doi": "https://doi.org/10.1249/01.mss.0000883064.82793.53",
+      "openAccessUrl": "https://doi.org/10.1249/01.mss.0000883064.82793.53"
+    },
+    {
+      "id": "https://openalex.org/W4281787754",
+      "title": "A Geospatial Cost Comparison of CO2 Plume Geothermal (CPG) Power and Geologic CO2 Storage",
+      "year": 2022,
+      "doi": "https://doi.org/10.31224/2381",
+      "openAccessUrl": "https://doi.org/10.31224/2381"
+    },
+    {
+      "id": "https://openalex.org/W4313143308",
+      "title": "Considering the Potential for Sedimentary Basin Geothermal Power Generation When Screening for Prospective Geologic CO2 Storage Sites",
+      "year": 2022,
+      "venue": "SSRN Electronic Journal",
+      "doi": "https://doi.org/10.2139/ssrn.4275136",
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.4275136"
+    },
+    {
+      "id": "https://openalex.org/W4386081449",
+      "title": "Comparing Measures of Linguistic Diversity Across Social Media Language Data and Census Data at Subnational Geographic Areas. NZGRC 2022.",
+      "year": 2022,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.6084/m9.figshare.20686324.v1",
+      "openAccessUrl": "https://arxiv.org/pdf/2308.10452"
+    },
+    {
+      "id": "https://openalex.org/W4200314743",
+      "title": "Comment on amt-2021-335",
+      "year": 2021,
+      "doi": "https://doi.org/10.5194/amt-2021-335-rc1",
+      "openAccessUrl": "https://doi.org/10.5194/amt-2021-335-rc1"
+    },
+    {
+      "id": "https://openalex.org/W4200051021",
+      "title": "Adaptive Thermal Image Velocimetry of spatial wind movement on landscapes using near target infrared cameras",
+      "year": 2021,
+      "doi": "https://doi.org/10.5194/amt-2021-335",
+      "openAccessUrl": "https://doi.org/10.5194/amt-2021-335"
+    }
+  ]
+}

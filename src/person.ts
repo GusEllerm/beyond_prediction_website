@@ -15,6 +15,10 @@ import { renderBreadcrumb } from './components/breadcrumb';
 // Import data
 import { partners } from './data/partners';
 import { allPeople, type Person } from './data/people';
+import type {
+  PersonPublication,
+  PersonPublicationsSnapshot,
+} from './data/publications';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
@@ -26,6 +30,95 @@ if (!navbarContainer || !app || !footerContainer) {
 
 renderNavbar(navbarContainer);
 footerContainer.innerHTML = renderFooter(partners);
+
+// Load all publication snapshots
+const publicationsModules = import.meta.glob('./data/publications/*.json', {
+  eager: true,
+}) as Record<string, { default: PersonPublicationsSnapshot }>;
+
+/**
+ * Gets publications for a person by their slug
+ * @param slug - The person slug
+ * @returns Array of publications or null if not found
+ */
+function getPublicationsForSlug(slug: string): PersonPublication[] | null {
+  for (const [path, mod] of Object.entries(publicationsModules)) {
+    // path example: "./data/publications/mark-gahegan.json"
+    if (path.endsWith(`/publications/${slug}.json`)) {
+      return mod.default.works ?? [];
+    }
+  }
+  return null;
+}
+
+/**
+ * Gets the best available URL for a publication
+ * @param work - The publication work
+ * @returns The best available URL
+ */
+function getPublicationUrl(work: PersonPublication): string {
+  if (work.openAccessUrl) return work.openAccessUrl;
+  if (work.doi) {
+    // Ensure DOI is formatted as a URL
+    const cleanDoi = work.doi.replace(/^doi:/i, '').trim();
+    return `https://doi.org/${cleanDoi}`;
+  }
+  if (work.id) return work.id;
+  return '#';
+}
+
+/**
+ * Renders the publications section HTML as Bootstrap cards
+ * @param publications - Array of publications or null
+ * @returns HTML string for the publications section
+ */
+function renderPublicationsSection(
+  publications: PersonPublication[] | null
+): string {
+  if (!publications || publications.length === 0) {
+    return '';
+  }
+
+  const cardsHtml = publications
+    .slice(0, 10) // show up to 10
+    .map((work) => {
+      const metaParts: string[] = [];
+      if (typeof work.year === 'number') metaParts.push(String(work.year));
+      if (work.venue) metaParts.push(work.venue);
+
+      const metaHtml = metaParts.length
+        ? `<p class="card-text mb-1 text-muted small">${escapeHtml(metaParts.join(' · '))}</p>`
+        : '';
+
+      const url = getPublicationUrl(work);
+
+      return `
+        <div class="col">
+          <a href="${escapeHtml(url)}" class="text-decoration-none text-reset" target="_blank" rel="noopener noreferrer">
+            <article class="card h-100">
+              <div class="card-body">
+                <h3 class="h6 card-title mb-1">${escapeHtml(work.title)}</h3>
+                ${metaHtml}
+              </div>
+            </article>
+          </a>
+        </div>
+      `;
+    })
+    .join('');
+
+  return `
+    <section class="mt-4" aria-labelledby="recent-publications-heading">
+      <h2 id="recent-publications-heading" class="h5 mb-3">Recent publications</h2>
+      <div class="row row-cols-1 g-3">
+        ${cardsHtml}
+      </div>
+      <p class="text-muted small mt-2 mb-0">
+        Publications retrieved from the OpenAlex API (snapshot updated periodically).
+      </p>
+    </section>
+  `;
+}
 
 /**
  * Escapes HTML special characters to prevent XSS
@@ -71,6 +164,7 @@ function renderPersonNotFoundBody(): string {
   `;
 }
 
+
 /**
  * Renders the body content for a person detail view
  * @param p - The person object to render
@@ -79,22 +173,39 @@ function renderPersonNotFoundBody(): string {
 function renderPersonDetailBody(p: Person): string {
   const safeName = escapeHtml(p.name);
 
-  const roleLabel = p.roleLabel
-    ? `<span class="badge bg-secondary me-2">${escapeHtml(p.roleLabel)}</span>`
+  // Build badges for the left column (under image)
+  const badges: string[] = [];
+
+  if (p.roleLabel) {
+    badges.push(
+      `<span class="badge rounded-pill bg-secondary me-1 mb-1">${escapeHtml(p.roleLabel)}</span>`
+    );
+  }
+
+  if (p.affiliation) {
+    badges.push(
+      `<span class="badge rounded-pill bg-primary me-1 mb-1">${escapeHtml(p.affiliation)}</span>`
+    );
+  }
+
+  if (p.orcidId) {
+    badges.push(
+      `<a href="https://orcid.org/${escapeHtml(p.orcidId)}" target="_blank" rel="noopener noreferrer" class="badge rounded-pill bg-success text-decoration-none me-1 mb-1">ORCID: ${escapeHtml(p.orcidId)}</a>`
+    );
+  }
+
+  const badgesHtml = badges.length
+    ? `<div class="d-flex flex-wrap gap-2">${badges.join('')}</div>`
     : '';
-  const affiliationBadge = p.affiliation
-    ? `<span class="badge bg-primary me-2">${escapeHtml(p.affiliation)}</span>`
-    : '';
-  // Only show title if it's different from roleLabel to avoid duplication
-  const title = p.title && p.title !== p.roleLabel
-    ? `<p class="mb-1 text-muted">${escapeHtml(p.title)}</p>`
-    : '';
+
+  // Bio text
   const bioLong = p.bioLong
     ? `<p>${escapeHtml(p.bioLong)}</p>`
     : p.bioShort
       ? `<p>${escapeHtml(p.bioShort)}</p>`
       : '<p class="text-muted">Profile details will be added soon.</p>';
 
+  // Contact section (for aside column)
   const contactItems: string[] = [];
 
   if (p.email) {
@@ -108,21 +219,22 @@ function renderPersonDetailBody(p: Person): string {
     );
   }
 
-  const contactSection = contactItems.length
+  const contactSectionHtml = contactItems.length
     ? `
-      <section class="mt-4">
-        <h2 class="h5 mb-2">Contact</h2>
-        <ul class="list-unstyled mb-0">
+      <section class="mt-3">
+        <h2 class="h6 mb-2">Contact</h2>
+        <ul class="list-unstyled mb-0 small">
           ${contactItems.join('')}
         </ul>
       </section>
     `
     : '';
 
-  const tagsSection =
+  // Tags section (for aside column)
+  const tagsSectionHtml =
     p.tags && p.tags.length
       ? `
-        <section class="mt-4">
+        <section class="mt-3">
           <h2 class="h6 mb-2">Research areas & interests</h2>
           <div class="d-flex flex-wrap gap-2">
             ${p.tags.map((tag) => `<span class="badge bg-light text-dark border">${escapeHtml(tag)}</span>`).join('')}
@@ -131,40 +243,40 @@ function renderPersonDetailBody(p: Person): string {
       `
       : '';
 
-  const photoColumn = p.photoUrl
+  // Left column: image, badges, tags, and contact
+  const asideColumn = p.photoUrl || badges.length || tagsSectionHtml || contactSectionHtml
     ? `
-      <div class="mb-4 mb-md-0" style="flex: 0 0 20%; max-width: 20%;">
-        <div class="card">
-          <img 
-            src="${escapeHtml(p.photoUrl)}" 
-            class="person-detail-photo" 
-            alt="${safeName}" 
-          />
-        </div>
-      </div>
+      <aside class="col-md-4 col-lg-3 mb-4">
+        ${p.photoUrl ? `<img 
+          src="${escapeHtml(p.photoUrl)}" 
+          class="img-fluid rounded mb-3" 
+          alt="${safeName}" 
+        />` : ''}
+        ${badgesHtml}
+        ${tagsSectionHtml}
+        ${contactSectionHtml}
+      </aside>
     `
     : '';
 
-  const textColumn = `
-    <div class="${p.photoUrl ? '' : 'col-12'}" style="${p.photoUrl ? 'flex: 0 0 80%; max-width: 80%;' : ''}">
-      <div class="mb-3">
-        <div class="mb-2">
-          ${roleLabel}
-          ${affiliationBadge}
-        </div>
-        ${title}
-      </div>
+  // Right column: name, bio, publications
+  // Get publications for this person
+  const publications = getPublicationsForSlug(p.slug);
+  const publicationsSectionHtml = renderPublicationsSection(publications);
+
+  const mainColumn = `
+    <section class="col-md-8 col-lg-9 mb-4">
+      <h1 class="display-5 mb-2">${safeName}</h1>
       ${bioLong}
-      ${contactSection}
-      ${tagsSection}
-    </div>
+      ${publicationsSectionHtml}
+    </section>
   `;
 
   return `
     <main class="container py-4">
       <div class="row">
-        ${photoColumn}
-        ${textColumn}
+        ${asideColumn}
+        ${mainColumn}
       </div>
     </main>
   `;
@@ -185,16 +297,22 @@ const breadcrumbHtml = person
       { label: 'Person not found' },
     ]);
 
-const headerTitle = person ? person.name : 'Person not found';
-
-const pageHeaderHtml = `
-  <header class="bp-page-header">
-    <div class="container py-3">
-      ${breadcrumbHtml}
-      <h1 class="h3 mb-0">${escapeHtml(headerTitle)}</h1>
-    </div>
-  </header>
-`;
+const pageHeaderHtml = person
+  ? `
+    <header class="bp-page-header">
+      <div class="container py-3">
+        ${breadcrumbHtml}
+      </div>
+    </header>
+  `
+  : `
+    <header class="bp-page-header">
+      <div class="container py-3">
+        ${breadcrumbHtml}
+        <h1 class="h3 mb-0">Person not found</h1>
+      </div>
+    </header>
+  `;
 
 if (!person) {
   const notFoundBody = renderPersonNotFoundBody();

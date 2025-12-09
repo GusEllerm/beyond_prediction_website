@@ -1,0 +1,236 @@
+{
+  "slug": "mark-gahegan",
+  "orcidId": "0000-0001-7209-8156",
+  "updatedAt": "2025-12-09T20:44:26.106Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4414260950",
+      "title": "GIScience in the era of Artificial Intelligence: a research agenda towards Autonomous GIS",
+      "year": 2025,
+      "venue": "Annals of GIS",
+      "doi": "https://doi.org/10.1080/19475683.2025.2552161",
+      "openAccessUrl": "https://doi.org/10.1080/19475683.2025.2552161"
+    },
+    {
+      "id": "https://openalex.org/W4403063759",
+      "title": "A consistent user-model for a GIS incorporating remotely sensed data",
+      "year": 2024,
+      "venue": "Innovations in GIS",
+      "doi": "https://doi.org/10.1201/9781003572800-7",
+      "openAccessUrl": "https://doi.org/10.1201/9781003572800-7"
+    },
+    {
+      "id": "https://openalex.org/W4398184796",
+      "title": "Faithful Reasoning over Scientific Claims",
+      "year": 2024,
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "doi": "https://doi.org/10.1609/aaaiss.v3i1.31209",
+      "openAccessUrl": "https://doi.org/10.1609/aaaiss.v3i1.31209"
+    },
+    {
+      "id": "https://openalex.org/W4387005217",
+      "title": "LivePublication: The Science Workflow Creates and Updates the Publication",
+      "year": 2023,
+      "doi": "https://doi.org/10.1109/e-science58273.2023.10254857",
+      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857"
+    },
+    {
+      "id": "https://openalex.org/W4327487081",
+      "title": "Input-length-shortening and text generation via attention values",
+      "year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2303.07585",
+      "openAccessUrl": "https://arxiv.org/pdf/2303.07585"
+    },
+    {
+      "id": "https://openalex.org/W4386566686",
+      "title": "Multi2Claim: Generating Scientific Claims from Multi-Choice Questions for Scientific Fact-Checking",
+      "year": 2023,
+      "doi": "https://doi.org/10.18653/v1/2023.eacl-main.194",
+      "openAccessUrl": "https://aclanthology.org/2023.eacl-main.194.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4312933824",
+      "title": "Enabling LivePublication",
+      "year": 2022,
+      "doi": "https://doi.org/10.1109/escience55777.2022.00067",
+      "openAccessUrl": "https://zenodo.org/record/7145478"
+    },
+    {
+      "id": "https://openalex.org/W4283693600",
+      "title": "DeepPN: a deep parallel neural network based on convolutional neural network and graph convolutional network for predicting RNA-protein binding sites",
+      "year": 2022,
+      "venue": "BMC Bioinformatics",
+      "doi": "https://doi.org/10.1186/s12859-022-04798-5",
+      "openAccessUrl": "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-022-04798-5"
+    },
+    {
+      "id": "https://openalex.org/W4220709212",
+      "title": "DeepPN: A Deep Parallel Neural Network Based On Convolutional Neural Network and Graph Convolutional Network For Predicting RNA-Protein Binding Sites",
+      "year": 2022,
+      "venue": "Research Square (Research Square)",
+      "doi": "https://doi.org/10.21203/rs.3.rs-1483700/v1",
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-1483700/latest.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3212623172",
+      "title": "Coastal Image Classification and Pattern Recognition: Tairua Beach, New Zealand",
+      "year": 2021,
+      "venue": "Sensors",
+      "doi": "https://doi.org/10.3390/s21217352",
+      "openAccessUrl": "https://www.mdpi.com/1424-8220/21/21/7352/pdf?version=1636099628"
+    },
+    {
+      "id": "https://openalex.org/W3137767406",
+      "title": "A gastric cancer recognition algorithm on gastric pathological sections based on multistage attention‐DenseNet",
+      "year": 2021,
+      "venue": "Concurrency and Computation Practice and Experience",
+      "doi": "https://doi.org/10.1002/cpe.6188",
+      "openAccessUrl": "https://doi.org/10.1002/cpe.6188"
+    },
+    {
+      "id": "https://openalex.org/W3114485876",
+      "title": "GeoComputation 2019 special feature",
+      "year": 2020,
+      "venue": "Journal of Spatial Information Science",
+      "doi": "https://doi.org/10.5311/josis.2020.21.728",
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/137/138"
+    },
+    {
+      "id": "https://openalex.org/W2719788650",
+      "title": "We Need to Rethink How We Describe and Organize Spatial Information: Instrumenting and Observing the Community of Users to Improve Data Description and Discovery",
+      "year": 2020,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2010.09139",
+      "openAccessUrl": "https://arxiv.org/pdf/2010.09139"
+    },
+    {
+      "id": "https://openalex.org/W4287637678",
+      "title": "We Need to Rethink How We Describe and Organize Spatial Information:\\n Instrumenting and Observing the Community of Users to Improve Data\\n Description and Discovery",
+      "year": 2020,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2010.09139",
+      "openAccessUrl": "https://arxiv.org/pdf/2010.09139"
+    },
+    {
+      "id": "https://openalex.org/W3088838024",
+      "title": "eScience, the Evolution of Science",
+      "year": 2020,
+      "venue": "Geographic Information Science & Technology Body of Knowledge",
+      "doi": "https://doi.org/10.22224/gistbok/2020.3.8",
+      "openAccessUrl": "http://www.dcc.ac.uk/sites/default/files/documents/Scientific%20Metadata_2011_Final.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3032167546",
+      "title": "Spatially explicit models for exploring COVID‐19 lockdown strategies",
+      "year": 2020,
+      "venue": "Transactions in GIS",
+      "doi": "https://doi.org/10.1111/tgis.12660",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tgis.12660"
+    },
+    {
+      "id": "https://openalex.org/W3006739766",
+      "title": "Spatial Data Science Needs Explanations! (And Not Just Predictions)",
+      "year": 2020,
+      "openAccessUrl": "http://hdl.handle.net/2292/49899"
+    },
+    {
+      "id": "https://openalex.org/W2998044043",
+      "title": "Categories are in flux, but their computational representations are fixed: That's a problem",
+      "year": 2020,
+      "venue": "Transactions in GIS",
+      "doi": "https://doi.org/10.1111/tgis.12602",
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12602"
+    },
+    {
+      "id": "https://openalex.org/W3044748527",
+      "title": "Geographical Information Science observatories, theoretical and methodological transitions",
+      "year": 2020,
+      "venue": "University of Canterbury Research Repository (University of Canterbury)",
+      "doi": "https://doi.org/10.18713/jimis-120620-6-2",
+      "openAccessUrl": "https://hdl.handle.net/10092/101034"
+    },
+    {
+      "id": "https://openalex.org/W2971980344",
+      "title": "Fourth paradigm GIScience? Prospects for automated discovery and explanation from data",
+      "year": 2019,
+      "venue": "International Journal of Geographical Information Systems",
+      "doi": "https://doi.org/10.1080/13658816.2019.1652304",
+      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2019.1652304?needAccess=true"
+    },
+    {
+      "id": "https://openalex.org/W2922826946",
+      "title": "Centre for eResearch Annual Report 2018",
+      "year": 2019,
+      "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+      "doi": "https://doi.org/10.17608/k6.auckland.7700042.v3"
+    },
+    {
+      "id": "https://openalex.org/W3024528107",
+      "title": "Our GIS is (still) too small. GeoComputation 2019",
+      "year": 2019,
+      "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+      "doi": "https://doi.org/10.17608/k6.auckland.9870911.v2",
+      "openAccessUrl": "https://figshare.com/articles/Our_GIS_is_still_too_small/9870911"
+    },
+    {
+      "id": "https://openalex.org/W3043793142",
+      "title": "Reproducible Geocomputation: an open or shut case? GeoComputation 2019",
+      "year": 2019,
+      "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+      "doi": "https://doi.org/10.17608/k6.auckland.9870089.v2",
+      "openAccessUrl": "https://figshare.com/articles/Reproducible_Geocomputation_an_open_or_shut_case_/9870089"
+    },
+    {
+      "id": "https://openalex.org/W3037892630",
+      "title": "Our GIS is (still) too small",
+      "year": 2019,
+      "doi": "https://doi.org/10.17608/k6.auckland.9870911.v1",
+      "openAccessUrl": "https://doi.org/10.17608/k6.auckland.9870911.v1"
+    },
+    {
+      "id": "https://openalex.org/W3014820022",
+      "title": "On the use of artificial neural networks for the prediction of shoreline evolution",
+      "year": 2018,
+      "venue": "AGUFM",
+      "openAccessUrl": "http://ui.adsabs.harvard.edu/abs/2018AGUFMEP43B..08C/abstract"
+    },
+    {
+      "id": "https://openalex.org/W2950162037",
+      "title": "`Deep' Semantics in the Geosciences: semantic building blocks for a complete geoscience infrastructure",
+      "year": 2018,
+      "openAccessUrl": "http://hdl.handle.net/2292/40600"
+    },
+    {
+      "id": "https://openalex.org/W2796182221",
+      "title": "Modelling the cost differential between healthy and current diets: the New Zealand case study",
+      "year": 2018,
+      "venue": "International Journal of Behavioral Nutrition and Physical Activity",
+      "doi": "https://doi.org/10.1186/s12966-018-0648-6",
+      "openAccessUrl": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-018-0648-6"
+    },
+    {
+      "id": "https://openalex.org/W2969824784",
+      "title": "University of Auckland Centre for eResearch Annual Report 2016",
+      "year": 2018,
+      "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+      "doi": "https://doi.org/10.17608/k6.auckland.4534256.v2"
+    },
+    {
+      "id": "https://openalex.org/W2898493809",
+      "title": "Our GIS is too small",
+      "year": 2017,
+      "venue": "Canadian Geographies / Géographies canadiennes",
+      "doi": "https://doi.org/10.1111/cag.12434",
+      "openAccessUrl": "https://doi.org/10.1111/cag.12434"
+    },
+    {
+      "id": "https://openalex.org/W2627028264",
+      "title": "More bark than bytes? Reflections on 21+ years of geocomputation",
+      "year": 2017,
+      "venue": "Environment and Planning B Urban Analytics and City Science",
+      "doi": "https://doi.org/10.1177/2399808317710132",
+      "openAccessUrl": "https://journals.sagepub.com/doi/pdf/10.1177/2399808317710132"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "slug": "neset-tan",
+  "orcidId": "0000-0001-6201-7295",
+  "updatedAt": "2025-12-09T20:45:06.167Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4398184796",
+      "title": "Faithful Reasoning over Scientific Claims",
+      "year": 2024,
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "doi": "https://doi.org/10.1609/aaaiss.v3i1.31209",
+      "openAccessUrl": "https://doi.org/10.1609/aaaiss.v3i1.31209"
+    },
+    {
+      "id": "https://openalex.org/W4393147354",
+      "title": "Meta-Inverse Reinforcement Learning for Mean Field Games via Probabilistic Context Variables",
+      "year": 2024,
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "doi": "https://doi.org/10.1609/aaai.v38i10.29021",
+      "openAccessUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/29021/29937"
+    },
+    {
+      "id": "https://openalex.org/W4402670782",
+      "title": "Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning",
+      "year": 2024,
+      "doi": "https://doi.org/10.18653/v1/2024.findings-acl.353",
+      "openAccessUrl": "https://doi.org/10.18653/v1/2024.findings-acl.353"
+    },
+    {
+      "id": "https://openalex.org/W4388802949",
+      "title": "Assessing AI capabilities with education tests",
+      "year": 2023,
+      "venue": "Educational research and innovation",
+      "doi": "https://doi.org/10.1787/bbdeb1e0-en",
+      "openAccessUrl": "https://doi.org/10.1787/bbdeb1e0-en"
+    },
+    {
+      "id": "https://openalex.org/W4387764395",
+      "title": "Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning",
+      "year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2310.09430",
+      "openAccessUrl": "https://arxiv.org/pdf/2310.09430"
+    },
+    {
+      "id": "https://openalex.org/W4385965060",
+      "title": "Teaching Smaller Language Models To Generalise To Unseen Compositional Questions",
+      "year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2308.00946",
+      "openAccessUrl": "https://arxiv.org/pdf/2308.00946"
+    },
+    {
+      "id": "https://openalex.org/W4380683325",
+      "title": "Do Androids Dread an Electric Sting?",
+      "year": 2023,
+      "doi": "https://doi.org/10.32388/cqctkx",
+      "openAccessUrl": "https://www.qeios.com/read/CQCTKX/pdf"
+    },
+    {
+      "id": "https://openalex.org/W4377864545",
+      "title": "Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning",
+      "year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2305.12599",
+      "openAccessUrl": "https://arxiv.org/pdf/2305.12599"
+    },
+    {
+      "id": "https://openalex.org/W4327487081",
+      "title": "Input-length-shortening and text generation via attention values",
+      "year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2303.07585",
+      "openAccessUrl": "https://arxiv.org/pdf/2303.07585"
+    },
+    {
+      "id": "https://openalex.org/W4386566686",
+      "title": "Multi2Claim: Generating Scientific Claims from Multi-Choice Questions for Scientific Fact-Checking",
+      "year": 2023,
+      "doi": "https://doi.org/10.18653/v1/2023.eacl-main.194",
+      "openAccessUrl": "https://aclanthology.org/2023.eacl-main.194.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4288804529",
+      "title": "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation",
+      "year": 2022,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2207.14000",
+      "openAccessUrl": "https://arxiv.org/pdf/2207.14000"
+    },
+    {
+      "id": "https://openalex.org/W4285011406",
+      "title": "SNVformer: An Attention-based Deep Neural Network for GWAS Data",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.07.07.499217",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/07/11/2022.07.07.499217.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4285123920",
+      "title": "Eye Gaze and Self-attention: How Humans and Transformers Attend Words in Sentences",
+      "year": 2022,
+      "doi": "https://doi.org/10.18653/v1/2022.cmcl-1.9",
+      "openAccessUrl": "https://aclanthology.org/2022.cmcl-1.9.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3109342696",
+      "title": "A lexicographical order induced by Schauder bases",
+      "year": 2020,
+      "venue": "Hacettepe Journal of Mathematics and Statistics",
+      "doi": "https://doi.org/10.15672/hujms.659795",
+      "openAccessUrl": "https://dergipark.org.tr/en/download/article-file/886818"
+    },
+    {
+      "id": "https://openalex.org/W2929027330",
+      "title": "DUAL DIFFERENTIATION SPACES",
+      "year": 2019,
+      "venue": "Bulletin of the Australian Mathematical Society",
+      "doi": "https://doi.org/10.1017/s0004972719000376",
+      "openAccessUrl": "https://doi.org/10.1017/s0004972719000376"
+    },
+    {
+      "id": "https://openalex.org/W2597920313",
+      "title": "On the Concept of Limit Inferior and Limit Superior",
+      "year": 2017,
+      "venue": "Celal Bayar Üniversitesi Fen Bilimleri Dergisi",
+      "doi": "https://doi.org/10.18466/cbayarfbe.302763",
+      "openAccessUrl": "https://dergipark.org.tr/en/download/article-file/289465"
+    },
+    {
+      "id": "https://openalex.org/W2481242987",
+      "title": "Exponentially Fitted Finite Difference Schemes for Reaction-Diffusion Equations",
+      "year": 2016,
+      "venue": "Mathematical and Computational Applications",
+      "doi": "https://doi.org/10.3390/mca21030032",
+      "openAccessUrl": "https://www.mdpi.com/2297-8747/21/3/32/pdf?version=1469019128"
+    },
+    {
+      "id": "https://openalex.org/W2563904453",
+      "title": "An approach of some convergence type by filter",
+      "year": 2016,
+      "venue": "International Mathematical Forum",
+      "doi": "https://doi.org/10.12988/imf.2016.6444",
+      "openAccessUrl": "https://doi.org/10.12988/imf.2016.6444"
+    },
+    {
+      "id": "https://openalex.org/W2259283141",
+      "title": "A note on Riesz space valued measures",
+      "year": 2015,
+      "venue": "TURKISH JOURNAL OF MATHEMATICS",
+      "doi": "https://doi.org/10.3906/mat-1411-23",
+      "openAccessUrl": "https://doi.org/10.3906/mat-1411-23"
+    },
+    {
+      "id": "https://openalex.org/W2100336426",
+      "title": "On a generalization of statistical cluster and limit points",
+      "year": 2015,
+      "venue": "Advances in Difference Equations",
+      "doi": "https://doi.org/10.1186/s13662-015-0395-9",
+      "openAccessUrl": "https://doi.org/10.1186/s13662-015-0395-9"
+    },
+    {
+      "id": "https://openalex.org/W2133056309",
+      "title": "On Kakutani--Krein and Maeda--Ogasawara spaces",
+      "year": 2013,
+      "venue": "TURKISH JOURNAL OF MATHEMATICS",
+      "doi": "https://doi.org/10.3906/mat-1212-52",
+      "openAccessUrl": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=2270&context=math"
+    },
+    {
+      "id": "https://openalex.org/W2104440000",
+      "title": "A note on statistical convergence on time scale",
+      "year": 2012,
+      "venue": "Journal of Inequalities and Applications",
+      "doi": "https://doi.org/10.1186/1029-242x-2012-219",
+      "openAccessUrl": "https://journalofinequalitiesandapplications.springeropen.com/counter/pdf/10.1186/1029-242X-2012-219"
+    },
+    {
+      "id": "https://openalex.org/W4394660032",
+      "title": "Δ- convergence on time scale",
+      "year": 2011,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.1109.4528",
+      "openAccessUrl": "https://doi.org/10.48550/arxiv.1109.4528"
+    },
+    {
+      "id": "https://openalex.org/W190671025",
+      "title": "{\\Delta}- convergence on time scale",
+      "year": 2011,
+      "venue": "arXiv (Cornell University)",
+      "openAccessUrl": "https://arxiv.org/pdf/1109.4528"
+    },
+    {
+      "id": "https://openalex.org/W1610969253",
+      "title": "Integral Transformations Between Some Function Spaces On Time Scales",
+      "year": 2011,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.1104.5388",
+      "openAccessUrl": "https://arxiv.org/pdf/1104.5388"
+    }
+  ]
+}

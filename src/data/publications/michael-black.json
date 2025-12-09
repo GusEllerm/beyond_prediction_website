@@ -1,0 +1,233 @@
+{
+  "slug": "michael-black",
+  "orcidId": "0000-0003-1174-6054",
+  "updatedAt": "2025-12-09T20:44:51.177Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W7106101559",
+      "title": "A set cover algorithm identifies minimal circulating tumour DNA sequencing targets for colorectal cancer detection",
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-025-24719-9",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-025-24719-9"
+    },
+    {
+      "id": "https://openalex.org/W4416407306",
+      "title": "A set cover algorithm identifies minimal circulating tumour DNA sequencing targets for colorectal cancer detection",
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-025-24719-9",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-025-24719-9"
+    },
+    {
+      "id": "https://openalex.org/W4414353099",
+      "title": "Beyond single references: pangenome graphs and the future of genomic medicine",
+      "year": 2025,
+      "venue": "Frontiers in Genetics",
+      "doi": "https://doi.org/10.3389/fgene.2025.1679660",
+      "openAccessUrl": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1679660/pdf"
+    },
+    {
+      "id": "https://openalex.org/W4411205819",
+      "title": "Evaluating computational tools for protein-coding sequence detection: Are they up to the task?",
+      "year": 2025,
+      "venue": "RNA",
+      "doi": "https://doi.org/10.1261/rna.080416.125",
+      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125"
+    },
+    {
+      "id": "https://openalex.org/W4411273738",
+      "title": "Abstract 1378 Establishing the activities of archaeal DNA Polymerases B and D in vivo",
+      "year": 2025,
+      "venue": "Journal of Biological Chemistry",
+      "doi": "https://doi.org/10.1016/j.jbc.2025.109883",
+      "openAccessUrl": "https://www.jbc.org/action/showPdf?pii=S0021925825017326"
+    },
+    {
+      "id": "https://openalex.org/W4409980943",
+      "title": "Exploring Innovative Approaches to Hematopoietic Progenitor Cell Selection Using Automated Methods",
+      "year": 2025,
+      "venue": "Cytotherapy",
+      "doi": "https://doi.org/10.1016/j.jcyt.2025.03.179",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcyt.2025.03.179"
+    },
+    {
+      "id": "https://openalex.org/W4397013939",
+      "title": "Evaluating computational tools for protein-coding sequence detection: Are they up to the task?",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.05.16.594598",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/05/16/2024.05.16.594598.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4393094032",
+      "title": "Abstract 5379: Inhibition of ULK1/2-mediated autophagy augments antigen processing and presentation in STK11 mutant NSCLC",
+      "year": 2024,
+      "venue": "Cancer Research",
+      "doi": "https://doi.org/10.1158/1538-7445.am2024-5379",
+      "openAccessUrl": "https://doi.org/10.1158/1538-7445.am2024-5379"
+    },
+    {
+      "id": "https://openalex.org/W4392348463",
+      "title": "Construction of relatedness matrices in autopolyploid populations using low-depth high-throughput sequencing data",
+      "year": 2024,
+      "venue": "Theoretical and Applied Genetics",
+      "doi": "https://doi.org/10.1007/s00122-024-04568-2",
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00122-024-04568-2.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4389936246",
+      "title": "RBFOX2 deregulation promotes pancreatic cancer progression and metastasis through alternative splicing",
+      "year": 2023,
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-023-44126-w",
+      "openAccessUrl": "https://www.nature.com/articles/s41467-023-44126-w.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4388768650",
+      "title": "Restriction site associated <scp>DNA</scp> sequencing for tumour mutation burden estimation and mutation signature analysis",
+      "year": 2023,
+      "venue": "Cancer Medicine",
+      "doi": "https://doi.org/10.1002/cam4.6711",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cam4.6711"
+    },
+    {
+      "id": "https://openalex.org/W4386757641",
+      "title": "Aotearoa genomic data repository: An āhuru mōwai for taonga species sequencing data",
+      "year": 2023,
+      "venue": "Molecular Ecology Resources",
+      "doi": "https://doi.org/10.1111/1755-0998.13866",
+      "openAccessUrl": "https://doi.org/10.1111/1755-0998.13866"
+    },
+    {
+      "id": "https://openalex.org/W4385727346",
+      "title": "Pangenome graphs in infectious disease: a comprehensive genetic variation analysis of Neisseria meningitidis leveraging Oxford Nanopore long reads",
+      "year": 2023,
+      "venue": "Frontiers in Genetics",
+      "doi": "https://doi.org/10.3389/fgene.2023.1225248",
+      "openAccessUrl": "https://doi.org/10.3389/fgene.2023.1225248"
+    },
+    {
+      "id": "https://openalex.org/W4385379270",
+      "title": "Restriction site associated DNA sequencing for tumour mutation burden estimation and mutation signature analysis",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.07.27.550611",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/07/29/2023.07.27.550611.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4383532727",
+      "title": "TRIB1 modulates transcriptional programming in breast cancer cells to regulate cell proliferation",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.07.06.547928",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/07/07/2023.07.06.547928.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4376111026",
+      "title": "Immunotherapy: UNMET NEED: DEVELOPING TCR-T CELL THERAPIES FOR HIV PATIENTS WITH HPV-ASSOCIATED CANCERS",
+      "year": 2023,
+      "venue": "Cytotherapy",
+      "doi": "https://doi.org/10.1016/s1465-3249(23)00571-6",
+      "openAccessUrl": "https://doi.org/10.1016/s1465-3249(23)00571-6"
+    },
+    {
+      "id": "https://openalex.org/W4362525040",
+      "title": "Data from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/2326-6066.c.6550291",
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.c.6550291"
+    },
+    {
+      "id": "https://openalex.org/W4362540609",
+      "title": "Supplementary Figures and Tables from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/2326-6066.22543495.v1",
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22543495.v1"
+    },
+    {
+      "id": "https://openalex.org/W4362546846",
+      "title": "Data from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/2326-6066.c.6550291.v1",
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.c.6550291.v1"
+    },
+    {
+      "id": "https://openalex.org/W4362532420",
+      "title": "Supplementary Figures and Tables from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/2326-6066.22543495",
+      "openAccessUrl": "https://aacr.figshare.com/ndownloader/files/40006903"
+    },
+    {
+      "id": "https://openalex.org/W4362539569",
+      "title": "Supplementary Figure S5 from Immunogenic Subtypes of Breast Cancer Delineated by Gene Classifiers of Immune Responsiveness",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/2326-6066.22537586.v1",
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22537586.v1"
+    },
+    {
+      "id": "https://openalex.org/W4362610878",
+      "title": "Pyrosequencing Assay positions from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1541-7786.22511835",
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511835"
+    },
+    {
+      "id": "https://openalex.org/W4362479155",
+      "title": "Supplementary Figure 2 from Cyclin E2 Overexpression Is Associated with Endocrine Resistance but not Insensitivity to CDK2 Inhibition in Human Breast Cancer Cells",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1535-7163.22496370.v1",
+      "openAccessUrl": "https://doi.org/10.1158/1535-7163.22496370.v1"
+    },
+    {
+      "id": "https://openalex.org/W4362485851",
+      "title": "Pyrosequencing Assay positions from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1541-7786.22511835.v1",
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511835.v1"
+    },
+    {
+      "id": "https://openalex.org/W4362539702",
+      "title": "Supplementary Figure S4 from Immunogenic Subtypes of Breast Cancer Delineated by Gene Classifiers of Immune Responsiveness",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/2326-6066.22537589.v1",
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22537589.v1"
+    },
+    {
+      "id": "https://openalex.org/W4362479180",
+      "title": "Supplementary Figure 3 from Cyclin E2 Overexpression Is Associated with Endocrine Resistance but not Insensitivity to CDK2 Inhibition in Human Breast Cancer Cells",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1535-7163.22496367",
+      "openAccessUrl": "https://doi.org/10.1158/1535-7163.22496367"
+    },
+    {
+      "id": "https://openalex.org/W4362610697",
+      "title": "Supplemental Excel File 3 from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1541-7786.22511820",
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511820"
+    },
+    {
+      "id": "https://openalex.org/W4362535879",
+      "title": "Supplemental Excel File 6 from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1541-7786.22511808.v1",
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511808.v1"
+    },
+    {
+      "id": "https://openalex.org/W4362535807",
+      "title": "Supplemental Material and Methods from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1541-7786.22511793.v1",
+      "openAccessUrl": "https://aacr.figshare.com/articles/journal_contribution/Supplemental_Material_and_Methods_from_A_New_Role_for_ER_Silencing_via_DNA_Methylation_of_Basal_Stem_Cell_and_EMT_Genes/22511793/1/files/39973773.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4362535871",
+      "title": "Supplemental Excel File 2 from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
+      "year": 2023,
+      "doi": "https://doi.org/10.1158/1541-7786.22511823.v1",
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511823.v1"
+    }
+  ]
+}

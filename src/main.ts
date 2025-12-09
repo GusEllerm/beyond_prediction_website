@@ -13,7 +13,7 @@ import { renderHero } from './components/hero';
 import { renderFooter } from './components/footer';
 
 // Import data
-import { researchCards } from './data/researchCards';
+import { researchProjects } from './data/researchProjects';
 import { partners } from './data/partners';
 
 /**
@@ -58,20 +58,20 @@ function initApp(): void {
 
 /**
  * Renders the main content section with Bootstrap cards
- * Each card links to a project detail page using the card's slug
+ * Each card links to a project detail page using the project's slug
  */
 function renderContent(container: HTMLElement): void {
-  const cardsHtml = researchCards
-    .map((card) => {
-      const href = `/project.html?project=${encodeURIComponent(card.slug)}`;
+  const cardsHtml = researchProjects
+    .map((project) => {
+      const href = `/project.html?project=${encodeURIComponent(project.slug)}`;
       return `
       <div class="col-md-4">
         <a href="${href}" class="text-decoration-none text-reset">
           <div class="card h-100">
             <div class="card-body">
-              <h5 class="card-title">${escapeHtml(card.title)}</h5>
+              <h5 class="card-title">${escapeHtml(project.title)}</h5>
               <p class="card-text">
-                ${escapeHtml(card.description)}
+                ${escapeHtml(project.shortDescription)}
               </p>
             </div>
           </div>

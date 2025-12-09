@@ -1,0 +1,243 @@
+{
+  "slug": "alex-gavryushkin",
+  "orcidId": "0000-0001-6299-8249",
+  "updatedAt": "2025-12-09T20:44:43.413Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4411216835",
+      "title": "Filtering for Highly Variable Genes and High-Quality Spots Improves Phylogenetic Analysis of Cancer Spatial Transcriptomics Visium Data",
+      "year": 2025,
+      "venue": "Journal of Computational Biology",
+      "doi": "https://doi.org/10.1089/cmb.2024.0614",
+      "openAccessUrl": "https://doi.org/10.1089/cmb.2024.0614"
+    },
+    {
+      "id": "https://openalex.org/W4407635864",
+      "title": "Accuracy and Scalability of Machine Learning Methods for Genotype-Phenotype Association Data",
+      "year": 2025,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2025.02.13.638022",
+      "openAccessUrl": "https://doi.org/10.1101/2025.02.13.638022"
+    },
+    {
+      "id": "https://openalex.org/W4403646467",
+      "title": "The Fossilized Birth–Death Model Is Identifiable",
+      "year": 2024,
+      "venue": "Systematic Biology",
+      "doi": "https://doi.org/10.1093/sysbio/syae058",
+      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syae058/59959220/syae058.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4402401545",
+      "title": "An Automated Convergence Diagnostic for Phylogenetic MCMC Analyses",
+      "year": 2024,
+      "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+      "doi": "https://doi.org/10.1109/tcbb.2024.3457875",
+      "openAccessUrl": "https://doi.org/10.1109/tcbb.2024.3457875"
+    },
+    {
+      "id": "https://openalex.org/W4401798515",
+      "title": "Estimating the mean in the space of ranked phylogenetic trees",
+      "year": 2024,
+      "venue": "Bioinformatics",
+      "doi": "https://doi.org/10.1093/bioinformatics/btae514",
+      "openAccessUrl": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btae514/58902383/btae514.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4400748165",
+      "title": "Filtering for highly variable genes and high quality spots improves phylogenetic analysis of cancer spatial transcriptomics Visium data",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.07.11.603166",
+      "openAccessUrl": "https://doi.org/10.1101/2024.07.11.603166"
+    },
+    {
+      "id": "https://openalex.org/W4392200673",
+      "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.02.20.581316",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.581316.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4391753018",
+      "title": "The Fossilised Birth-Death Model is Identifiable",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.02.08.579547",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/12/2024.02.08.579547.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4391404075",
+      "title": "Ranked Subtree Prune and Regraft",
+      "year": 2024,
+      "venue": "Bulletin of Mathematical Biology",
+      "doi": "https://doi.org/10.1007/s11538-023-01244-2",
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s11538-023-01244-2.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4385800882",
+      "title": "An automated convergence diagnostic for phylogenetic MCMC analyses",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.08.10.552869",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/08/16/2023.08.10.552869.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4377019116",
+      "title": "Ranked Subtree Prune and Regraft",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.05.16.541039",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/18/2023.05.16.541039.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4376118065",
+      "title": "Estimating the mean in the space of ranked phylogenetic trees",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.05.08.539790",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.08.539790.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4313270436",
+      "title": "A fast lasso-based method for inferring higher-order interactions",
+      "year": 2022,
+      "venue": "PLoS Computational Biology",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1010730",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1010730"
+    },
+    {
+      "id": "https://openalex.org/W4310948020",
+      "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
+      "year": 2022,
+      "venue": "Journal of Computational Biology",
+      "doi": "https://doi.org/10.1089/cmb.2022.0357",
+      "openAccessUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125402/pdf/cmb.2022.0357.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4285011406",
+      "title": "SNVformer: An Attention-based Deep Neural Network for GWAS Data",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.07.07.499217",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/07/11/2022.07.07.499217.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4283322370",
+      "title": "Accounting for Errors in Data Improves Divergence Time Estimates in Single-cell Cancer Evolution",
+      "year": 2022,
+      "venue": "Molecular Biology and Evolution",
+      "doi": "https://doi.org/10.1093/molbev/msac143",
+      "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4229065791",
+      "title": "Online Bayesian Analysis with BEAST 2",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.05.03.490538",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/05/2022.05.03.490538.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4225115425",
+      "title": "Tuberous sclerosis complex: a complex case.",
+      "year": 2022,
+      "venue": "PubMed",
+      "doi": "https://doi.org/10.1101/mcs.a006182",
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/9059781"
+    },
+    {
+      "id": "https://openalex.org/W4220756870",
+      "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2022,
+      "venue": "Genome biology",
+      "doi": "https://doi.org/10.1186/s13059-022-02625-x",
+      "openAccessUrl": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02625-x"
+    },
+    {
+      "id": "https://openalex.org/W4394373579",
+      "title": "Additional file 3 of Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2022,
+      "doi": "https://doi.org/10.6084/m9.figshare.19185739",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185739"
+    },
+    {
+      "id": "https://openalex.org/W4394492584",
+      "title": "Additional file 2 of Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2022,
+      "doi": "https://doi.org/10.6084/m9.figshare.19185736",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185736"
+    },
+    {
+      "id": "https://openalex.org/W4394176300",
+      "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software -- PubMed XML files and scripts",
+      "year": 2022,
+      "doi": "https://doi.org/10.6084/m9.figshare.15121818",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.15121818"
+    },
+    {
+      "id": "https://openalex.org/W4200374710",
+      "title": "A Fast Lasso-Based Method for Inferring Higher-Order Interactions",
+      "year": 2021,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2021.12.13.471844",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/08/31/2021.12.13.471844.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3210115145",
+      "title": "Discrete coalescent trees",
+      "year": 2021,
+      "venue": "Journal of Mathematical Biology",
+      "doi": "https://doi.org/10.1007/s00285-021-01685-0",
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00285-021-01685-0.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3182965360",
+      "title": "Learning epistatic gene interactions from perturbation screens",
+      "year": 2021,
+      "venue": "PLoS ONE",
+      "doi": "https://doi.org/10.1371/journal.pone.0254491",
+      "openAccessUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0254491&type=printable"
+    },
+    {
+      "id": "https://openalex.org/W3182303772",
+      "title": "Peer Review #2 of \"Getting new algorithmic results by extending distance-hereditary graphs via split composition (v0.1)\"",
+      "year": 2021,
+      "doi": "https://doi.org/10.7287/peerj-cs.627v0.1/reviews/2",
+      "openAccessUrl": "https://peerj.com/articles/cs-627v0.2/submission"
+    },
+    {
+      "id": "https://openalex.org/W3136616654",
+      "title": "Accounting for errors in data improves timing in single-cell cancer evolution",
+      "year": 2021,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2021.03.17.435906",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/11/2021.03.17.435906.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3128309744",
+      "title": "A Fast Lasso-Based Method for Inferring Pairwise Interactions",
+      "year": 2021,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2021.01.28.428698",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2021/02/01/2021.01.28.428698.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3118901901",
+      "title": "Testing for phylogenetic signal in single-cell RNA-seq data",
+      "year": 2021,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2021.01.07.425804",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/02/07/2021.01.07.425804.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3118433720",
+      "title": "The Geometry of the space of Discrete Coalescent Trees",
+      "year": 2021,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2101.02751",
+      "openAccessUrl": "https://arxiv.org/pdf/2101.02751"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "slug": "michael-witbrock",
+  "orcidId": "0000-0002-7554-0971",
+  "updatedAt": "2025-12-09T20:44:48.454Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4416038804",
+      "title": "Psychology-Driven Enhancement of Humour Translation",
+      "year": 2025,
+      "venue": "Communications in computer and information science",
+      "doi": "https://doi.org/10.1007/978-981-95-4088-4_34",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-95-4088-4_34"
+    },
+    {
+      "id": "https://openalex.org/W4415556596",
+      "title": "A community‐driven vision for a new knowledge resource for AI",
+      "year": 2025,
+      "venue": "AI Magazine",
+      "doi": "https://doi.org/10.1002/aaai.70035",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70035"
+    },
+    {
+      "id": "https://openalex.org/W4414980976",
+      "title": "Exploring Gaps in the APS: Direct Minimal Pair Analysis in LLM Syntactic Assessments",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2510.06001",
+      "openAccessUrl": "https://arxiv.org/pdf/2510.06001"
+    },
+    {
+      "id": "https://openalex.org/W4414981001",
+      "title": "Evaluating The Impact of Stimulus Quality in Investigations of LLM Language Performance",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2510.06018",
+      "openAccessUrl": "https://arxiv.org/pdf/2510.06018"
+    },
+    {
+      "id": "https://openalex.org/W4414860680",
+      "title": "Operating condition invariant representation learning for machine prognostics",
+      "year": 2025,
+      "venue": "Knowledge-Based Systems",
+      "doi": "https://doi.org/10.1016/j.knosys.2025.114623",
+      "openAccessUrl": "https://doi.org/10.1016/j.knosys.2025.114623"
+    },
+    {
+      "id": "https://openalex.org/W4415332038",
+      "title": "Trust Region Reward Optimization and Proximal Inverse Reward Optimization Algorithm",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2509.23135",
+      "openAccessUrl": "https://arxiv.org/pdf/2509.23135"
+    },
+    {
+      "id": "https://openalex.org/W4414691608",
+      "title": "Psychology-Driven Enhancement of Humour Translation",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2507.09259",
+      "openAccessUrl": "https://arxiv.org/pdf/2507.09259"
+    },
+    {
+      "id": "https://openalex.org/W4415348259",
+      "title": "A Survey of Pun Generation: Datasets, Evaluations and Methodologies",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2507.04793",
+      "openAccessUrl": "https://arxiv.org/pdf/2507.04793"
+    },
+    {
+      "id": "https://openalex.org/W4415023939",
+      "title": "Causal Cartographer: From Mapping to Reasoning Over Counterfactual Worlds",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2505.14396",
+      "openAccessUrl": "https://arxiv.org/pdf/2505.14396"
+    },
+    {
+      "id": "https://openalex.org/W4409361116",
+      "title": "Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models",
+      "year": 2025,
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "doi": "https://doi.org/10.1609/aaai.v39i28.35164",
+      "openAccessUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/35164/37319"
+    },
+    {
+      "id": "https://openalex.org/W4407093406",
+      "title": "Bridging the Reasoning Gap: Small LLMs Can Plan with Generalised Strategies",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2501.18817",
+      "openAccessUrl": "https://arxiv.org/pdf/2501.18817"
+    },
+    {
+      "id": "https://openalex.org/W4407093387",
+      "title": "Large Language Models as Common-Sense Heuristics",
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2501.18816",
+      "openAccessUrl": "https://arxiv.org/pdf/2501.18816"
+    },
+    {
+      "id": "https://openalex.org/W4416034927",
+      "title": "A Survey of Pun Generation: Datasets, Evaluations and Methodologies",
+      "year": 2025,
+      "doi": "https://doi.org/10.18653/v1/2025.findings-emnlp.389",
+      "openAccessUrl": "https://aclanthology.org/2025.findings-emnlp.389.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4411122568",
+      "title": "Transformers as Approximations of Solomonoff Induction",
+      "year": 2025,
+      "venue": "Lecture notes in computer science",
+      "doi": "https://doi.org/10.1007/978-981-96-6576-1_2",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-6576-1_2"
+    },
+    {
+      "id": "https://openalex.org/W4406002437",
+      "title": "Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”",
+      "year": 2025,
+      "venue": "World Wide Web",
+      "doi": "https://doi.org/10.1007/s11280-024-01327-7",
+      "openAccessUrl": "https://doi.org/10.1007/s11280-024-01327-7"
+    },
+    {
+      "id": "https://openalex.org/W4410052331",
+      "title": "Operating Condition Invariant Representation Learning for Machine Prognostics",
+      "year": 2025,
+      "venue": "SSRN Electronic Journal",
+      "doi": "https://doi.org/10.2139/ssrn.5240692",
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.5240692"
+    },
+    {
+      "id": "https://openalex.org/W4416033684",
+      "title": "The Benefits of Being Uncertain: Perplexity as a Signal for Naturalness in Multilingual Machine Translation",
+      "year": 2025,
+      "doi": "https://doi.org/10.18653/v1/2025.uncertainlp-main.7",
+      "openAccessUrl": "https://aclanthology.org/2025.uncertainlp-main.7.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4405720306",
+      "title": "Don’t forget the upside of neurotechnology",
+      "year": 2024,
+      "venue": "AI & Society",
+      "doi": "https://doi.org/10.1007/s00146-024-02161-1",
+      "openAccessUrl": "https://doi.org/10.1007/s00146-024-02161-1"
+    },
+    {
+      "id": "https://openalex.org/W4405602291",
+      "title": "Causal Behaviour Modelling for Player Action Prediction in Rugby League Using Graph Neural Networks",
+      "year": 2024,
+      "doi": "https://doi.org/10.1109/ivcnz64857.2024.10794449",
+      "openAccessUrl": "https://doi.org/10.1109/ivcnz64857.2024.10794449"
+    },
+    {
+      "id": "https://openalex.org/W4404814007",
+      "title": "Using Large Language Models for the Interpretation of Building Regulations",
+      "year": 2024,
+      "venue": "Journal of Engineering Project and Production Management",
+      "doi": "https://doi.org/10.32738/jeppm-2024-0035",
+      "openAccessUrl": "http://doi.org/10.32738/jeppm-2024-0035"
+    },
+    {
+      "id": "https://openalex.org/W4403344852",
+      "title": "Robust Domain Generalisation with Causal Invariant Bayesian Neural Networks",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2410.06349",
+      "openAccessUrl": "https://arxiv.org/pdf/2410.06349"
+    },
+    {
+      "id": "https://openalex.org/W4403344847",
+      "title": "Counterfactual Causal Inference in Natural Language with Large Language Models",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2410.06392",
+      "openAccessUrl": "https://arxiv.org/pdf/2410.06392"
+    },
+    {
+      "id": "https://openalex.org/W4403964169",
+      "title": "Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2410.04703",
+      "openAccessUrl": "https://arxiv.org/pdf/2410.04703"
+    },
+    {
+      "id": "https://openalex.org/W4402939753",
+      "title": "Intelligence Science V",
+      "year": 2024,
+      "venue": "IFIP advances in information and communication technology",
+      "doi": "https://doi.org/10.1007/978-3-031-71253-1",
+      "openAccessUrl": "https://inria.hal.science/hal-05142875"
+    },
+    {
+      "id": "https://openalex.org/W4405621898",
+      "title": "Transformers As Approximations of Solomonoff Induction",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2408.12065",
+      "openAccessUrl": "https://arxiv.org/pdf/2408.12065"
+    },
+    {
+      "id": "https://openalex.org/W4401249549",
+      "title": "Intermediate representations to improve the semantic parsing of building regulations",
+      "year": 2024,
+      "venue": "Advanced Engineering Informatics",
+      "doi": "https://doi.org/10.1016/j.aei.2024.102735",
+      "openAccessUrl": "https://doi.org/10.1016/j.aei.2024.102735"
+    },
+    {
+      "id": "https://openalex.org/W4401306281",
+      "title": "Using Large Language Models for the Interpretation of Building Regulations",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2407.21060",
+      "openAccessUrl": "https://arxiv.org/pdf/2407.21060"
+    },
+    {
+      "id": "https://openalex.org/W4401023880",
+      "title": "Connecting Giants: Synergistic Knowledge Transfer of Large Multimodal Models for Few-Shot Learning",
+      "year": 2024,
+      "doi": "https://doi.org/10.24963/ijcai.2024/693",
+      "openAccessUrl": "https://doi.org/10.24963/ijcai.2024/693"
+    },
+    {
+      "id": "https://openalex.org/W4402352427",
+      "title": "Enhancing Data Augmentation with Knowledge-enriched Data Generation via Dynamic Prompt-tuning Method",
+      "year": 2024,
+      "doi": "https://doi.org/10.1109/ijcnn60899.2024.10651072",
+      "openAccessUrl": "http://doi.org/10.1109/ijcnn60899.2024.10651072"
+    },
+    {
+      "id": "https://openalex.org/W4402352398",
+      "title": "Epic-Level Text Generation with LLM through Auto-prompted Reinforcement Learning",
+      "year": 2024,
+      "doi": "https://doi.org/10.1109/ijcnn60899.2024.10650358",
+      "openAccessUrl": "https://doi.org/10.1109/ijcnn60899.2024.10650358"
+    }
+  ]
+}

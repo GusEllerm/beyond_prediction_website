@@ -15,6 +15,30 @@ import { partners } from './data/partners';
 
 // Import project data
 import { findProjectDetail } from './data/researchProjects';
+import type { ProjectExtensionMount } from './projects/extensions';
+
+// Discover all extension modules under src/projects/*.ts
+const extensionModules = import.meta.glob('./projects/*.ts', {
+  eager: true,
+}) as Record<string, { mountProjectExtension?: ProjectExtensionMount }>;
+
+/**
+ * Gets the project extension mount function for a given project slug
+ * @param projectSlug - The project slug to find an extension for
+ * @returns The mount function or null if no extension exists
+ */
+function getProjectExtension(projectSlug: string): ProjectExtensionMount | null {
+  for (const [path, mod] of Object.entries(extensionModules)) {
+    // Example path: "./projects/live-research-articles.ts"
+    if (
+      path.endsWith(`/projects/${projectSlug}.ts`) &&
+      typeof mod.mountProjectExtension === 'function'
+    ) {
+      return mod.mountProjectExtension;
+    }
+  }
+  return null;
+}
 
 /**
  * Parses the project slug from URL query parameters
@@ -89,6 +113,9 @@ function initProjectPage(): void {
     return;
   }
 
+  // Get extension mount function if it exists
+  const extensionMount = getProjectExtension(project.slug);
+
   // Build project page sections
   const questionsHtml =
     project.keyQuestions && project.keyQuestions.length > 0
@@ -161,7 +188,6 @@ function initProjectPage(): void {
   // Build breadcrumb and page header
   const breadcrumbHtml = renderBreadcrumb([
     { label: 'Home', href: '/' },
-    { label: 'Research themes', href: '/' },
     { label: project.title },
   ]);
 
@@ -189,10 +215,25 @@ function initProjectPage(): void {
       ${highlightsHtml}
       ${examplesHtml}
       ${extraSectionsHtml}
+      ${
+        extensionMount
+          ? '<section class="mt-5" id="project-extension-root"></section>'
+          : ''
+      }
     </main>
   `;
 
   app.innerHTML += pageHeaderHtml + bodyHtml;
+
+  // Mount extension if it exists
+  if (extensionMount) {
+    const extensionRoot = document.getElementById('project-extension-root');
+    if (extensionRoot) {
+      extensionMount(extensionRoot, project);
+    } else {
+      console.warn('[Project] Extension root not found for', project.slug);
+    }
+  }
 
   // Render footer
   const footerContainer = document.createElement('div');

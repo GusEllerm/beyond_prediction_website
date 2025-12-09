@@ -1,0 +1,245 @@
+{
+  "slug": "anna-santure",
+  "orcidId": "0000-0001-8965-1042",
+  "updatedAt": "2025-12-09T20:44:58.875Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4415351819",
+      "title": "Population genomics of yellow-eyed penguins uncovers subspecies divergence and candidate genes linked to respiratory distress syndrome",
+      "year": 2025,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2025.10.20.683354",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/10/20/2025.10.20.683354.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4414613956",
+      "title": "Assessing Genotype Imputation Methods for Low‐Coverage Sequencing Data in Populations With Differing Relatedness and Inbreeding Levels",
+      "year": 2025,
+      "venue": "Molecular Ecology Resources",
+      "doi": "https://doi.org/10.1111/1755-0998.70049",
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550480"
+    },
+    {
+      "id": "https://openalex.org/W4414057662",
+      "title": "Within-host microbial selection and multiple microbial generations buffer the loss of host fitness under environmental change",
+      "year": 2025,
+      "venue": "FEMS Microbiology Ecology",
+      "doi": "https://doi.org/10.1093/femsec/fiaf089",
+      "openAccessUrl": "https://academic.oup.com/femsec/advance-article-pdf/doi/10.1093/femsec/fiaf089/64222426/fiaf089.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4413110717",
+      "title": "High Imputation Accuracy Can Be Achieved Using a Small Reference Panel in a Natural Population With Low Genetic Diversity",
+      "year": 2025,
+      "venue": "Molecular Ecology Resources",
+      "doi": "https://doi.org/10.1111/1755-0998.70024",
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550488"
+    },
+    {
+      "id": "https://openalex.org/W4411310825",
+      "title": "An Increase in Male Recombination Rate With Age in Dairy Cattle Is Heritable and Polygenic",
+      "year": 2025,
+      "venue": "Journal of Animal Breeding and Genetics",
+      "doi": "https://doi.org/10.1111/jbg.12948",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jbg.12948"
+    },
+    {
+      "id": "https://openalex.org/W4405560190",
+      "title": "Both Structural Variant and Single Nucleotide Polymorphism Load Impact Lifetime Fitness in a Threatened Bird Species",
+      "year": 2024,
+      "venue": "Molecular Ecology",
+      "doi": "https://doi.org/10.1111/mec.17631",
+      "openAccessUrl": "https://doi.org/10.1111/mec.17631"
+    },
+    {
+      "id": "https://openalex.org/W4405367235",
+      "title": "Parallel Signatures of Diet Adaptation in the Invasive Common Myna Genome",
+      "year": 2024,
+      "venue": "Molecular Ecology",
+      "doi": "https://doi.org/10.1111/mec.17607",
+      "openAccessUrl": "https://doi.org/10.1111/mec.17607"
+    },
+    {
+      "id": "https://openalex.org/W4404611333",
+      "title": "Population Genetics and Invasion History of the European Starling Across Aotearoa New Zealand",
+      "year": 2024,
+      "venue": "Molecular Ecology",
+      "doi": "https://doi.org/10.1111/mec.17579",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17579"
+    },
+    {
+      "id": "https://openalex.org/W4404328254",
+      "title": "Joint consideration of selection and microbial generation count provides unique insights into evolutionary and ecological dynamics of holobionts",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.11.13.623479",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/13/2024.11.13.623479.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4402405481",
+      "title": "The genetic basis of the kākāpō structural color polymorphism suggests balancing selection by an extinct apex predator",
+      "year": 2024,
+      "venue": "PLoS Biology",
+      "doi": "https://doi.org/10.1371/journal.pbio.3002755",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pbio.3002755"
+    },
+    {
+      "id": "https://openalex.org/W4401875836",
+      "title": "Demographic drivers of reproductive failure in a threatened bird: Insights from a decade of data",
+      "year": 2024,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "doi": "https://doi.org/10.1073/pnas.2319104121",
+      "openAccessUrl": "https://doi.org/10.1073/pnas.2319104121"
+    },
+    {
+      "id": "https://openalex.org/W4401246348",
+      "title": "A high-density linkage map reveals broad- and fine-scale sex differences in recombination in the hihi (stitchbird; Notiomystis cincta)",
+      "year": 2024,
+      "venue": "Heredity",
+      "doi": "https://doi.org/10.1038/s41437-024-00711-3",
+      "openAccessUrl": "https://www.nature.com/articles/s41437-024-00711-3.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4391309978",
+      "title": "Projecting the current and potential future distribution of New Zealand’s invasive sturnids",
+      "year": 2024,
+      "venue": "Biological Invasions",
+      "doi": "https://doi.org/10.1007/s10530-024-03246-0",
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10530-024-03246-0.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4390974971",
+      "title": "Genetic rescue attempt in a small, inbred population of a wild endangered passerine",
+      "year": 2024,
+      "venue": "Biological Conservation",
+      "doi": "https://doi.org/10.1016/j.biocon.2023.110430",
+      "openAccessUrl": "https://doi.org/10.1016/j.biocon.2023.110430"
+    },
+    {
+      "id": "https://openalex.org/W4391914578",
+      "title": "The genome of a globally invasive passerine, the common myna, <i>Acridotheres tristis</i>",
+      "year": 2024,
+      "venue": "DNA Research",
+      "doi": "https://doi.org/10.1093/dnares/dsae005",
+      "openAccessUrl": "https://doi.org/10.1093/dnares/dsae005"
+    },
+    {
+      "id": "https://openalex.org/W4389902675",
+      "title": "Genomic Tools in Biological Invasions: Current State and Future Frontiers",
+      "year": 2023,
+      "venue": "Genome Biology and Evolution",
+      "doi": "https://doi.org/10.1093/gbe/evad230",
+      "openAccessUrl": "https://academic.oup.com/gbe/advance-article-pdf/doi/10.1093/gbe/evad230/54586997/evad230.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4389805257",
+      "title": "Population genomics of the ‘rediscovered’ threatened New Zealand storm petrel (Fregetta maoriana) support a single breeding colony",
+      "year": 2023,
+      "venue": "Conservation Genetics",
+      "doi": "https://doi.org/10.1007/s10592-023-01597-0",
+      "openAccessUrl": "https://doi.org/10.1007/s10592-023-01597-0"
+    },
+    {
+      "id": "https://openalex.org/W4389083947",
+      "title": "Including the invisible fraction in whole population studies: A guide to the genetic sampling of unhatched bird eggs",
+      "year": 2023,
+      "venue": "Methods in Ecology and Evolution",
+      "doi": "https://doi.org/10.1111/2041-210x.14242",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14242"
+    },
+    {
+      "id": "https://openalex.org/W4387041980",
+      "title": "The ghost of selection past: evolution and conservation relevance of the kākāpō color polymorphism",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.09.25.559367",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/11/01/2023.09.25.559367.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4390553686",
+      "title": "Author response for \"Including the invisible fraction in whole population studies: A guide to the genetic sampling of unhatched bird eggs\"",
+      "year": 2023,
+      "doi": "https://doi.org/10.1111/2041-210x.14242/v2/response1",
+      "openAccessUrl": "https://doi.org/10.1111/2041-210x.14242/v2/response1"
+    },
+    {
+      "id": "https://openalex.org/W4386216359",
+      "title": "Species-wide genomics of kākāpō provides tools to accelerate recovery",
+      "year": 2023,
+      "venue": "Nature Ecology & Evolution",
+      "doi": "https://doi.org/10.1038/s41559-023-02165-y",
+      "openAccessUrl": "https://doi.org/10.1038/s41559-023-02165-y"
+    },
+    {
+      "id": "https://openalex.org/W4386100643",
+      "title": "The genome of a globally invasive passerine, the common myna (<i>Acridotheres tristis</i>)",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.08.22.554353",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/08/23/2023.08.22.554353.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4381157913",
+      "title": "Assembly of female and male hihi genomes (stitchbird; <i>Notiomystis cincta</i>) enables characterization of the W chromosome and resources for conservation genomics",
+      "year": 2023,
+      "venue": "Molecular Ecology Resources",
+      "doi": "https://doi.org/10.1111/1755-0998.13823",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1755-0998.13823"
+    },
+    {
+      "id": "https://openalex.org/W4380550374",
+      "title": "Including the Invisible Fraction in Whole Population Studies: a Guide to the Genetic Sampling of Unhatched Bird Eggs",
+      "year": 2023,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2023.06.13.544703",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/06/14/2023.06.13.544703.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4378234405",
+      "title": "Capturing species‐wide diversity of the gut microbiota and its relationship with genomic variation in the critically endangered kākāpō",
+      "year": 2023,
+      "venue": "Molecular Ecology",
+      "doi": "https://doi.org/10.1111/mec.16999",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16999"
+    },
+    {
+      "id": "https://openalex.org/W4376865477",
+      "title": "Tracing the introduction of the invasive common myna using population genomics",
+      "year": 2023,
+      "venue": "Heredity",
+      "doi": "https://doi.org/10.1038/s41437-023-00621-w",
+      "openAccessUrl": "https://www.nature.com/articles/s41437-023-00621-w.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4324129229",
+      "title": "The promise and challenges of characterizing genome‐wide structural variants: A case study in a critically endangered parrot",
+      "year": 2023,
+      "venue": "Molecular Ecology Resources",
+      "doi": "https://doi.org/10.1111/1755-0998.13783",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1755-0998.13783"
+    },
+    {
+      "id": "https://openalex.org/W4323981124",
+      "title": "The promise and challenges of characterising genome-wide structural variants: A case study in a critically endangered parrot",
+      "year": 2023,
+      "doi": "https://doi.org/10.22541/au.167153229.99892408/v3",
+      "openAccessUrl": "https://doi.org/10.22541/au.167153229.99892408/v3"
+    },
+    {
+      "id": "https://openalex.org/W4323979431",
+      "title": "The introduction and distribution history of the common myna ( <i>Acridotheres tristis</i> ) in New Zealand",
+      "year": 2023,
+      "venue": "New Zealand Journal of Zoology",
+      "doi": "https://doi.org/10.1080/03014223.2023.2182332",
+      "openAccessUrl": "https://doi.org/10.1080/03014223.2023.2182332"
+    },
+    {
+      "id": "https://openalex.org/W4317477075",
+      "title": "Genomic signatures of inbreeding depression for a threatened Aotearoa New Zealand passerine",
+      "year": 2023,
+      "venue": "Molecular Ecology",
+      "doi": "https://doi.org/10.1111/mec.16855",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16855"
+    }
+  ]
+}

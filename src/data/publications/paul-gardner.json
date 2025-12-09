@@ -1,0 +1,238 @@
+{
+  "slug": "paul-gardner",
+  "orcidId": "0000-0002-7808-1213",
+  "updatedAt": "2025-12-09T20:44:33.964Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4417047337",
+      "title": "Towards a phylogenetically informed approach to solving protein–protein interactions",
+      "year": 2025,
+      "venue": "Biochemical Society Transactions",
+      "doi": "https://doi.org/10.1042/bst20253031",
+      "openAccessUrl": "https://doi.org/10.1042/bst20253031"
+    },
+    {
+      "id": "https://openalex.org/W4411205819",
+      "title": "Evaluating computational tools for protein-coding sequence detection: Are they up to the task?",
+      "year": 2025,
+      "venue": "RNA",
+      "doi": "https://doi.org/10.1261/rna.080416.125",
+      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125"
+    },
+    {
+      "id": "https://openalex.org/W4406958237",
+      "title": "A bioinformatician, computer scientist, and geneticist lead bioinformatic tool development—which one is better?",
+      "year": 2024,
+      "venue": "Bioinformatics Advances",
+      "doi": "https://doi.org/10.1093/bioadv/vbaf011",
+      "openAccessUrl": "https://doi.org/10.1093/bioadv/vbaf011"
+    },
+    {
+      "id": "https://openalex.org/W4405157072",
+      "title": "Assessing the robustness of human ncRNA notations",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.12.08.627405",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/12/08/2024.12.08.627405.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4401998861",
+      "title": "High-throughput transposon mutagenesis in the family Enterobacteriaceae reveals core essential genes and rapid turnover of essentiality",
+      "year": 2024,
+      "venue": "mBio",
+      "doi": "https://doi.org/10.1128/mbio.01798-24",
+      "openAccessUrl": "https://doi.org/10.1128/mbio.01798-24"
+    },
+    {
+      "id": "https://openalex.org/W4401901049",
+      "title": "A Bioinformatician, Computer Scientist, and Geneticist lead bioinformatic tool development - which one is better?",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.08.25.609622",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/08/27/2024.08.25.609622.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4397013939",
+      "title": "Evaluating computational tools for protein-coding sequence detection: Are they up to the task?",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.05.16.594598",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/05/16/2024.05.16.594598.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4390505398",
+      "title": "<i>Serratia</i>‐based toxin cluster elements are associated with a type I fimbria",
+      "year": 2024,
+      "venue": "MicrobiologyOpen",
+      "doi": "https://doi.org/10.1002/mbo3.1395",
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mbo3.1395"
+    },
+    {
+      "id": "https://openalex.org/W4387568660",
+      "title": "The PitA protein contributes to colistin susceptibility in Pseudomonas aeruginosa",
+      "year": 2023,
+      "venue": "PLoS ONE",
+      "doi": "https://doi.org/10.1371/journal.pone.0292818",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0292818"
+    },
+    {
+      "id": "https://openalex.org/W4361010652",
+      "title": "Peer Review #3 of \"Finding priority bacterial ribosomes for future structural and antimicrobial research based upon global RNA and protein sequence analysis (v0.1)\"",
+      "year": 2023,
+      "doi": "https://doi.org/10.7287/peerj.14969v0.1/reviews/3",
+      "openAccessUrl": "https://doi.org/10.7287/peerj.14969v0.1/reviews/3"
+    },
+    {
+      "id": "https://openalex.org/W4361010825",
+      "title": "Peer Review #1 of \"Finding priority bacterial ribosomes for future structural and antimicrobial research based upon global RNA and protein sequence analysis (v0.1)\"",
+      "year": 2023,
+      "doi": "https://doi.org/10.7287/peerj.14969v0.1/reviews/1",
+      "openAccessUrl": "https://doi.org/10.7287/peerj.14969v0.1/reviews/1"
+    },
+    {
+      "id": "https://openalex.org/W4361010674",
+      "title": "Peer Review #4 of \"Finding priority bacterial ribosomes for future structural and antimicrobial research based upon global RNA and protein sequence analysis (v0.1)\"",
+      "year": 2023,
+      "doi": "https://doi.org/10.7287/peerj.14969v0.1/reviews/4",
+      "openAccessUrl": "https://doi.org/10.7287/peerj.14969v0.1/reviews/4"
+    },
+    {
+      "id": "https://openalex.org/W4353077277",
+      "title": "Finding priority bacterial ribosomes for future structural and antimicrobial research based upon global RNA and protein sequence analysis",
+      "year": 2023,
+      "venue": "PeerJ",
+      "doi": "https://doi.org/10.7717/peerj.14969",
+      "openAccessUrl": "https://doi.org/10.7717/peerj.14969"
+    },
+    {
+      "id": "https://openalex.org/W4306964200",
+      "title": "High-throughput transposon mutagenesis in the family Enterobacteriaceae reveals core essential genes and rapid turnover of essentiality",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.10.20.512852",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/10/20/2022.10.20.512852.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4213416648",
+      "title": "LazyPair: scalable prediction of protein-protein interactions and interaction types",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.02.21.481370",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/02/22/2022.02.21.481370.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4220756870",
+      "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2022,
+      "venue": "Genome biology",
+      "doi": "https://doi.org/10.1186/s13059-022-02625-x",
+      "openAccessUrl": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02625-x"
+    },
+    {
+      "id": "https://openalex.org/W4394373579",
+      "title": "Additional file 3 of Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2022,
+      "doi": "https://doi.org/10.6084/m9.figshare.19185739",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185739"
+    },
+    {
+      "id": "https://openalex.org/W4394492584",
+      "title": "Additional file 2 of Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2022,
+      "doi": "https://doi.org/10.6084/m9.figshare.19185736",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185736"
+    },
+    {
+      "id": "https://openalex.org/W4394176300",
+      "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software -- PubMed XML files and scripts",
+      "year": 2022,
+      "doi": "https://doi.org/10.6084/m9.figshare.15121818",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.15121818"
+    },
+    {
+      "id": "https://openalex.org/W3206863529",
+      "title": "657: Importance of screening for splice site and deep intronic variants—Insights from cystic fibrosis genetic testing on patients from the Indian subcontinent",
+      "year": 2021,
+      "venue": "Journal of Cystic Fibrosis",
+      "doi": "https://doi.org/10.1016/s1569-1993(21)02080-4",
+      "openAccessUrl": "https://doi.org/10.1016/s1569-1993(21)02080-4"
+    },
+    {
+      "id": "https://openalex.org/W3203226480",
+      "title": "Analysis of 11,430 recombinant protein production experiments reveals that protein yield is tunable by synonymous codon changes of translation initiation sites",
+      "year": 2021,
+      "venue": "PLoS Computational Biology",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1009461",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1009461"
+    },
+    {
+      "id": "https://openalex.org/W3190596600",
+      "title": "SorTn-seq: a high-throughput functional genomics approach to discovering regulators of bacterial gene expression",
+      "year": 2021,
+      "venue": "Nature Protocols",
+      "doi": "https://doi.org/10.1038/s41596-021-00582-6",
+      "openAccessUrl": "https://doi.org/10.1038/s41596-021-00582-6"
+    },
+    {
+      "id": "https://openalex.org/W3167208543",
+      "title": "Finding priority ribosomes for future structural and pathogen research based upon global RNA and protein sequence analysis",
+      "year": 2021,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2021.06.14.448437",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2021/06/14/2021.06.14.448437.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3160464129",
+      "title": "Evolution of virulence in a novel family of transmissible mega‐plasmids",
+      "year": 2021,
+      "venue": "Environmental Microbiology",
+      "doi": "https://doi.org/10.1111/1462-2920.15595",
+      "openAccessUrl": "https://doi.org/10.1111/1462-2920.15595"
+    },
+    {
+      "id": "https://openalex.org/W3162777509",
+      "title": "On the optimistic performance evaluation of newly introduced bioinformatic methods",
+      "year": 2021,
+      "venue": "Genome biology",
+      "doi": "https://doi.org/10.1186/s13059-021-02365-4",
+      "openAccessUrl": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-021-02365-4"
+    },
+    {
+      "id": "https://openalex.org/W3139386510",
+      "title": "TISIGNER.com: web services for improving recombinant protein production",
+      "year": 2021,
+      "venue": "Nucleic Acids Research",
+      "doi": "https://doi.org/10.1093/nar/gkab175",
+      "openAccessUrl": "https://academic.oup.com/nar/article-pdf/49/W1/W654/38842165/gkab175.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3171428151",
+      "title": "On the optimistic performance evaluation of newly introduced bioinformatic methods",
+      "year": 2021,
+      "doi": "https://doi.org/10.31222/osf.io/pkqdx",
+      "openAccessUrl": "https://osf.io/pkqdx/download"
+    },
+    {
+      "id": "https://openalex.org/W3119327522",
+      "title": "The Rcs stress response inversely controls surface and CRISPR–Cas adaptive immunity to discriminate plasmids and phages",
+      "year": 2021,
+      "venue": "Nature Microbiology",
+      "doi": "https://doi.org/10.1038/s41564-020-00822-7",
+      "openAccessUrl": "https://doi.org/10.1038/s41564-020-00822-7"
+    },
+    {
+      "id": "https://openalex.org/W4394331975",
+      "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software -- PubMed XML files",
+      "year": 2021,
+      "doi": "https://doi.org/10.6084/m9.figshare.15121818.v1",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.15121818.v1"
+    },
+    {
+      "id": "https://openalex.org/W4394108826",
+      "title": "Additional file 2 of On the optimistic performance evaluation of newly introduced bioinformatic methods",
+      "year": 2021,
+      "doi": "https://doi.org/10.6084/m9.figshare.14576336",
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.14576336"
+    }
+  ]
+}

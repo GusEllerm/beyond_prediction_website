@@ -8,37 +8,48 @@ export interface ProjectExample {
 }
 
 /**
- * Research project detail interface
- * Contains detailed information for individual project pages
+ * Unified research project interface
+ * This is the single source of truth for all research projects.
+ * Used for both card views (home page) and detail pages.
  *
- * To add a new project detail:
- * 1. Ensure you have a matching ResearchCard with the same slug in researchCards.ts
- * 2. Add a ResearchProjectDetail entry here with matching slug
- * 3. Fill in the required fields (slug, title, shortDescription)
- * 4. Optionally add keyQuestions, highlights, examples, and extraSections for richer content
+ * To add a new research project:
+ * 1. Add a new ResearchProject entry to the researchProjects array below
+ * 2. Fill in the required fields (slug, title, shortDescription)
+ * 3. Optionally add keyQuestions, highlights, examples, and extraSections for richer content
+ * 4. Optionally add metadata fields like authors, researchers, tags, imageUrl, publicationDate
  */
-export interface ResearchProjectDetail {
-  slug: string; // must match ResearchCard.slug
+export interface ResearchProject {
+  slug: string; // unique, URL-safe identifier for the project (lowercase, hyphen-separated)
   title: string;
-  shortDescription: string;
-  longDescription?: string;
+  shortDescription: string; // used on cards and the top of the detail page
+  longDescription?: string; // optional longer description for the detail page
   heroImageUrl?: string;
+  // Detail page content
   keyQuestions?: string[];
   highlights?: string[];
   examples?: ProjectExample[];
-  // Allow further extension per project with custom sections
   extraSections?: {
     heading: string;
     body: string;
   }[];
+  // Optional metadata (previously only on ResearchCard)
+  authors?: string[];
+  researchers?: string[];
+  tags?: string[];
+  imageUrl?: string;
+  publicationDate?: string;
+  [key: string]: unknown; // Allow additional fields for future expansion
 }
 
+// Legacy type alias for backward compatibility during migration
+export type ResearchProjectDetail = ResearchProject;
+
 /**
- * Research project details database
- * One entry per slug, matching the researchCards in researchCards.ts
- * Each project can have different structures and content types
+ * Research projects database
+ * This is the single source of truth for all research projects.
+ * Used for both card views (home page) and detail pages.
  */
-export const researchProjectDetails: ResearchProjectDetail[] = [
+export const researchProjects: ResearchProject[] = [
   {
     slug: 'live-research-articles',
     title: 'Live Research Articles (LivePublication)',
@@ -269,16 +280,19 @@ export const researchProjectDetails: ResearchProjectDetail[] = [
 ];
 
 /**
- * Helper function to find a project detail by slug
+ * Helper function to find a project by slug
  * @param slug - The project slug to search for
- * @returns The matching ResearchProjectDetail or null if not found
+ * @returns The matching ResearchProject or null if not found
  */
 export function findProjectDetail(
   slug: string | null
-): ResearchProjectDetail | null {
+): ResearchProject | null {
   if (!slug) return null;
   return (
-    researchProjectDetails.find((project) => project.slug === slug) ?? null
+    researchProjects.find((project) => project.slug === slug) ?? null
   );
 }
+
+// Legacy export alias for backward compatibility during migration
+export const researchProjectDetails = researchProjects;
 
