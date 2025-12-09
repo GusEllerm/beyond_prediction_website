@@ -93,7 +93,7 @@ export function renderFooter(partners: Partner[] = []): string {
         <div class="row mt-4">
           <div class="col-12 text-center">
             <p class="text-muted small mb-0">
-              &copy; ${new Date().getFullYear()} Beyond Prediction. All rights reserved.
+              &copy; ${new Date().getFullYear()} Beyond Prediction.
             </p>
           </div>
         </div>

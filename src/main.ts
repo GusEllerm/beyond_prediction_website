@@ -58,25 +58,27 @@ function initApp(): void {
 
 /**
  * Renders the main content section with Bootstrap cards
+ * Each card links to a project detail page using the card's slug
  */
 function renderContent(container: HTMLElement): void {
   const cardsHtml = researchCards
-    .map(
-      (card) => `
+    .map((card) => {
+      const href = `/project.html?project=${encodeURIComponent(card.slug)}`;
+      return `
       <div class="col-md-4">
-        <a href="${card.href}" class="text-decoration-none text-reset">
+        <a href="${href}" class="text-decoration-none text-reset">
           <div class="card h-100">
             <div class="card-body">
-              <h5 class="card-title">${card.title}</h5>
+              <h5 class="card-title">${escapeHtml(card.title)}</h5>
               <p class="card-text">
-                ${card.description}
+                ${escapeHtml(card.description)}
               </p>
             </div>
           </div>
         </a>
       </div>
-    `
-    )
+    `;
+    })
     .join('');
 
   container.innerHTML = `
@@ -92,6 +94,17 @@ function renderContent(container: HTMLElement): void {
       </div>
     </div>
   `;
+}
+
+/**
+ * Escapes HTML special characters to prevent XSS
+ * @param text - Text to escape
+ * @returns Escaped HTML string
+ */
+function escapeHtml(text: string): string {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
 }
 
 // Initialize the app when DOM is ready

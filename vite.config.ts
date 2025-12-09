@@ -9,5 +9,15 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
+    rollupOptions: {
+      input: {
+        main: './index.html',
+        project: './project.html',
+        search: './search.html',
+        about: './about.html',
+        people: './people.html',
+        person: './person.html',
+      },
+    },
   },
 });

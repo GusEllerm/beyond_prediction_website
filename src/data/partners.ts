@@ -17,9 +17,21 @@ export const partners: Partner[] = [
     url: 'https://www.auckland.ac.nz/en.html',
     logoSrc: '/logos/university_of_auckland.svg',
   },
-  { name: 'Partner One' },
-  { name: 'Partner Two' },
-  { name: 'Partner Three' },
+  {
+    name: 'University of Canterbury',
+    url: 'https://www.canterbury.ac.nz/',
+    logoSrc: '/logos/university_of_canterbury.svg',
+  },
+  {
+    name: 'University of Otago',
+    url: 'https://www.otago.ac.nz/',
+    logoSrc: '/logos/university_of_otago.svg',
+  },
+  {
+    name: 'Stencila',
+    url: 'https://stencila.com/',
+    logoSrc: '/logos/stencila.svg',
+  },
   { name: 'Partner Four' },
   { name: 'Partner Five' },
 ];
