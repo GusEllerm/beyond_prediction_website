@@ -14,7 +14,7 @@ import { renderBreadcrumb } from './components/breadcrumb';
 import { partners } from './data/partners';
 
 // Import data
-import { getReportBySlug } from './data/reports';
+import { getReportBySlug, getReportDocxPath } from './data/reports';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
@@ -132,13 +132,39 @@ async function renderReport(): Promise<void> {
       </div>
     `;
 
-  const pdfButtonHtml = report.pdfPath
-    ? `
-      <a href="${escapeHtml(report.pdfPath)}" class="btn btn-outline-secondary btn-sm mb-3" target="_blank" rel="noopener noreferrer">
-        Download PDF
-      </a>
-    `
-    : '';
+  const docxPath = getReportDocxPath(report);
+  const pdfPath = report.pdfPath;
+
+  const downloadButtons: string[] = [];
+  if (docxPath) {
+    downloadButtons.push(
+      `<a href="${escapeHtml(docxPath)}" class="btn btn-outline-primary btn-sm" download>Download .docx</a>`
+    );
+  }
+  if (pdfPath) {
+    downloadButtons.push(
+      `<a href="${escapeHtml(pdfPath)}" class="btn btn-outline-secondary btn-sm" target="_blank" rel="noopener noreferrer">Download PDF</a>`
+    );
+  }
+
+  const docxBannerHtml =
+    docxPath || pdfPath
+      ? `
+    <div class="alert alert-info d-flex flex-wrap align-items-center justify-content-between mb-4" role="alert">
+      <div class="me-3">
+        <strong>Download this report</strong><br />
+        ${docxPath && pdfPath
+          ? 'Get the full annual report as a Word document (.docx) or PDF.'
+          : docxPath
+            ? 'Get the full annual report as a Word document (.docx).'
+            : 'Get the full annual report as a PDF document.'}
+      </div>
+      <div class="d-flex gap-2">
+        ${downloadButtons.join('')}
+      </div>
+    </div>
+  `
+      : '';
 
   const breadcrumbHtml = renderBreadcrumb([
     { label: 'Home', href: '/' },
@@ -161,8 +187,9 @@ async function renderReport(): Promise<void> {
             ? `<p class="lead text-muted mb-2">${escapeHtml(report.summary)}</p>`
             : ''
         }
-        ${pdfButtonHtml}
       </header>
+
+      ${docxBannerHtml}
 
       <section class="bp-report-content">
         ${htmlContent}

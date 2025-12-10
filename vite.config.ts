@@ -19,6 +19,7 @@ export default defineConfig({
         person: './person.html',
         reports: './reports.html',
         report: './report.html',
+        'forward-plan': './forward-plan.html',
       },
     },
   },

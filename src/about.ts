@@ -13,6 +13,7 @@ import { renderFooter } from './components/footer';
 
 // Import data
 import { partners } from './data/partners';
+import { currentForwardPlan } from './data/reports';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
@@ -26,34 +27,28 @@ renderNavbar(navbarContainer);
 footerContainer.innerHTML = renderFooter(partners);
 
 /**
- * Loads the forward plan HTML partial
- * @returns Promise resolving to HTML content string
+ * Renders the About page
  */
-async function loadForwardPlanHtml(): Promise<string> {
-  try {
-    const response = await fetch('/content/forward-plan-2025-2026.html');
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status} ${response.statusText}`);
-    }
-    return await response.text();
-  } catch (error) {
-    console.error('Error loading forward plan content:', error);
-    return `
-      <div class="alert alert-warning" role="alert">
-        The 2025–2026 forward plan could not be loaded at this time. It will be added here soon.
-      </div>
-    `;
-  }
-}
-
-/**
- * Renders the About page with overview and forward plan
- * @param forwardPlanHtml - HTML content for the forward plan section
- */
-function renderAboutPage(forwardPlanHtml: string): void {
+function renderAboutPage(): void {
   if (!app) {
     throw new Error('App container not found');
   }
+
+  const plan = currentForwardPlan;
+
+  const forwardPlanCalloutHtml = `
+    <div class="alert alert-light border mt-4" role="alert">
+      <div class="d-flex flex-wrap align-items-center justify-content-between">
+        <div class="me-3">
+          <strong>Current priorities</strong><br />
+          See the ${plan.fromYear}–${plan.toYear} SSIF forward-looking plan for our latest goals and milestones.
+        </div>
+        <a href="/forward-plan.html" class="btn btn-outline-primary btn-sm">
+          Read the forward plan
+        </a>
+      </div>
+    </div>
+  `;
 
   const aboutHtml = `
     <header class="bp-page-header">
@@ -77,16 +72,7 @@ function renderAboutPage(forwardPlanHtml: string): void {
             <p>
               Alongside the research, Beyond Prediction is committed to lifting national capability by training researchers at scale, building communities of practice, and ensuring that modern data science methods can be applied in governance, industry, science and healthcare in a defensible and trustworthy way.
             </p>
-          </section>
-
-          <section class="mb-5">
-            <h2 class="h4 mb-3">Forward plan 2025–2026</h2>
-            <p class="text-muted small mb-3">
-              The current forward-looking plan for the 2025–2026 funding year is summarised below.
-            </p>
-            <div class="bp-forward-plan">
-              ${forwardPlanHtml}
-            </div>
+            ${forwardPlanCalloutHtml}
           </section>
         </div>
       </div>
@@ -96,9 +82,6 @@ function renderAboutPage(forwardPlanHtml: string): void {
   app.innerHTML = aboutHtml;
 }
 
-// Load forward plan and render page
-(async () => {
-  const forwardPlanHtml = await loadForwardPlanHtml();
-  renderAboutPage(forwardPlanHtml);
-})();
+// Render page
+renderAboutPage();
 

@@ -9,6 +9,7 @@ export interface AnnualReport {
   summary?: string; // 1–2 sentence description for timeline / detail intro
   htmlPartialPath?: string; // path to HTML partial with full content
   pdfPath?: string; // optional: path to PDF asset when available
+  docxPath?: string; // optional: path to DOCX asset when available
 }
 
 /**
@@ -52,7 +53,7 @@ export const reports: AnnualReport[] = [
     fromYear: 2024,
     toYear: 2025,
     title: 'Annual Report 2024–2025',
-    summary: 'Placeholder summary for the 2024–2025 Beyond Prediction annual report.',
+    summary: 'Beyond Prediction is a national data science and AI programme making research more trustworthy and useful for Aotearoa. In 2024–2025 it delivered new methods for linking genomes to disease risk, models to understand how threatened and invasive species respond to environmental change, and a flagship LivePublication case study that turns static papers into updatable, data-driven research objects. The programme also strengthened New Zealand’s AI capability through shared tools, open datasets, and training that connects researchers, government, and iwi partners.',
     htmlPartialPath: '/content/reports/2024-2025.html',
   },
 ];
@@ -80,4 +81,44 @@ export function getLatestReport(): AnnualReport | undefined {
     return bYear - aYear;
   })[0];
 }
+
+/**
+ * Gets the DOCX path for a report, deriving it from htmlPartialPath if not explicitly set
+ * @param report - The annual report
+ * @returns The DOCX path or undefined if not available
+ */
+export function getReportDocxPath(report: AnnualReport): string | undefined {
+  if (report.docxPath) return report.docxPath;
+  if (!report.htmlPartialPath) return undefined;
+
+  if (report.htmlPartialPath.endsWith('.html')) {
+    return report.htmlPartialPath.replace(/\.html$/, '.docx');
+  }
+
+  return undefined;
+}
+
+/**
+ * Forward plan data model
+ */
+export interface ForwardPlan {
+  slug: string;
+  title: string;
+  htmlPartialPath: string;
+  docxPath: string;
+  fromYear: number;
+  toYear: number;
+}
+
+/**
+ * Current forward plan
+ */
+export const currentForwardPlan: ForwardPlan = {
+  slug: '2025-2026',
+  title: 'Beyond Prediction SSIF Forward-Looking Plan 2025–2026',
+  htmlPartialPath: '/content/forward-plan/2025-2026.html',
+  docxPath: '/content/forward-plan/2025-2026.docx',
+  fromYear: 2025,
+  toYear: 2026,
+};
 

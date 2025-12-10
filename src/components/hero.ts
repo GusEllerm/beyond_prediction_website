@@ -1,5 +1,37 @@
 import { heroShowcases } from '../data/heroShowcases';
 import type { HeroShowcase } from '../data/heroShowcases';
+import { currentForwardPlan } from '../data/reports';
+
+// YouTube IFrame API types
+declare global {
+  interface Window {
+    YT?: typeof YT;
+    onYouTubeIframeAPIReady?: () => void;
+  }
+}
+
+declare namespace YT {
+  class Player {
+    constructor(id: string | HTMLElement, options?: PlayerOptions);
+    pauseVideo(): void;
+    getPlayerState(): PlayerState;
+  }
+
+  interface PlayerOptions {
+    events?: {
+      onReady?: (event: { target: Player }) => void;
+    };
+  }
+
+  enum PlayerState {
+    UNSTARTED = -1,
+    ENDED = 0,
+    PLAYING = 1,
+    PAUSED = 2,
+    BUFFERING = 3,
+    CUED = 5,
+  }
+}
 
 /**
  * Helper function to escape HTML entities for safe rendering
@@ -11,9 +43,28 @@ function escapeHtml(text: string): string {
 }
 
 /**
+ * Checks if an iframe src is a YouTube URL
+ */
+function isYouTubeUrl(url: string): boolean {
+  return /youtube\.com\/embed|youtu\.be/.test(url);
+}
+
+/**
+ * Adds YouTube API parameters to a YouTube URL if needed
+ */
+function addYouTubeApiParams(url: string): string {
+  if (!isYouTubeUrl(url)) return url;
+  
+  const urlObj = new URL(url);
+  urlObj.searchParams.set('enablejsapi', '1');
+  urlObj.searchParams.set('origin', window.location.origin);
+  return urlObj.toString();
+}
+
+/**
  * Renders the content for a showcase slide based on its kind
  */
-function renderShowcaseContent(showcase: HeroShowcase): string {
+function renderShowcaseContent(showcase: HeroShowcase, index: number): string {
   switch (showcase.kind) {
     case 'image':
       if (!showcase.imageUrl) return '';
@@ -28,21 +79,28 @@ function renderShowcaseContent(showcase: HeroShowcase): string {
       `;
     case 'iframe':
       if (!showcase.iframeSrc) return '';
+      const iframeSrc = isYouTubeUrl(showcase.iframeSrc)
+        ? addYouTubeApiParams(showcase.iframeSrc)
+        : showcase.iframeSrc;
+      const iframeId = `bp-hero-iframe-${index}`;
       return `
         <div class="ratio ratio-16x9">
           <iframe
-            src="${escapeHtml(showcase.iframeSrc)}"
+            id="${iframeId}"
+            src="${escapeHtml(iframeSrc)}"
             loading="lazy"
             class="border-0 rounded w-100 h-100"
             allowfullscreen
+            ${isYouTubeUrl(showcase.iframeSrc) ? 'data-youtube-iframe="true"' : ''}
           ></iframe>
         </div>
       `;
     case 'video':
       if (!showcase.videoSrc) return '';
+      const videoId = `bp-hero-video-${index}`;
       return `
         <div class="ratio ratio-16x9">
-          <video class="w-100 h-100 rounded" controls preload="metadata">
+          <video id="${videoId}" class="w-100 h-100 rounded" controls preload="metadata">
             <source src="${escapeHtml(showcase.videoSrc)}" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
@@ -76,11 +134,11 @@ export function renderHero(container: HTMLElement): void {
   const slides = heroShowcases
     .map(
       (item, index) => `
-        <div class="carousel-item ${index === 0 ? 'active' : ''}">
+        <div class="carousel-item ${index === 0 ? 'active' : ''}" data-showcase-id="${escapeHtml(item.id)}">
           <div class="bp-hero-slide p-3 p-lg-4 bg-white border rounded-3 shadow-sm">
             <h2 class="h5 mb-2">${escapeHtml(item.title)}</h2>
             <p class="small text-muted mb-3">${escapeHtml(item.summary)}</p>
-            ${renderShowcaseContent(item)}
+            ${renderShowcaseContent(item, index)}
             ${
               item.ctaLabel && item.ctaHref
                 ? `
@@ -107,6 +165,15 @@ export function renderHero(container: HTMLElement): void {
             <p class="lead mb-4">
               Developing explainable, auditable data science methods for Aotearoa New Zealand's environment, health and society.
             </p>
+            <div class="alert alert-primary d-flex flex-wrap align-items-center justify-content-between mb-0" role="alert">
+              <div class="me-3">
+                <strong>${currentForwardPlan.fromYear}–${currentForwardPlan.toYear} Forward Plan</strong><br />
+                <span class="small">Read our current priorities and goals for the coming year.</span>
+              </div>
+              <a href="/forward-plan.html" class="btn btn-light btn-sm mt-2 mt-md-0">
+                View forward plan
+              </a>
+            </div>
           </div>
           <div class="col-lg-6">
             <div id="bp-hero-carousel" class="carousel carousel-dark slide carousel-fade">
@@ -140,4 +207,101 @@ export function renderHero(container: HTMLElement): void {
       </div>
     </section>
   `;
+
+  // Set up video pausing on carousel slide change
+  setupCarouselVideoControl();
+}
+
+/**
+ * Sets up video pausing when carousel slides change
+ */
+function setupCarouselVideoControl(): void {
+  const carousel = document.querySelector<HTMLElement>('#bp-hero-carousel');
+  if (!carousel) return;
+
+  // Track YouTube players
+  const youtubePlayers = new Map<string, YT.Player>();
+
+  // Load YouTube IFrame API
+  if (!window.YT) {
+    const tag = document.createElement('script');
+    tag.src = 'https://www.youtube.com/iframe_api';
+    const firstScriptTag = document.getElementsByTagName('script')[0];
+    if (firstScriptTag.parentNode) {
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    }
+
+    // Set up callback for when YouTube API is ready
+    (window as unknown as { onYouTubeIframeAPIReady?: () => void }).onYouTubeIframeAPIReady = () => {
+      initializeYouTubePlayers();
+    };
+  } else {
+    // API already loaded, initialize players
+    setTimeout(initializeYouTubePlayers, 100);
+  }
+
+  /**
+   * Initialize YouTube player instances for all YouTube iframes
+   */
+  function initializeYouTubePlayers(): void {
+    const carouselEl = document.querySelector<HTMLElement>('#bp-hero-carousel');
+    if (!carouselEl) return;
+
+    const iframes = carouselEl.querySelectorAll<HTMLIFrameElement>('iframe[data-youtube-iframe="true"]');
+    iframes.forEach((iframe) => {
+      const iframeId = iframe.id;
+      if (!iframeId || youtubePlayers.has(iframeId)) return;
+
+      try {
+        const player = new YT.Player(iframeId, {
+          events: {
+            onReady: () => {
+              // Player is ready
+            },
+          },
+        });
+        youtubePlayers.set(iframeId, player);
+      } catch (error) {
+        console.warn('Failed to initialize YouTube player for', iframeId, error);
+      }
+    });
+  }
+
+  /**
+   * Pause all videos (both YouTube and HTML5)
+   */
+  function pauseAllVideos(): void {
+    const carouselEl = document.querySelector<HTMLElement>('#bp-hero-carousel');
+    if (!carouselEl) return;
+
+    // Pause all YouTube players
+    youtubePlayers.forEach((player) => {
+      try {
+        if (player.getPlayerState && player.getPlayerState() === YT.PlayerState.PLAYING) {
+          player.pauseVideo();
+        }
+      } catch (error) {
+        // Player might not be ready yet
+      }
+    });
+
+    // Pause all HTML5 video elements
+    const videos = carouselEl.querySelectorAll<HTMLVideoElement>('video');
+    videos.forEach((video) => {
+      if (!video.paused) {
+        video.pause();
+      }
+    });
+  }
+
+  // Listen to Bootstrap carousel slide events
+  carousel.addEventListener('slide.bs.carousel', () => {
+    // Pause videos when slide starts changing
+    pauseAllVideos();
+  });
+
+  carousel.addEventListener('slid.bs.carousel', () => {
+    // Also pause after slide completes (in case video started during transition)
+    pauseAllVideos();
+  });
 }

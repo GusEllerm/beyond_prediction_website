@@ -13,7 +13,7 @@ import { renderFooter } from './components/footer';
 import { partners } from './data/partners';
 
 // Import data
-import { reports, getLatestReport } from './data/reports';
+import { reports, getLatestReport, currentForwardPlan } from './data/reports';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
@@ -43,7 +43,7 @@ function escapeHtml(text: string): string {
 function renderReportsTimeline(): void {
   if (!app) return;
 
-  const sortedReports = [...reports].sort((a, b) => a.fromYear - b.fromYear);
+  const sortedReports = [...reports].sort((a, b) => b.fromYear - a.fromYear);
   const latestReport = getLatestReport();
 
   // Build featured latest report card (entire card is clickable)
@@ -99,6 +99,18 @@ function renderReportsTimeline(): void {
 
 
 
+  const forwardPlanBannerHtml = `
+    <div class="alert alert-secondary d-flex flex-wrap align-items-center justify-content-between mb-4" role="alert">
+      <div class="me-3">
+        <strong>Looking for the current forward plan?</strong><br />
+        Read the ${currentForwardPlan.fromYear}–${currentForwardPlan.toYear} SSIF forward-looking plan for Beyond Prediction.
+      </div>
+      <a href="/forward-plan.html" class="btn btn-outline-primary btn-sm">
+        View forward plan
+      </a>
+    </div>
+  `;
+
   app.innerHTML = `
     <header class="bp-page-header">
       <div class="container py-3">
@@ -111,6 +123,12 @@ function renderReportsTimeline(): void {
           <p class="text-muted mb-4">
             Browse Beyond Prediction annual reports from 2020–2021${latestReport ? ` through ${latestReport.fromYear}–${latestReport.toYear}` : ''}.
           </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-10 col-xl-8">
+          ${forwardPlanBannerHtml}
         </div>
       </div>
 

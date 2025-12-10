@@ -28,15 +28,15 @@ export const heroShowcases: HeroShowcase[] = [
     id: 'scitrue',
     title: 'SciTrue',
     summary: 'Scientific fact-checking and trustworthy AI.',
-    kind: 'video',
-    videoSrc: '/showcase/scitrue.mp4', // placeholder
+    kind: 'iframe',
+    iframeSrc: 'https://www.youtube.com/embed/XhoHqCoyz3s?si=PsxiRWpPQevi8yjx',
   },
   {
     id: 'livepublication',
     title: 'LivePublication',
     summary: 'Publications linked to running workflows and reproducible containers.',
-    kind: 'image',
-    imageUrl: '/showcase/livepublication.png',
+    kind: 'iframe',
+    iframeSrc: 'https://www.youtube.com/embed/pqhcBD1745E?si=O9IEyNnJoUfl3BoX',
     ctaHref: '/project.html?project=live-research-articles',
   },
   {
