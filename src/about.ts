@@ -51,18 +51,16 @@ function renderAboutPage(): void {
   `;
 
   const aboutHtml = `
-    <header class="bp-page-header">
-      <div class="container py-3">
-        <h1 class="h3 mb-0">About Beyond Prediction</h1>
-      </div>
-    </header>
-    <main class="container py-4">
+    <div class="container py-5">
       <div class="row">
         <div class="col-lg-10 col-xl-8">
-          <section class="mb-5">
-            <p class="lead">
+          <header class="mb-5">
+            <h1 class="mb-3">About Beyond Prediction</h1>
+            <p class="text-muted">
               Beyond Prediction: Explanatory and Transparent Data Science is a seven-year national research programme designed to develop deep data science methods that connect data to meaning, causality and explanation, rather than just prediction.
             </p>
+          </header>
+          <section class="mb-5">
             <p>
               Its objectives are to create robust, transparent and reusable analytical tools and workflows that can be validated, maintained and explained automatically, and to embed these in "live" data science environments and journals so that analyses and publications can update as data and methods change.
             </p>
@@ -76,7 +74,7 @@ function renderAboutPage(): void {
           </section>
         </div>
       </div>
-    </main>
+    </div>
   `;
 
   app.innerHTML = aboutHtml;

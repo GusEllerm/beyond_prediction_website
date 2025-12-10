@@ -1,18 +1,30 @@
 /* Custom styles that extend Bootstrap */
 
+/* Import Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
 :root {
-  --bs-primary-rgb: 13, 110, 253;
+  /* Base dark blue from navbar */
+  --bp-dark-blue: rgb(12, 12, 72);
+  --bp-dark-blue-rgb: 12, 12, 72;
+  
+  /* Medium blue for primary actions (derived from dark blue) */
+  --bp-primary-blue: rgb(30, 30, 140);
+  --bp-primary-blue-rgb: 30, 30, 140;
+  
+  /* Light blue for backgrounds (very light tint of dark blue) */
+  --bp-light-blue: rgb(235, 236, 248);
+  
+  /* Very light blue for subtle backgrounds */
+  --bp-very-light-blue: rgb(245, 246, 252);
+  
+  /* Bootstrap primary color - using our medium blue */
+  --bs-primary: var(--bp-primary-blue);
+  --bs-primary-rgb: var(--bp-primary-blue-rgb);
 }
 
 body {
-  font-family:
-    system-ui,
-    -apple-system,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* Hero section customizations */
@@ -131,7 +143,7 @@ body {
 .card:hover {
   transform: translateY(-5px);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
-  background-color: #e7f3ff !important;
+  background-color: var(--bp-light-blue) !important;
 }
 
 /* Disable hover effects for specific cards */
@@ -161,9 +173,65 @@ body {
   padding-right: 0;
 }
 
-/* Navbar background color - matches research card hover color */
+/* University logo in bottom navbar - scale proportionally to navbar height */
+/* Navbar has py-3 (1rem top + 1rem bottom = 2rem padding) + content height */
+/* Logo should be roughly 70-80% of total navbar height */
+.bp-header > .navbar:last-child .navbar-brand img {
+  height: calc(1rem + 1.5rem + 1rem); /* 1rem top padding + 1.5rem content + 0.5rem for visual balance = 3rem */
+  max-height: 5rem;
+  width: auto;
+}
+
+@media (max-width: 991.98px) {
+  .bp-header > .navbar:last-child .navbar-brand img {
+    height: 2.5rem;
+    max-height: 3rem;
+  }
+}
+
+/* Beyond Prediction brand text styling */
+.bp-header > .navbar:last-child .navbar-brand > a:last-child {
+  color: var(--bp-dark-blue);
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  transition: color 0.2s ease;
+  margin-left: 0.5rem;
+}
+
+.bp-header > .navbar:last-child .navbar-brand > a:last-child:hover {
+  color: var(--bp-primary-blue);
+}
+
+.bp-header > .navbar:last-child .navbar-brand > a:last-child span {
+  display: inline-block;
+}
+
+/* Navbar background color - top half is dark blue, bottom half is light blue */
+.bp-header > .navbar:first-child {
+  background-color: var(--bp-dark-blue) !important;
+}
+
+.bp-header > .navbar:first-child .nav-link {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.bp-header > .navbar:first-child .nav-link:hover,
+.bp-header > .navbar:first-child .nav-link.active {
+  color: rgba(255, 255, 255, 1) !important;
+}
+
+.bp-header > .navbar:first-child .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.bp-header > .navbar:first-child .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.85%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* Bottom navbar (brand and search) uses light blue derivative */
 .bp-navbar-bg {
-  background-color: #e7f3ff !important;
+  background-color: var(--bp-light-blue) !important;
 }
 
 /* Page header that sits directly under the site navbar */
@@ -323,7 +391,7 @@ body {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: var(--bs-primary, #0d6efd);
+  background-color: var(--bp-primary-blue);
   top: 0.55rem;
 }
 
@@ -393,12 +461,12 @@ body {
 }
 
 .bp-forward-plan a {
-  color: #0d6efd;
+  color: var(--bp-primary-blue);
   text-decoration: underline;
 }
 
 .bp-forward-plan a:hover {
-  color: #0a58ca;
+  color: var(--bp-dark-blue);
 }
 
 .bp-forward-plan table {

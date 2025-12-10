@@ -511,11 +511,11 @@ export const postDocs: Person[] = [
     roleLabel: 'Post-Doc',
     email: 'gus.ellerm@auckland.ac.nz',
     orcidId: '0000-0001-8260-231X',
+    photoUrl: '/photos/gus-ellerm.png',
     themeSlugs: [
       'live-research-articles',
-      'digital-research-skills',
     ],
-    bio: 'Dr Augustus (Gus) Ellerm is a computer scientist whose research centres on research workflows, provenance and live scientific publications. Based at the University of Canterbury, he is lead author of the "Enabling LivePublication" and "LivePublication: The Science Workflow Creates and Updates the Publication" papers, which prototype systems where computational workflows directly drive and update scientific articles. Gus\'s work on integrating workflow systems, provenance standards and publication technologies underpins this project\'s vision of dynamic, reproducible and machine-actionable research outputs.',
+    bio: 'Augustus (Gus) Ellerm is a computer scientist whose research centres on research workflows, provenance and live scientific publications. Based at the University of Canterbury, he is lead author of the "Enabling LivePublication" and "LivePublication: The Science Workflow Creates and Updates the Publication" papers, which prototype systems where computational workflows directly drive and update scientific articles. Gus\'s work on integrating workflow systems, provenance standards and publication technologies underpins this project\'s vision of dynamic, reproducible and machine-actionable research outputs.',
     bioSources: [
       {
         label: 'IEEE e-Science 2022 – Enabling LivePublication',

@@ -71,9 +71,18 @@ export function renderNavbar(container: HTMLElement): void {
       </nav>
       <div class="navbar navbar-light bp-navbar-bg">
         <div class="container d-flex flex-wrap align-items-center justify-content-between py-3">
-          <a href="/" class="navbar-brand d-flex align-items-center mb-2 mb-lg-0 text-decoration-none">
-            <span class="fw-semibold">Beyond Prediction</span>
-          </a>
+          <div class="navbar-brand d-flex align-items-center mb-2 mb-lg-0">
+            <a href="https://www.auckland.ac.nz" target="_blank" rel="noopener noreferrer" class="text-decoration-none me-3 d-flex align-items-center">
+              <img
+                src="/logos/university_of_auckland_nav_logo.svg"
+                alt="University of Auckland"
+                class="bp-university-logo"
+              />
+            </a>
+            <a href="/" class="text-decoration-none">
+              <span class="fw-semibold">Beyond Prediction</span>
+            </a>
+          </div>
           <form class="col-12 col-lg-4 mb-2 mb-lg-0" role="search" id="bp-search-form">
             <input
               type="search"

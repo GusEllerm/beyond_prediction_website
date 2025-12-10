@@ -49,7 +49,7 @@ function renderReportsTimeline(): void {
   // Build featured latest report card (entire card is clickable)
   const latestReportSection = latestReport
     ? `
-      <div class="col-lg-8 mb-4">
+      <div class="mb-4">
         <a href="/report.html?report=${encodeURIComponent(latestReport.slug)}" class="text-decoration-none text-reset d-block">
           <div class="card border-0 shadow-sm">
             <div class="card-body">
@@ -112,36 +112,18 @@ function renderReportsTimeline(): void {
   `;
 
   app.innerHTML = `
-    <header class="bp-page-header">
-      <div class="container py-3">
-        <h1 class="h3 mb-0">Annual Reports</h1>
-      </div>
-    </header>
-    <main class="container py-4">
+    <div class="container py-5">
       <div class="row">
         <div class="col-lg-10 col-xl-8">
-          <p class="text-muted mb-4">
-            Browse Beyond Prediction annual reports from 2020–2021${latestReport ? ` through ${latestReport.fromYear}–${latestReport.toYear}` : ''}.
-          </p>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-10 col-xl-8">
+          <header class="mb-5">
+            <h1 class="mb-3">Annual Reports</h1>
+            <p class="text-muted">
+              Browse Beyond Prediction annual reports from 2020–2021${latestReport ? ` through ${latestReport.fromYear}–${latestReport.toYear}` : ''}.
+            </p>
+          </header>
           ${forwardPlanBannerHtml}
-        </div>
-      </div>
-
-      <div class="row">
-        ${latestReportSection}
-        <div class="col-lg-4">
-          <!-- Empty column to maintain alignment -->
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-8 mb-4">
-          <section>
+          ${latestReportSection}
+          <section class="mb-4">
             <h2 class="h5 mb-3">All annual reports</h2>
             <div class="bp-timeline-wrapper">
               <ul class="bp-timeline list-unstyled mb-0">
@@ -150,7 +132,7 @@ function renderReportsTimeline(): void {
             </div>
           </section>
         </div>
-        <aside class="col-lg-4 mb-4">
+        <aside class="col-lg-2 col-xl-4 mb-4">
           <div class="card border-0 bg-light bp-no-hover bp-sticky-sidebar">
             <div class="card-body">
               <h2 class="h6">About these reports</h2>
@@ -163,7 +145,7 @@ function renderReportsTimeline(): void {
           </div>
         </aside>
       </div>
-    </main>
+    </div>
   `;
 }
 
