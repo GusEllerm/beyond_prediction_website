@@ -1,0 +1,684 @@
+{
+  "slug": "paul-gardner",
+  "orcidId": "0000-0002-7808-1213",
+  "updatedAt": "2025-12-09T23:10:57.772Z",
+  "works": [
+    {
+      "id": "orcid:0000-0002-7808-1213/work/185800099",
+      "title": "Evaluating computational tools for protein-coding sequence detection: Are they up to the task?",
+      "year": 2025,
+      "venue": "RNA",
+      "doi": "10.1261/rna.080416.125",
+      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/176442778",
+      "title": "A bioinformatician, computer scientist, and geneticist lead bioinformatic tool development—which one is better?",
+      "year": 2024,
+      "venue": "Bioinformatics Advances",
+      "doi": "10.1093/bioadv/vbaf011",
+      "openAccessUrl": "https://doi.org/10.1093/bioadv/vbaf011"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/173367189",
+      "title": "Assessing the robustness of human ncRNA notations",
+      "year": 2024,
+      "doi": "10.1101/2024.12.08.627405",
+      "openAccessUrl": "https://doi.org/10.1101/2024.12.08.627405"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/149737346",
+      "title": "Serratia‐based toxin cluster elements are associated with a type I fimbria",
+      "year": 2024,
+      "venue": "MicrobiologyOpen",
+      "doi": "10.1002/mbo3.1395",
+      "openAccessUrl": "https://doi.org/10.1002/mbo3.1395"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/144284959",
+      "title": "The PitA protein contributes to colistin susceptibility in Pseudomonas aeruginosa",
+      "year": 2023,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0292818",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0292818"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/131335656",
+      "title": "Finding priority bacterial ribosomes for future structural and antimicrobial research based upon global RNA and protein sequence analysis",
+      "year": 2023,
+      "venue": "PeerJ",
+      "doi": "10.7717/peerj.14969",
+      "openAccessUrl": "https://doi.org/10.7717/peerj.14969"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/121194755",
+      "title": "High-throughput transposon mutagenesis in the family Enterobacteriaceae reveals core essential genes and rapid turnover of essentiality",
+      "year": 2022,
+      "doi": "10.1101/2022.10.20.512852",
+      "openAccessUrl": "https://doi.org/10.1101/2022.10.20.512852"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/108681992",
+      "title": "LazyPair: scalable prediction of protein-protein interactions and interaction types",
+      "year": 2022,
+      "doi": "10.1101/2022.02.21.481370",
+      "openAccessUrl": "https://doi.org/10.1101/2022.02.21.481370"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/108313580",
+      "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2022,
+      "venue": "Genome Biology",
+      "doi": "10.1186/s13059-022-02625-x",
+      "openAccessUrl": "https://doi.org/10.1186/s13059-022-02625-x"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/101032410",
+      "title": "Analysis of 11,430 recombinant protein production experiments reveals that protein yield is tunable by synonymous codon changes of translation initiation sites",
+      "year": 2021,
+      "venue": "PLOS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1009461",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1009461"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/94337603",
+      "title": "Evolution of virulence in a novel family of transmissible mega‐plasmids",
+      "year": 2021,
+      "venue": "Environmental Microbiology",
+      "doi": "10.1111/1462-2920.15595",
+      "openAccessUrl": "https://doi.org/10.1111/1462-2920.15595"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/90961644",
+      "title": "TISIGNER.com: web services for improving recombinant protein production",
+      "year": 2021,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkab175",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkab175"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/84572370",
+      "title": "Razor: annotation of signal peptides from toxins",
+      "year": 2020,
+      "doi": "10.1101/2020.11.30.405613",
+      "openAccessUrl": "https://doi.org/10.1101/2020.11.30.405613"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/84781235",
+      "title": "ncVarDB: a manually curated database for pathogenic non-coding variants and benign controls",
+      "year": 2020,
+      "venue": "Database",
+      "doi": "10.1093/database/baaa105",
+      "openAccessUrl": "https://doi.org/10.1093/database/baaa105"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/81795133",
+      "title": "Features of Functional Human Genes",
+      "year": 2020,
+      "doi": "10.1101/2020.10.10.334193",
+      "openAccessUrl": "https://doi.org/10.1101/2020.10.10.334193"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/80830011",
+      "title": "Solubility-Weighted Index: fast and accurate prediction of protein solubility",
+      "year": 2020,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btaa578",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btaa578"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/56117781",
+      "title": "Convergent regulatory evolution and loss of flight in paleognathous birds",
+      "year": 2019,
+      "venue": "Science",
+      "doi": "10.1126/science.aat7244",
+      "openAccessUrl": "https://doi.org/10.1126/science.aat7244"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/56286101",
+      "title": "Genomic correlates of extraintestinal infection are linked with changes in cell morphology in Campylobacter jejuni",
+      "year": 2019,
+      "venue": "Microbial genomics",
+      "doi": "10.1099/mgen.0.000251",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.000251"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/56286102",
+      "title": "Identifying accurate metagenome and amplicon software via a meta-analysis of sequence to taxonomy benchmarking studies",
+      "year": 2019,
+      "venue": "PeerJ",
+      "doi": "10.7717/peerj.6160",
+      "openAccessUrl": "https://doi.org/10.7717/peerj.6160"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51227227",
+      "title": "The genetic robustness of RNA and protein from evolutionary, structural and functional perspectives",
+      "year": 2018,
+      "doi": "10.1101/480087",
+      "openAccessUrl": "https://doi.org/10.1101/480087"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119607",
+      "title": "An evaluation of function of multicopy noncoding RNAs in mammals using ENCODE/FANTOM data and comparative genomics",
+      "year": 2018,
+      "venue": "Molecular Biology and Evolution",
+      "doi": "10.1093/molbev/msy046",
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msy046"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119602",
+      "title": "Machine learning identifies signatures of host adaptation in the bacterial pathogen Salmonella enterica",
+      "year": 2018,
+      "venue": "PLoS Genetics",
+      "doi": "10.1371/journal.pgen.1007333",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1007333"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119597",
+      "title": "Towards robust and repeatable sampling methods in eDNA-based studies",
+      "year": 2018,
+      "venue": "Molecular Ecology Resources",
+      "doi": "10.1111/1755-0998.12907",
+      "openAccessUrl": "https://doi.org/10.1111/1755-0998.12907"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119614",
+      "title": "A comprehensive benchmark of RNA-RNA interaction prediction tools for all domains of life",
+      "year": 2017,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btw728",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btw728"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119600",
+      "title": "Analysis of the genome of the New Zealand giant collembolan (Holacanthella duospinosa) sheds light on hexapod evolution",
+      "year": 2017,
+      "venue": "BMC Genomics",
+      "doi": "10.1186/s12864-017-4197-1",
+      "openAccessUrl": "https://doi.org/10.1186/s12864-017-4197-1"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119605",
+      "title": "Complete genome sequences of two geographically distinct Legionella micdadei clinical isolates",
+      "year": 2017,
+      "venue": "Genome Announcements",
+      "doi": "10.1128/genomeA.00436-17",
+      "openAccessUrl": "https://doi.org/10.1128/genomeA.00436-17"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119593",
+      "title": "Transposon insertion libraries for the characterization of mutants from the kiwifruit pathogen Pseudomonas syringae pv. actinidiae",
+      "year": 2017,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0172790",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0172790"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119598",
+      "title": "Why so narrow: Distribution of anti-sense regulated, type I toxin-antitoxin systems compared with type II and type III systems",
+      "year": 2017,
+      "venue": "RNA Biology",
+      "doi": "10.1080/15476286.2016.1272747",
+      "openAccessUrl": "https://doi.org/10.1080/15476286.2016.1272747"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/26849693",
+      "title": "Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea",
+      "year": 2016,
+      "venue": "eLife",
+      "doi": "10.7554/eLife.13479",
+      "openAccessUrl": "https://doi.org/10.7554/eLife.13479"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119609",
+      "title": "Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea",
+      "year": 2016,
+      "venue": "eLife",
+      "doi": "10.7554/eLife.13479",
+      "openAccessUrl": "https://doi.org/10.7554/eLife.13479"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119616",
+      "title": "A profile-based method for identifying functional divergence of orthologous genes in bacterial genomes",
+      "year": 2016,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btw518",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btw518"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119615",
+      "title": "An evaluation of the accuracy and speed of metagenome analysis tools",
+      "year": 2016,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/srep19233",
+      "openAccessUrl": "https://doi.org/10.1038/srep19233"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119594",
+      "title": "Studying RNA homology and conservation with infernal: From single sequences to RNA families",
+      "year": 2016,
+      "venue": "Current Protocols in Bioinformatics",
+      "doi": "10.1002/cpbi.4",
+      "openAccessUrl": "https://doi.org/10.1002/cpbi.4"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/37562201",
+      "title": "Annotating RNA motifs in sequences and alignments",
+      "year": 2015,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gku1327",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1327"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119606",
+      "title": "Annotating RNA motifs in sequences and alignments",
+      "year": 2015,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gku1327",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1327"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/37562802",
+      "title": "Rfam 12.0: updates to the RNA families database",
+      "year": 2015,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gku1063",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1063"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119611",
+      "title": "Rfam 12.0: Updates to the RNA families database",
+      "year": 2015,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gku1063",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1063"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119610",
+      "title": "Conservation and losses of non-coding RNAs in avian genomes",
+      "year": 2015,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0121797",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121797"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/56286100",
+      "title": "Crowdsourcing RNA structural alignments with an online computer game",
+      "year": 2015,
+      "venue": "Pacific Symposium on Biocomputing"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119613",
+      "title": "Third Report on Chicken Genes and Chromosomes 2015:",
+      "year": 2015,
+      "venue": "Cytogenetic and Genome Research",
+      "doi": "10.1159/000430927",
+      "openAccessUrl": "https://doi.org/10.1159/000430927"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/16719577",
+      "title": "An introduction to RNA databases",
+      "year": 2014,
+      "venue": "RNA Sequence, Structure, and Function: Computational and Bioinformatic Methods"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119601",
+      "title": "An introduction to RNA databases",
+      "year": 2014,
+      "venue": "Methods in Molecular Biology",
+      "doi": "10.1007/978-1-62703-709-9_6",
+      "openAccessUrl": "https://doi.org/10.1007/978-1-62703-709-9_6"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/16719583",
+      "title": "Comparative genomic data of the Avian Phylogenomics Project",
+      "year": 2014,
+      "venue": "GigaScience"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119595",
+      "title": "Comparative genomics reveals insights into avian genome evolution and adaptation",
+      "year": 2014,
+      "venue": "Science",
+      "doi": "10.1126/science.1251385",
+      "openAccessUrl": "https://doi.org/10.1126/science.1251385"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119599",
+      "title": "Molecular characterization of a new member of the lariat capping twin-ribozyme introns",
+      "year": 2014,
+      "venue": "Mobile DNA",
+      "doi": "10.1186/1759-8753-5-25",
+      "openAccessUrl": "https://doi.org/10.1186/1759-8753-5-25"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119603",
+      "title": "Robust Identification of Noncoding RNA from Transcriptomes Requires Phylogenetically-Informed Sampling",
+      "year": 2014,
+      "venue": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1003907",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1003907"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201395",
+      "title": "A comparison of dense transposon insertion libraries in the Salmonella serovars Typhi and Typhimurium",
+      "year": 2013,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkt148",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkt148"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119612",
+      "title": "Genome and transcriptome adaptation accompanying emergence of the definitive type 2 host-restricted salmonella enterica Serovar Typhimurium pathovar",
+      "year": 2013,
+      "venue": "mBio",
+      "doi": "10.1128/mBio.00565-13",
+      "openAccessUrl": "https://doi.org/10.1128/mBio.00565-13"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201396",
+      "title": "Letter from the Editor",
+      "year": 2013,
+      "venue": "RNA Biology",
+      "doi": "10.4161/rna.23502",
+      "openAccessUrl": "https://doi.org/10.4161/rna.23502"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201397",
+      "title": "Rfam 11.0: 10 years of RNA families",
+      "year": 2013,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gks1005",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gks1005"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201398",
+      "title": "A vapbc toxin-antitoxin module is a posttranscriptional regulator of metabolic flux in mycobacteria",
+      "year": 2012,
+      "venue": "Journal of Bacteriology",
+      "doi": "10.1128/JB.06790-11",
+      "openAccessUrl": "https://doi.org/10.1128/JB.06790-11"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119608",
+      "title": "Comparative Analysis of RNA Families Reveals Distinct Repertoires for Each Domain of Life",
+      "year": 2012,
+      "venue": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1002752",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1002752"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158357",
+      "title": "Making your database available through Wikipedia: The pros and cons",
+      "year": 2012,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkr1195",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkr1195"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158365",
+      "title": "RNASTAR: An RNA structural alignment repository that provides insight into the evolution of natural and artificial RNAs",
+      "year": 2012,
+      "venue": "RNA",
+      "doi": "10.1261/rna.032052.111",
+      "openAccessUrl": "https://doi.org/10.1261/rna.032052.111"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201402",
+      "title": "Quantitative RNA-seq analysis of the campylobacter jejuni transcriptome",
+      "year": 2011,
+      "venue": "Microbiology",
+      "doi": "10.1099/mic.0.050278-0",
+      "openAccessUrl": "https://doi.org/10.1099/mic.0.050278-0"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201403",
+      "title": "RNAcentral: A vision for an international database of RNA sequences",
+      "year": 2011,
+      "venue": "RNA",
+      "doi": "10.1261/rna.2750811",
+      "openAccessUrl": "https://doi.org/10.1261/rna.2750811"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201404",
+      "title": "RNIE: Genome-wide prediction of bacterial intrinsic terminators",
+      "year": 2011,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkr168",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkr168"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201405",
+      "title": "Rfam: Wikipedia, clans and the \"decimal\" release",
+      "year": 2011,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkq1129",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkq1129"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/51119596",
+      "title": "Two covariance models for iron-responsive elements",
+      "year": 2011,
+      "venue": "RNA Biology",
+      "doi": "10.4161/rna.8.5.16037",
+      "openAccessUrl": "https://doi.org/10.4161/rna.8.5.16037"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158355",
+      "title": "Long- and short-term selective forces on malaria parasite genomes",
+      "year": 2010,
+      "venue": "PLoS Genetics",
+      "doi": "10.1371/journal.pgen.1001099",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1001099"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201409",
+      "title": "SnoPatrol: How many snoRNA genes are there?",
+      "year": 2010,
+      "venue": "Journal of Biology",
+      "doi": "10.1186/jbiol211",
+      "openAccessUrl": "https://doi.org/10.1186/jbiol211"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201410",
+      "title": "Ten simple rules for editing wikipedia",
+      "year": 2010,
+      "venue": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1000941",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1000941"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201411",
+      "title": "A home for RNA families at RNA Biology",
+      "year": 2009,
+      "venue": "RNA Biology"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201412",
+      "title": "A strand-specific RNA-seq analysis of the transcriptome of the typhoid bacillus Salmonella typhi",
+      "year": 2009,
+      "venue": "PLoS Genetics",
+      "doi": "10.1371/journal.pgen.1000569",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1000569"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201413",
+      "title": "Rfam: Updates to the RNA families database",
+      "year": 2009,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkn766",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkn766"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201414",
+      "title": "The use of covariance models to annotate RNAs in whole genomes",
+      "year": 2009,
+      "venue": "Briefings in Functional Genomics and Proteomics",
+      "doi": "10.1093/bfgp/elp042",
+      "openAccessUrl": "https://doi.org/10.1093/bfgp/elp042"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201415",
+      "title": "Genome-wide discovery and verification of novel structured RNAs in Plasmodium falciparum",
+      "year": 2008,
+      "venue": "Genome Research",
+      "doi": "10.1101/gr.6836108",
+      "openAccessUrl": "https://doi.org/10.1101/gr.6836108"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201416",
+      "title": "Mutation of miRNA target sequences during human evolution",
+      "year": 2008,
+      "venue": "Trends in Genetics",
+      "doi": "10.1016/j.tig.2008.03.009",
+      "openAccessUrl": "https://doi.org/10.1016/j.tig.2008.03.009"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158373",
+      "title": "The RNA WikiProject: Community annotation of RNA families",
+      "year": 2008,
+      "venue": "RNA",
+      "doi": "10.1261/rna.1200508",
+      "openAccessUrl": "https://doi.org/10.1261/rna.1200508"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158352",
+      "title": "Exploring genomic dark matter: A critical assessment of the performance of homology search methods on noncoding RNA",
+      "year": 2007,
+      "venue": "Genome Research",
+      "doi": "10.1101/gr.5890907",
+      "openAccessUrl": "https://doi.org/10.1101/gr.5890907"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158356",
+      "title": "MASTR: Multiple alignment and structure prediction of non-coding RNAs using simulated annealing",
+      "year": 2007,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btm525",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btm525"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158359",
+      "title": "Multiple alignment and structure prediction of non-coding RNA sequences",
+      "year": 2007,
+      "venue": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-8-S8-P8",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-8-S8-P8"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158378",
+      "title": "Use of tiling array data and RNA secondary structure predictions to identify noncoding RNA genes",
+      "year": 2007,
+      "venue": "BMC Genomics",
+      "doi": "10.1186/1471-2164-8-244",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2164-8-244"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158347",
+      "title": "A hidden Markov model approach for determining expression from genomic tiling micro arrays",
+      "year": 2006,
+      "venue": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-7-239",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-7-239"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201423",
+      "title": "Identification of miRNA targets with stable isotope labeling by amino acids in cell culture",
+      "year": 2006,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkl590",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkl590"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201424",
+      "title": "Measuring covariation in RNA alignments: Physical realism improves information measures",
+      "year": 2006,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btl514",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btl514"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201425",
+      "title": "A benchmark of multiple sequence alignment programs upon structural RNAs",
+      "year": 2005,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gki541",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gki541"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201427",
+      "title": "Predicting RNA structure using mutual information",
+      "year": 2005,
+      "venue": "Applied Bioinformatics",
+      "doi": "10.2165/00822942-200504010-00006",
+      "openAccessUrl": "https://doi.org/10.2165/00822942-200504010-00006"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158343",
+      "title": "Untitled work",
+      "year": 2005,
+      "doi": "10.1186/1471-2105-6-241",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-6-241"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201426",
+      "title": "A comparison of RNA folding measures",
+      "year": 2005,
+      "venue": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-6-241",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-6-241"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158346",
+      "title": "A comprehensive comparison of comparative RNA structure prediction approaches",
+      "year": 2004,
+      "venue": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-5-140",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-5-140"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201429",
+      "title": "A search for H/ACA snoRNAs in yeast using MFE secondary structure prediction",
+      "year": 2003,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btg080",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btg080"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158361",
+      "title": "Optimal alphabets for an RNA world",
+      "year": 2003,
+      "venue": "Proceedings of the Royal Society B: Biological Sciences",
+      "doi": "10.1098/rspb.2003.2355",
+      "openAccessUrl": "https://doi.org/10.1098/rspb.2003.2355"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/6158370",
+      "title": "Sequence diversity and functional conservation of the origin of replication in lactococcal prolate phages",
+      "year": 2003,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.69.9.5104-5114.2003",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.69.9.5104-5114.2003"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201432",
+      "title": "RNA folding argues against a hot-start origin of life",
+      "year": 2000,
+      "venue": "Journal of Molecular Evolution"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201393",
+      "title": "Three years of RNA Families",
+      "doi": "http://dx.doi.org/10.4161/rna.9.1.18979",
+      "openAccessUrl": "https://doi.org/http://dx.doi.org/10.4161/rna.9.1.18979"
+    },
+    {
+      "id": "orcid:0000-0002-7808-1213/work/9201401",
+      "title": "Three years of RNA families",
+      "year": 2012,
+      "venue": "RNA Biology",
+      "doi": "10.4161/rna.9.1.18979",
+      "openAccessUrl": "https://doi.org/10.4161/rna.9.1.18979"
+    }
+  ]
+}

@@ -32,7 +32,14 @@ export const partners: Partner[] = [
     url: 'https://stencila.com/',
     logoSrc: '/logos/stencila.svg',
   },
-  { name: 'Partner Four' },
-  { name: 'Partner Five' },
+  { name: 'Massey University',
+    url: 'https://www.massey.ac.nz/',
+    logoSrc: '/logos/massey_university.svg',
+  },
+  {
+    name: 'Allen AI',
+    url: 'https://www.allenai.org',
+    logoSrc: '/logos/allen_ai.svg',
+  }
 ];
 

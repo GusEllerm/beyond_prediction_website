@@ -1,0 +1,563 @@
+{
+  "slug": "michael-witbrock",
+  "orcidId": "0000-0002-7554-0971",
+  "updatedAt": "2025-12-09T23:11:04.082Z",
+  "works": [
+    {
+      "id": "orcid:0000-0002-7554-0971/work/187530885",
+      "title": "Annotator Disagreement-Based Analysis for Developing Bias Benchmark Datasets in Resource-Restricted Settings",
+      "year": 2026,
+      "doi": "10.1007/978-981-96-6603-4_28",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-6603-4_28"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/187530886",
+      "title": "Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning",
+      "year": 2026,
+      "doi": "10.1007/978-981-96-6603-4_22",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-6603-4_22"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/196387402",
+      "title": "Psychology-Driven Enhancement of Humour Translation",
+      "year": 2026,
+      "doi": "10.1007/978-981-95-4088-4_34",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-95-4088-4_34"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/193629657",
+      "title": "Operating condition invariant representation learning for machine prognostics",
+      "year": 2025,
+      "venue": "Knowledge-Based Systems",
+      "doi": "10.1016/j.knosys.2025.114623",
+      "openAccessUrl": "https://doi.org/10.1016/j.knosys.2025.114623"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/185529904",
+      "title": "Transformers as Approximations of Solomonoff Induction",
+      "year": 2025,
+      "doi": "10.1007/978-981-96-6576-1_2",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-6576-1_2"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/155521189",
+      "title": "Efficient size-prescribed k-core search",
+      "year": 2023,
+      "doi": "10.1145/3625007.3627316",
+      "openAccessUrl": "https://doi.org/10.1145/3625007.3627316"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/148366366",
+      "title": "Chain of Propagation Prompting for Node Classification",
+      "year": 2023,
+      "doi": "10.1145/3581783.3612431",
+      "openAccessUrl": "https://doi.org/10.1145/3581783.3612431"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/148366364",
+      "title": "Emotion Recognition ToolKit (ERTK): Standardising Tools For Emotion Recognition Research",
+      "year": 2023,
+      "doi": "10.1145/3581783.3613459",
+      "openAccessUrl": "https://doi.org/10.1145/3581783.3613459"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/148366363",
+      "title": "SNVformer: An Attention-based Deep Neural Network for GWAS Data",
+      "year": 2022,
+      "doi": "10.1101/2022.07.07.499217",
+      "openAccessUrl": "https://doi.org/10.1101/2022.07.07.499217"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/148366360",
+      "title": "The effects of implementing phenomenology in a deep neural network",
+      "year": 2021,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2021.e07246",
+      "openAccessUrl": "https://doi.org/10.1016/j.heliyon.2021.e07246"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233589",
+      "title": "Curious cat-mobile, context-aware conversational crowdsourcing knowledge acquisition",
+      "year": 2017,
+      "venue": "ACM Transactions on Information Systems",
+      "doi": "10.1145/3086686",
+      "openAccessUrl": "https://doi.org/10.1145/3086686"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233581",
+      "title": "Curious cat conversational crowd based and context aware knowledge acquisition chat bot",
+      "year": 2016,
+      "venue": "2016 IEEE 8th International Conference on Intelligent Systems, IS 2016 - Proceedings",
+      "doi": "10.1109/IS.2016.7737428",
+      "openAccessUrl": "https://doi.org/10.1109/IS.2016.7737428"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642776",
+      "title": "Curious cat conversational crowd based and context aware knowledge acquisition chat bot",
+      "year": 2016,
+      "doi": "10.1109/is.2016.7737428",
+      "openAccessUrl": "https://doi.org/10.1109/is.2016.7737428"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642782",
+      "title": "Text Mining for the Semantic Web",
+      "year": 2016,
+      "doi": "10.1007/978-1-4899-7502-7_835-1",
+      "openAccessUrl": "https://doi.org/10.1007/978-1-4899-7502-7_835-1"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233559",
+      "title": "Cyc and the big c: Reading that produces and uses hypotheses about complex molecular biology mechanisms",
+      "year": 2015,
+      "venue": "AAAI Workshop - Technical Report"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642786",
+      "title": "Dense Models from Videos: Can YouTube be the Font of All Knowledge Bases?",
+      "year": 2015,
+      "doi": "10.1145/2671188.2749414",
+      "openAccessUrl": "https://doi.org/10.1145/2671188.2749414"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233585",
+      "title": "Semantic construction grammar: Bridging the NL/logic divide",
+      "year": 2015,
+      "venue": "WWW 2015 Companion - Proceedings of the 24th International Conference on World Wide Web",
+      "doi": "10.1145/2740908.2741710",
+      "openAccessUrl": "https://doi.org/10.1145/2740908.2741710"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233590",
+      "title": "Conversational computation",
+      "year": 2013,
+      "venue": "Handbook of Human Computation",
+      "doi": "10.1007/978-1-4614-8806-4_40",
+      "openAccessUrl": "https://doi.org/10.1007/978-1-4614-8806-4_40"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233586",
+      "title": "Infrastructure and architecture for human computer intelligent collaboration",
+      "year": 2013,
+      "venue": "Handbook of Human Computation",
+      "doi": "10.1007/978-1-4614-8806-4_37",
+      "openAccessUrl": "https://doi.org/10.1007/978-1-4614-8806-4_37"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233574",
+      "title": "SRI-Sarnoff AURORA system at TRECVID 2012: Multimedia event detection and recounting",
+      "year": 2012,
+      "venue": "2012 TREC Video Retrieval Evaluation Notebook Papers"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233561",
+      "title": "Harnessing cyc to answer clinical researchers ad hoc queries",
+      "year": 2011,
+      "venue": "AI Magazine"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642785",
+      "title": "Knowledge for/from people for/from computers",
+      "year": 2011,
+      "doi": "10.1145/2064988.2064990",
+      "openAccessUrl": "https://doi.org/10.1145/2064988.2064990"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233591",
+      "title": "Large knowledge collider - A service-oriented platform for large-scale semantic reasoning",
+      "year": 2011,
+      "venue": "ACM International Conference Proceeding Series",
+      "doi": "10.1145/1988688.1988737",
+      "openAccessUrl": "https://doi.org/10.1145/1988688.1988737"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233573",
+      "title": "Team SRI-Sarnoff's AURORA system @ TRECVID 2011",
+      "year": 2011,
+      "venue": "2011 TREC Video Retrieval Evaluation Notebook Papers"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642770",
+      "title": "Harnessing Cyc to Answer Clinical Researchers&#x27; Ad Hoc Queries",
+      "year": 2010,
+      "venue": "AI Magazine",
+      "doi": "10.1609/aimag.v31i3.2299",
+      "openAccessUrl": "https://doi.org/10.1609/aimag.v31i3.2299"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233580",
+      "title": "Acquiring and using large scale knowledge",
+      "year": 2010,
+      "venue": "Proceedings of the International Conference on Information Technology Interfaces, ITI"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233583",
+      "title": "Capturing document semantics for ontology generation and document summarization",
+      "year": 2009,
+      "venue": "Semantic Knowledge Management: Integrating Ontology Management, Knowledge Discovery, and Human Language Technologies",
+      "doi": "10.1007/978-3-540-88845-1_11",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-88845-1_11"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233579",
+      "title": "Methods of rule acquisition in the textlearner system",
+      "year": 2009,
+      "venue": "AAAI Spring Symposium - Technical Report"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233587",
+      "title": "Towards LarKC: A platform for Web-scale reasoning",
+      "year": 2008,
+      "venue": "Proceedings - IEEE International Conference on Semantic Computing 2008, ICSC 2008",
+      "doi": "10.1109/ICSC.2008.41",
+      "openAccessUrl": "https://doi.org/10.1109/ICSC.2008.41"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642758",
+      "title": "Towards LarKC: a Platform for Web-scale Reasoning",
+      "year": 2008,
+      "doi": "10.1109/icsc.2008.41",
+      "openAccessUrl": "https://doi.org/10.1109/icsc.2008.41"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233577",
+      "title": "Autonomous classification of knowledge into an ontology",
+      "year": 2007,
+      "venue": "Proceedings of the Twentieth International Florida Artificial Intelligence Research Society Conference, FLAIRS 2007"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233557",
+      "title": "Guiding inference with policy search reinforcement learning",
+      "year": 2007,
+      "venue": "Proceedings of the Twentieth International Florida Artificial Intelligence Research Society Conference, FLAIRS 2007"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642788",
+      "title": "The TextLearner System: Reading Learning Comprehension",
+      "year": 2006,
+      "doi": "10.21236/ada456798",
+      "openAccessUrl": "https://doi.org/10.21236/ada456798"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233567",
+      "title": "An introduction to the syntax and content of Cyc",
+      "year": 2006,
+      "venue": "AAAI Spring Symposium - Technical Report"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233576",
+      "title": "Automated population of Cyc: Extracting information about namedentities from the web",
+      "year": 2006,
+      "venue": "FLAIRS 2006 - Proceedings of the Nineteenth International Florida Artificial Intelligence Research Society Conference"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233584",
+      "title": "Common sense reasoning - From cyc to intelligent assistant",
+      "year": 2006,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/11825890_1",
+      "openAccessUrl": "https://doi.org/10.1007/11825890_1"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233555",
+      "title": "Tracking quantity fluctuations using STT",
+      "year": 2006,
+      "venue": "AAAI Fall Symposium - Technical Report"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233575",
+      "title": "A knowledge-based approach to network security: Applying Cyc in the domain of network risk assessment",
+      "year": 2005,
+      "venue": "Proceedings of the National Conference on Artificial Intelligence"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232775",
+      "title": "Analogy, Intelligent IR, and Knowledge Integration for Intelligence Analysis: Situation Tracking and the Whodunit problem",
+      "year": 2005
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642781",
+      "title": "Converting Semantic Meta-knowledge into Inductive Bias",
+      "year": 2005,
+      "venue": "Lecture Notes in Computer Science",
+      "doi": "10.1007/11536314_3",
+      "openAccessUrl": "https://doi.org/10.1007/11536314_3"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233565",
+      "title": "Converting semantic meta-knowledge into inductive bias",
+      "year": 2005,
+      "venue": "Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232703",
+      "title": "Hypothesis Generation and Evidence Assembly for Intelligence Analysis: Cycorp’s Noöscape Application",
+      "year": 2005
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233566",
+      "title": "Knowledge begets knowledge: Steps towards assisted knowledge acquisition in Cyc",
+      "year": 2005,
+      "venue": "AAAI Spring Symposium - Technical Report"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233564",
+      "title": "Searching for common sense: Populating Cyc™ from the web",
+      "year": 2005,
+      "venue": "Proceedings of the National Conference on Artificial Intelligence"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233563",
+      "title": "Applying Cyc: Using the knowledge-based data monitor to track tests and defects",
+      "year": 2004,
+      "venue": "AAAI Workshop - Technical Report"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233571",
+      "title": "Automated OWL annotation assisted by a large knowledge base",
+      "year": 2004,
+      "venue": "CEUR Workshop Proceedings"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642778",
+      "title": "Inferring parts of speech for lexical mappings via the Cyc KB",
+      "year": 2004,
+      "doi": "10.3115/1220355.1220546",
+      "openAccessUrl": "https://doi.org/10.3115/1220355.1220546"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232761",
+      "title": "Inferring parts of speech for lexical mappings via the cyc kb",
+      "year": 2004
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233558",
+      "title": "Project halo towards a Digital Aristotle",
+      "year": 2004,
+      "venue": "AI Magazine"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233570",
+      "title": "Inducing criteria for lexicalization parts of speech using the Cyc KB",
+      "year": 2003,
+      "venue": "IJCAI International Joint Conference on Artificial Intelligence"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232945",
+      "title": "Inducing criteria for lexicalization parts of speech using the Cyc KB, and its extension to WordNet",
+      "year": 2003
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642787",
+      "title": "Language Modeling Experiments in Non-Extractive Summarization",
+      "year": 2003,
+      "doi": "10.1007/978-94-017-0171-6_10",
+      "openAccessUrl": "https://doi.org/10.1007/978-94-017-0171-6_10"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642760",
+      "title": "Headline generation based on statistical translation",
+      "year": 2000,
+      "doi": "10.3115/1075218.1075259",
+      "openAccessUrl": "https://doi.org/10.3115/1075218.1075259"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642783",
+      "title": "Speech recognition for a digital video library",
+      "year": 1999,
+      "venue": "Computer Standards & Interfaces",
+      "doi": "10.1016/s0920-5489(99)90925-x",
+      "openAccessUrl": "https://doi.org/10.1016/s0920-5489(99)90925-x"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233556",
+      "title": "Improving the suitability of imperfect transcriptions for information retrieval from spoken documents",
+      "year": 1999,
+      "venue": "ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233588",
+      "title": "Ultra-summarization: A statistical approach to generating highly condensed non-extractive summaries",
+      "year": 1999,
+      "venue": "Proceedings of the 22nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 1999",
+      "doi": "10.1145/312624.312748",
+      "openAccessUrl": "https://doi.org/10.1145/312624.312748"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642768",
+      "title": "Speech recognition for a digital video library",
+      "year": 1998,
+      "venue": "Journal of the Association for Information Science and Technology",
+      "doi": "10.1002/(sici)1097-4571(19980515)49:7<619::aid-asi4>3.0.co;2-a",
+      "openAccessUrl": "https://doi.org/10.1002/(sici)1097-4571(19980515)49:7<619::aid-asi4>3.0.co;2-a"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642774",
+      "title": "Improving Acoustic Models by Watching Television",
+      "year": 1998,
+      "doi": "10.21236/ada350494",
+      "openAccessUrl": "https://doi.org/10.21236/ada350494"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232660",
+      "title": "Improving Acoustic Models By Watching Television",
+      "year": 1998
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233582",
+      "title": "Speech recognition for a digital video library",
+      "year": 1998,
+      "venue": "Journal of the American Society for Information Science",
+      "doi": "10.1002/(SICI)1097-4571(1998)49:7&lt;619::AID-ASI4&gt;3.0.CO;2-1",
+      "openAccessUrl": "https://doi.org/10.1002/(SICI)1097-4571(1998)49:7&lt;619::AID-ASI4&gt;3.0.CO;2-1"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642759",
+      "title": "Story segmentation and detection of commercials in broadcast news video",
+      "year": 1998,
+      "venue": "Proceedings IEEE International Forum on Research and Technology Advances in Digital Libraries -ADL'98-",
+      "doi": "10.1109/adl.1998.670392",
+      "openAccessUrl": "https://doi.org/10.1109/adl.1998.670392"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233560",
+      "title": "Story segmentation and detection of commercials in broadcast news video",
+      "year": 1998,
+      "venue": "Proceedings of the Forum on Research and Technology Advances in Digital Libraries, ADL"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233593",
+      "title": "Artificial intelligence techniques in the interface to a digital video library",
+      "year": 1997,
+      "venue": "Conference on Human Factors in Computing Systems - Proceedings",
+      "doi": "10.1145/1120212.1120214",
+      "openAccessUrl": "https://doi.org/10.1145/1120212.1120214"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232675",
+      "title": "Improving Acoustic Models by Watching Television",
+      "year": 1997
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232607",
+      "title": "Speech Recognition And Information Retrieval: Experiments In Retrieving Spoken Documents",
+      "year": 1997
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642763",
+      "title": "Using words and phonetic strings for efficient information retrieval from imperfectly transcribed spoken documents",
+      "year": 1997,
+      "doi": "10.1145/263690.263779",
+      "openAccessUrl": "https://doi.org/10.1145/263690.263779"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233568",
+      "title": "Using words and phonetic strings for efficient information retrieval from imperfectly transcribed spoken documents",
+      "year": 1997,
+      "venue": "Proceedings of the ACM International Conference on Digital Libraries"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642771",
+      "title": "News-on-Demand",
+      "year": 1995,
+      "venue": "D-Lib Magazine",
+      "doi": "10.1045/september95-hauptmann",
+      "openAccessUrl": "https://doi.org/10.1045/september95-hauptmann"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642765",
+      "title": "Speech for multimedia information retrieval",
+      "year": 1995,
+      "doi": "10.1145/215585.215667",
+      "openAccessUrl": "https://doi.org/10.1145/215585.215667"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233562",
+      "title": "Speech for multimedia information retrieval",
+      "year": 1995,
+      "venue": "UIST (User Interface Software and Technology): Proceedings of the ACM Symposium"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233592",
+      "title": "Rapid connecttonist speaker adaption",
+      "year": 1992,
+      "venue": "ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings",
+      "doi": "10.1109/ICASSP.1992.225874",
+      "openAccessUrl": "https://doi.org/10.1109/ICASSP.1992.225874"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642779",
+      "title": "Rapid connectionist speaker adaptation",
+      "year": 1992,
+      "venue": "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "doi": "10.1109/icassp.1992.225874",
+      "openAccessUrl": "https://doi.org/10.1109/icassp.1992.225874"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233594",
+      "title": "An implementation of backpropagation learning on GF11, a large SIMD parallel computer",
+      "year": 1990,
+      "venue": "Parallel Computing",
+      "doi": "10.1016/0167-8191(90)90085-N",
+      "openAccessUrl": "https://doi.org/10.1016/0167-8191(90)90085-N"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642762",
+      "title": "An implementation of backpropagation learning on GF11, a large SIMD parallel computer",
+      "year": 1990,
+      "venue": "Parallel Computing",
+      "doi": "10.1016/0167-8191(90)90085-n",
+      "openAccessUrl": "https://doi.org/10.1016/0167-8191(90)90085-n"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642764",
+      "title": "A connectionist approach to continuous speech recognition",
+      "year": 1989,
+      "venue": "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "doi": "10.1109/icassp.1989.266456",
+      "openAccessUrl": "https://doi.org/10.1109/icassp.1989.266456"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233572",
+      "title": "Connectionist approach to continuous speech recognition",
+      "year": 1989,
+      "venue": "ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/59642767",
+      "title": "Speaker-independent recognition of connected utterances using recurrent and non-recurrent neural networks",
+      "year": 1989,
+      "doi": "10.1109/ijcnn.1989.118670",
+      "openAccessUrl": "https://doi.org/10.1109/ijcnn.1989.118670"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40233578",
+      "title": "Speaker-independent recognition of connected utterances using recurrent and non-recurrent neural networks",
+      "year": 1989,
+      "venue": "IJCNN Int Jt Conf Neural Network"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232680",
+      "title": "Guiding Inference with Policy Search Reinforcement Learning"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232597",
+      "title": "Inducing criteria for lexicalization parts of speech using the Cyc KB"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232747",
+      "title": "Inducing criteria for lexicalization parts of speech using the Cyc KB"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232741",
+      "title": "Methods of Rule Acquisition in the TextLearner System"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232683",
+      "title": "Ontology-Based Integration of Knowledge from Semi-Structured Web Pages"
+    },
+    {
+      "id": "orcid:0000-0002-7554-0971/work/40232604",
+      "title": "Uniting a priori and a posteriori knowledge: A research framework"
+    }
+  ]
+}

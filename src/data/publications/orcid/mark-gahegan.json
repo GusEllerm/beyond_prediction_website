@@ -1,0 +1,696 @@
+{
+  "slug": "mark-gahegan",
+  "orcidId": "0000-0001-7209-8156",
+  "updatedAt": "2025-12-09T22:55:24.704Z",
+  "works": [
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771550",
+      "title": "Coastal Image Classification and Pattern Recognition: Tairua Beach, New Zealand",
+      "year": 2021,
+      "venue": "Sensors",
+      "doi": "10.3390/s21217352",
+      "openAccessUrl": "https://doi.org/10.3390/s21217352"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/99129982",
+      "title": "Spatially explicit models for exploring COVID‐19 lockdown strategies",
+      "year": 2020,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/tgis.12660",
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12660"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/99129983",
+      "title": "eScience, the Evolution of Science",
+      "year": 2020,
+      "venue": "Geographic Information Science & Technology Body of Knowledge",
+      "doi": "10.22224/gistbok/2020.3.8",
+      "openAccessUrl": "https://doi.org/10.22224/gistbok/2020.3.8"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/99129981",
+      "title": "Categories are in flux, but their computational representations are fixed: That's a problem",
+      "year": 2020,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/tgis.12602",
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12602"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771466",
+      "title": "GeoComputation 2019 special feature",
+      "year": 2020,
+      "venue": "Journal of Spatial Information Science",
+      "doi": "10.5311/josis.2020.21.728",
+      "openAccessUrl": "https://doi.org/10.5311/josis.2020.21.728"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771515",
+      "title": "Constructing, Visualizing, and Analyzing A Digital Footprint",
+      "year": 2019,
+      "venue": "Geographical Review",
+      "doi": "10.1111/j.1931-0846.2007.tb00509.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1931-0846.2007.tb00509.x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771647",
+      "title": "Fourth paradigm GIScience? Prospects for automated discovery and explanation from data",
+      "year": 2019,
+      "venue": "International Journal of Geographical Information Science",
+      "doi": "10.1080/13658816.2019.1652304",
+      "openAccessUrl": "https://doi.org/10.1080/13658816.2019.1652304"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771629",
+      "title": "A foundation for spatial data warehouses on the Semantic Web",
+      "year": 2018,
+      "venue": "Semantic Web",
+      "doi": "10.3233/sw-170281",
+      "openAccessUrl": "https://doi.org/10.3233/sw-170281"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771481",
+      "title": "Geocomputation",
+      "year": 2017,
+      "venue": "International Encyclopedia of Geography: People, the Earth, Environment and Technology",
+      "doi": "10.1002/9781118786352.wbieg0625",
+      "openAccessUrl": "https://doi.org/10.1002/9781118786352.wbieg0625"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771520",
+      "title": "Our GIS is too small",
+      "year": 2017,
+      "venue": "The Canadian Geographer / Le Géographe canadien",
+      "doi": "10.1111/cag.12434",
+      "openAccessUrl": "https://doi.org/10.1111/cag.12434"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771502",
+      "title": "Exploratory Chronotopic Data Analysis",
+      "year": 2016,
+      "venue": "Geographic Information Science",
+      "doi": "10.1007/978-3-319-45738-3_16",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_16"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771494",
+      "title": "Time ontology extended for non-Gregorian calendar applications",
+      "year": 2016,
+      "venue": "Semantic Web",
+      "doi": "10.3233/sw-150187",
+      "openAccessUrl": "https://doi.org/10.3233/sw-150187"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771519",
+      "title": "Ontology for observations and sampling features, with alignments to existing models",
+      "year": 2016,
+      "venue": "Semantic Web",
+      "doi": "10.3233/sw-160214",
+      "openAccessUrl": "https://doi.org/10.3233/sw-160214"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771548",
+      "title": "Adventures of Categories: Modelling the Evolution of Categories During Scientific Investigation",
+      "year": 2015,
+      "venue": "2015 IEEE 11th International Conference on e-Science",
+      "doi": "10.1109/escience.2015.35",
+      "openAccessUrl": "https://doi.org/10.1109/escience.2015.35"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771549",
+      "title": "Frankenplace",
+      "year": 2015,
+      "venue": "Proceedings of the 24th International Conference on World Wide Web",
+      "doi": "10.1145/2736277.2741137",
+      "openAccessUrl": "https://doi.org/10.1145/2736277.2741137"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771509",
+      "title": "An eScience Tool for Understanding Copyright in Data Driven Sciences",
+      "year": 2014,
+      "venue": "2014 IEEE 10th International Conference on e-Science",
+      "doi": "10.1109/escience.2014.37",
+      "openAccessUrl": "https://doi.org/10.1109/escience.2014.37"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771497",
+      "title": "Connecting and Synchronizing Scientific Artifacts through the Process of Conceptual Change",
+      "year": 2014,
+      "venue": "2014 IEEE 10th International Conference on e-Science",
+      "doi": "10.1109/escience.2014.20",
+      "openAccessUrl": "https://doi.org/10.1109/escience.2014.20"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771474",
+      "title": "Geovisualisation as an Analytical Toolbox for Discovery",
+      "year": 2014,
+      "venue": "GeoComputation, Second Edition",
+      "doi": "10.1201/b17091-6",
+      "openAccessUrl": "https://doi.org/10.1201/b17091-6"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771576",
+      "title": "Re-Envisioning Data Description Using Peirce’s Pragmatics",
+      "year": 2014,
+      "venue": "Geographic Information Science",
+      "doi": "10.1007/978-3-319-11593-1_10",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-11593-1_10"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771660",
+      "title": "Biodiversity data should be published, cited, and peer reviewed",
+      "year": 2013,
+      "venue": "Trends in Ecology &amp; Evolution",
+      "doi": "10.1016/j.tree.2013.05.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.tree.2013.05.002"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771728",
+      "title": "Visual Semiotics &amp; Uncertainty Visualization: An Empirical Study",
+      "year": 2012,
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "doi": "10.1109/tvcg.2012.279",
+      "openAccessUrl": "https://doi.org/10.1109/tvcg.2012.279"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771657",
+      "title": "A STRATEGY AND ARCHITECTURE FOR THE VISUALIZATION OF COMPLEX GEOGRAPHICAL DATASETS",
+      "year": 2011,
+      "venue": "Spatial Computing: Issues in Vision, Multimedia and Visualization Technologies",
+      "doi": "10.1142/9789812797711_0011",
+      "openAccessUrl": "https://doi.org/10.1142/9789812797711_0011"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771775",
+      "title": "A Strategy and Architecture for the Visualization of Complex Geographical Datasets",
+      "year": 2011,
+      "venue": "International Journal of Pattern Recognition and Artificial Intelligence",
+      "doi": "10.1142/s0218001497000111",
+      "openAccessUrl": "https://doi.org/10.1142/s0218001497000111"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771759",
+      "title": "A semantic web map mediation service",
+      "year": 2011,
+      "venue": "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Spatial Semantics and Ontologies - SSO '11",
+      "doi": "10.1145/2068976.2068977",
+      "openAccessUrl": "https://doi.org/10.1145/2068976.2068977"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771483",
+      "title": "On the Application of Inductive Machine Learning Tools to Geographical Analysis",
+      "year": 2010,
+      "venue": "Geographical Analysis",
+      "doi": "10.1111/j.1538-4632.2000.tb00420.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1538-4632.2000.tb00420.x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771612",
+      "title": "Geospatial Cyberinfrastructure: Past, present and future",
+      "year": 2010,
+      "venue": "Computers, Environment and Urban Systems",
+      "doi": "10.1016/j.compenvurbsys.2010.04.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.compenvurbsys.2010.04.001"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771562",
+      "title": "A Predictive Model for Frequently Viewed Tiles in a Web Map",
+      "year": 2010,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/j.1467-9671.2010.01191.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2010.01191.x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771479",
+      "title": "Ontology use for semantic e-Science",
+      "year": 2010,
+      "venue": "Semantic Web",
+      "doi": "10.3233/sw-2010-0021",
+      "openAccessUrl": "https://doi.org/10.3233/sw-2010-0021"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771582",
+      "title": "Theory: computing with knowledge to represent and share understanding",
+      "year": 2009,
+      "venue": "Sustainable Communities on a Sustainable Planet",
+      "doi": "10.1017/cbo9780511635694.002",
+      "openAccessUrl": "https://doi.org/10.1017/cbo9780511635694.002"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771714",
+      "title": "Connecting GEON: Making sense of the myriad resources, researchers and concepts that comprise a geoscience cyberinfrastructure",
+      "year": 2009,
+      "venue": "Computers &amp; Geosciences",
+      "doi": "10.1016/j.cageo.2008.09.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.cageo.2008.09.006"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771527",
+      "title": "Concept Mapping to Design, Organize, and Explore Digital Learning Objects",
+      "year": 2009,
+      "venue": "E-Learning for Geographers",
+      "doi": "10.4018/978-1-59904-980-9.ch010",
+      "openAccessUrl": "https://doi.org/10.4018/978-1-59904-980-9.ch010"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771477",
+      "title": "Geographic Visualization",
+      "year": 2009,
+      "venue": "A Research Agenda for Geographic Information Science",
+      "doi": "10.1201/9781420038330.ch11",
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330.ch11"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771517",
+      "title": "Teen",
+      "year": 2009,
+      "venue": "A Research Agenda for Geographic Information Science",
+      "doi": "10.1201/9781420038330.ch14",
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330.ch14"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771655",
+      "title": "Visual Exploration and Explanation in Geography Analysis with Light",
+      "year": 2009,
+      "venue": "Geographic Data Mining and Knowledge Discovery, Second Edition",
+      "doi": "10.1201/9781420073980.ch11",
+      "openAccessUrl": "https://doi.org/10.1201/9781420073980.ch11"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771789",
+      "title": "A Platform for Visualizing and Experimenting with Measures of Semantic Similarity in Ontologies and Concept Maps",
+      "year": 2008,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/j.1467-9671.2008.01124.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2008.01124.x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771579",
+      "title": "Beyond ontologies: Toward situated representations of scientific knowledge",
+      "year": 2007,
+      "venue": "International Journal of Human-Computer Studies",
+      "doi": "10.1016/j.ijhcs.2007.03.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijhcs.2007.03.002"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771591",
+      "title": "Experiments to Examine the Situated Nature of Geoscientific Concepts",
+      "year": 2007,
+      "venue": "Spatial Cognition &amp; Computation",
+      "doi": "10.1080/13875860701337934",
+      "openAccessUrl": "https://doi.org/10.1080/13875860701337934"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771525",
+      "title": "A Situated Knowledge Representation of Geographical Information",
+      "year": 2006,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/j.1467-9671.2006.01025.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2006.01025.x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771624",
+      "title": "Spatial ordering and encoding for geographic data mining and visualization",
+      "year": 2006,
+      "venue": "Journal of Intelligent Information Systems",
+      "doi": "10.1007/s10844-006-9952-8",
+      "openAccessUrl": "https://doi.org/10.1007/s10844-006-9952-8"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771638",
+      "title": "Cybertools and Archaeology",
+      "year": 2006,
+      "venue": "Science",
+      "doi": "10.1126/science.1121556",
+      "openAccessUrl": "https://doi.org/10.1126/science.1121556"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771472",
+      "title": "Representing geoscientific knowledge in cyberinfrastructure: Some challenges, approaches, and implementations",
+      "year": 2006,
+      "venue": "Geoinformatics: Data to Knowledge",
+      "doi": "10.1130/2006.2397(01)",
+      "openAccessUrl": "https://doi.org/10.1130/2006.2397(01)"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771665",
+      "title": "Experiments using context and significance to enhance the reporting capabilities of gis",
+      "year": 2005,
+      "venue": "Lecture Notes in Computer Science",
+      "doi": "10.1007/3-540-63623-4_69",
+      "openAccessUrl": "https://doi.org/10.1007/3-540-63623-4_69"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771551",
+      "title": "A Genetic Approach to Detecting Clusters in Point Data Sets",
+      "year": 2005,
+      "venue": "Geographical Analysis",
+      "doi": "10.1111/j.1538-4632.2005.00617.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1538-4632.2005.00617.x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771581",
+      "title": "Proximity operators for qualitative spatial reasoning",
+      "year": 2005,
+      "venue": "Lecture Notes in Computer Science",
+      "doi": "10.1007/3-540-60392-1_3",
+      "openAccessUrl": "https://doi.org/10.1007/3-540-60392-1_3"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771662",
+      "title": "A typology for visualizing uncertainty",
+      "year": 2005,
+      "venue": "SPIE Proceedings",
+      "doi": "10.1117/12.587254",
+      "openAccessUrl": "https://doi.org/10.1117/12.587254"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771791",
+      "title": "Retooling Collaboration: A Vision for Environmental Change Research",
+      "year": 2005,
+      "venue": "Environment: Science and Policy for Sustainable Development",
+      "doi": "10.3200/envt.47.2.8-21",
+      "openAccessUrl": "https://doi.org/10.3200/envt.47.2.8-21"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771796",
+      "title": "Multivariate Analysis and Geovisualization with an Integrated Geographic Knowledge Discovery Approach",
+      "year": 2005,
+      "venue": "Cartography and Geographic Information Science",
+      "doi": "10.1559/1523040053722150",
+      "openAccessUrl": "https://doi.org/10.1559/1523040053722150"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771451",
+      "title": "Beyond Tools",
+      "year": 2005,
+      "venue": "Exploring Geovisualization",
+      "doi": "10.1016/b978-008044531-1/50422-x",
+      "openAccessUrl": "https://doi.org/10.1016/b978-008044531-1/50422-x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771566",
+      "title": "Creating Instruments for Ideation",
+      "year": 2005,
+      "venue": "Exploring Geovisualization",
+      "doi": "10.1016/b978-008044531-1/50423-1",
+      "openAccessUrl": "https://doi.org/10.1016/b978-008044531-1/50423-1"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771572",
+      "title": "Probing the Relationship Between Classification Error and Class Similarity",
+      "year": 2005,
+      "venue": "Photogrammetric Engineering &amp; Remote Sensing",
+      "doi": "10.14358/pers.71.12.1365",
+      "openAccessUrl": "https://doi.org/10.14358/pers.71.12.1365"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771498",
+      "title": "Geographic Visualization",
+      "year": 2004,
+      "venue": "A Research Agenda for Geographic Information Science",
+      "doi": "10.1201/9781420038330-11",
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330-11"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771631",
+      "title": "Geospatial Data Mining and Knowledge Discovery",
+      "year": 2004,
+      "venue": "A Research Agenda for Geographic Information Science",
+      "doi": "10.1201/9781420038330-14",
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330-14"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771615",
+      "title": "The art and science of mapping: computing geological categories from field data",
+      "year": 2004,
+      "venue": "Computers &amp; Geosciences",
+      "doi": "10.1016/j.cageo.2004.05.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.cageo.2004.05.001"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771669",
+      "title": "Visualization for constructing and sharing geo-scientific concepts",
+      "year": 2004,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.0307755101",
+      "openAccessUrl": "https://doi.org/10.1073/pnas.0307755101"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771659",
+      "title": "Geovisualization for knowledge construction and decision support",
+      "year": 2004,
+      "venue": "IEEE Computer Graphics and Applications",
+      "doi": "10.1109/mcg.2004.1255801",
+      "openAccessUrl": "https://doi.org/10.1109/mcg.2004.1255801"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771506",
+      "title": "Book Reviews",
+      "year": 2003,
+      "venue": "International Journal of Geographical Information Science",
+      "doi": "10.1080/713811740",
+      "openAccessUrl": "https://doi.org/10.1080/713811740"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771797",
+      "title": "Is inductive machine learning just another wild goose (or might it lay the golden egg)?",
+      "year": 2003,
+      "venue": "International Journal of Geographical Information Science",
+      "doi": "10.1080/713811742",
+      "openAccessUrl": "https://doi.org/10.1080/713811742"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771611",
+      "title": "Constructing Semantically Scalable Cognitive Spaces",
+      "year": 2003,
+      "venue": "Spatial Information Theory. Foundations of Geographic Information Science",
+      "doi": "10.1007/978-3-540-39923-0_22",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-39923-0_22"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771610",
+      "title": "Distinguishing Instances and Evidence of Geographical Concepts for Geospatial Database Design",
+      "year": 2002,
+      "venue": "Geographic Information Science",
+      "doi": "10.1007/3-540-45799-2_2",
+      "openAccessUrl": "https://doi.org/10.1007/3-540-45799-2_2"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771563",
+      "title": "Computational and Visual Support for Geographical Knowledge Construction: Filling in the Gaps Between Exploration and Explanation",
+      "year": 2002,
+      "venue": "Advances in Spatial Data Handling",
+      "doi": "10.1007/978-3-642-56094-1_2",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-56094-1_2"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771620",
+      "title": "GeoVISTA Studio: a codeless visual programming environment for geoscientific data analysis and visualization",
+      "year": 2002,
+      "venue": "Computers &amp; Geosciences",
+      "doi": "10.1016/s0098-3004(02)00031-6",
+      "openAccessUrl": "https://doi.org/10.1016/s0098-3004(02)00031-6"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771653",
+      "title": "Interactive Analysis Using Voronoi Diagrams: Algorithms to Support Dynamic Update from a Generic Triangle‐based Data Structure",
+      "year": 2002,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/1467-9671.00099",
+      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00099"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771636",
+      "title": "Opening the black box",
+      "year": 2002,
+      "venue": "Proceedings of the tenth ACM international symposium on Advances in geographic information systems  - GIS '02",
+      "doi": "10.1145/585147.585175",
+      "openAccessUrl": "https://doi.org/10.1145/585147.585175"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771641",
+      "title": "The Integration of Scene Understanding within a Geographic Information System: A Prototype Approach for Agricultural Applications",
+      "year": 2002,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/1467-9671.00005",
+      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00005"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771564",
+      "title": "Learning geoscience categories in Situ",
+      "year": 2001,
+      "venue": "Proceedings of the ninth ACM international symposium on Advances in geographic information systems  - GIS '01",
+      "doi": "10.1145/512161.512190",
+      "openAccessUrl": "https://doi.org/10.1145/512161.512190"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771648",
+      "title": "Data structures and algorithms to support interactive spatial analysis using dynamic Voronoi diagrams",
+      "year": 2000,
+      "venue": "Computers, Environment and Urban Systems",
+      "doi": "10.1016/s0198-9715(00)00007-7",
+      "openAccessUrl": "https://doi.org/10.1016/s0198-9715(00)00007-7"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771678",
+      "title": "A framework for the modelling of uncertainty between remote sensing and geographic information systems",
+      "year": 2000,
+      "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "doi": "10.1016/s0924-2716(00)00018-6",
+      "openAccessUrl": "https://doi.org/10.1016/s0924-2716(00)00018-6"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771634",
+      "title": "The case for inductive and visual techniques in the analysis of spatial data",
+      "year": 2000,
+      "venue": "Journal of Geographical Systems",
+      "doi": "10.1007/s101090050033",
+      "openAccessUrl": "https://doi.org/10.1007/s101090050033"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771652",
+      "title": "Four barriers to the development of effective exploratory visualisation tools for the geosciences",
+      "year": 1999,
+      "venue": "International Journal of Geographical Information Science",
+      "doi": "10.1080/136588199241210",
+      "openAccessUrl": "https://doi.org/10.1080/136588199241210"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771489",
+      "title": "Guest Editorial: What is Geocomputation?",
+      "year": 1999,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/1467-9671.00017",
+      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00017"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771650",
+      "title": "Improving neural network performance on the classification of complex geographic datasets",
+      "year": 1999,
+      "venue": "Journal of Geographical Systems",
+      "doi": "10.1007/s101090050002",
+      "openAccessUrl": "https://doi.org/10.1007/s101090050002"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771493",
+      "title": "Characterizing the Semantic Content of Geographic Data, Models, and Systems",
+      "year": 1999,
+      "venue": "Interoperating Geographic Information Systems",
+      "doi": "10.1007/978-1-4615-5189-8_6",
+      "openAccessUrl": "https://doi.org/10.1007/978-1-4615-5189-8_6"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771578",
+      "title": "Scatterplots and scenes: visualisation techniques for exploratory spatial analysis",
+      "year": 1998,
+      "venue": "Computers, Environment and Urban Systems",
+      "doi": "10.1016/s0198-9715(98)00018-0",
+      "openAccessUrl": "https://doi.org/10.1016/s0198-9715(98)00018-0"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771553",
+      "title": "Neural network architectures for the classification of temporal image sequences",
+      "year": 1996,
+      "venue": "Computers &amp; Geosciences",
+      "doi": "10.1016/s0098-3004(96)00035-0",
+      "openAccessUrl": "https://doi.org/10.1016/s0098-3004(96)00035-0"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771524",
+      "title": "Specifying the transformations within and between geographic data models",
+      "year": 1996,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/j.1467-9671.1996.tb00040.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.1996.tb00040.x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771513",
+      "title": "An object-oriented geographic information system shell",
+      "year": 1993,
+      "venue": "Information and Software Technology",
+      "doi": "10.1016/0950-5849(93)90032-x",
+      "openAccessUrl": "https://doi.org/10.1016/0950-5849(93)90032-x"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771693",
+      "title": "Feature-based derivation of drainage networks",
+      "year": 1993,
+      "venue": "International journal of geographical information systems",
+      "doi": "10.1080/02693799308901956",
+      "openAccessUrl": "https://doi.org/10.1080/02693799308901956"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771626",
+      "title": "Application of object-oriented databases to geographic information systems",
+      "year": 1991,
+      "venue": "Information and Software Technology",
+      "doi": "10.1016/0950-5849(91)90022-4",
+      "openAccessUrl": "https://doi.org/10.1016/0950-5849(91)90022-4"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771627",
+      "title": "An efficient use of quadtrees in a geographical information system",
+      "year": 1989,
+      "venue": "International journal of geographical information systems",
+      "doi": "10.1080/02693798908941508",
+      "openAccessUrl": "https://doi.org/10.1080/02693798908941508"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771644",
+      "title": "An intelligent, object-oriented geographical information system",
+      "year": 1988,
+      "venue": "International journal of geographical information systems",
+      "doi": "10.1080/02693798808927887",
+      "openAccessUrl": "https://doi.org/10.1080/02693798808927887"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771518",
+      "title": "Exploratory geospatial analysis using GeoVISTA Studio: from a desktop to the Web",
+      "venue": "Proceedings of the Second International Conference on Web Information Systems Engineering",
+      "doi": "10.1109/wise.2001.996715",
+      "openAccessUrl": "https://doi.org/10.1109/wise.2001.996715"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771617",
+      "title": "GeoVISTA Studio: Reusability by Design",
+      "venue": "Open Source Approaches in Spatial Data Handling",
+      "doi": "10.1007/978-3-540-74831-1_10",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-74831-1_10"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771809",
+      "title": "JIMS Cross mark policy",
+      "venue": "Cross Mark Datasets",
+      "doi": "10.18311/datasets.020020",
+      "openAccessUrl": "https://doi.org/10.18311/datasets.020020"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771453",
+      "title": "Multivariate Geovisualization",
+      "venue": "The Handbook of Geographic Information Science",
+      "doi": "10.1002/9780470690819.ch16",
+      "openAccessUrl": "https://doi.org/10.1002/9780470690819.ch16"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771492",
+      "title": "Representing, Manipulating and Reasoning with Geographic Semantics within a Knowledge Framework",
+      "venue": "Developments in Spatial Data Handling",
+      "doi": "10.1007/3-540-26772-7_44",
+      "openAccessUrl": "https://doi.org/10.1007/3-540-26772-7_44"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771570",
+      "title": "Using Metadata to Link Uncertainty and Data Quality Assessments",
+      "venue": "Progress in Spatial Data Handling",
+      "doi": "10.1007/3-540-35589-8_18",
+      "openAccessUrl": "https://doi.org/10.1007/3-540-35589-8_18"
+    },
+    {
+      "id": "orcid:0000-0001-7209-8156/work/121771469",
+      "title": "Visual exploration in geography",
+      "venue": "Geographic Data Mining and Knowledge Discovery",
+      "doi": "10.4324/9780203468029_chapter_11",
+      "openAccessUrl": "https://doi.org/10.4324/9780203468029_chapter_11"
+    }
+  ]
+}

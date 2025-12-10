@@ -1,0 +1,55 @@
+{
+  "slug": "david-bryant",
+  "orcidId": "0000-0003-1963-5535",
+  "updatedAt": "2025-12-09T23:11:07.260Z",
+  "works": [
+    {
+      "id": "orcid:0000-0003-1963-5535/work/189758898",
+      "title": "Subtree distances, tight spans and diversities",
+      "year": 2025,
+      "venue": "Topology and its Applications",
+      "doi": "10.1016/j.topol.2025.109545",
+      "openAccessUrl": "https://doi.org/10.1016/j.topol.2025.109545"
+    },
+    {
+      "id": "orcid:0000-0003-1963-5535/work/168942408",
+      "title": "The SplitsTree App: interactive analysis and visualization using phylogenetic trees and networks",
+      "year": 2024,
+      "venue": "Nature Methods",
+      "doi": "10.1038/s41592-024-02406-3",
+      "openAccessUrl": "https://doi.org/10.1038/s41592-024-02406-3"
+    },
+    {
+      "id": "orcid:0000-0003-1963-5535/work/168942405",
+      "title": "Diversities and the Generalized Circumradius",
+      "year": 2023,
+      "venue": "Discrete & Computational Geometry",
+      "doi": "10.1007/s00454-023-00493-1",
+      "openAccessUrl": "https://doi.org/10.1007/s00454-023-00493-1"
+    },
+    {
+      "id": "orcid:0000-0003-1963-5535/work/168942403",
+      "title": "Parsimony and the rank of a flattening matrix",
+      "year": 2023,
+      "venue": "Journal of Mathematical Biology",
+      "doi": "10.1007/s00285-023-01875-y",
+      "openAccessUrl": "https://doi.org/10.1007/s00285-023-01875-y"
+    },
+    {
+      "id": "orcid:0000-0003-1963-5535/work/168942402",
+      "title": "Negative-Type Diversities, a Multi-dimensional Analogue of Negative-Type Metrics",
+      "year": 2021,
+      "venue": "The Journal of Geometric Analysis",
+      "doi": "10.1007/s12220-019-00321-0",
+      "openAccessUrl": "https://doi.org/10.1007/s12220-019-00321-0"
+    },
+    {
+      "id": "orcid:0000-0003-1963-5535/work/168942401",
+      "title": "An $$O(n \\log n)$$ Time Algorithm for Computing the Path-Length Distance Between Trees",
+      "year": 2019,
+      "venue": "Algorithmica",
+      "doi": "10.1007/s00453-019-00594-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00453-019-00594-5"
+    }
+  ]
+}

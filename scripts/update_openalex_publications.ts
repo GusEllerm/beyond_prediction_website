@@ -96,7 +96,7 @@ async function fetchWorksForPerson(
 }
 
 async function main(): Promise<void> {
-  const outputDir = path.join(__dirname, '..', 'src', 'data', 'publications');
+  const outputDir = path.join(__dirname, '..', 'src', 'data', 'publications', 'openalex');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }

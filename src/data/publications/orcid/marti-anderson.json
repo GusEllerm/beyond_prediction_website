@@ -1,0 +1,1011 @@
+{
+  "slug": "marti-anderson",
+  "orcidId": "0000-0002-4018-4049",
+  "updatedAt": "2025-12-09T23:11:11.665Z",
+  "works": [
+    {
+      "id": "orcid:0000-0002-4018-4049/work/181553740",
+      "title": "The incremental progression from fixed to random factors in the analysis of variance: a new synthesis",
+      "year": 2025,
+      "venue": "Australian & New Zealand Journal of Statistics",
+      "doi": "10.1111/anzs.70001",
+      "openAccessUrl": "https://doi.org/10.1111/anzs.70001"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/156712681",
+      "title": "Significant shifts in latitudinal optima of North American birds",
+      "year": 2024,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.2307525121",
+      "openAccessUrl": "https://doi.org/10.1073/pnas.2307525121"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/147307966",
+      "title": "Landscape configuration alters movement behavior and space‐use of a Hawaiian forest bird community",
+      "year": 2024,
+      "venue": "Journal of Avian Biology",
+      "doi": "10.1111/jav.03117",
+      "openAccessUrl": "https://doi.org/10.1111/jav.03117"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/137577609",
+      "title": "Oral vinorelbine to treat women with ectopic pregnancy: a phase 1 clinical safety and tolerability study",
+      "year": 2023,
+      "venue": "Fertility and Sterility",
+      "doi": "10.1016/j.fertnstert.2023.05.161",
+      "openAccessUrl": "https://doi.org/10.1016/j.fertnstert.2023.05.161"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/133362490",
+      "title": "Biotic homogenisation and differentiation as directional change in beta diversity: synthesising driver–response relationships to develop conceptual models across ecosystems",
+      "year": 2023,
+      "venue": "Biological Reviews",
+      "doi": "10.1111/brv.12958",
+      "openAccessUrl": "https://doi.org/10.1111/brv.12958"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/121238909",
+      "title": "Non‐linear models of species' responses to environmental and spatial gradients",
+      "year": 2022,
+      "venue": "Ecology Letters",
+      "doi": "10.1111/ele.14121",
+      "openAccessUrl": "https://doi.org/10.1111/ele.14121"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/98128304",
+      "title": "Functional beta diversity of New Zealand fishes: Characterising morphological turnover along depth and latitude gradients, with derivation of functional bioregions",
+      "year": 2021,
+      "venue": "Austral Ecology",
+      "doi": "10.1111/aec.13078",
+      "openAccessUrl": "https://doi.org/10.1111/aec.13078"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/98926680",
+      "title": "Introduction: In appreciation of K. Robert Clarke",
+      "year": 2021,
+      "venue": "Austral Ecology",
+      "doi": "10.1111/aec.13089",
+      "openAccessUrl": "https://doi.org/10.1111/aec.13089"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/94507944",
+      "title": "The use of taxonomic relationships among species in applied ecological research: Baseline, steps forward and future challenges",
+      "year": 2021,
+      "venue": "Austral Ecology",
+      "doi": "10.1111/aec.13061",
+      "openAccessUrl": "https://doi.org/10.1111/aec.13061"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062667",
+      "title": "The use of taxonomic relationships among species in applied ecological research: Baseline, steps forward and future challenges",
+      "year": 2021,
+      "venue": "Austral Ecology",
+      "doi": "10.1111/aec.13061",
+      "openAccessUrl": "https://doi.org/10.1111/aec.13061"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/96701910",
+      "title": "High functional diversity in deep‐sea fish communities and increasing intraspecific trait variation with increasing latitude",
+      "year": 2021,
+      "venue": "Ecology and Evolution",
+      "doi": "10.1002/ece3.7871",
+      "openAccessUrl": "https://doi.org/10.1002/ece3.7871"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062676",
+      "title": "MEWMA charts when parameters are estimated with applications in gene expression and bimetal thermostat monitoring",
+      "year": 2021,
+      "venue": "Journal of Statistical Computation and Simulation",
+      "doi": "10.1080/00949655.2020.1806279",
+      "openAccessUrl": "https://doi.org/10.1080/00949655.2020.1806279"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062743",
+      "title": "Microbiome and environment explain the absence of correlations between consumers and their diet in Bornean microsnails",
+      "year": 2021,
+      "venue": "Ecology",
+      "doi": "10.1002/ecy.3237",
+      "openAccessUrl": "https://doi.org/10.1002/ecy.3237"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/65987843",
+      "title": "Changes in key traits versus depth and latitude suggest energy‐efficient locomotion, opportunistic feeding and light lead to adaptive morphologies of marine fishes",
+      "year": 2020,
+      "venue": "Journal of Animal Ecology",
+      "doi": "10.1111/1365-2656.13131",
+      "openAccessUrl": "https://doi.org/10.1111/1365-2656.13131"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062757",
+      "title": "Changes in key traits versus depth and latitude suggest energy-efficient locomotion, opportunistic feeding and light lead to adaptive morphologies of marine fishes",
+      "year": 2020,
+      "venue": "Journal of Animal Ecology",
+      "doi": "10.1111/1365-2656.13131",
+      "openAccessUrl": "https://doi.org/10.1111/1365-2656.13131"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062686",
+      "title": "Instantaneous vs. non-instantaneous diver-operated stereo-video (DOV) surveys of highly mobile sharks in the Galápagos Marine Reserve",
+      "year": 2020,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps13447",
+      "openAccessUrl": "https://doi.org/10.3354/meps13447"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062665",
+      "title": "Phylogenetic measures reveal eco-evolutionary drivers of biodiversity along a depth gradient",
+      "year": 2020,
+      "venue": "Ecography",
+      "doi": "10.1111/ecog.04836",
+      "openAccessUrl": "https://doi.org/10.1111/ecog.04836"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062729",
+      "title": "The rise of a marine generalist predator and the fall of beta diversity",
+      "year": 2020,
+      "venue": "Global Change Biology",
+      "doi": "10.1111/gcb.15027",
+      "openAccessUrl": "https://doi.org/10.1111/gcb.15027"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/62114036",
+      "title": "A pathway for multivariate analysis of ecological communities using copulas",
+      "year": 2019,
+      "venue": "Ecology and Evolution",
+      "doi": "10.1002/ece3.4948",
+      "openAccessUrl": "https://doi.org/10.1002/ece3.4948"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062683",
+      "title": "A pathway for multivariate analysis of ecological communities using copulas",
+      "year": 2019,
+      "venue": "Ecology and Evolution",
+      "doi": "10.1002/ece3.4948",
+      "openAccessUrl": "https://doi.org/10.1002/ece3.4948"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062761",
+      "title": "A Multivariate Homogeneously Weighted Moving Average Control Chart",
+      "year": 2019,
+      "venue": "IEEE Access",
+      "doi": "10.1109/ACCESS.2019.2891988",
+      "openAccessUrl": "https://doi.org/10.1109/ACCESS.2019.2891988"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062715",
+      "title": "An integrated pathway for building regional phylogenies for ecological studies",
+      "year": 2019,
+      "venue": "Global Ecology and Biogeography",
+      "doi": "10.1111/geb.12986",
+      "openAccessUrl": "https://doi.org/10.1111/geb.12986"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062682",
+      "title": "Efficient homogeneously weighted moving average chart for monitoring process mean using an auxiliary variable",
+      "year": 2019,
+      "venue": "IEEE Access",
+      "doi": "10.1109/ACCESS.2019.2926533",
+      "openAccessUrl": "https://doi.org/10.1109/ACCESS.2019.2926533"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062707",
+      "title": "Genetic structure of the grey side-gilled sea slug (Pleurobranchaea maculata) in coastal waters of New Zealand",
+      "year": 2018,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0202197",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0202197"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062717",
+      "title": "Shrinkage estimates of covariance matrices to improve the performance of multivariate cumulative sum control charts",
+      "year": 2018,
+      "venue": "Computers and Industrial Engineering",
+      "doi": "10.1016/j.cie.2018.02.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.cie.2018.02.008"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062668",
+      "title": "Spatial patterns of distribution and relative abundance of coastal shark species in the Galapagos Marine Reserve",
+      "year": 2018,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps12505",
+      "openAccessUrl": "https://doi.org/10.3354/meps12505"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062670",
+      "title": "Understanding human attitudes towards sharks to promote sustainable coexistence",
+      "year": 2018,
+      "venue": "Marine Policy",
+      "doi": "10.1016/j.marpol.2018.02.018",
+      "openAccessUrl": "https://doi.org/10.1016/j.marpol.2018.02.018"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062767",
+      "title": "Could ecologists be more random? Straightforward alternatives to haphazard spatial sampling",
+      "year": 2017,
+      "venue": "Ecography",
+      "doi": "10.1111/ecog.02821",
+      "openAccessUrl": "https://doi.org/10.1111/ecog.02821"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062701",
+      "title": "Effects of latitude and depth on the beta diversity of New Zealand fish communities",
+      "year": 2017,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-017-08427-7",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-017-08427-7"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062768",
+      "title": "Environmental characteristics drive variation in Amazonian understorey bird assemblages",
+      "year": 2017,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0171540",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0171540"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062703",
+      "title": "Residency and movement patterns of an apex predatory shark (Galeocerdo cuvier) at the Galapagos Marine Reserve",
+      "year": 2017,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0183669",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0183669"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062706",
+      "title": "Some solutions to the multivariate Behrens–Fisher problem for dissimilarity-based analyses",
+      "year": 2017,
+      "venue": "Australian and New Zealand Journal of Statistics",
+      "doi": "10.1111/anzs.12176",
+      "openAccessUrl": "https://doi.org/10.1111/anzs.12176"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062685",
+      "title": "Marine reserves indirectly affect fine-scale habitat associations, but not overall densities, of small benthic fishes",
+      "year": 2016,
+      "venue": "Ecology and Evolution",
+      "doi": "10.1002/ece3.2406",
+      "openAccessUrl": "https://doi.org/10.1002/ece3.2406"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062747",
+      "title": "Microbial Genomics of a Host-Associated Commensal Bacterium in Fragmented Populations of Endangered Takahe",
+      "year": 2016,
+      "venue": "Microbial Ecology",
+      "doi": "10.1007/s00248-015-0721-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00248-015-0721-5"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062753",
+      "title": "Measures of precision for dissimilarity-based multivariate analysis of ecological communities",
+      "year": 2015,
+      "venue": "Ecology Letters",
+      "doi": "10.1111/ele.12385",
+      "openAccessUrl": "https://doi.org/10.1111/ele.12385"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062712",
+      "title": "Review and phylogeny of the New Zealand hagfishes (Myxiniformes: Myxinidae), with a description of three new species",
+      "year": 2015,
+      "venue": "Zoological Journal of the Linnean Society",
+      "doi": "10.1111/zoj.12239",
+      "openAccessUrl": "https://doi.org/10.1111/zoj.12239"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062772",
+      "title": "The role of a dominant predator in shaping biodiversity over space and time in a marine ecosystem",
+      "year": 2015,
+      "venue": "Journal of Animal Ecology",
+      "doi": "10.1111/1365-2656.12396",
+      "openAccessUrl": "https://doi.org/10.1111/1365-2656.12396"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062741",
+      "title": "Effects of marine reserves in the context of spatial and temporal variation: An analysis using Bayesian zero-inflated mixed models",
+      "year": 2014,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps10653",
+      "openAccessUrl": "https://doi.org/10.3354/meps10653"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062735",
+      "title": "Longitudinal variation and effects of habitat on biodiversity of Australasian temperate reef fishes",
+      "year": 2014,
+      "venue": "Journal of Biogeography",
+      "doi": "10.1111/jbi.12359",
+      "openAccessUrl": "https://doi.org/10.1111/jbi.12359"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062677",
+      "title": "Species-accumulation curves and taxonomic surrogates: An integrated approach for estimation of regional species richness",
+      "year": 2014,
+      "venue": "Diversity and Distributions",
+      "doi": "10.1111/ddi.12168",
+      "openAccessUrl": "https://doi.org/10.1111/ddi.12168"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062661",
+      "title": "Beta Diversity of Demersal Fish Assemblages in the North-Eastern Pacific: Interactions of Latitude and Depth",
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0057918",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0057918"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062689",
+      "title": "Causal modeling with multivariate species data",
+      "year": 2013,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/j.jembe.2013.05.028",
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2013.05.028"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062697",
+      "title": "Hagfish feeding habits along a depth gradient inferred from stable isotopes",
+      "year": 2013,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps10341",
+      "openAccessUrl": "https://doi.org/10.3354/meps10341"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062660",
+      "title": "PERMANOVA, ANOSIM, and the Mantel test in the face of heterogeneous dispersions: What null hypothesis are you testing?",
+      "year": 2013,
+      "venue": "Ecological Monographs",
+      "doi": "10.1890/12-2010.1",
+      "openAccessUrl": "https://doi.org/10.1890/12-2010.1"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062734",
+      "title": "Stochastic and deterministic drivers of spatial and temporal turnover in breeding bird communities",
+      "year": 2013,
+      "venue": "Global Ecology and Biogeography",
+      "doi": "10.1111/j.1466-8238.2012.00780.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1466-8238.2012.00780.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062673",
+      "title": "Biogeographical patterns of algal communities in the Mediterranean Sea: Cystoseira crinita-dominated assemblages as a case study",
+      "year": 2012,
+      "venue": "Journal of Biogeography",
+      "doi": "10.1111/j.1365-2699.2011.02564.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2699.2011.02564.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062664",
+      "title": "Diversity and Composition of Demersal Fishes along a Depth Gradient Assessed by Baited Remote Underwater Stereo-Video",
+      "year": 2012,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0048522",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0048522"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062681",
+      "title": "Incorporating the intraspecific occupancy-abundance relationship into zero-inflated models",
+      "year": 2012,
+      "venue": "Ecology",
+      "doi": "10.1890/12-0460.1",
+      "openAccessUrl": "https://doi.org/10.1890/12-0460.1"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062754",
+      "title": "Preliminary evidence for the microbial loop in Antarctic sea ice using microcosm simulations",
+      "year": 2012,
+      "venue": "Antarctic Science",
+      "doi": "10.1017/S0954102012000491",
+      "openAccessUrl": "https://doi.org/10.1017/S0954102012000491"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062684",
+      "title": "Response to comments on \"disentangling the drivers of β diversity along latitudinal and elevational gradients\"",
+      "year": 2012,
+      "venue": "Science",
+      "doi": "10.1126/science.1218697",
+      "openAccessUrl": "https://doi.org/10.1126/science.1218697"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062710",
+      "title": "The effects of translocation-induced isolation and fragmentation on the cultural evolution of bird song",
+      "year": 2012,
+      "venue": "Ecology Letters",
+      "doi": "10.1111/j.1461-0248.2012.01797.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2012.01797.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062728",
+      "title": "Assessing the nature of the combined effects of copper and zinc on estuarine infaunal communities",
+      "year": 2011,
+      "venue": "Environmental Pollution",
+      "doi": "10.1016/j.envpol.2010.09.012",
+      "openAccessUrl": "https://doi.org/10.1016/j.envpol.2010.09.012"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062722",
+      "title": "Bioaccumulation of copper, lead and zinc by the bivalves Macomona liliana and Austrovenus stutchburyi",
+      "year": 2011,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/j.jembe.2010.10.029",
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2010.10.029"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062725",
+      "title": "Disentangling the drivers of β diversity along latitudinal and elevational gradients",
+      "year": 2011,
+      "venue": "Science",
+      "doi": "10.1126/science.1208584",
+      "openAccessUrl": "https://doi.org/10.1126/science.1208584"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062714",
+      "title": "Erratum: Assessing the nature of the combined effects of copper and zinc on estuarine infaunal communities (Environmental Pollution (2011) 159 (116-124))",
+      "year": 2011,
+      "venue": "Environmental Pollution",
+      "doi": "10.1016/j.envpol.2010.11.018",
+      "openAccessUrl": "https://doi.org/10.1016/j.envpol.2010.11.018"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062718",
+      "title": "Hagfish predatory behaviour and slime defence mechanism",
+      "year": 2011,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/srep00131",
+      "openAccessUrl": "https://doi.org/10.1038/srep00131"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062759",
+      "title": "Increasing variation in taxonomic distinctness reveals clusters of specialists in the deep sea",
+      "year": 2011,
+      "venue": "Ecography",
+      "doi": "10.1111/j.1600-0587.2010.06546.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1600-0587.2010.06546.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062700",
+      "title": "Much ado about nothings: Using zero similarity points in distance-decay curves",
+      "year": 2011,
+      "venue": "Ecology",
+      "doi": "10.1890/11-0029.1",
+      "openAccessUrl": "https://doi.org/10.1890/11-0029.1"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062720",
+      "title": "Navigating the multiple meanings of β diversity: A roadmap for the practicing ecologist",
+      "year": 2011,
+      "venue": "Ecology Letters",
+      "doi": "10.1111/j.1461-0248.2010.01552.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2010.01552.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062694",
+      "title": "Response of sea-ice microbial communities to environmental disturbance: An in situ transplant experiment in the Antarctic",
+      "year": 2011,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps08977",
+      "openAccessUrl": "https://doi.org/10.3354/meps08977"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062693",
+      "title": "Individual and combined effects of heavy metals on estuarine infaunal communities",
+      "year": 2010,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps08457",
+      "openAccessUrl": "https://doi.org/10.3354/meps08457"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062736",
+      "title": "Species, gender, and identity: Cracking petrels' sociochemical code",
+      "year": 2010,
+      "venue": "Chemical Senses",
+      "doi": "10.1093/chemse/bjq021",
+      "openAccessUrl": "https://doi.org/10.1093/chemse/bjq021"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062755",
+      "title": "Taxonomic distinctness of demersal fishes of the california current: Moving beyond simple measures of diversity for marine ecosystem-based management",
+      "year": 2010,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0010653",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0010653"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062758",
+      "title": "Beta diversity and taxonomic sufficiency: Do higher-level taxa reflect heterogeneity in species composition?",
+      "year": 2009,
+      "venue": "Diversity and Distributions",
+      "doi": "10.1111/j.1472-4642.2008.00551.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1472-4642.2008.00551.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062770",
+      "title": "Effects of protection from fishing on the lengths of targeted and non-targeted fish species at the houtman abrolhos islands, western australia",
+      "year": 2009,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps08009",
+      "openAccessUrl": "https://doi.org/10.3354/meps08009"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062687",
+      "title": "Enhancing the ecological significance of sediment contamination guidelines through integration with community analysis",
+      "year": 2009,
+      "venue": "Environmental Science and Technology",
+      "doi": "10.1021/es802175k",
+      "openAccessUrl": "https://doi.org/10.1021/es802175k"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062679",
+      "title": "Patterns and causes of species richness: A general simulation model for macroecology",
+      "year": 2009,
+      "venue": "Ecology Letters",
+      "doi": "10.1111/j.1461-0248.2009.01353.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2009.01353.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062675",
+      "title": "Analyses of δ<sup>13</sup>C and δ<sup>18</sup>O in tree rings of Callitris columellaris provide evidence of a change in stomatal control of photosynthesis in response to regional changes in climate",
+      "year": 2008,
+      "venue": "Tree Physiology",
+      "doi": "10.1093/treephys/28.10.1525",
+      "openAccessUrl": "https://doi.org/10.1093/treephys/28.10.1525"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062732",
+      "title": "Animal-sediment relationships re-visited: Characterising species' distributions along an environmental gradient using canonical analysis and quantile regression splines",
+      "year": 2008,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/j.jembe.2008.07.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2008.07.006"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062733",
+      "title": "Spatial and temporal heterogeneity of the bacterial communities in stream epilithic biofilms",
+      "year": 2008,
+      "venue": "FEMS Microbiology Ecology",
+      "doi": "10.1111/j.1574-6941.2008.00548.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1574-6941.2008.00548.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062658",
+      "title": "A multi-scale impact assessment of effects of northwestern adriatic gas fields on marine macrobenthos - Biodivadr",
+      "year": 2007,
+      "venue": "Offshore Mediterranean Conference and Exhibition 2007, OMC 2007"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062775",
+      "title": "Identifying treatment effects in multi-channel measurements in electroencephalographic studies: Multivariate permutation tests and multiple comparisons",
+      "year": 2007,
+      "venue": "Australian and New Zealand Journal of Statistics",
+      "doi": "10.1111/j.1467-842X.2007.00491.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-842X.2007.00491.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062659",
+      "title": "Morphometric measures as a moderate predictor of gender in the white-browed babbler Pomatostomus superciliosus gilgandra",
+      "year": 2007,
+      "venue": "Corella"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062699",
+      "title": "Protection from fishing alters the species composition of fish assemblages in a temperate-tropical transition zone",
+      "year": 2007,
+      "venue": "Marine Biology",
+      "doi": "10.1007/s00227-007-0767-0",
+      "openAccessUrl": "https://doi.org/10.1007/s00227-007-0767-0"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062748",
+      "title": "Scales of spatial variation in Mediterranean subtidal sessile assemblages at different depths",
+      "year": 2007,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps332025",
+      "openAccessUrl": "https://doi.org/10.3354/meps332025"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062740",
+      "title": "Species abundance distributions: Moving beyond single prediction theories to integration within an ecological framework",
+      "year": 2007,
+      "venue": "Ecology Letters",
+      "doi": "10.1111/j.1461-0248.2007.01094.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2007.01094.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062762",
+      "title": "Subtle and negligible effects of rainfall on estuarine infauna: Evidence from three years of event-driven sampling",
+      "year": 2007,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps340017",
+      "openAccessUrl": "https://doi.org/10.3354/meps340017"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062691",
+      "title": "Temporal variability and intensity of grazing: A mesocosm experiment",
+      "year": 2007,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps341015",
+      "openAccessUrl": "https://doi.org/10.3354/meps341015"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062678",
+      "title": "Temporal variance of disturbance did not affect diversity and structure of a marine fouling community in north-eastern New Zealand",
+      "year": 2007,
+      "venue": "Marine Biology",
+      "doi": "10.1007/s00227-007-0798-6",
+      "openAccessUrl": "https://doi.org/10.1007/s00227-007-0798-6"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062711",
+      "title": "Distance-based tests for homogeneity of multivariate dispersions",
+      "year": 2006,
+      "venue": "Biometrics",
+      "doi": "10.1111/j.1541-0420.2005.00440.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1541-0420.2005.00440.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062666",
+      "title": "Erratum: A comparison of temperate reef fish assemblages recorded by three underwater stereo-video techniques (Marine Biology (2005) 148 (415-425) DOI: doi.org/10.1007/s00227-005-0090-6)",
+      "year": 2006,
+      "venue": "Marine Biology",
+      "doi": "10.1007/s00227-005-0237-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0237-5"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062671",
+      "title": "Erratum: Marine reserves demonstrate trophic interactions across habitats (Oecologia (2005) DOI: 10.1007/s00442-005-0148-7)",
+      "year": 2006,
+      "venue": "Oecologia",
+      "doi": "10.1007/s00442-005-0237-7",
+      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0237-7"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062695",
+      "title": "Importance of rock lobster size-structure for trophic interactions: Choice of soft-sediment bivalve prey",
+      "year": 2006,
+      "venue": "Marine Biology",
+      "doi": "10.1007/s00227-005-0238-4",
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0238-4"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062704",
+      "title": "Inconsistent effects of reefs on different size classes of macrofauna in adjacent sand habitats",
+      "year": 2006,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/j.jembe.2006.02.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2006.02.001"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062751",
+      "title": "Marine reserves demonstrate trophic interactions across habitats",
+      "year": 2006,
+      "venue": "Oecologia",
+      "doi": "10.1007/s00442-005-0148-7",
+      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0148-7"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062708",
+      "title": "Multivariate dispersion as a measure of beta diversity",
+      "year": 2006,
+      "venue": "Ecology Letters",
+      "doi": "10.1111/j.1461-0248.2006.00926.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2006.00926.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062662",
+      "title": "A comparison of temperate reef fish assemblages recorded by three underwater stereo-video techniques",
+      "year": 2005,
+      "venue": "Marine Biology",
+      "doi": "10.1007/s00227-005-0090-6",
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0090-6"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062723",
+      "title": "Assessing and monitoring ecological community health in marine systems",
+      "year": 2005,
+      "venue": "Ecological Applications",
+      "doi": "10.1890/04-0732",
+      "openAccessUrl": "https://doi.org/10.1890/04-0732"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062731",
+      "title": "Consistency and variation in kelp holdfast assemblages: Spatial patterns of biodiversity for the major phyla at different taxonomic resolutions",
+      "year": 2005,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/j.jembe.2004.12.023",
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2004.12.023"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062705",
+      "title": "Fitting nonlinear environmental gradients to community data: A general distance-based approach",
+      "year": 2005,
+      "venue": "Ecology",
+      "doi": "10.1890/04-1071",
+      "openAccessUrl": "https://doi.org/10.1890/04-1071"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062739",
+      "title": "Multivariate and univariate asymmetrical analyses in environmental impact assessment: A case study of Mediterranean subtidal sessile assemblages",
+      "year": 2005,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps289027",
+      "openAccessUrl": "https://doi.org/10.3354/meps289027"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062738",
+      "title": "Nonlinear multivariate models of successional change in community structure using the von Bertalanffy curve",
+      "year": 2005,
+      "venue": "Oecologia",
+      "doi": "10.1007/s00442-005-0195-0",
+      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0195-0"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062709",
+      "title": "Quantifying effects of pollution on biodiversity: A case study of highly diverse molluscan assemblages in the Mediterranean",
+      "year": 2005,
+      "venue": "Marine Biology",
+      "doi": "10.1007/s00227-005-0080-8",
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0080-8"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062749",
+      "title": "Reef-associated predators influence adjacent soft-sediment communities",
+      "year": 2005,
+      "venue": "Ecology",
+      "doi": "10.1890/04-0234",
+      "openAccessUrl": "https://doi.org/10.1890/04-0234"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062688",
+      "title": "Relationships between taxonomic resolution and spatial scales of multivariate variation",
+      "year": 2005,
+      "venue": "Journal of Animal Ecology",
+      "doi": "10.1111/j.1365-2656.2005.00959.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2656.2005.00959.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062692",
+      "title": "Climate and habitat barriers to dispersal in the highly mobile grey wolf",
+      "year": 2004,
+      "venue": "Molecular Ecology",
+      "doi": "10.1111/j.1365-294X.2004.02244.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-294X.2004.02244.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062669",
+      "title": "Multivariate control charts for ecological and environmental monitoring",
+      "year": 2004,
+      "venue": "Ecological Applications",
+      "doi": "10.1890/03-5379",
+      "openAccessUrl": "https://doi.org/10.1890/03-5379"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062746",
+      "title": "Quantitative measures of sedimentation in an estuarine system and its relationship with intertidal soft-sediment infauna",
+      "year": 2004,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps272033",
+      "openAccessUrl": "https://doi.org/10.3354/meps272033"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062774",
+      "title": "Remedies for pseudoreplication",
+      "year": 2004,
+      "venue": "Fisheries Research",
+      "doi": "10.1016/j.fishres.2004.08.016",
+      "openAccessUrl": "https://doi.org/10.1016/j.fishres.2004.08.016"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062737",
+      "title": "Spatial variation and effects of habitat on temperate reef fish assemblages in northeastern New Zealand",
+      "year": 2004,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/j.jembe.2003.12.011",
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2003.12.011"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062744",
+      "title": "Variance heterogeneity, transformations, and models of species abundance: A cautionary tale",
+      "year": 2004,
+      "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+      "doi": "10.1139/F04-051",
+      "openAccessUrl": "https://doi.org/10.1139/F04-051"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062766",
+      "title": "Canonical analysis of principal coordinates: A useful method of constrained ordination for ecology",
+      "year": 2003,
+      "venue": "Ecology",
+      "doi": "10.1890/0012-9658(2003)084[0511:CAOPCA]2.0.CO;2",
+      "openAccessUrl": "https://doi.org/10.1890/0012-9658(2003)084[0511:CAOPCA]2.0.CO;2"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062680",
+      "title": "Generalized discriminant analysis based on distances",
+      "year": 2003,
+      "venue": "Australian and New Zealand Journal of Statistics",
+      "doi": "10.1111/1467-842X.00285",
+      "openAccessUrl": "https://doi.org/10.1111/1467-842X.00285"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062724",
+      "title": "Permutation tests for multi-factorial analysis of variance",
+      "year": 2003,
+      "venue": "Journal of Statistical Computation and Simulation",
+      "doi": "10.1080/00949650215733",
+      "openAccessUrl": "https://doi.org/10.1080/00949650215733"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062674",
+      "title": "Structure of cryptic reef fish assemblages: Relationships with habitat characteristics and predator density",
+      "year": 2003,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps257209",
+      "openAccessUrl": "https://doi.org/10.3354/meps257209"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062726",
+      "title": "The kinetics of monospermic and polyspermic fertilization in free-spawning marine invertebrates",
+      "year": 2003,
+      "venue": "Journal of Theoretical Biology",
+      "doi": "10.1016/S0022-5193(03)00145-0",
+      "openAccessUrl": "https://doi.org/10.1016/S0022-5193(03)00145-0"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062721",
+      "title": "A new method for non-parametric multivariate analysis of variance",
+      "year": 2001,
+      "venue": "Austral Ecology",
+      "doi": "10.1046/j.1442-9993.2001.01070.x",
+      "openAccessUrl": "https://doi.org/10.1046/j.1442-9993.2001.01070.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062763",
+      "title": "Fitting multivariate models to community data: A comment on distance-based redundancy analysis",
+      "year": 2001,
+      "venue": "Ecology",
+      "doi": "10.1890/0012-9658(2001)082[0290:FMMTCD]2.0.CO;2",
+      "openAccessUrl": "https://doi.org/10.1890/0012-9658(2001)082[0290:FMMTCD]2.0.CO;2"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062756",
+      "title": "Permutation tests for linear models",
+      "year": 2001,
+      "venue": "Australian and New Zealand Journal of Statistics",
+      "doi": "10.1111/1467-842X.00156",
+      "openAccessUrl": "https://doi.org/10.1111/1467-842X.00156"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062742",
+      "title": "Permutation tests for univariate or multivariate analysis of variance and regression",
+      "year": 2001,
+      "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
+      "doi": "10.1139/f01-004",
+      "openAccessUrl": "https://doi.org/10.1139/f01-004"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062727",
+      "title": "Resolving environmental disputes: A statistical method for choosing among competing cluster models",
+      "year": 2000,
+      "venue": "Ecological Applications",
+      "doi": "10.1890/1051-0761(2000)010[1341:REDASM]2.0.CO;2",
+      "openAccessUrl": "https://doi.org/10.1890/1051-0761(2000)010[1341:REDASM]2.0.CO;2"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062760",
+      "title": "An empirical comparison of permutation methods for tests of partial regression coefficients in a linear model",
+      "year": 1999,
+      "venue": "Journal of Statistical Computation and Simulation",
+      "doi": "10.1080/00949659908811936",
+      "openAccessUrl": "https://doi.org/10.1080/00949659908811936"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062672",
+      "title": "Distance-based redundancy analysis: Testing multispecies responses in multifactorial ecological experiments",
+      "year": 1999,
+      "venue": "Ecological Monographs",
+      "doi": "10.1890/0012-9615(1999)069[0001:DBRATM]2.0.CO;2",
+      "openAccessUrl": "https://doi.org/10.1890/0012-9615(1999)069[0001:DBRATM]2.0.CO;2"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062690",
+      "title": "Distinguishing direct from indirect effects of grazers in intertidal estuarine assemblages",
+      "year": 1999,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/S0022-0981(98)00159-2",
+      "openAccessUrl": "https://doi.org/10.1016/S0022-0981(98)00159-2"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062713",
+      "title": "Effects of patch size on colonisation in estuaries: Revisiting the species-area relationship",
+      "year": 1999,
+      "venue": "Oecologia",
+      "doi": "10.1007/s004420050706",
+      "openAccessUrl": "https://doi.org/10.1007/s004420050706"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062769",
+      "title": "Erratum: Distance-based redundancy analysis: Testing multispecies responses in multifactorial ecological experiments: (Ecological Monographs (1999) 69:1 (1-24))",
+      "year": 1999,
+      "venue": "Ecological Monographs",
+      "doi": "10.2307/2657228",
+      "openAccessUrl": "https://doi.org/10.2307/2657228"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062765",
+      "title": "Predation by fish on assemblages of intertidal epibiota: Effects of predator size and patch size",
+      "year": 1999,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/S0022-0981(99)00067-2",
+      "openAccessUrl": "https://doi.org/10.1016/S0022-0981(99)00067-2"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062716",
+      "title": "Predation by fish on intertidal oysters",
+      "year": 1999,
+      "venue": "Marine Ecology Progress Series",
+      "doi": "10.3354/meps187203",
+      "openAccessUrl": "https://doi.org/10.3354/meps187203"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062776",
+      "title": "Morphometric comparative analysis of pharyngeal bones of the genus scardinius (Pisces: Cyprinidae) in Greece",
+      "year": 1998,
+      "venue": "Journal of Natural History",
+      "doi": "10.1080/00222939800770471",
+      "openAccessUrl": "https://doi.org/10.1080/00222939800770471"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062773",
+      "title": "Partitioning the variation among spatial, temporal and environmental components in a multivariate data set",
+      "year": 1998,
+      "venue": "Austral Ecology",
+      "doi": "10.1111/j.1442-9993.1998.tb00713.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1442-9993.1998.tb00713.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062764",
+      "title": "Effects of gastropod grazers on recruitment and succession of an estuarine assemblage: A multivariate and univariate approach",
+      "year": 1997,
+      "venue": "Oecologia",
+      "doi": "10.1007/s004420050104",
+      "openAccessUrl": "https://doi.org/10.1007/s004420050104"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062771",
+      "title": "A chemical cue induces settlement of Sydney rock oysters, Saccostrea commercialis, in the laboratory and in the field",
+      "year": 1996,
+      "venue": "Biological Bulletin",
+      "doi": "10.2307/1543027",
+      "openAccessUrl": "https://doi.org/10.2307/1543027"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062702",
+      "title": "Variations in biofilms colonizing artificial surfaces: Seasonal effects and effects of grazers",
+      "year": 1995,
+      "venue": "Journal of the Marine Biological Association of the United Kingdom",
+      "doi": "10.1017/S0025315400039114",
+      "openAccessUrl": "https://doi.org/10.1017/S0025315400039114"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062719",
+      "title": "Effects of substratum on the recruitment and development of an intertidal estuarine fouling assemblage",
+      "year": 1994,
+      "venue": "Journal of Experimental Marine Biology and Ecology",
+      "doi": "10.1016/0022-0981(94)90006-X",
+      "openAccessUrl": "https://doi.org/10.1016/0022-0981(94)90006-X"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062745",
+      "title": "Hybridization of sympatric Patiriella species (Echinodermata: Asteroidea) in New South Wales",
+      "year": 1994,
+      "venue": "Evolution",
+      "doi": "10.1111/j.1558-5646.1994.tb01344.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1558-5646.1994.tb01344.x"
+    },
+    {
+      "id": "orcid:0000-0002-4018-4049/work/95062730",
+      "title": "Seasonal and Temporal Aspects of Recruitment and Succession in an Intertidal Estuarine Fouling Assemblage",
+      "year": 1994,
+      "venue": "Journal of the Marine Biological Association of the United Kingdom",
+      "doi": "10.1017/S0025315400047676",
+      "openAccessUrl": "https://doi.org/10.1017/S0025315400047676"
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "slug": "michael-black",
+  "orcidId": "0000-0003-1174-6054",
+  "updatedAt": "2025-12-09T23:11:05.928Z",
+  "works": [
+    {
+      "id": "orcid:0000-0003-1174-6054/work/185797715",
+      "title": "Evaluating computational tools for protein-coding sequence detection: Are they up to the task?",
+      "year": 2025,
+      "venue": "RNA",
+      "doi": "10.1261/rna.080416.125",
+      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/142417885",
+      "title": "Aotearoa genomic data repository: An āhuru mōwai for taonga species sequencing data",
+      "year": 2025,
+      "venue": "Molecular Ecology Resources",
+      "doi": "10.1111/1755-0998.13866",
+      "openAccessUrl": "https://doi.org/10.1111/1755-0998.13866"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/120991785",
+      "title": "Impact of Clinical Data Veracity on Cancer Genomic Research",
+      "year": 2022,
+      "venue": "JNCI Cancer Spectrum",
+      "doi": "10.1093/jncics/pkac070",
+      "openAccessUrl": "https://doi.org/10.1093/jncics/pkac070"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/121509883",
+      "title": "Insights into H2O2-induced signaling in Jurkat cells from analysis of gene expression",
+      "year": 2022,
+      "doi": "10.1101/2022.10.20.513094",
+      "openAccessUrl": "https://doi.org/10.1101/2022.10.20.513094"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/126314081",
+      "title": "Insights into H 2 O 2 -induced signaling in Jurkat cells from analysis of gene expression",
+      "year": 2022,
+      "venue": "Free Radical Research",
+      "doi": "10.1080/10715762.2023.2165073",
+      "openAccessUrl": "https://doi.org/10.1080/10715762.2023.2165073"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/110416967",
+      "title": "E-Cadherin-Deficient Cells Are Sensitive to the Multikinase Inhibitor Dasatinib",
+      "year": 2022,
+      "venue": "Cancers",
+      "doi": "10.3390/cancers14071609",
+      "openAccessUrl": "https://doi.org/10.3390/cancers14071609"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/110669207",
+      "title": "E-Cadherin-Deficient Cells Are Sensitive to the Multikinase Inhibitor Dasatinib",
+      "year": 2022,
+      "venue": "Cancers",
+      "doi": "10.3390/cancers14071609",
+      "openAccessUrl": "https://doi.org/10.3390/cancers14071609"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/105527936",
+      "title": "E-Cadherin-Deficient Epithelial Cells Are Sensitive to HDAC Inhibitors",
+      "year": 2021,
+      "venue": "Cancers",
+      "doi": "10.3390/cancers14010175",
+      "openAccessUrl": "https://doi.org/10.3390/cancers14010175"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/105670175",
+      "title": "E-Cadherin-Deficient Epithelial Cells Are Sensitive to HDAC Inhibitors",
+      "year": 2021,
+      "venue": "Cancers",
+      "doi": "10.3390/cancers14010175",
+      "openAccessUrl": "https://doi.org/10.3390/cancers14010175"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/100797565",
+      "title": "Single-Cell RNA-Seq Reveals Heterogeneous lncRNA Expression in Xenografted Triple-Negative Breast Cancer Cells",
+      "year": 2021,
+      "venue": "Biology",
+      "doi": "10.3390/biology10100987",
+      "openAccessUrl": "https://doi.org/10.3390/biology10100987"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/100968592",
+      "title": "Single-Cell RNA-Seq Reveals Heterogeneous lncRNA Expression in Xenografted Triple-Negative Breast Cancer Cells",
+      "year": 2021,
+      "venue": "Biology",
+      "doi": "10.3390/biology10100987",
+      "openAccessUrl": "https://doi.org/10.3390/biology10100987"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/81175085",
+      "title": "Insertional mutagenesis defines drivers and evolutionary relationships in pancreatic cancer metastasis",
+      "year": 2020,
+      "doi": "10.1101/2020.09.28.317701",
+      "openAccessUrl": "https://doi.org/10.1101/2020.09.28.317701"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/76977056",
+      "title": "graphsim: An R package for simulating gene expression data from graph structures of biological pathways",
+      "year": 2020,
+      "venue": "Journal of Open Source Software",
+      "doi": "10.21105/joss.02161",
+      "openAccessUrl": "https://doi.org/10.21105/joss.02161"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/70058652",
+      "title": "graphsim: An R package for simulating gene expression data from graph structures of biological pathways",
+      "year": 2020,
+      "doi": "10.1101/2020.03.02.972471",
+      "openAccessUrl": "https://doi.org/10.1101/2020.03.02.972471"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/59359342",
+      "title": "Stress, novel sex genes, and epigenetic reprogramming orchestrate socially controlled sex change",
+      "year": 2019,
+      "venue": "Science Advances",
+      "doi": "10.1126/sciadv.aaw7006",
+      "openAccessUrl": "https://doi.org/10.1126/sciadv.aaw7006"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/53722079",
+      "title": "High-Dimensional Mass Cytometric Analysis Reveals an Increase in Effector Regulatory T Cells as a Distinguishing Feature of Colorectal Tumors",
+      "year": 2019,
+      "venue": "The Journal of Immunology",
+      "doi": "10.4049/jimmunol.1801368",
+      "openAccessUrl": "https://doi.org/10.4049/jimmunol.1801368"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/51293851",
+      "title": "Stress, novel sex genes and epigenetic reprogramming orchestrate socially-controlled sex change",
+      "year": 2018,
+      "doi": "10.1101/481143",
+      "openAccessUrl": "https://doi.org/10.1101/481143"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481709",
+      "title": "A collection of annotated and harmonized human breast cancer transcriptome datasets, including immunologic classification",
+      "year": 2018,
+      "venue": "F1000Research",
+      "doi": "10.12688/f1000research.10960.2",
+      "openAccessUrl": "https://doi.org/10.12688/f1000research.10960.2"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481704",
+      "title": "Accounting for errors in low coverage high-throughput sequencing data when constructing genetic maps using Biparental outcrossed populations",
+      "year": 2018,
+      "venue": "Genetics",
+      "doi": "10.1534/genetics.117.300627",
+      "openAccessUrl": "https://doi.org/10.1534/genetics.117.300627"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47851195",
+      "title": "Accounting for Errors in Low Coverage High-Throughput Sequencing Data When Constructing Genetic Maps Using Biparental Outcrossed Populations",
+      "year": 2018,
+      "venue": "Genetics",
+      "doi": "10.1534/genetics.117.300627",
+      "openAccessUrl": "https://doi.org/10.1534/genetics.117.300627"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481706",
+      "title": "Copy number variants implicate cardiac function and development pathways in earthquake-induced stress cardiomyopathy /631/208/212/2301 /692/4019/592/2727 /45/23 /45/43 /45/61 article",
+      "year": 2018,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-018-25827-5",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-018-25827-5"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481708",
+      "title": "Genetic sex assignment in wild populations using genotyping-by-sequencing data: A statistical threshold approach",
+      "year": 2018,
+      "venue": "Molecular Ecology Resources",
+      "doi": "10.1111/1755-0998.12767",
+      "openAccessUrl": "https://doi.org/10.1111/1755-0998.12767"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481703",
+      "title": "Germline mutations and somatic inactivation of TRIM28 in Wilms tumour",
+      "year": 2018,
+      "venue": "PLoS Genetics",
+      "doi": "10.1371/journal.pgen.1007399",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1007399"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481701",
+      "title": "Recurrent loss of heterozygosity correlates with clinical outcome in pancreatic neuroendocrine cancer",
+      "year": 2018,
+      "venue": "npj Genomic Medicine",
+      "doi": "10.1038/s41525-018-0058-3",
+      "openAccessUrl": "https://doi.org/10.1038/s41525-018-0058-3"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481702",
+      "title": "Tumor mutational burden is a determinant of immune-mediated survival in breast cancer",
+      "year": 2018,
+      "venue": "OncoImmunology",
+      "doi": "10.1080/2162402X.2018.1490854",
+      "openAccessUrl": "https://doi.org/10.1080/2162402X.2018.1490854"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47851196",
+      "title": "Tumor mutational burden is a determinant of immune-mediated survival in breast cancer",
+      "year": 2018,
+      "venue": "OncoImmunology",
+      "doi": "10.1080/2162402X.2018.1490854",
+      "openAccessUrl": "https://doi.org/10.1080/2162402X.2018.1490854"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481705",
+      "title": "Δ133p53 isoform promotes tumour invasion and metastasis via interleukin-6 activation of JAK-STAT and RhoA-ROCK signaling",
+      "year": 2018,
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-017-02408-0",
+      "openAccessUrl": "https://doi.org/10.1038/s41467-017-02408-0"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481707",
+      "title": "A collection of annotated and harmonized human breast cancer transcriptome datasets, including immunologic classification",
+      "year": 2017,
+      "venue": "F1000Research",
+      "doi": "10.12688/f1000research.10960.1",
+      "openAccessUrl": "https://doi.org/10.12688/f1000research.10960.1"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883618",
+      "title": "A new role for ERα: Silencing via DNA methylation of basal, stem cell, and EMT genes",
+      "year": 2017,
+      "venue": "Molecular Cancer Research",
+      "doi": "10.1158/1541-7786.MCR-16-0283",
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.MCR-16-0283"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/47481700",
+      "title": "Gene expression profiling of breast tumours from New Zealand patients",
+      "year": 2017,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883616",
+      "title": "Genome-wide methylation analysis identifies a core set of hypermethylated genes in CIMP-H colorectal cancer",
+      "year": 2017,
+      "venue": "BMC Cancer",
+      "doi": "10.1186/s12885-017-3226-4",
+      "openAccessUrl": "https://doi.org/10.1186/s12885-017-3226-4"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883612",
+      "title": "Histological and transcriptomic effects of 17α-methyltestosterone on zebrafish gonad development",
+      "year": 2017,
+      "venue": "BMC Genomics",
+      "doi": "10.1186/s12864-017-3915-z",
+      "openAccessUrl": "https://doi.org/10.1186/s12864-017-3915-z"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883619",
+      "title": "Multimodal Assessment of Estrogen Receptor mRNA Profiles to Quantify Estrogen Pathway Activity in Breast Tumors",
+      "year": 2017,
+      "venue": "Clinical Breast Cancer",
+      "doi": "10.1016/j.clbc.2016.09.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.clbc.2016.09.001"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883622",
+      "title": "Prediction of small for gestational age infants in healthy nulliparous women using clinical and ultrasound risk factors combined with early pregnancy biomarkers",
+      "year": 2017,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0169311",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0169311"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883611",
+      "title": "Analyzing tumor heterogeneity and driver genes in single myeloid leukemia cells with SBCapSeq",
+      "year": 2016,
+      "venue": "Nature Biotechnology",
+      "doi": "10.1038/nbt.3637",
+      "openAccessUrl": "https://doi.org/10.1038/nbt.3637"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883617",
+      "title": "Copy number variants in the sheep genome detected using multiple approaches",
+      "year": 2016,
+      "venue": "BMC Genomics",
+      "doi": "10.1186/s12864-016-2754-7",
+      "openAccessUrl": "https://doi.org/10.1186/s12864-016-2754-7"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883620",
+      "title": "Functional impairment of infiltrating T cells in human colorectal cancer",
+      "year": 2016,
+      "venue": "OncoImmunology",
+      "doi": "10.1080/2162402X.2016.1234573",
+      "openAccessUrl": "https://doi.org/10.1080/2162402X.2016.1234573"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883610",
+      "title": "Immunogenic subtypes of breast cancer delineated by gene classifiers of immune responsiveness",
+      "year": 2016,
+      "venue": "Cancer Immunology Research",
+      "doi": "10.1158/2326-6066.CIR-15-0149",
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.CIR-15-0149"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883623",
+      "title": "Lack of direct evidence for natural selection at the candidate thrifty gene locus, PPARGC1A",
+      "year": 2016,
+      "venue": "BMC Medical Genetics",
+      "doi": "10.1186/s12881-016-0341-z",
+      "openAccessUrl": "https://doi.org/10.1186/s12881-016-0341-z"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883614",
+      "title": "SRBreak: A read-depth and split-read framework to identify breakpoints of different events inside simple copy-number variable regions",
+      "year": 2016,
+      "venue": "Frontiers in Genetics",
+      "doi": "10.3389/fgene.2016.00160",
+      "openAccessUrl": "https://doi.org/10.3389/fgene.2016.00160"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883615",
+      "title": "Striatal mRNA expression patterns underlying peak dose l-DOPA-induced dyskinesia in the 6-OHDA hemiparkinsonian rat",
+      "year": 2016,
+      "venue": "Neuroscience",
+      "doi": "10.1016/j.neuroscience.2016.03.012",
+      "openAccessUrl": "https://doi.org/10.1016/j.neuroscience.2016.03.012"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883621",
+      "title": "The power and promise of RNA-seq in ecology and evolution",
+      "year": 2016,
+      "venue": "Molecular Ecology",
+      "doi": "10.1111/mec.13526",
+      "openAccessUrl": "https://doi.org/10.1111/mec.13526"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/35883613",
+      "title": "Transposon mutagenesis identifies genes that cooperate with mutant Pten in breast cancer progression",
+      "year": 2016,
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1613859113",
+      "openAccessUrl": "https://doi.org/10.1073/pnas.1613859113"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16222836",
+      "title": "Transposon mutagenesis identifies genetic drivers of Braf(V600E) melanoma.",
+      "year": 2015,
+      "doi": "10.1038/ng.3275",
+      "openAccessUrl": "https://doi.org/10.1038/ng.3275"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/22731804",
+      "title": "Association of SLC2A9 genotype with phenotypic variability of serum urate in pre-menopausal women",
+      "year": 2015,
+      "venue": "Frontiers in Genetics",
+      "doi": "10.3389/fgene.2015.00313",
+      "openAccessUrl": "https://doi.org/10.3389/fgene.2015.00313"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078095",
+      "title": "Clinico-pathological factors influencing lymph node yield in colorectal cancer and impact on survival: Analysis of new zealand cancer registry data",
+      "year": 2015,
+      "venue": "Journal of Surgical Oncology",
+      "doi": "10.1002/jso.23848",
+      "openAccessUrl": "https://doi.org/10.1002/jso.23848"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16222837",
+      "title": "Exploring possible DNA structures in real-time polymerase kinetics using Pacific Biosciences sequencer data.",
+      "year": 2015,
+      "doi": "10.1186/s12859-014-0449-0",
+      "openAccessUrl": "https://doi.org/10.1186/s12859-014-0449-0"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/22731803",
+      "title": "Large-scale transcriptome sequencing reveals novel expression patterns for key sex-related genes in a sex-changing fish",
+      "year": 2015,
+      "venue": "Biology of Sex Differences",
+      "doi": "10.1186/s13293-015-0044-8",
+      "openAccessUrl": "https://doi.org/10.1186/s13293-015-0044-8"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/22731801",
+      "title": "The distribution and impact of common copy-number variation in the genome of the domesticated apple, Malus x domestica Borkh",
+      "year": 2015,
+      "venue": "BMC Genomics",
+      "doi": "10.1186/s12864-015-2096-x",
+      "openAccessUrl": "https://doi.org/10.1186/s12864-015-2096-x"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078103",
+      "title": "A bioinformatics workflow for detecting signatures of selection in genomic data",
+      "year": 2014,
+      "venue": "Frontiers in Genetics",
+      "doi": "10.3389/fgene.2014.00293",
+      "openAccessUrl": "https://doi.org/10.3389/fgene.2014.00293"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078097",
+      "title": "Altered transcription of murine genes induced in the small bowel by administration of probiotic strain Lactobacillus rhamnosus HN001",
+      "year": 2014,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.00336-14",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.00336-14"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/22731800",
+      "title": "Dual roles for immune metagenes in breast cancer prognosis and therapy prediction",
+      "year": 2014,
+      "venue": "Genome Medicine",
+      "doi": "10.1186/s13073-014-0080-8",
+      "openAccessUrl": "https://doi.org/10.1186/s13073-014-0080-8"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078096",
+      "title": "E-cadherin loss alters cytoskeletal organization and adhesion in non-malignant breast cells but is insufficient to induce an epithelial-mesenchymal transition",
+      "year": 2014,
+      "venue": "BMC Cancer",
+      "doi": "10.1186/1471-2407-14-552",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2407-14-552"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078100",
+      "title": "Early pregnancy prediction of preeclampsia in nulliparous women, combining clinical risk and biomarkers: The Screening for Pregnancy Endpoints (SCOPE) international cohort study",
+      "year": 2014,
+      "venue": "Hypertension",
+      "doi": "10.1161/HYPERTENSIONAHA.114.03578",
+      "openAccessUrl": "https://doi.org/10.1161/HYPERTENSIONAHA.114.03578"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078102",
+      "title": "Frequency of CYP2C9 polymorphisms in Polynesians and potential relevance for the treatment of gout by benzbromarone,Fréquence des polymorphismes du CYP2C9 chez les Polynésiens et pertinence potentielle concernant le traitement de la goutte par benzbromarone",
+      "year": 2014,
+      "venue": "Revue du Rhumatisme (Edition Francaise)",
+      "doi": "10.1016/j.rhum.2013.08.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.rhum.2013.08.005"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078098",
+      "title": "Frequency of CYP2C9 polymorphisms in polynesian people and potential relevance to management of gout with benzbromarone",
+      "year": 2014,
+      "venue": "Joint Bone Spine",
+      "doi": "10.1016/j.jbspin.2013.07.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.jbspin.2013.07.006"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/22731802",
+      "title": "Heterologous hybridisation to a Pinus microarray: Profiling of gene expression in Pinus radiata saplings exposed to ethephon",
+      "year": 2014,
+      "venue": "New Zealand Journal of Forestry Science",
+      "doi": "10.1186/s40490-014-0021-8",
+      "openAccessUrl": "https://doi.org/10.1186/s40490-014-0021-8"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078101",
+      "title": "Influence of age and site of disease on lymph node yield in colorectal cancer",
+      "year": 2014,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078106",
+      "title": "Sugar-sweetened beverage consumption: A risk factor for prevalent gout with SLC2A9 genotype-specific effects on serum urate and risk of gout",
+      "year": 2014,
+      "venue": "Annals of the Rheumatic Diseases",
+      "doi": "10.1136/annrheumdis-2013-203600",
+      "openAccessUrl": "https://doi.org/10.1136/annrheumdis-2013-203600"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078099",
+      "title": "The CNVrd2 package: Measurement of copy number at complex loci using high-throughput sequencing data",
+      "year": 2014,
+      "venue": "Frontiers in Genetics",
+      "doi": "10.3389/fgene.2014.00248",
+      "openAccessUrl": "https://doi.org/10.3389/fgene.2014.00248"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078108",
+      "title": "CNVrd, a Read-Depth Algorithm for Assigning Copy-Number at the FCGR Locus: Population-Specific Tagging of Copy Number Variation at FCGR3B",
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0063219",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0063219"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078107",
+      "title": "Evaluating accuracy of diagnostic tests with intermediate results in the absence of a gold standard",
+      "year": 2013,
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.5695",
+      "openAccessUrl": "https://doi.org/10.1002/sim.5695"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078110",
+      "title": "Inflammatory and regulatory T cells contribute to a unique immune microenvironment in tumor tissue of colorectal cancer patients",
+      "year": 2013,
+      "venue": "International Journal of Cancer",
+      "doi": "10.1002/ijc.27855",
+      "openAccessUrl": "https://doi.org/10.1002/ijc.27855"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078109",
+      "title": "Interactions between immunity, proliferation and molecular subtype in breast cancer prognosis",
+      "year": 2013,
+      "venue": "Genome Biology",
+      "doi": "10.1186/gb-2013-14-4-r34",
+      "openAccessUrl": "https://doi.org/10.1186/gb-2013-14-4-r34"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078104",
+      "title": "MelanomaDB: A web tool for integrative analysis of melanoma genomic information to identify disease-associated molecular pathways",
+      "year": 2013,
+      "venue": "Frontiers in Oncology",
+      "doi": "10.3389/fonc.2013.00184",
+      "openAccessUrl": "https://doi.org/10.3389/fonc.2013.00184"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078112",
+      "title": "Microsatellite Tandem Repeats Are Abundant in Human Promoters and Are Associated with Regulatory Elements",
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0054710",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0054710"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078105",
+      "title": "Mutations in genes encoding the cadherin receptor-ligand pair DCHS1 and FAT4 disrupt cerebral cortical development",
+      "year": 2013,
+      "venue": "Nature Genetics",
+      "doi": "10.1038/ng.2765",
+      "openAccessUrl": "https://doi.org/10.1038/ng.2765"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078111",
+      "title": "Pseudomonas syringae pv. actinidiae from Recent Outbreaks of Kiwifruit Bacterial Canker Belong to Different Clones That Originated in China",
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0057464",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0057464"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078116",
+      "title": "A Bayesian model for classifying all differentially expressed proteins simultaneously in 2D PAGE gels",
+      "year": 2012,
+      "venue": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-13-137",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-13-137"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078113",
+      "title": "Analysis of the DISC1 translocation partner (11q14.3) in genetic risk of schizophrenia",
+      "year": 2012,
+      "venue": "Genes, Brain and Behavior",
+      "doi": "10.1111/j.1601-183X.2012.00832.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1601-183X.2012.00832.x"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078114",
+      "title": "Cyclin E2 overexpression is associated with endocrine resistance but not insensitivity to CDK2 inhibition in human breast cancer cells",
+      "year": 2012,
+      "venue": "Molecular Cancer Therapeutics",
+      "doi": "10.1158/1535-7163.MCT-11-0963",
+      "openAccessUrl": "https://doi.org/10.1158/1535-7163.MCT-11-0963"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078117",
+      "title": "JMJD6 is a driver of cellular proliferation and motility and a marker of poor prognosis in breast cancer",
+      "year": 2012,
+      "venue": "Breast Cancer Research",
+      "doi": "10.1186/bcr3200",
+      "openAccessUrl": "https://doi.org/10.1186/bcr3200"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078118",
+      "title": "Sleeping Beauty mutagenesis reveals cooperating mutations and pathways in pancreatic adenocarcinoma",
+      "year": 2012,
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1202490109",
+      "openAccessUrl": "https://doi.org/10.1073/pnas.1202490109"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078115",
+      "title": "The chromosome 9p21.3 coronary heart disease risk allele is associated with altered gene expression in normal heart and vascular tissues",
+      "year": 2012,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0039574",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0039574"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078119",
+      "title": "YB-1, the E2F pathway, and regulation of tumor cell growth",
+      "year": 2012,
+      "venue": "Journal of the National Cancer Institute",
+      "doi": "10.1093/jnci/djr512",
+      "openAccessUrl": "https://doi.org/10.1093/jnci/djr512"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078121",
+      "title": "An iron regulatory gene signature predicts outcome in breast cancer",
+      "year": 2011,
+      "venue": "Cancer Research",
+      "doi": "10.1158/0008-5472.CAN-11-1870",
+      "openAccessUrl": "https://doi.org/10.1158/0008-5472.CAN-11-1870"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078128",
+      "title": "Clinical risk prediction for pre-eclampsia in nulliparous women: Development of model in international prospective cohort",
+      "year": 2011,
+      "venue": "BMJ",
+      "doi": "10.1136/bmj.d1875",
+      "openAccessUrl": "https://doi.org/10.1136/bmj.d1875"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078123",
+      "title": "Combined genomic and phenotype screening reveals secretory factor SPINK1 as an invasion and survival factor associated with patient prognosis in breast cancer",
+      "year": 2011,
+      "venue": "EMBO Molecular Medicine",
+      "doi": "10.1002/emmm.201100150",
+      "openAccessUrl": "https://doi.org/10.1002/emmm.201100150"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078129",
+      "title": "Context-specific gene regulatory networks subdivide intrinsic subtypes of breast cancer",
+      "year": 2011,
+      "venue": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-12-S1-S3",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-12-S1-S3"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078124",
+      "title": "Draft genome sequence of the thermoalkaliphilic Caldalkalibacillus thermarum strain TA2.A1",
+      "year": 2011,
+      "venue": "Journal of Bacteriology",
+      "doi": "10.1128/JB.05035-11",
+      "openAccessUrl": "https://doi.org/10.1128/JB.05035-11"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078125",
+      "title": "Lentiviral-mediated gene transfer to the sheep brain: Implications for gene therapy in batten disease",
+      "year": 2011,
+      "venue": "Human Gene Therapy",
+      "doi": "10.1089/hum.2011.026",
+      "openAccessUrl": "https://doi.org/10.1089/hum.2011.026"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078120",
+      "title": "Maori patients more likely to have anti-streptokinase antibodies",
+      "year": 2011,
+      "venue": "Journal of Primary Health Care"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078126",
+      "title": "Paternal contribution to small for gestational age babies: A multicenter prospective study",
+      "year": 2011,
+      "venue": "Obesity",
+      "doi": "10.1038/oby.2010.279",
+      "openAccessUrl": "https://doi.org/10.1038/oby.2010.279"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078130",
+      "title": "Prediction of preeclampsia and delivery of small for gestational age babies based on a combination of clinical risk factors in high-risk women",
+      "year": 2011,
+      "venue": "Hypertension in Pregnancy",
+      "doi": "10.3109/10641955.2010.486460",
+      "openAccessUrl": "https://doi.org/10.3109/10641955.2010.486460"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078127",
+      "title": "Streptokinase antibodies in patients presenting with acute coronary syndrome in three rural New Zealand populations",
+      "year": 2011,
+      "venue": "Journal of Clinical Pathology",
+      "doi": "10.1136/jcp.2010.085837",
+      "openAccessUrl": "https://doi.org/10.1136/jcp.2010.085837"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078122",
+      "title": "T cell subpopulations in lymph nodes may not be predictive of patient outcome in colorectal cancer",
+      "year": 2011,
+      "venue": "Journal of Experimental and Clinical Cancer Research",
+      "doi": "10.1186/1756-9966-30-78",
+      "openAccessUrl": "https://doi.org/10.1186/1756-9966-30-78"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078131",
+      "title": "Context-specific gene regulatory networks subdivide intrinsic subtypes of breast cancer",
+      "year": 2010,
+      "venue": "International Conference on Information and Knowledge Management, Proceedings",
+      "doi": "10.1145/1871871.1871875",
+      "openAccessUrl": "https://doi.org/10.1145/1871871.1871875"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078132",
+      "title": "Oligonucleotide array outperforms SNP array on formalin-fixed paraffin-embedded clinical samples",
+      "year": 2010,
+      "venue": "Cancer Genetics and Cytogenetics",
+      "doi": "10.1016/j.cancergencyto.2009.12.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.cancergencyto.2009.12.002"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078133",
+      "title": "The G protein-coupled receptor GPR30 inhibits proliferation of estrogen receptor-positive breast cancer cells",
+      "year": 2010,
+      "venue": "Cancer Research",
+      "doi": "10.1158/0008-5472.CAN-09-3068",
+      "openAccessUrl": "https://doi.org/10.1158/0008-5472.CAN-09-3068"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078138",
+      "title": "A proteomic approach identifies early pregnancy biomarkers for preeclampsia: Novel linkages between a predisposition to preeclampsia and cardiovascular disease",
+      "year": 2009,
+      "venue": "Proteomics",
+      "doi": "10.1002/pmic.200800625",
+      "openAccessUrl": "https://doi.org/10.1002/pmic.200800625"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078135",
+      "title": "A statistical model to identify differentially expressed proteins in 2D PAGE gels",
+      "year": 2009,
+      "venue": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1000509",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1000509"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078137",
+      "title": "An altered pattern of circulating apolipoprotein E3 isoforms is implicated in preeclampsia",
+      "year": 2009,
+      "venue": "Journal of Lipid Research",
+      "doi": "10.1194/jlr.M800296-JLR200",
+      "openAccessUrl": "https://doi.org/10.1194/jlr.M800296-JLR200"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078134",
+      "title": "Duration of sexual relationship and its effect on preeclampsia and small for gestational age perinatal outcome",
+      "year": 2009,
+      "venue": "Journal of Reproductive Immunology",
+      "doi": "10.1016/j.jri.2009.04.011",
+      "openAccessUrl": "https://doi.org/10.1016/j.jri.2009.04.011"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078136",
+      "title": "Slow proliferation as a biological feature of colorectal cancer metastasis",
+      "year": 2009,
+      "venue": "British Journal of Cancer",
+      "doi": "10.1038/sj.bjc.6605229",
+      "openAccessUrl": "https://doi.org/10.1038/sj.bjc.6605229"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078139",
+      "title": "Transterm: A database to aid the analysis of regulatory sequences in mRNAs",
+      "year": 2009,
+      "venue": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkn763",
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkn763"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078140",
+      "title": "Microarray-based gene set analysis: A comparison of current methods",
+      "year": 2008,
+      "venue": "BMC Bioinformatics",
+      "doi": "10.1186/1471-2105-9-502",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-9-502"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078143",
+      "title": "Microarrays--analysis of signaling pathways.",
+      "year": 2008,
+      "venue": "Methods in molecular medicine"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078142",
+      "title": "Predicting clinical outcome through molecular profiling in stage III melanoma",
+      "year": 2008,
+      "venue": "Clinical Cancer Research",
+      "doi": "10.1158/1078-0432.CCR-07-4170",
+      "openAccessUrl": "https://doi.org/10.1158/1078-0432.CCR-07-4170"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078141",
+      "title": "Reduced expression of a gene proliferation signature is associated with enhanced malignancy in colon cancer",
+      "year": 2008,
+      "venue": "British Journal of Cancer",
+      "doi": "10.1038/sj.bjc.6604560",
+      "openAccessUrl": "https://doi.org/10.1038/sj.bjc.6604560"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078144",
+      "title": "The fibroblast growth factor-inducible 14 receptor is highly expressed in HER2-positive breast tumors and regulates breast cancer cell invasive capacity",
+      "year": 2008,
+      "venue": "Molecular Cancer Research",
+      "doi": "10.1158/1541-7786.MCR-08-0005",
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.MCR-08-0005"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078146",
+      "title": "Differential gene expression in cultured osteoblasts and bone marrow stromal cells from patients with Paget's disease of bone",
+      "year": 2007,
+      "venue": "Journal of Bone and Mineral Research",
+      "doi": "10.1359/jbmr.061108",
+      "openAccessUrl": "https://doi.org/10.1359/jbmr.061108"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078147",
+      "title": "Multiple gene expression classifiers from different array platforms predict poor prognosis of colorectal cancer",
+      "year": 2007,
+      "venue": "Clinical Cancer Research",
+      "doi": "10.1158/1078-0432.CCR-05-2734",
+      "openAccessUrl": "https://doi.org/10.1158/1078-0432.CCR-05-2734"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078145",
+      "title": "Transcriptomic analysis of the cardiac left ventricle in a rodent model of diabetic cardiomyopathy: Molecular snapshot of a severe myocardial disease",
+      "year": 2007,
+      "venue": "Physiological Genomics",
+      "doi": "10.1152/physiolgenomics.00204.2006",
+      "openAccessUrl": "https://doi.org/10.1152/physiolgenomics.00204.2006"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078148",
+      "title": "Control of the false discovery rate applied to the detection of positively selected amino acid sites",
+      "year": 2006,
+      "venue": "Molecular Biology and Evolution",
+      "doi": "10.1093/molbev/msj095",
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msj095"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078151",
+      "title": "A note on the adaptive control of false discovery rates",
+      "year": 2004,
+      "venue": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "doi": "10.1111/j.1369-7412.2003.05527.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1369-7412.2003.05527.x"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078149",
+      "title": "Design, normalization, and analysis of spotted microarray data",
+      "year": 2004,
+      "venue": "Methods in Cell Biology"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078150",
+      "title": "Role of transposable elements in heterochromatin and epigenetic control",
+      "year": 2004,
+      "venue": "Nature",
+      "doi": "10.1038/nature02651",
+      "openAccessUrl": "https://doi.org/10.1038/nature02651"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078152",
+      "title": "Sensitivity of 70-mer oligonucleotides and cDNAs for microarray analysis of gene expression in Arabidopsis and its related species",
+      "year": 2004,
+      "venue": "Plant Biotechnology Journal",
+      "doi": "10.1046/j.1467-7652.2003.00048.x",
+      "openAccessUrl": "https://doi.org/10.1046/j.1467-7652.2003.00048.x"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078153",
+      "title": "Gene expression data: The technology and statistical analysis",
+      "year": 2003,
+      "venue": "Journal of Agricultural, Biological, and Environmental Statistics",
+      "doi": "10.1198/1085711031256",
+      "openAccessUrl": "https://doi.org/10.1198/1085711031256"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078154",
+      "title": "Calculation of the minimum number of replicate spots required for detection of significant gene expression fold change in microarray experiments",
+      "year": 2002,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/18.12.1609",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/18.12.1609"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078155",
+      "title": "Estimating disease prevalence in the absence of a gold standard",
+      "year": 2002,
+      "venue": "Statistics in Medicine",
+      "doi": "10.1002/sim.1178",
+      "openAccessUrl": "https://doi.org/10.1002/sim.1178"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078156",
+      "title": "Incremental cost-effectiveness ratio and incremental net-health benefit: Two sides of the same coin",
+      "year": 2001,
+      "venue": "Expert Review of Pharmacoeconomics and Outcomes Research",
+      "doi": "10.1586/14737167.1.1.37",
+      "openAccessUrl": "https://doi.org/10.1586/14737167.1.1.37"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078157",
+      "title": "Real-time Detection of Epileptiform Activity in the EEG: A Blinded Clinical Trial",
+      "year": 2000,
+      "venue": "Clinical EEG and Neuroscience",
+      "doi": "10.1177/155005940003100304",
+      "openAccessUrl": "https://doi.org/10.1177/155005940003100304"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078158",
+      "title": "Uncertainty in decision models analyzing cost-effectiveness (multiple letters)",
+      "year": 2000,
+      "venue": "Medical Decision Making"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078159",
+      "title": "Sensitivity and selectivity for continuous perception values--a comment.",
+      "year": 1998,
+      "venue": "Electroencephalography and clinical neurophysiology"
+    },
+    {
+      "id": "orcid:0000-0003-1174-6054/work/16078160",
+      "title": "System for detecting epileptiform discharges in the EEG: Real-time operation and clinical trial",
+      "year": 1996,
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology - Proceedings"
+    }
+  ]
+}

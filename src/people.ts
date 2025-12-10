@@ -75,7 +75,6 @@ const peopleHtml = `
       <h1 class="mb-3">Our People</h1>
       <p class="text-muted">
         Beyond Prediction brings together researchers, industry partners, and postdoctoral fellows across Aotearoa New Zealand.
-        This page will be expanded with full profiles as the programme develops.
       </p>
     </header>
 

@@ -1,0 +1,1584 @@
+{
+  "slug": "sebastian-link",
+  "orcidId": "0000-0002-1816-2863",
+  "updatedAt": "2025-12-09T23:11:02.549Z",
+  "works": [
+    {
+      "id": "orcid:0000-0002-1816-2863/work/186948025",
+      "title": "Linking Data Meaningfully",
+      "year": 2026,
+      "doi": "10.1007/978-981-96-8889-0_29",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-8889-0_29"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/194572519",
+      "title": "Possibilistic SQL Constraints",
+      "year": 2026,
+      "doi": "10.1007/978-3-032-08623-5_14",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-032-08623-5_14"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/186139416",
+      "title": "The Bounded Cardinality Normal Form for the Logical Design of Relational Database Schemata",
+      "year": 2025,
+      "venue": "ACM Transactions on Database Systems",
+      "doi": "10.1145/3744897",
+      "openAccessUrl": "https://doi.org/10.1145/3744897"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/191759511",
+      "title": "Orthogonal Keys High Precision and Recall for Mining Database Keys From Inconsistent and Incomplete Relations",
+      "year": 2025,
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "doi": "10.1109/TKDE.2025.3608680",
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2025.3608680"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/186261621",
+      "title": "Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads: Parameterizing 3NF by the Numbers of Minimal Keys and Functional Dependencies",
+      "year": 2025,
+      "venue": "Proceedings of the ACM on Management of Data",
+      "doi": "10.1145/3725362",
+      "openAccessUrl": "https://doi.org/10.1145/3725362"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/180244100",
+      "title": "Mixed covers: optimizing updates and queries using minimal keys and functional dependencies",
+      "year": 2025,
+      "venue": "The VLDB Journal",
+      "doi": "10.1007/s00778-025-00910-2",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00910-2"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/180394581",
+      "title": "Graph Modeling and Analytics for Fraud Detection in Company Office Data",
+      "year": 2025,
+      "doi": "10.3233/FAIA241581",
+      "openAccessUrl": "https://doi.org/10.3233/FAIA241581"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/177589964",
+      "title": "Third and Boyce–Codd normal form for property graphs",
+      "year": 2025,
+      "venue": "The VLDB Journal",
+      "doi": "10.1007/s00778-025-00902-2",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00902-2"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/177855118",
+      "title": "Entity/Relationship Graphs: Principled Design, Modeling, and Data Integrity Management of Graph Databases",
+      "year": 2025,
+      "venue": "Proceedings of the ACM on Management of Data",
+      "doi": "10.1145/3709690",
+      "openAccessUrl": "https://doi.org/10.1145/3709690"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/164178378",
+      "title": "Entity/Relationship Profiling",
+      "year": 2024,
+      "doi": "10.1109/ICDE60146.2024.00411",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE60146.2024.00411"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/133116855",
+      "title": "Controlling entity integrity with key sets",
+      "year": 2023,
+      "venue": "Journal of Computer and System Sciences",
+      "doi": "10.1016/j.jcss.2023.04.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2023.04.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186150",
+      "title": "Entity integrity management under data volume, variety and veracity",
+      "year": 2023,
+      "venue": "Knowledge and Information Systems",
+      "doi": "10.1007/s10115-022-01814-1",
+      "openAccessUrl": "https://doi.org/10.1007/s10115-022-01814-1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/137383494",
+      "title": "Uniqueness Constraints for Object Stores",
+      "year": 2023,
+      "venue": "Journal of Data and Information Quality",
+      "doi": "10.1145/3581758",
+      "openAccessUrl": "https://doi.org/10.1145/3581758"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/134670891",
+      "title": "Towards the efficient discovery of meaningful functional dependencies",
+      "year": 2023,
+      "venue": "Information Systems",
+      "doi": "10.1016/j.is.2023.102224",
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102224"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/135992594",
+      "title": "Composite Object Normal Forms: Parameterizing Boyce-Codd Normal Form by the Number of Minimal Keys",
+      "year": 2023,
+      "venue": "Proceedings of the ACM on Management of Data",
+      "doi": "10.1145/3588693",
+      "openAccessUrl": "https://doi.org/10.1145/3588693"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/131369074",
+      "title": "Cardinality constraints and functional dependencies in SQL: Taming data redundancy in logical database design",
+      "year": 2023,
+      "venue": "Information Systems",
+      "doi": "10.1016/j.is.2023.102208",
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102208"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186139",
+      "title": "Possibilistic Data Cleaning",
+      "year": 2022,
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "doi": "10.1109/TKDE.2021.3062318",
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2021.3062318"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186146",
+      "title": "Discovery of Cross Joins",
+      "year": 2022,
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "doi": "10.1109/TKDE.2022.3192842",
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2022.3192842"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186147",
+      "title": "Learning to Match Product Codes",
+      "year": 2022,
+      "doi": "10.1007/978-3-031-08530-7_3",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-08530-7_3"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186149",
+      "title": "Object Normal Form, Fourth Normal Form and Their Application to Database Security",
+      "year": 2022,
+      "doi": "10.1007/978-3-031-17995-2_25",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-17995-2_25"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186145",
+      "title": "Possible Keys and Functional Dependencies",
+      "year": 2021,
+      "venue": "Journal on Data Semantics",
+      "doi": "10.1007/s13740-021-00135-w",
+      "openAccessUrl": "https://doi.org/10.1007/s13740-021-00135-w"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186144",
+      "title": "Algorithms for the discovery of embedded functional dependencies",
+      "year": 2021,
+      "venue": "The VLDB Journal",
+      "doi": "10.1007/s00778-021-00684-3",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-021-00684-3"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186141",
+      "title": "Embedded Functional Dependencies and Data-completeness Tailored Database Design",
+      "year": 2021,
+      "venue": "ACM Transactions on Database Systems",
+      "doi": "10.1145/3450518",
+      "openAccessUrl": "https://doi.org/10.1145/3450518"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186140",
+      "title": "Modelling Entity Integrity for Semi-structured Big Data",
+      "year": 2021,
+      "doi": "10.1007/978-3-030-73194-6_9",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-73194-6_9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186143",
+      "title": "Referential Integrity Under Uncertain Data",
+      "year": 2021,
+      "doi": "10.1007/978-3-030-79382-1_16",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-79382-1_16"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186142",
+      "title": "Uniqueness Constraints on Property Graphs",
+      "year": 2021,
+      "doi": "10.1007/978-3-030-79382-1_17",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-79382-1_17"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186137",
+      "title": "Neo4j Keys",
+      "year": 2020,
+      "doi": "10.1007/978-3-030-62522-1_2",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-62522-1_2"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186138",
+      "title": "Structural and Computational Properties of Possibilistic Armstrong Databases",
+      "year": 2020,
+      "doi": "10.1007/978-3-030-62522-1_43",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-62522-1_43"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986502",
+      "title": "A Fourth Normal Form for Uncertain Data",
+      "year": 2019,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-030-21290-2_19",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-21290-2_19"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817386",
+      "title": "A Fourth Normal Form for Uncertain Data",
+      "year": 2019,
+      "venue": "Advanced Information Systems Engineering - 31st International Conference,\n               CAiSE 2019, Rome, Italy, June 3-7, 2019, Proceedings",
+      "doi": "10.1007/978-3-030-21290-2\\_19",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-21290-2\\_19"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817387",
+      "title": "Discovery and Ranking of Functional Dependencies",
+      "year": 2019,
+      "venue": "35th IEEE International Conference on Data Engineering, ICDE 2019,\n               Macao, China, April 8-11, 2019",
+      "doi": "10.1109/ICDE.2019.00137",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00137"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986485",
+      "title": "Discovery and ranking of functional dependencies",
+      "year": 2019,
+      "venue": "Proceedings - International Conference on Data Engineering",
+      "doi": "10.1109/ICDE.2019.00137",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00137"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817390",
+      "title": "Entity Integrity, Referential Integrity, and Query Optimization with\n               Embedded Uniqueness Constraints",
+      "year": 2019,
+      "venue": "35th IEEE International Conference on Data Engineering, ICDE 2019,\n               Macao, China, April 8-11, 2019",
+      "doi": "10.1109/ICDE.2019.00175",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00175"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986481",
+      "title": "Entity integrity, referential integrity, and query optimization with embedded uniqueness constraints",
+      "year": 2019,
+      "venue": "Proceedings - International Conference on Data Engineering",
+      "doi": "10.1109/ICDE.2019.00175",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00175"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986480",
+      "title": "Possibilistic keys",
+      "year": 2019,
+      "venue": "Fuzzy Sets and Systems",
+      "doi": "10.1016/j.fss.2019.01.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.fss.2019.01.008"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986500",
+      "title": "Relational database schema design for uncertain data",
+      "year": 2019,
+      "venue": "Information Systems",
+      "doi": "10.1016/j.is.2019.04.003",
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2019.04.003"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986501",
+      "title": "Simple SQL validation of generalized entity integrity",
+      "year": 2019,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-030-12079-5_3",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-12079-5_3"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817408",
+      "title": "An SQL Data Summarization Tool for the Acquisition of Meaningful\n               Cardinality Constraints and Functional Dependencies",
+      "year": 2018,
+      "venue": "34th IEEE International Conference on Data Engineering, ICDE 2018,\n               Paris, France, April 16-19, 2018",
+      "doi": "10.1109/ICDE.2018.00173",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2018.00173"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986493",
+      "title": "An SQL data summarization tool for the acquisition of meaningful cardinality constraints and functional dependencies",
+      "year": 2018,
+      "venue": "Proceedings - IEEE 34th International Conference on Data Engineering, ICDE 2018",
+      "doi": "10.1109/ICDE.2018.00173",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2018.00173"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986498",
+      "title": "Automated Reasoning About Key Sets",
+      "year": 2018,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-94205-6_4",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-94205-6_4"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817400",
+      "title": "Automated Reasoning About Key Sets",
+      "year": 2018,
+      "venue": "Automated Reasoning - 9th International Joint Conference, IJCAR\n               2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford,\n               UK, July 14-17, 2018, Proceedings",
+      "doi": "10.1007/978-3-319-94205-6\\_4",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-94205-6\\_4"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817392",
+      "title": "Cardinality constraints and functional dependencies over possibilistic\n               data",
+      "year": 2018,
+      "venue": "Data Knowl. Eng.",
+      "doi": "10.1016/j.datak.2018.04.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2018.04.005"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986488",
+      "title": "Cardinality constraints and functional dependencies over possibilistic data",
+      "year": 2018,
+      "venue": "Data and Knowledge Engineering",
+      "doi": "10.1016/j.datak.2018.04.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2018.04.005"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817409",
+      "title": "DataProf: Semantic Profiling for Iterative Data Cleansing and Business\n               Rule Acquisition",
+      "year": 2018,
+      "venue": "Proceedings of the 2018 International Conference on Management of\n               Data, SIGMOD Conference 2018, Houston, TX, USA, June 10-15, 2018",
+      "doi": "10.1145/3183713.3193544",
+      "openAccessUrl": "https://doi.org/10.1145/3183713.3193544"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986496",
+      "title": "DataProf: Semantic profiling for iterative data cleansing and business rule acquisition",
+      "year": 2018,
+      "venue": "Proceedings of the ACM SIGMOD International Conference on Management of Data",
+      "doi": "10.1145/3183713.3193544",
+      "openAccessUrl": "https://doi.org/10.1145/3183713.3193544"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817403",
+      "title": "Embedded Cardinality Constraints",
+      "year": 2018,
+      "venue": "Advanced Information Systems Engineering - 30th International Conference,\n               CAiSE 2018, Tallinn, Estonia, June 11-15, 2018, Proceedings",
+      "doi": "10.1007/978-3-319-91563-0\\_32",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91563-0\\_32"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986484",
+      "title": "Embedded cardinality constraints",
+      "year": 2018,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-91563-0_32",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91563-0_32"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817398",
+      "title": "Extremal Combinatorics of SQL Keys",
+      "year": 2018,
+      "venue": "Models: Concepts, Theory, Logic, Reasoning and Semantics - Essays\n               Dedicated to Klaus-Dieter Schewe on the Occasion of his 60th Birthday"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817406",
+      "title": "Old Keys that Open New Doors",
+      "year": 2018,
+      "venue": "Foundations of Information and Knowledge Systems - 10th International\n               Symposium, FoIKS 2018, Budapest, Hungary, May 14-18, 2018, Proceedings",
+      "doi": "10.1007/978-3-319-90050-6\\_1",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6\\_1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986483",
+      "title": "Old keys that open new doors",
+      "year": 2018,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-90050-6_1",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6_1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186134",
+      "title": "Old Keys that Open New Doors",
+      "year": 2018,
+      "doi": "10.1007/978-3-319-90050-6_1",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6_1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817405",
+      "title": "On the Interaction of Functional and Inclusion Dependencies with Independence\n               Atoms",
+      "year": 2018,
+      "venue": "Database Systems for Advanced Applications - 23rd International Conference,\n               DASFAA 2018, Gold Coast, QLD, Australia, May 21-24, 2018, Proceedings,\n               Part II",
+      "doi": "10.1007/978-3-319-91458-9\\_21",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91458-9\\_21"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986495",
+      "title": "On the interaction of functional and inclusion dependencies with independence atoms",
+      "year": 2018,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-91458-9_21",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91458-9_21"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817397",
+      "title": "Probabilistic Cardinality Constraints - Validation, Reasoning, and\n               Semantic Summaries",
+      "year": 2018,
+      "venue": "VLDB J.",
+      "doi": "10.1007/s00778-018-0511-z",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986505",
+      "title": "Probabilistic Cardinality Constraints: Validation, Reasoning, and Semantic Summaries",
+      "year": 2018,
+      "venue": "VLDB Journal",
+      "doi": "10.1007/s00778-018-0511-z",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186136",
+      "title": "Probabilistic Cardinality Constraints",
+      "year": 2018,
+      "venue": "The VLDB Journal",
+      "doi": "10.1007/s00778-018-0511-z",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817393",
+      "title": "SQL schema design: foundations, normal forms, and normalization",
+      "year": 2018,
+      "venue": "Inf. Syst.",
+      "doi": "10.1016/j.is.2018.04.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2018.04.001"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986499",
+      "title": "SQL schema design: foundations, normal forms, and normalization",
+      "year": 2018,
+      "venue": "Information Systems",
+      "doi": "10.1016/j.is.2018.04.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2018.04.001"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817417",
+      "title": "Cardinality Constraints with Probabilistic Intervals",
+      "year": 2017,
+      "venue": "Conceptual Modeling - 36th International Conference, ER 2017, Valencia,\n               Spain, November 6-9, 2017, Proceedings",
+      "doi": "10.1007/978-3-319-69904-2\\_21",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2\\_21"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986489",
+      "title": "Cardinality constraints with probabilistic intervals",
+      "year": 2017,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-69904-2_21",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2_21"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817419",
+      "title": "Contextual Keys",
+      "year": 2017,
+      "venue": "Conceptual Modeling - 36th International Conference, ER 2017, Valencia,\n               Spain, November 6-9, 2017, Proceedings",
+      "doi": "10.1007/978-3-319-69904-2\\_22",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2\\_22"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986490",
+      "title": "Contextual keys",
+      "year": 2017,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-69904-2_22",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2_22"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817413",
+      "title": "Data Quality: The Role of Empiricism",
+      "year": 2017,
+      "venue": "SIGMOD Record",
+      "doi": "10.1145/3186549.3186559",
+      "openAccessUrl": "https://doi.org/10.1145/3186549.3186559"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817412",
+      "title": "Inclusion dependencies and their interaction with functional dependencies\n               in SQL",
+      "year": 2017,
+      "venue": "J. Comput. Syst. Sci.",
+      "doi": "10.1016/j.jcss.2016.11.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986486",
+      "title": "Inclusion dependencies and their interaction with functional dependencies in SQL",
+      "year": 2017,
+      "venue": "Journal of Computer and System Sciences",
+      "doi": "10.1016/j.jcss.2016.11.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/129186133",
+      "title": "Inclusion dependencies and their interaction with functional dependencies in SQL",
+      "year": 2017,
+      "venue": "Journal of Computer and System Sciences",
+      "doi": "10.1016/j.jcss.2016.11.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817420",
+      "title": "On the Interaction of Inclusion Dependencies with Independence Atoms",
+      "year": 2017,
+      "venue": "LPAR-21, 21st International Conference on Logic for Programming, Artificial\n               Intelligence and Reasoning, Maun, Botswana, May 7-12, 2017"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817415",
+      "title": "Probabilistic Keys",
+      "year": 2017,
+      "venue": "IEEE Trans. Knowl. Data Eng.",
+      "doi": "10.1109/TKDE.2016.2633342",
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2016.2633342"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986482",
+      "title": "Probabilistic Keys",
+      "year": 2017,
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "doi": "10.1109/TKDE.2016.2633342",
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2016.2633342"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/58817418",
+      "title": "Urd: A Data Summarization Tool for the Acquisition of Meaningful\n               Cardinality Constraints with Probabilistic Intervals",
+      "year": 2017,
+      "venue": "33rd IEEE International Conference on Data Engineering, ICDE 2017,\n               San Diego, CA, USA, April 19-22, 2017",
+      "doi": "10.1109/ICDE.2017.186",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2017.186"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986487",
+      "title": "Urd: A data summarization tool for the acquisition of meaningful cardinality constraints with probabilistic intervals",
+      "year": 2017,
+      "venue": "Proceedings - International Conference on Data Engineering",
+      "doi": "10.1109/ICDE.2017.186",
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2017.186"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/27481315",
+      "title": "Advances in Conceptual Modeling - ER 2016 Workshops, AHA, MoBiD,\n               MORE-BI, MReBA, QMMQ, SCME, and WM2SP, Gifu, Japan, November 14-17,\n               2016, Proceedings",
+      "year": 2016,
+      "doi": "10.1007/978-3-319-47717-6",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-47717-6"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/27481192",
+      "title": "Discovering Meaningful Certain Keys from Incomplete and Inconsistent\n               Relations",
+      "year": 2016,
+      "venue": "IEEE Data Eng. Bull."
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986494",
+      "title": "Keys with probabilistic intervals",
+      "year": 2016,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-46397-1_13",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-46397-1_13"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520666",
+      "title": "On the finite and general implication problems of independence atoms and keys",
+      "year": 2016,
+      "venue": "Journal of Computer and System Sciences",
+      "doi": "10.1016/j.jcss.2016.02.007",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.02.007"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520714",
+      "title": "Possibilistic Functional Dependencies and Their Relationship to Possibility Theory",
+      "year": 2016,
+      "venue": "IEEE Transactions on Fuzzy Systems",
+      "doi": "10.1109/TFUZZ.2015.2466074",
+      "openAccessUrl": "https://doi.org/10.1109/TFUZZ.2015.2466074"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986492",
+      "title": "Possibilistic cardinality constraints and functional dependencies",
+      "year": 2016,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-46397-1_11",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-46397-1_11"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520675",
+      "title": "Possible and certain keys for SQL",
+      "year": 2016,
+      "venue": "VLDB Journal",
+      "doi": "10.1007/s00778-016-0430-9",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-016-0430-9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520629",
+      "title": "Preface",
+      "year": 2016,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986479",
+      "title": "Preface",
+      "year": 2016,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986503",
+      "title": "Qualitative cleaning of uncertain data",
+      "year": 2016,
+      "venue": "International Conference on Information and Knowledge Management, Proceedings",
+      "doi": "10.1145/2983323.2983679",
+      "openAccessUrl": "https://doi.org/10.1145/2983323.2983679"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986491",
+      "title": "Relational database schema design for uncertain data",
+      "year": 2016,
+      "venue": "International Conference on Information and Knowledge Management, Proceedings",
+      "doi": "10.1145/2983323.2983801",
+      "openAccessUrl": "https://doi.org/10.1145/2983323.2983801"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/27481311",
+      "title": "SQL Schema Design: Foundations, Normal Forms, and Normalization",
+      "year": 2016,
+      "venue": "Proceedings of the 2016 International Conference on Management of\n               Data, SIGMOD Conference 2016, San Francisco, CA, USA, June 26 -\n               July 01, 2016",
+      "doi": "10.1145/2882903.2915239",
+      "openAccessUrl": "https://doi.org/10.1145/2882903.2915239"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986497",
+      "title": "SQL schema design: Foundations, normal forms, and normalization",
+      "year": 2016,
+      "venue": "Proceedings of the ACM SIGMOD International Conference on Management of Data",
+      "doi": "10.1145/2882903.2915239",
+      "openAccessUrl": "https://doi.org/10.1145/2882903.2915239"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520632",
+      "title": "Transactions on large-scale data- and knowledge-centered systems XXIV: Special issue on database- and expert-systems applications",
+      "year": 2016,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-662-49214-7",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-662-49214-7"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520699",
+      "title": "\"Differential dependencies: Reasoning and discovery\" Revisited",
+      "year": 2015,
+      "venue": "ACM Transactions on Database Systems",
+      "doi": "10.1145/2757214",
+      "openAccessUrl": "https://doi.org/10.1145/2757214"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520705",
+      "title": "Cardinality constraints on qualitatively uncertain data",
+      "year": 2015,
+      "venue": "Data and Knowledge Engineering",
+      "doi": "10.1016/j.datak.2015.06.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2015.06.002"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520720",
+      "title": "Empirical evidence for the usefulness of Armstrong tables in the acquisition of semantically meaningful SQL constraints",
+      "year": 2015,
+      "venue": "Data and Knowledge Engineering",
+      "doi": "10.1016/j.datak.2015.07.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2015.07.006"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520665",
+      "title": "Frontiers for propositional reasoning about fragments of probabilistic conditional independence and hierarchical database decompositions",
+      "year": 2015,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2015.07.017",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2015.07.017"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520697",
+      "title": "Inclusion dependencies reloaded",
+      "year": 2015,
+      "venue": "International Conference on Information and Knowledge Management, Proceedings",
+      "doi": "10.1145/2806416.2806539",
+      "openAccessUrl": "https://doi.org/10.1145/2806416.2806539"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520698",
+      "title": "Index design for enforcing partial referential integrity efficiently",
+      "year": 2015,
+      "venue": "EDBT 2015 - 18th International Conference on Extending Database Technology, Proceedings",
+      "doi": "10.5441/002/edbt.2015.20",
+      "openAccessUrl": "https://doi.org/10.5441/002/edbt.2015.20"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520626",
+      "title": "Possible and certain SQL keys",
+      "year": 2015,
+      "venue": "Proceedings of the VLDB Endowment"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520694",
+      "title": "Probabilistic cardinality constraints",
+      "year": 2015,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-25264-3_16",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-25264-3_16"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520653",
+      "title": "Probabilistic keys for data quality management",
+      "year": 2015,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-19069-3_8",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-19069-3_8"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520695",
+      "title": "SQL Data Profiling of Foreign Keys",
+      "year": 2015,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-25264-3_17",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-25264-3_17"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986475",
+      "title": "Validation of expressive XML keys with XML Schema and XQuery",
+      "year": 2015,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520603",
+      "title": "Cardinality constraints for uncertain data",
+      "year": 2014,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520658",
+      "title": "Constructing Armstrong tables for general cardinality constraints and not-null constraints",
+      "year": 2014,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "doi": "10.1007/s10472-014-9423-9",
+      "openAccessUrl": "https://doi.org/10.1007/s10472-014-9423-9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520628",
+      "title": "Logical foundations of possibilistic keys",
+      "year": 2014,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520609",
+      "title": "Logics for approximating implication problems of saturated conditional independence",
+      "year": 2014,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986476",
+      "title": "Normal forms and normalization for probabilistic databases under sharp constraints",
+      "year": 2014,
+      "venue": "Information Modelling and Knowledge Bases XXV",
+      "doi": "10.3233/978-1-61499-361-2-1",
+      "openAccessUrl": "https://doi.org/10.3233/978-1-61499-361-2-1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520644",
+      "title": "Normal forms and normalization for probabilistic databases under sharp constraints",
+      "year": 2014,
+      "venue": "Frontiers in Artificial Intelligence and Applications",
+      "doi": "10.3233/978-1-61499-361-2-1",
+      "openAccessUrl": "https://doi.org/10.3233/978-1-61499-361-2-1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520671",
+      "title": "On independence atoms and keys",
+      "year": 2014,
+      "venue": "CIKM 2014 - Proceedings of the 2014 ACM International Conference on Information and Knowledge Management",
+      "doi": "10.1145/2661829.2662058",
+      "openAccessUrl": "https://doi.org/10.1145/2661829.2662058"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520623",
+      "title": "Preface",
+      "year": 2014,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520630",
+      "title": "Preface",
+      "year": 2014,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520672",
+      "title": "Pulling conjunctive query equivalence out of the Bag",
+      "year": 2014,
+      "venue": "CIKM 2014 - Proceedings of the 2014 ACM International Conference on Information and Knowledge Management",
+      "doi": "10.1145/2661829.2661881",
+      "openAccessUrl": "https://doi.org/10.1145/2661829.2661881"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986477",
+      "title": "SQL-sampler: A tool to visualize and consolidate domain semantics by perfect SQL sample data",
+      "year": 2014,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520614",
+      "title": "Saturated conditional independence with fixed and undetermined sets of incomplete random variables",
+      "year": 2014,
+      "venue": "Uncertainty in Artificial Intelligence - Proceedings of the 30th Conference, UAI 2014"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520639",
+      "title": "Transactions on large-scale data- and knowledge-centered systems XVIII: Special issue on databaseand expert-systems applications",
+      "year": 2014,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-662-46485-4",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-662-46485-4"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520692",
+      "title": "Approximate reasoning about generalized conditional independence with complete random variables",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-40381-1-21",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-40381-1-21"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520693",
+      "title": "Effective recognition and visualization of semantic requirements by perfect SQL samples",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-41924-9_20",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41924-9_20"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520649",
+      "title": "Efficiency frontiers of XML cardinality constraints",
+      "year": 2013,
+      "venue": "Data and Knowledge Engineering",
+      "doi": "10.1016/j.datak.2012.09.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2012.09.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520634",
+      "title": "Independence in database relations",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-39992-3-17",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39992-3-17"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520648",
+      "title": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics): Preface",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-40173-2",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-40173-2"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986478",
+      "title": "Letting keys and functional dependencies out of the bag",
+      "year": 2013,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520718",
+      "title": "Reasoning about functional and full hierarchical dependencies over partial relations",
+      "year": 2013,
+      "venue": "Information Sciences",
+      "doi": "10.1016/j.ins.2013.01.009",
+      "openAccessUrl": "https://doi.org/10.1016/j.ins.2013.01.009"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520619",
+      "title": "Reasoning about saturated conditional independence under uncertainty: Axioms, algorithms, and Levesque's situations to the rescue",
+      "year": 2013,
+      "venue": "Proceedings of the 27th AAAI Conference on Artificial Intelligence, AAAI 2013"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520691",
+      "title": "Soft cardinality constraints on XML data: How exceptions prove the business rule",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-41230-1_32",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41230-1_32"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520651",
+      "title": "Sound approximate reasoning about saturated conditional probabilistic independence under controlled uncertainty",
+      "year": 2013,
+      "venue": "Journal of Applied Logic",
+      "doi": "10.1016/j.jal.2013.05.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jal.2013.05.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520625",
+      "title": "Static analysis of partial referential integrity for better quality SQL data",
+      "year": 2013,
+      "venue": "19th Americas Conference on Information Systems, AMCIS 2013 - Hyperconnected World: Anything, Anywhere, Anytime"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520685",
+      "title": "The finite implication problem for expressive XML keys: Foundations, applications, and performance evaluation",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-41221-9-3",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41221-9-3"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520678",
+      "title": "Armstrong databases and reasoning for functional dependencies and cardinality constraints over partial bags",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-28472-4_10",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-28472-4_10"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520617",
+      "title": "Armstrong databases: Validation, communication and consolidation of conceptual models with perfect test data",
+      "year": 2012,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520657",
+      "title": "Characterisations of multivalued dependency implication over undetermined universes",
+      "year": 2012,
+      "venue": "Journal of Computer and System Sciences",
+      "doi": "10.1016/j.jcss.2011.12.012",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2011.12.012"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520680",
+      "title": "Coordination in co-located agile software development projects",
+      "year": 2012,
+      "venue": "Journal of Systems and Software",
+      "doi": "10.1016/j.jss.2012.02.017",
+      "openAccessUrl": "https://doi.org/10.1016/j.jss.2012.02.017"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520668",
+      "title": "Design by example for SQL table definitions with functional dependencies",
+      "year": 2012,
+      "venue": "VLDB Journal",
+      "doi": "10.1007/s00778-011-0239-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00778-011-0239-5"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520636",
+      "title": "Discovery of keys from SQL tables",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-29038-1_6",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-29038-1_6"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520643",
+      "title": "Formal concept discovery in semantic web data",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-29892-9_18",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-29892-9_18"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520663",
+      "title": "Foundations for a fourth normal form over SQL-like databases",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-28279-9-8",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-28279-9-8"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520704",
+      "title": "Performance analysis of algorithms to reason about XML keys",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-32600-4_9",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-32600-4_9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520717",
+      "title": "Preface",
+      "year": 2012,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "doi": "10.1007/s10472-012-9304-z",
+      "openAccessUrl": "https://doi.org/10.1007/s10472-012-9304-z"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520674",
+      "title": "Probabilistic conditional independence under schema certainty and uncertainty",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-33362-0_28",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-33362-0_28"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520660",
+      "title": "Propositional reasoning about saturated conditional probabilistic independence",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-32621-9_19",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-32621-9_19"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986504",
+      "title": "Schema- and data-driven discovery of SQL keys",
+      "year": 2012,
+      "venue": "Journal of Computing Science and Engineering",
+      "doi": "10.5626/JCSE.2012.6.3.193",
+      "openAccessUrl": "https://doi.org/10.5626/JCSE.2012.6.3.193"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520683",
+      "title": "Signature-based inference-usability confinement for relational databases under functional and join dependencies",
+      "year": 2012,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-31540-4_5",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-31540-4_5"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520654",
+      "title": "The implication problem of data dependencies over SQL table definitions: Axiomatic, algorithmic and logical characterizations",
+      "year": 2012,
+      "venue": "ACM Transactions on Database Systems",
+      "doi": "10.1145/2188349.2188355",
+      "openAccessUrl": "https://doi.org/10.1145/2188349.2188355"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520652",
+      "title": "A precious class of cardinality constraints for flexible XML data processing",
+      "year": 2011,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-24606-7_14",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-24606-7_14"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520709",
+      "title": "Appropriate inferences of data dependencies in relational databases",
+      "year": 2011,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "doi": "10.1007/s10472-012-9275-0",
+      "openAccessUrl": "https://doi.org/10.1007/s10472-012-9275-0"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520664",
+      "title": "Codd table representations under weak possible world semantics",
+      "year": 2011,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-23088-2_9",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-23088-2_9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520607",
+      "title": "Coordination effectiveness in an agile software development context",
+      "year": 2011,
+      "venue": "PACIS 2011 - 15th Pacific Asia Conference on Information Systems: Quality Research in Pacific"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520703",
+      "title": "On Codd families of keys over incomplete relations",
+      "year": 2011,
+      "venue": "Computer Journal",
+      "doi": "10.1093/comjnl/bxq073",
+      "openAccessUrl": "https://doi.org/10.1093/comjnl/bxq073"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520708",
+      "title": "On inferences of full first-order hierarchical decompositions",
+      "year": 2011,
+      "venue": "Fundamenta Informaticae",
+      "doi": "10.3233/FI-2011-385",
+      "openAccessUrl": "https://doi.org/10.3233/FI-2011-385"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/64986506",
+      "title": "The Boyce-Codd-Heath normal form for SQL",
+      "year": 2011,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-20920-8_14",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-20920-8_14"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520641",
+      "title": "The boyce-codd-heath normal form for SQL",
+      "year": 2011,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-20920-8-14",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-20920-8-14"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520707",
+      "title": "The quadrupel - A model for automating intermediary selection in supply chain management",
+      "year": 2011,
+      "venue": "Frontiers in Artificial Intelligence and Applications",
+      "doi": "10.3233/978-1-60750-690-4-137",
+      "openAccessUrl": "https://doi.org/10.3233/978-1-60750-690-4-137"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520689",
+      "title": "Armstrong axioms and Boyce-Codd-Heath Normal Form under bag semantics",
+      "year": 2010,
+      "venue": "Information Processing Letters",
+      "doi": "10.1016/j.ipl.2010.06.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.ipl.2010.06.002"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520618",
+      "title": "Chasing after secrets in relational databases",
+      "year": 2010,
+      "venue": "CEUR Workshop Proceedings"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520719",
+      "title": "Efficient inference control for open relational queries",
+      "year": 2010,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-13739-6_11",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13739-6_11"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520687",
+      "title": "Empirical evidence for the usefulness of Armstrong relations in the acquisition of meaningful functional dependencies",
+      "year": 2010,
+      "venue": "Information Systems",
+      "doi": "10.1016/j.is.2009.11.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2009.11.002"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520659",
+      "title": "Faceoff: Surrogate vs. natural keys",
+      "year": 2010,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-15576-5_41",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15576-5_41"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520650",
+      "title": "Hippocratic databases: Extending current transaction processing approaches to satisfy the limited retention principle",
+      "year": 2010,
+      "venue": "Proceedings of the Annual Hawaii International Conference on System Sciences",
+      "doi": "10.1109/HICSS.2010.220",
+      "openAccessUrl": "https://doi.org/10.1109/HICSS.2010.220"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520716",
+      "title": "Numerical constraints on XML data",
+      "year": 2010,
+      "venue": "Information and Computation",
+      "doi": "10.1016/j.ic.2008.09.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.ic.2008.09.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520701",
+      "title": "On the role of the complementation rule for data dependencies over incomplete relations",
+      "year": 2010,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-13824-9_12",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13824-9_12"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520640",
+      "title": "Promoting the semantic capability of XML keys",
+      "year": 2010,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-15684-7_12",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15684-7_12"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520602",
+      "title": "Sample-based decision support for specifying XML constraints",
+      "year": 2010,
+      "venue": "Journal of Research and Practice in Information Technology"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520700",
+      "title": "Solving the implication problem for XML functional dependencies with properties",
+      "year": 2010,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-13824-9_14",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13824-9_14"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520712",
+      "title": "When data dependencies over SQL tables meet the logics of paradox and S-3",
+      "year": 2010,
+      "venue": "Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems",
+      "doi": "10.1145/1807085.1807126",
+      "openAccessUrl": "https://doi.org/10.1145/1807085.1807126"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520642",
+      "title": "Boolean constraints for XML modeling",
+      "year": 2009,
+      "venue": "Frontiers in Artificial Intelligence and Applications",
+      "doi": "10.3233/978-1-58603-957-8-85",
+      "openAccessUrl": "https://doi.org/10.3233/978-1-58603-957-8-85"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520656",
+      "title": "Constraint acquisition for Entity-Relationship models",
+      "year": 2009,
+      "venue": "Data and Knowledge Engineering",
+      "doi": "10.1016/j.datak.2009.06.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2009.06.001"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520669",
+      "title": "Efficient reasoning about a robust XML key fragment",
+      "year": 2009,
+      "venue": "ACM Transactions on Database Systems",
+      "doi": "10.1145/1538909.1538912",
+      "openAccessUrl": "https://doi.org/10.1145/1538909.1538912"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520711",
+      "title": "Expressive, yet tractable XML keys",
+      "year": 2009,
+      "venue": "Proceedings of the 12th International Conference on Extending Database Technology: Advances in Database Technology, EDBT'09",
+      "doi": "10.1145/1516360.1516402",
+      "openAccessUrl": "https://doi.org/10.1145/1516360.1516402"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520681",
+      "title": "On inferences of weak multivalued dependencies",
+      "year": 2009,
+      "venue": "Fundamenta Informaticae",
+      "doi": "10.3233/FI-2009-0067",
+      "openAccessUrl": "https://doi.org/10.3233/FI-2009-0067"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520673",
+      "title": "On matrix representations of participation constraints",
+      "year": 2009,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-04947-7_10",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-04947-7_10"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520713",
+      "title": "Spoilt for choice: Full first-order hierarchical decompositions",
+      "year": 2009,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-02261-6_21",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-02261-6_21"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520613",
+      "title": "Weak functional dependencies: Full propositional expressiveness for the database practitioner",
+      "year": 2009,
+      "venue": "Journal of Universal Computer Science"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520686",
+      "title": "Appropriate reasoning about data dependencies in fixed and undetermined universes",
+      "year": 2008,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-540-77684-0_7",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-77684-0_7"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520710",
+      "title": "Characterising nested database dependencies by fragments of propositional logic",
+      "year": 2008,
+      "venue": "Annals of Pure and Applied Logic",
+      "doi": "10.1016/j.apal.2007.11.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.apal.2007.11.004"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520647",
+      "title": "Charting the completeness frontier of inference systems for multivalued dependencies",
+      "year": 2008,
+      "venue": "Acta Informatica",
+      "doi": "10.1007/s00236-008-0080-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00236-008-0080-5"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520600",
+      "title": "Constraint acquisition you can Chase but you cannot find",
+      "year": 2008,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520696",
+      "title": "E-BAG 2008 workshop PC chairs' message",
+      "year": 2008,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-540-85200-1_1",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-85200-1_1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520667",
+      "title": "Lossless decompositions in complex-valued databases",
+      "year": 2008,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-540-77684-0_22",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-77684-0_22"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520670",
+      "title": "On the implication of multivalued dependencies in partial database relations",
+      "year": 2008,
+      "venue": "International Journal of Foundations of Computer Science",
+      "doi": "10.1142/S0129054108005899",
+      "openAccessUrl": "https://doi.org/10.1142/S0129054108005899"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520645",
+      "title": "On the notion of an XML key",
+      "year": 2008,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-540-88594-8-5",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-88594-8-5"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520615",
+      "title": "Collection type constructors in entity-relationship modeling",
+      "year": 2007,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520598",
+      "title": "Efficient reasoning about XFDs with pre-image semantics",
+      "year": 2007,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520612",
+      "title": "English sentence structures and EER modeling",
+      "year": 2007,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520677",
+      "title": "Full hierarchical dependencies in fixed and undetermined universes",
+      "year": 2007,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "doi": "10.1007/s10472-007-9067-0",
+      "openAccessUrl": "https://doi.org/10.1007/s10472-007-9067-0"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520611",
+      "title": "Numerical constraints for XML",
+      "year": 2007,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520601",
+      "title": "On inferences of full hierarchical dependencies",
+      "year": 2007,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520616",
+      "title": "Refinements in typed abstract state machines",
+      "year": 2007,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520702",
+      "title": "XML query optimisation: Specify your selectivity",
+      "year": 2007,
+      "venue": "Proceedings - International Workshop on Database and Expert Systems Applications, DEXA",
+      "doi": "10.1109/DEXA.2007.19",
+      "openAccessUrl": "https://doi.org/10.1109/DEXA.2007.19"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520605",
+      "title": "A strongly minimal axiomatisation of multivalued dependencies in incomplete database relations",
+      "year": 2006,
+      "venue": "Proceedings - International Workshop on Database and Expert Systems Applications, DEXA"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520706",
+      "title": "An equivalence between dependencies in nested databases and a fragment of propositional logic",
+      "year": 2006,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "doi": "10.1016/j.entcs.2005.04.039",
+      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2005.04.039"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520682",
+      "title": "Axiomatisations of functional dependencies in the presence of records, lists, sets and multisets",
+      "year": 2006,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2006.01.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.01.008"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520661",
+      "title": "Deciding implication for functional dependencies in complex-value databases",
+      "year": 2006,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2006.08.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.08.005"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520715",
+      "title": "Erratum to \"Axiomatisations of functional dependencies in the presence of records, lists, sets and multisets\" (DOI:10.1016/j.tcs.2006.01.008)",
+      "year": 2006,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2006.05.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.05.001"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520637",
+      "title": "Functional and multivalued dependencies in nested databases generated by record and list constructor",
+      "year": 2006,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "doi": "10.1007/s10472-005-9015-9",
+      "openAccessUrl": "https://doi.org/10.1007/s10472-005-9015-9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520679",
+      "title": "On a problem of Fagin concerning multivalued dependencies in relational databases",
+      "year": 2006,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2005.08.036",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2005.08.036"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520638",
+      "title": "On multivalued dependencies in fixed and undetermined universes",
+      "year": 2006,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/11663881_15",
+      "openAccessUrl": "https://doi.org/10.1007/11663881_15"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520622",
+      "title": "On the logical Implication of multivalued dependencies with null values",
+      "year": 2006,
+      "venue": "Conferences in Research and Practice in Information Technology Series"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520633",
+      "title": "The nested list normal form for functional and multivalued dependencies",
+      "year": 2006,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/11663881_9",
+      "openAccessUrl": "https://doi.org/10.1007/11663881_9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520662",
+      "title": "Unlocking keys for XML trees",
+      "year": 2006,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/11965893_8",
+      "openAccessUrl": "https://doi.org/10.1007/11965893_8"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520684",
+      "title": "Functional dependencies on nested attributes: Algebraic, logical and topological perspective",
+      "year": 2005,
+      "venue": "Proceedings - International Workshop on Database and Expert Systems Applications, DEXA",
+      "doi": "10.1109/DEXA.2005.98",
+      "openAccessUrl": "https://doi.org/10.1109/DEXA.2005.98"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520620",
+      "title": "Functional dependencies over XML documents with DTDs",
+      "year": 2005,
+      "venue": "Acta Cybernetica"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520690",
+      "title": "The implication problem of functional dependencies in complex-value databases",
+      "year": 2005,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "doi": "10.1016/j.entcs.2004.04.051",
+      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2004.04.051"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520655",
+      "title": "A membership algorithm for functional and multi-valued dependencies in the presence of lists",
+      "year": 2004,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "doi": "10.1016/j.entcs.2003.12.012",
+      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2003.12.012"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520621",
+      "title": "Distance functional dependencies in the presence of complex values",
+      "year": 2004,
+      "venue": "Acta Cybernetica"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520606",
+      "title": "Error-robust functional dependencies",
+      "year": 2004,
+      "venue": "Fundamenta Informaticae"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520624",
+      "title": "Multi-valued dependencies in the presence of lists",
+      "year": 2004,
+      "venue": "Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520608",
+      "title": "Reasoning about functional and multi-valued dependencies in the presence of lists",
+      "year": 2004,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520627",
+      "title": "Weak functional dependencies in higher-order datamodels - The case of the union constructor",
+      "year": 2004,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520635",
+      "title": "Axiomatizing functional dependencies in the higher-order entity-relationship model",
+      "year": 2003,
+      "venue": "Information Processing Letters",
+      "doi": "10.1016/S0020-0190(03)00267-9",
+      "openAccessUrl": "https://doi.org/10.1016/S0020-0190(03)00267-9"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520604",
+      "title": "Consistency enforcement in databases",
+      "year": 2003,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520631",
+      "title": "More functional dependencies for XML",
+      "year": 2003,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520676",
+      "title": "On functional dependencies in advanced data models",
+      "year": 2003,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "doi": "10.1016/S1571-0661(04)80849-1",
+      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)80849-1"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520610",
+      "title": "An arithmetic theory of consistency enforcement",
+      "year": 2002,
+      "venue": "Acta Cybernetica"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520599",
+      "title": "Towards a tailored theory of consistency enforcement in databases",
+      "year": 2002,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520646",
+      "title": "Towards an arithmetic theory of Consistency Enforcement based on preservation of δ-constraints",
+      "year": 2002,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "doi": "10.1016/S1571-0661(04)00306-8",
+      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)00306-8"
+    },
+    {
+      "id": "orcid:0000-0002-1816-2863/work/25520688",
+      "title": "Computability and decidability issues in the theory of consistency enforcement",
+      "year": 2001,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "doi": "10.1016/S1571-0661(04)80885-5",
+      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)80885-5"
+    }
+  ]
+}

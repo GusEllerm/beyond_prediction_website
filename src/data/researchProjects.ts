@@ -182,6 +182,8 @@ export const researchProjects: ResearchProject[] = [
   },
   {
     slug: 'biodiversity-ecology-biosecurity',
+    // Note: This project covers both evolutionary_ecological_genomics and infectious_disease_phylodynamics themes
+    // People assigned to either theme will be shown on this project page
     title: 'Biodiversity, Ecology & Biosecurity Modelling',
     shortDescription:
       "Model adaptation, resilience, and invasion risk in species that matter for Aotearoa's ecosystems and biosecurity.",
@@ -292,6 +294,23 @@ export function findProjectDetail(
     researchProjects.find((project) => project.slug === slug) ?? null
   );
 }
+
+/**
+ * Lookup map for projects by slug
+ * Note: Both 'biodiversity-ecology-biosecurity' and 'infectious-disease-phylodynamics' map to the same project
+ * since they share the same project page (biodiversity-ecology-biosecurity)
+ */
+const biodiversityProject = researchProjects.find((p) => p.slug === 'biodiversity-ecology-biosecurity') ?? null;
+
+export const projectsBySlug: Record<string, ResearchProject | null> = {
+  'live-research-articles': researchProjects.find((p) => p.slug === 'live-research-articles') ?? null,
+  'trustworthy-explainable-ai': researchProjects.find((p) => p.slug === 'trustworthy-explainable-ai') ?? null,
+  'genomics-data-science': researchProjects.find((p) => p.slug === 'genomics-data-science') ?? null,
+  'biodiversity-ecology-biosecurity': biodiversityProject,
+  'infectious-disease-phylodynamics': biodiversityProject, // Maps to biodiversity-ecology-biosecurity project
+  'maori-genomics-data-sovereignty': researchProjects.find((p) => p.slug === 'maori-genomics-data-sovereignty') ?? null,
+  'digital-research-skills': researchProjects.find((p) => p.slug === 'digital-research-skills') ?? null,
+};
 
 // Legacy export alias for backward compatibility during migration
 export const researchProjectDetails = researchProjects;

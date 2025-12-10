@@ -1,0 +1,772 @@
+{
+  "slug": "lara-greaves",
+  "orcidId": "0000-0003-0537-7125",
+  "updatedAt": "2025-12-09T23:10:59.136Z",
+  "works": [
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971056",
+      "title": "RANGATAHI MĀORI AND THE WHĀNAU CHOCOLATE BOX: RANGATAHI WELLBEING IN WHĀNAU CONTEXTS",
+      "year": 2024,
+      "venue": "EXPLORE",
+      "doi": "10.1016/j.explore.2024.05.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.explore.2024.05.005"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971055",
+      "title": "Māori and the Integrated Data Infrastructure: an assessment of the data system and suggestions to realise Māori data aspirations [Te Māori me te Integrated Data Infrastructure: he aromatawai i te pūnaha raraunga me ngā marohitanga e poipoia ai ngā wawata raraunga Māori]",
+      "year": 2024,
+      "venue": "Journal of the Royal Society of New Zealand",
+      "doi": "10.1080/03036758.2022.2154368",
+      "openAccessUrl": "https://doi.org/10.1080/03036758.2022.2154368"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971064",
+      "title": "Is there a Day of the Week Effect on Panel Response Rate to an Online Questionnaire Email Invitation?",
+      "year": 2024,
+      "venue": "Journal of Survey Statistics and Methodology",
+      "doi": "10.1093/jssam/smad014",
+      "openAccessUrl": "https://doi.org/10.1093/jssam/smad014"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971062",
+      "title": "Differences in Voter Turnout Across Diverse Asian Ethnic Groups in a Western Democracy: Findings from a New Zealand National Sample",
+      "year": 2024,
+      "venue": "Representation",
+      "doi": "10.1080/00344893.2023.2207172",
+      "openAccessUrl": "https://doi.org/10.1080/00344893.2023.2207172"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971410",
+      "title": "A Team of Five Million?: The 2020 ‘Covid-19’ New Zealand General Election",
+      "year": 2024,
+      "doi": "10.22459/tfm.2024",
+      "openAccessUrl": "https://doi.org/10.22459/tfm.2024"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971070",
+      "title": "Fixed or Fluid? Sexual Identity Fluidity in a Large National Panel Study of New Zealand Adults",
+      "year": 2023,
+      "venue": "The Journal of Sex Research",
+      "doi": "10.1080/00224499.2023.2289517",
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2023.2289517"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971085",
+      "title": "Moving beyond “Contingent”: Descriptive Representation by and for Indigenous Peoples",
+      "year": 2023,
+      "venue": "Politics &amp; Gender",
+      "doi": "10.1017/s1743923x22000575",
+      "openAccessUrl": "https://doi.org/10.1017/s1743923x22000575"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971082",
+      "title": "The predictors of Māori electoral roll choice and knowledge: rangatahi Māori voter enrolment in a representative New Zealand youth survey",
+      "year": 2023,
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
+      "doi": "10.1080/1177083x.2022.2156356",
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2156356"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971091",
+      "title": "Well-being and cultural identity for Māori: Knowledge of iwi (tribal) affiliations does not strongly relate to health and social service outcomes",
+      "year": 2023,
+      "venue": "Social Science &amp; Medicine",
+      "doi": "10.1016/j.socscimed.2023.116028",
+      "openAccessUrl": "https://doi.org/10.1016/j.socscimed.2023.116028"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971095",
+      "title": "Te Tapatoru: a model of whanaungatanga to support rangatahi wellbeing",
+      "year": 2023,
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
+      "doi": "10.1080/1177083x.2022.2109492",
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2109492"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971134",
+      "title": "Indigenous ethnic identity, in-group warmth, and psychological wellbeing: A longitudinal study of Māori",
+      "year": 2023,
+      "venue": "Current Psychology",
+      "doi": "10.1007/s12144-021-01636-4",
+      "openAccessUrl": "https://doi.org/10.1007/s12144-021-01636-4"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971105",
+      "title": "Hate Begets Warmth? The Impact of an Anti-Muslim Terrorist Attack on Public Attitudes toward Muslims",
+      "year": 2023,
+      "venue": "Terrorism and Political Violence",
+      "doi": "10.1080/09546553.2021.1877673",
+      "openAccessUrl": "https://doi.org/10.1080/09546553.2021.1877673"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971099",
+      "title": "Who are the Māori “in-between”? Indigenous diversity and inequity across descent, ethnicity and Iwi knowledge",
+      "year": 2023,
+      "venue": "Ethnic and Racial Studies",
+      "doi": "10.1080/01419870.2022.2081512",
+      "openAccessUrl": "https://doi.org/10.1080/01419870.2022.2081512"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971116",
+      "title": "Political attitude change over time following COVID-19 lockdown: Rallying effects and differences between left and right voters",
+      "year": 2022,
+      "venue": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2022.1041957",
+      "openAccessUrl": "https://doi.org/10.3389/fpsyg.2022.1041957"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971141",
+      "title": "Indigenous adolescent health in Aotearoa New Zealand: Trends, policy and advancing equity for rangatahi Maori, 2001–2019",
+      "year": 2022,
+      "venue": "The Lancet Regional Health - Western Pacific",
+      "doi": "10.1016/j.lanwpc.2022.100554",
+      "openAccessUrl": "https://doi.org/10.1016/j.lanwpc.2022.100554"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971117",
+      "title": "‘Why would you give your children to something you don’t trust?’: Rangatahi health and social services and the pursuit of tino rangatiratanga",
+      "year": 2022,
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
+      "doi": "10.1080/1177083x.2021.1993938",
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2021.1993938"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971119",
+      "title": "New Zealand: Political Developments and Data in 2020",
+      "year": 2021,
+      "venue": "European Journal of Political Research Political Data Yearbook",
+      "doi": "10.1111/2047-8852.12318",
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12318"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971126",
+      "title": "Asexual Identity, Personality, and Social Motivations in a New Zealand National Sample",
+      "year": 2021,
+      "venue": "Archives of Sexual Behavior",
+      "doi": "10.1007/s10508-021-02038-0",
+      "openAccessUrl": "https://doi.org/10.1007/s10508-021-02038-0"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971128",
+      "title": "“You’re the One That Was on Uncle’s Wall!”: Identity, Whanaungatanga and Connection for Takatāpui (LGBTQ+ Māori)",
+      "year": 2021,
+      "venue": "Genealogy",
+      "doi": "10.3390/genealogy5020054",
+      "openAccessUrl": "https://doi.org/10.3390/genealogy5020054"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971132",
+      "title": "Let the people decide? Support for referenda since the New Zealand flag change referendums",
+      "year": 2021,
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
+      "doi": "10.1080/1177083x.2020.1786413",
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2020.1786413"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971226",
+      "title": "New Zealand: Political developments and data in 2019",
+      "year": 2020,
+      "venue": "European Journal of Political Research Political Data Yearbook",
+      "doi": "10.1111/2047-8852.12278",
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12278"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971241",
+      "title": "How low can we go? Declining survey response rates to new zealand electoral roll mail surveys over three decades",
+      "year": 2020,
+      "venue": "Political Science",
+      "doi": "10.1080/00323187.2021.1898995",
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2021.1898995"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971245",
+      "title": "Effects of the COVID-19 pandemic and nationwide lockdown on trust, attitudes toward government, and well-being.",
+      "year": 2020,
+      "venue": "American Psychologist",
+      "doi": "10.1037/amp0000662",
+      "openAccessUrl": "https://doi.org/10.1037/amp0000662"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971248",
+      "title": "State of the nation: trends in New Zealand voters’ polarisation from 2009–2018",
+      "year": 2020,
+      "venue": "Political Science",
+      "doi": "10.1080/00323187.2020.1818587",
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2020.1818587"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515917",
+      "title": "Comparative study of attitudes to religious groups in New Zealand reveals Muslim-specific prejudice",
+      "year": 2020,
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515913",
+      "title": "Sexual orientation moderates the effect of gender on body satisfaction: Results from a national probability sample",
+      "year": 2019,
+      "venue": "Journal of Sex Research",
+      "doi": "10.1080/00224499.2019.1667947",
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1667947"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971276",
+      "title": "Sexual Orientation Moderates the Effect of Gender on Body Satisfaction: Results From a National Probability Sample",
+      "year": 2019,
+      "venue": "The Journal of Sex Research",
+      "doi": "10.1080/00224499.2019.1667947",
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1667947"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515886",
+      "title": "Coding responses to an open-ended gender measure in a New Zealand national sample",
+      "year": 2019,
+      "venue": "The Journal of Sex Research",
+      "doi": "10.1080/00224499.2019.1687640",
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1687640"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971230",
+      "title": "Coding Responses to an Open-ended Gender Measure in a New Zealand National Sample",
+      "year": 2020,
+      "venue": "The Journal of Sex Research",
+      "doi": "10.1080/00224499.2019.1687640",
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1687640"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515907",
+      "title": "Comparing pansexual- and bisexual-identified participants on demographics, psychological well-being, and political ideology in a New Zealand national sample",
+      "year": 2019,
+      "venue": "The Journal of Sex Research",
+      "doi": "10.1080/00224499.2019.1568376",
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1568376"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971293",
+      "title": "Comparing Pansexual- and Bisexual-Identified Participants on Demographics, Psychological Well-Being, and Political Ideology in a New Zealand National Sample",
+      "year": 2019,
+      "venue": "The Journal of Sex Research",
+      "doi": "10.1080/00224499.2019.1568376",
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1568376"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515916",
+      "title": "Sexuality and sexism: Differences in ambivalent sexism across gender and sexual identity",
+      "year": 2019,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/j.paid.2019.05.023",
+      "openAccessUrl": "https://doi.org/10.1016/j.paid.2019.05.023"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515873",
+      "title": "Brief of Evidence",
+      "year": 2019
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515879",
+      "title": "E Tū Whānau Instrument Report",
+      "year": 2019
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515878",
+      "title": "E Tū Whānau Questionnaire Development Literature Review",
+      "year": 2019
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515914",
+      "title": "Investigating inappropriate and missing sexual orientation question responses in a New Zealand national survey",
+      "year": 2019,
+      "venue": "Psychology of Sexual Orientation and Gender Diversity",
+      "doi": "10.1037/sgd0000328",
+      "openAccessUrl": "https://doi.org/10.1037/sgd0000328"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515877",
+      "title": "Methods of sampling in quantitative health research",
+      "year": 2019,
+      "venue": "Researching Health: Qualitative, Quantitative, and Mixed Methods"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515881",
+      "title": "New Zealand: Political developments and data in 2018",
+      "year": 2019,
+      "venue": "European Journal of Political Research Political Data Yearbook",
+      "doi": "10.1111/2047-8852.12254",
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12254"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971308",
+      "title": "New Zealand: Political Developments and Data in 2018",
+      "year": 2019,
+      "venue": "European Journal of Political Research Political Data Yearbook",
+      "doi": "10.1111/2047-8852.12254",
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12254"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515915",
+      "title": "Profiling authoritarian leaders and followers",
+      "year": 2019,
+      "venue": "Testing, Psychometrics, Methodology in Applied Psychology",
+      "doi": "10.4473/TPM26.3.6",
+      "openAccessUrl": "https://doi.org/10.4473/TPM26.3.6"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515875",
+      "title": "RainbowYOUTH Annual Membership Survey Report 2018",
+      "year": 2019
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515874",
+      "title": "Sexual Orientation in the NZAVS 2013-17",
+      "year": 2019
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515872",
+      "title": "A Probabilistic Online Panel for New Zealand",
+      "year": 2018
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515870",
+      "title": "Has Support for Direct Democracy Decreased Since the Flag Referendums? Findings from a New Zealand National Survey",
+      "year": 2018
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515871",
+      "title": "Populism and the 2017 Election: The Components, Prevalence, and Correlates of Populism",
+      "year": 2018
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515869",
+      "title": "Comparing Pansexual and Bisexual Identified Participants on Demographics, Well-Being, and Politics in a New Zealand National Probability Sample",
+      "year": 2018
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515918",
+      "title": "The geography of deprivation in New Zealand by electorate",
+      "year": 2018,
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
+      "doi": "10.1080/1177083X.2018.1530267",
+      "openAccessUrl": "https://doi.org/10.1080/1177083X.2018.1530267"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971300",
+      "title": "The geography of deprivation in New Zealand by electorate",
+      "year": 2018,
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
+      "doi": "10.1080/1177083x.2018.1530267",
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2018.1530267"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515889",
+      "title": "[Review of the book \"A bark but no bite: Inequality and the 2014 New Zealand general election\" by Jack Vowles, Hilde Coffé, and Jennifer Curtin]",
+      "year": 2018,
+      "venue": "Political Science"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515893",
+      "title": "Asexual identity in a New Zealand national sample: Demographics, well-being, and health",
+      "year": 2017,
+      "venue": "Archives of Sexual Behavior",
+      "doi": "10.1007/s10508-017-0977-6",
+      "openAccessUrl": "https://doi.org/10.1007/s10508-017-0977-6"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971327",
+      "title": "Asexual Identity in a New Zealand National Sample: Demographics, Well-Being, and Health",
+      "year": 2017,
+      "venue": "Archives of Sexual Behavior",
+      "doi": "10.1007/s10508-017-0977-6",
+      "openAccessUrl": "https://doi.org/10.1007/s10508-017-0977-6"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515905",
+      "title": "Personality across sexual identity and gender in a national probability sample in New Zealand",
+      "year": 2017,
+      "venue": "Sex Roles",
+      "doi": "10.1007/s11199-017-0752-0",
+      "openAccessUrl": "https://doi.org/10.1007/s11199-017-0752-0"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971360",
+      "title": "Personality across Sexual Identity and Gender in a National Probability Sample in New Zealand",
+      "year": 2017,
+      "venue": "Sex Roles",
+      "doi": "10.1007/s11199-017-0752-0",
+      "openAccessUrl": "https://doi.org/10.1007/s11199-017-0752-0"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515885",
+      "title": "The sigh of the oppressed: The palliative effects of ideology are stronger for people living in highly unequal neighbourhoods",
+      "year": 2017,
+      "venue": "The British Journal of Social Psychology",
+      "doi": "10.1111/bjso.12192",
+      "openAccessUrl": "https://doi.org/10.1111/bjso.12192"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971334",
+      "title": "The sigh of the oppressed: The palliative effects of ideology are stronger for people living in highly unequal neighbourhoods",
+      "year": 2017,
+      "venue": "British Journal of Social Psychology",
+      "doi": "10.1111/bjso.12192",
+      "openAccessUrl": "https://doi.org/10.1111/bjso.12192"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515890",
+      "title": "‘Truly being a New Zealander’: Ascriptive versus civic views of national identity",
+      "year": 2017,
+      "venue": "Political Science",
+      "doi": "10.1080/00323187.2017.1418177",
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1418177"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971332",
+      "title": "‘Truly being a New Zealander’: ascriptive versus civic views of national identity",
+      "year": 2017,
+      "venue": "Political Science",
+      "doi": "10.1080/00323187.2017.1418177",
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1418177"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515860",
+      "title": "Māori, a Politicized Identity: Indigenous Identity, Voter Turnout, Protest, and Political Party Support in Aotearoa New Zealand",
+      "year": 2017,
+      "doi": "10.1037/ipp0000089",
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000089"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515867",
+      "title": "Māori, a Politicized Identity: Indigenous Identity, Voter Turnout, Protest, and Political Party Support in Aotearoa New Zealand",
+      "year": 2017,
+      "doi": "10.1037/ipp0000089",
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000089"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515911",
+      "title": "Māori, a politicized identity: Indigenous identity, voter turnout, protest, and political party support in Aotearoa New Zealand",
+      "year": 2018,
+      "venue": "International Perspectives in Psychology: Research, Practice, Consultation",
+      "doi": "10.1037/ipp0000089",
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000089"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515868",
+      "title": "Colonized and Queer: Ethnicity and Sexual Orientation in a New Zealand National Sample",
+      "year": 2017
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515859",
+      "title": "The Diversity and Prevalence of Sexual Orientation Self-Labels in a New Zealand National Sample",
+      "year": 2017,
+      "doi": "10.1007/s10508-016-0857-5",
+      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515906",
+      "title": "The diversity and prevalence of sexual orientation self-labels in a New Zealand national sample",
+      "year": 2017,
+      "venue": "Archives of Sexual Behavior",
+      "doi": "10.1007/s10508-016-0857-5",
+      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971338",
+      "title": "The Diversity and Prevalence of Sexual Orientation Self-Labels in a New Zealand National Sample",
+      "year": 2017,
+      "venue": "Archives of Sexual Behavior",
+      "doi": "10.1007/s10508-016-0857-5",
+      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515901",
+      "title": "Bias and tracking accuracy in voting projections using the New Zealand attitudes and values study",
+      "year": 2017,
+      "venue": "Political Science",
+      "doi": "10.1080/00323187.2017.1321589",
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1321589"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515902",
+      "title": "Random intercept exploratory factor analysis of the multidimensional model of Māori identity and cultural engagement",
+      "year": 2017,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/j.paid.2016.09.026",
+      "openAccessUrl": "https://doi.org/10.1016/j.paid.2016.09.026"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971344",
+      "title": "Random intercept exploratory factor analysis of the multidimensional model of Māori identity and cultural engagement",
+      "year": 2017,
+      "venue": "Personality and Individual Differences",
+      "doi": "10.1016/j.paid.2016.09.026",
+      "openAccessUrl": "https://doi.org/10.1016/j.paid.2016.09.026"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515880",
+      "title": "An Investigation into the Feasibility of an Online National Probability Panel Study in New Zealand",
+      "year": 2017
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515912",
+      "title": "Predicting party vote sentiment: Identifying the demographic and psychological correlates of party preference in two large datasets",
+      "year": 2017,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515903",
+      "title": "The multidimensional model of Māori identity and cultural engagement: Measurement equivalence across diverse Māori groups",
+      "year": 2017,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515865",
+      "title": "Predicting Voter Sentiment: Demographics and Psychological Variables Inform Intended Vote in Two Large National Datasets",
+      "year": 2016
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515909",
+      "title": "To burn or to save? The opposing functions of reading scripture on environmental intentions",
+      "year": 2016,
+      "venue": "Religion, Brain & Behavior",
+      "doi": "10.1080/2153599X.2015.1026926",
+      "openAccessUrl": "https://doi.org/10.1080/2153599X.2015.1026926"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971351",
+      "title": "To burn or to save? The opposing functions of reading scripture on environmental intentions",
+      "year": 2016,
+      "venue": "Religion, Brain &amp; Behavior",
+      "doi": "10.1080/2153599x.2015.1026926",
+      "openAccessUrl": "https://doi.org/10.1080/2153599x.2015.1026926"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515892",
+      "title": "Binding moral foundations and the narrowing of ideological conflict to the traditional morality domain",
+      "year": 2016,
+      "venue": "Personality and Social Psychology Bulletin",
+      "doi": "10.1177/0146167216653936",
+      "openAccessUrl": "https://doi.org/10.1177/0146167216653936"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971364",
+      "title": "Binding Moral Foundations and the Narrowing of Ideological Conflict to the Traditional Morality Domain",
+      "year": 2016,
+      "venue": "Personality and Social Psychology Bulletin",
+      "doi": "10.1177/0146167216653936",
+      "openAccessUrl": "https://doi.org/10.1177/0146167216653936"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515866",
+      "title": "The Asexual Identity in a National Sample",
+      "year": 2016
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515858",
+      "title": "Personality and Demographics across Sexual Orientations in a National Probability Sample",
+      "year": 2016
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515910",
+      "title": "Indigenous identity and environmental values: Do spirituality and political consciousness predict environmental regard among Māori?",
+      "year": 2016,
+      "venue": "International Perspectives in Psychology: Research, Practice, Consultation",
+      "doi": "10.1037/ipp0000059",
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000059"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515900",
+      "title": "Māori identity signatures: A latent profile analysis of the types of Māori identity",
+      "year": 2015,
+      "venue": "Cultural Diversity & Ethnic Minority Psychology",
+      "doi": "10.1037/cdp0000033",
+      "openAccessUrl": "https://doi.org/10.1037/cdp0000033"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515888",
+      "title": "Facebook is linked to body dissatisfaction: Comparing users and non-users",
+      "year": 2015,
+      "venue": "Sex Roles",
+      "doi": "10.1007/s11199-015-0517-6",
+      "openAccessUrl": "https://doi.org/10.1007/s11199-015-0517-6"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971370",
+      "title": "Facebook is Linked to Body Dissatisfaction: Comparing Users and Non-Users",
+      "year": 2015,
+      "venue": "Sex Roles",
+      "doi": "10.1007/s11199-015-0517-6",
+      "openAccessUrl": "https://doi.org/10.1007/s11199-015-0517-6"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515891",
+      "title": "Regional differences in the psychological recovery of Christchurch residents following the 2010/2011 earthquakes: A longitudinal study",
+      "year": 2015,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0124278",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0124278"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515864",
+      "title": "Measuring Self-Labelled Sexual Orientation: Development of a Multi-tier Coding Scheme for Sexual Identity",
+      "year": 2015
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515883",
+      "title": "Demographic and psychological predictors of panel attrition: Evidence from the New Zealand Attitudes and Values Study",
+      "year": 2015,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0121950",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121950"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971379",
+      "title": "Demographic and Psychological Predictors of Panel Attrition: Evidence from the New Zealand Attitudes and Values Study",
+      "year": 2015,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0121950",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121950"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515882",
+      "title": "Stability and change in political conservatism following the Global Financial Crisis",
+      "year": 2015,
+      "venue": "Personality and Social Psychology Bulletin",
+      "doi": "10.1177/0146167214559710",
+      "openAccessUrl": "https://doi.org/10.1177/0146167214559710"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971383",
+      "title": "Stability and Change in Political Conservatism Following the Global Financial Crisis",
+      "year": 2015,
+      "venue": "Personality and Social Psychology Bulletin",
+      "doi": "10.1177/0146167214559710",
+      "openAccessUrl": "https://doi.org/10.1177/0146167214559710"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515896",
+      "title": "Identifying distinct subgroups of green voters: A latent profile analysis of crux values relating to Green Party support",
+      "year": 2015,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515898",
+      "title": "Profiling the fence-sitters in New Zealand elections: A latent class model of political voting blocs",
+      "year": 2015,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515895",
+      "title": "Regional differences in the personality of New Zealanders",
+      "year": 2015,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515876",
+      "title": "Religion and parental cooperation: An empirical test of Slone’s sexual signalling model",
+      "year": 2015,
+      "venue": "The Attraction of Religion: A Sexual Selectionist Account"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515894",
+      "title": "Socio-structural and psychological foundations of climate change beliefs",
+      "year": 2015,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515897",
+      "title": "The Facebook feedback hypothesis of personality and social belonging",
+      "year": 2015,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515857",
+      "title": "Identity and Demographics Predict Voter Enrolment on the Māori Electoral Roll: Findings from a National Sample",
+      "year": 2014,
+      "doi": "10.20507/MAIJournal.2017.6.1.1",
+      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515863",
+      "title": "Identity and Demographics Predict Voter Enrolment on the Māori Electoral Roll: Findings from a National Sample",
+      "year": 2015,
+      "doi": "10.20507/MAIJournal.2017.6.1.1",
+      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515904",
+      "title": "Identity and demographics predict voter enrolment on the Māori electoral roll: Findings from a national sample",
+      "year": 2017,
+      "venue": "MAI Journal",
+      "doi": "10.20507/MAIJournal.2017.6.1.1",
+      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515862",
+      "title": "Māori Identity and Religion: Māori Spiritual Concepts are not associated with Christianity",
+      "year": 2014
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515861",
+      "title": "Profiling the Fence-Sitters in New Zealand Elections: A Latent Profile Model of Political Voting Blocs",
+      "year": 2014
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515887",
+      "title": "Right-wing authoritarianism and social dominance orientation predict different moral signatures",
+      "year": 2014,
+      "venue": "Social Justice Research",
+      "doi": "10.1007/s11211-014-0213-7",
+      "openAccessUrl": "https://doi.org/10.1007/s11211-014-0213-7"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971387",
+      "title": "Right-Wing Authoritarianism and Social Dominance Orientation Predict Different Moral Signatures",
+      "year": 2014,
+      "venue": "Social Justice Research",
+      "doi": "10.1007/s11211-014-0213-7",
+      "openAccessUrl": "https://doi.org/10.1007/s11211-014-0213-7"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515856",
+      "title": "Culture as protection? A latent class model of Māori identity signatures: differentiating cultural engagement behaviours and mental, physical, and financial health outcomes",
+      "year": 2014
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515908",
+      "title": "Politics and post-colonial ideology: Historical negation and symbolic exclusion predict political party preference",
+      "year": 2014,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515855",
+      "title": "Profiling the Fence-Sitters in New Zealand Elections: A Latent Class Model of Political Voting Blocs",
+      "year": 2013
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515899",
+      "title": "The Mini-IPIP6: Tiny yet highly stable markers of Big Six personality",
+      "year": 2013,
+      "venue": "Journal of Research in Personality",
+      "doi": "10.1016/j.jrp.2013.09.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jrp.2013.09.004"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/159971402",
+      "title": "The Mini-IPIP6: Tiny yet highly stable markers of Big Six personality",
+      "year": 2013,
+      "venue": "Journal of Research in Personality",
+      "doi": "10.1016/j.jrp.2013.09.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jrp.2013.09.004"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515884",
+      "title": "Sense of community in New Zealand neighbourhoods: A multi-level model predicting social capital",
+      "year": 2013,
+      "venue": "New Zealand Journal of Psychology"
+    },
+    {
+      "id": "orcid:0000-0003-0537-7125/work/68515854",
+      "title": "How much happiness does money buy? Income and subjective well-being in New Zealand",
+      "year": 2012,
+      "venue": "New Zealand Journal of Psychology"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "phillip-wilcox",
+  "orcidId": "0000-0001-8485-6962",
+  "updatedAt": "2025-12-09T22:54:15.198Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4413483463",
+      "title": "Return of the huia? Why Māori worldviews must be part of the ‘de-extinction’ debate",
+      "year": 2025,
+      "doi": "https://doi.org/10.64628/aa.p7mvd7xpx",
+      "openAccessUrl": "https://doi.org/10.64628/aa.p7mvd7xpx"
+    },
+    {
+      "id": "https://openalex.org/W4408773180",
+      "title": "Rakeiora Genomics Platform: a pathfinder for genomic medicine research in Aotearoa New Zealand",
+      "year": 2025,
+      "venue": "Journal of the Royal Society of New Zealand",
+      "doi": "https://doi.org/10.1080/03036758.2025.2469626",
+      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/03036758.2025.2469626?needAccess=true"
+    },
+    {
+      "id": "https://openalex.org/W4403514997",
+      "title": "The population-specific Thr44Met OCT3 coding variant affects metformin pharmacokinetics with subsequent effects on insulin sensitivity in C57Bl/6J mice",
+      "year": 2024,
+      "venue": "Diabetologia",
+      "doi": "https://doi.org/10.1007/s00125-024-06287-1",
+      "openAccessUrl": "https://doi.org/10.1007/s00125-024-06287-1"
+    },
+    {
+      "id": "https://openalex.org/W4396500081",
+      "title": "Safety and Tolerability of SGLT-2 Inhibitors Following Lung Transplantation",
+      "year": 2024,
+      "doi": "https://doi.org/10.1164/ajrccm-conference.2024.209.1_meetingabstracts.a3724",
+      "openAccessUrl": "https://doi.org/10.1164/ajrccm-conference.2024.209.1_meetingabstracts.a3724"
+    }
+  ]
+}

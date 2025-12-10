@@ -1,0 +1,244 @@
+{
+  "slug": "alexei-drummond",
+  "orcidId": "0000-0003-4454-2576",
+  "updatedAt": "2025-12-09T22:54:06.361Z",
+  "works": [
+    {
+      "id": "https://openalex.org/W4416755022",
+      "title": "Single-cell phylodynamics reveal rapid late-stage colorectal cancer expansions",
+      "year": 2025,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2025.11.25.690378",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/11/27/2025.11.25.690378.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W7106257087",
+      "title": "Bayesian model-averaging of parametric coalescent models for phylodynamic inference",
+      "year": 2025,
+      "venue": "Molecular Biology and Evolution",
+      "doi": "https://doi.org/10.1093/molbev/msaf297",
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msaf297"
+    },
+    {
+      "id": "https://openalex.org/W4416554369",
+      "title": "Bayesian model-averaging of parametric coalescent models for phylodynamic inference",
+      "year": 2025,
+      "venue": "Molecular Biology and Evolution",
+      "doi": "https://doi.org/10.1093/molbev/msaf297",
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msaf297"
+    },
+    {
+      "id": "https://openalex.org/W4393807855",
+      "title": "Phlorest phylogeny derived from Bouckaert et al. 2012 'Mapping the Origins and Expansion of the Indo-European Language Family'",
+      "year": 2025,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.8249915",
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.8249915"
+    },
+    {
+      "id": "https://openalex.org/W7105286506",
+      "title": "Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'",
+      "year": 2025,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.17583742",
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.17583742"
+    },
+    {
+      "id": "https://openalex.org/W4393843796",
+      "title": "Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'",
+      "year": 2025,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.8250067",
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.8250067"
+    },
+    {
+      "id": "https://openalex.org/W4412093882",
+      "title": "BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference",
+      "year": 2025,
+      "venue": "Nature Methods",
+      "doi": "https://doi.org/10.1038/s41592-025-02751-x",
+      "openAccessUrl": "https://www.nature.com/articles/s41592-025-02751-x.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4407884208",
+      "title": "Bayesian model-averaging of parametric coalescent models for phylodynamic inference",
+      "year": 2025,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2025.02.22.639697",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/02/24/2025.02.22.639697.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4407402889",
+      "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
+      "year": 2025,
+      "venue": "PLoS Computational Biology",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1012789",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1012789"
+    },
+    {
+      "id": "https://openalex.org/W4404153154",
+      "title": "How to Validate a Bayesian Evolutionary Model",
+      "year": 2024,
+      "venue": "Systematic Biology",
+      "doi": "https://doi.org/10.1093/sysbio/syae064",
+      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syae064/60471274/syae064.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4402911717",
+      "title": "Skeletons in the Forest: Using Entropy-Based Rogue Detection on Bayesian Phylogenetic Tree Distributions",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.09.25.615070",
+      "openAccessUrl": "https://doi.org/10.1101/2024.09.25.615070"
+    },
+    {
+      "id": "https://openalex.org/W4392200673",
+      "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.02.20.581316",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.581316.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4391743534",
+      "title": "How to validate a Bayesian evolutionary model",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2024.02.11.579856",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/12/2024.02.11.579856.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4393756195",
+      "title": "Phlorest phylogeny derived from Bouckaert et al. 2012 'Mapping the Origins and Expansion of the Indo-European Language Family'",
+      "year": 2023,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.10149518",
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149518"
+    },
+    {
+      "id": "https://openalex.org/W4393543409",
+      "title": "Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'",
+      "year": 2023,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.10149668",
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149668"
+    },
+    {
+      "id": "https://openalex.org/W4393827120",
+      "title": "Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'",
+      "year": 2023,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.10149635",
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149635"
+    },
+    {
+      "id": "https://openalex.org/W4389606897",
+      "title": "Fast Bayesian Inference of Phylogenies from Multiple Continuous Characters",
+      "year": 2023,
+      "venue": "Systematic Biology",
+      "doi": "https://doi.org/10.1093/sysbio/syad067",
+      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syad067/54348933/syad067.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4393698943",
+      "title": "Phlorest phylogeny derived from Bouckaert et al. 2012 'Mapping the Origins and Expansion of the Indo-European Language Family'",
+      "year": 2023,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.8249916",
+      "openAccessUrl": "https://zenodo.org/record/8249916"
+    },
+    {
+      "id": "https://openalex.org/W4393700491",
+      "title": "Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'",
+      "year": 2023,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.8250068",
+      "openAccessUrl": "https://zenodo.org/record/8250068"
+    },
+    {
+      "id": "https://openalex.org/W4384663383",
+      "title": "LinguaPhylo: A probabilistic model specification language for reproducible phylogenetic analyses",
+      "year": 2023,
+      "venue": "PLoS Computational Biology",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1011226",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1011226"
+    },
+    {
+      "id": "https://openalex.org/W4384155205",
+      "title": "Genomic epidemiology of SARS-CoV-2 variants during the first two years of the pandemic in Colombia",
+      "year": 2023,
+      "venue": "Communications Medicine",
+      "doi": "https://doi.org/10.1038/s43856-023-00328-3",
+      "openAccessUrl": "https://www.nature.com/articles/s43856-023-00328-3.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4308827897",
+      "title": "TreeFlow: probabilistic programming and automatic differentiation for phylogenetics",
+      "year": 2022,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2211.05220",
+      "openAccessUrl": "https://arxiv.org/pdf/2211.05220"
+    },
+    {
+      "id": "https://openalex.org/W4291288513",
+      "title": "LinguaPhylo: a probabilistic model specification language for reproducible phylogenetic analyses",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.08.08.503246",
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/08/14/2022.08.08.503246.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4285390994",
+      "title": "Genomic epidemiology of circulating SARS-CoV-2 variants during first two years of the pandemic in Colombia",
+      "year": 2022,
+      "venue": "Research Square (Research Square)",
+      "doi": "https://doi.org/10.21203/rs.3.rs-1786224/v1",
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-1786224/latest.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4283322370",
+      "title": "Accounting for Errors in Data Improves Divergence Time Estimates in Single-cell Cancer Evolution",
+      "year": 2022,
+      "venue": "Molecular Biology and Evolution",
+      "doi": "https://doi.org/10.1093/molbev/msac143",
+      "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf"
+    },
+    {
+      "id": "https://openalex.org/W4283275971",
+      "title": "Genomic epidemiology of circulating SARS-CoV-2 variants during first two years of the pandemic in Colombia",
+      "year": 2022,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "https://doi.org/10.1101/2022.06.20.22275744",
+      "openAccessUrl": "https://www.medrxiv.org/content/medrxiv/early/2022/06/21/2022.06.20.22275744.full.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3214211704",
+      "title": "Bayesian inference of the climbing grade scale",
+      "year": 2021,
+      "venue": "arXiv (Cornell University)",
+      "doi": "https://doi.org/10.48550/arxiv.2111.08140",
+      "openAccessUrl": "https://arxiv.org/pdf/2111.08140"
+    },
+    {
+      "id": "https://openalex.org/W2808485750",
+      "title": "Joint inference of species histories and gene flow",
+      "year": 2021
+    },
+    {
+      "id": "https://openalex.org/W3182152841",
+      "title": "Novel Integrative Modeling of Molecules and Morphology across Evolutionary Timescales",
+      "year": 2021,
+      "venue": "Systematic Biology",
+      "doi": "https://doi.org/10.1093/sysbio/syab054",
+      "openAccessUrl": "https://academic.oup.com/sysbio/article-pdf/71/1/208/41794194/syab054.pdf"
+    },
+    {
+      "id": "https://openalex.org/W3169356543",
+      "title": "Phylodynamics reveals the role of human travel and contact tracing in controlling the first wave of COVID-19 in four island nations",
+      "year": 2021,
+      "venue": "Virus Evolution",
+      "doi": "https://doi.org/10.1093/ve/veab052",
+      "openAccessUrl": "https://academic.oup.com/ve/article-pdf/7/2/veab052/50058354/veab052.pdf"
+    }
+  ]
+}

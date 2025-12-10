@@ -1,0 +1,434 @@
+{
+  "slug": "alex-gavryushkin",
+  "orcidId": "0000-0001-6299-8249",
+  "updatedAt": "2025-12-09T23:11:00.605Z",
+  "works": [
+    {
+      "id": "orcid:0000-0001-6299-8249/work/178291440",
+      "title": "Accuracy and Scalability of Machine Learning Methods for Genotype-Phenotype Association Data",
+      "year": 2025,
+      "doi": "10.1101/2025.02.13.638022",
+      "openAccessUrl": "https://doi.org/10.1101/2025.02.13.638022"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/169808293",
+      "title": "The Fossilized Birth–Death Model Is Identifiable",
+      "year": 2025,
+      "venue": "Systematic Biology",
+      "doi": "10.1093/sysbio/syae058",
+      "openAccessUrl": "https://doi.org/10.1093/sysbio/syae058"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/173521729",
+      "title": "An Automated Convergence Diagnostic for Phylogenetic MCMC Analyses",
+      "year": 2024,
+      "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+      "doi": "10.1109/TCBB.2024.3457875",
+      "openAccessUrl": "https://doi.org/10.1109/TCBB.2024.3457875"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/165949594",
+      "title": "Estimating the mean in the space of ranked phylogenetic trees",
+      "year": 2024,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btae514",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btae514"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/163769103",
+      "title": "Filtering for highly variable genes and high quality spots improves phylogenetic analysis of cancer spatial transcriptomics Visium data",
+      "year": 2024,
+      "doi": "10.1101/2024.07.11.603166",
+      "openAccessUrl": "https://doi.org/10.1101/2024.07.11.603166"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/152047917",
+      "title": "Ranked Subtree Prune and Regraft",
+      "year": 2024,
+      "venue": "Bulletin of Mathematical Biology",
+      "doi": "10.1007/s11538-023-01244-2",
+      "openAccessUrl": "https://doi.org/10.1007/s11538-023-01244-2"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/154167294",
+      "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
+      "year": 2024,
+      "doi": "10.1101/2024.02.20.581316",
+      "openAccessUrl": "https://doi.org/10.1101/2024.02.20.581316"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/152959397",
+      "title": "The Fossilised Birth-Death Model is Identifiable",
+      "year": 2024,
+      "doi": "10.1101/2024.02.08.579547",
+      "openAccessUrl": "https://doi.org/10.1101/2024.02.08.579547"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/140428012",
+      "title": "An automated convergence diagnostic for phylogenetic MCMC analyses",
+      "year": 2023,
+      "doi": "10.1101/2023.08.10.552869",
+      "openAccessUrl": "https://doi.org/10.1101/2023.08.10.552869"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/135333147",
+      "title": "Ranked Subtree Prune and Regraft",
+      "year": 2023,
+      "doi": "10.1101/2023.05.16.541039",
+      "openAccessUrl": "https://doi.org/10.1101/2023.05.16.541039"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/134762889",
+      "title": "Estimating the mean in the space of ranked phylogenetic trees",
+      "year": 2023,
+      "doi": "10.1101/2023.05.08.539790",
+      "openAccessUrl": "https://doi.org/10.1101/2023.05.08.539790"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/125465784",
+      "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
+      "year": 2023,
+      "venue": "Journal of Computational Biology",
+      "doi": "10.1089/cmb.2022.0357",
+      "openAccessUrl": "https://doi.org/10.1089/cmb.2022.0357"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/125524192",
+      "title": "A fast lasso-based method for inferring higher-order interactions",
+      "year": 2022,
+      "venue": "PLOS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1010730",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1010730"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/116895182",
+      "title": "Accounting for Errors in Data Improves Divergence Time Estimates in Single-cell Cancer Evolution",
+      "year": 2022,
+      "venue": "Molecular Biology and Evolution",
+      "doi": "10.1093/molbev/msac143",
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msac143"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/115643722",
+      "title": "SNVformer: An Attention-based Deep Neural Network for GWAS Data",
+      "year": 2022,
+      "doi": "10.1101/2022.07.07.499217",
+      "openAccessUrl": "https://doi.org/10.1101/2022.07.07.499217"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/112571604",
+      "title": "Online Bayesian Analysis with BEAST 2",
+      "year": 2022,
+      "doi": "10.1101/2022.05.03.490538",
+      "openAccessUrl": "https://doi.org/10.1101/2022.05.03.490538"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/104767459",
+      "title": "A Fast Lasso-Based Method for Inferring Higher-Order Interactions",
+      "year": 2021,
+      "doi": "10.1101/2021.12.13.471844",
+      "openAccessUrl": "https://doi.org/10.1101/2021.12.13.471844"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/102655358",
+      "title": "Discrete coalescent trees",
+      "year": 2021,
+      "venue": "Journal of Mathematical Biology",
+      "doi": "10.1007/s00285-021-01685-0",
+      "openAccessUrl": "https://doi.org/10.1007/s00285-021-01685-0"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/96929241",
+      "title": "Learning epistatic gene interactions from perturbation screens",
+      "year": 2021,
+      "venue": "PLOS ONE",
+      "doi": "10.1371/journal.pone.0254491",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0254491"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/113329107",
+      "title": "Accounting for errors in data improves timing in single-cell cancer evolution",
+      "year": 2021,
+      "doi": "10.1101/2021.03.17.435906",
+      "openAccessUrl": "https://doi.org/10.1101/2021.03.17.435906"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/87833763",
+      "title": "A Fast Lasso-Based Method for Inferring Pairwise Interactions",
+      "year": 2021,
+      "doi": "10.1101/2021.01.28.428698",
+      "openAccessUrl": "https://doi.org/10.1101/2021.01.28.428698"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/86536913",
+      "title": "Testing for phylogenetic signal in single-cell RNA-seq data",
+      "year": 2021,
+      "doi": "10.1101/2021.01.07.425804",
+      "openAccessUrl": "https://doi.org/10.1101/2021.01.07.425804"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/87454903",
+      "title": "Computing nearest neighbour interchange distances between ranked phylogenetic trees",
+      "year": 2021,
+      "venue": "Journal of Mathematical Biology",
+      "doi": "10.1007/s00285-021-01567-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00285-021-01567-5"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/79329321",
+      "title": "Learning epistatic gene interactions from perturbation screens",
+      "year": 2020,
+      "doi": "10.1101/2020.08.24.264713",
+      "openAccessUrl": "https://doi.org/10.1101/2020.08.24.264713"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/66369931",
+      "title": "Geometry of Ranked Nearest Neighbour Interchange Space of Phylogenetic Trees",
+      "year": 2019,
+      "doi": "10.1101/2019.12.19.883603",
+      "openAccessUrl": "https://doi.org/10.1101/2019.12.19.883603"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/52634797",
+      "title": "Microbiome interactions shape host fitness",
+      "year": 2018,
+      "venue": "Nextjournal",
+      "doi": "10.33016/nextjournal.csi.KV6mmQ6tbdA4EeLceHkXS",
+      "openAccessUrl": "https://doi.org/10.33016/nextjournal.csi.KV6mmQ6tbdA4EeLceHkXS"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/44411280",
+      "title": "The geometry of partial fitness orders and an efficient method for detecting genetic interactions",
+      "year": 2018,
+      "venue": "Journal of Mathematical Biology",
+      "doi": "10.1007/s00285-018-1237-7",
+      "openAccessUrl": "https://doi.org/10.1007/s00285-018-1237-7"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/35597579",
+      "title": "The combinatorics of discrete time-trees: theory and open problems",
+      "year": 2018,
+      "venue": "Journal of Mathematical Biology",
+      "doi": "10.1007/s00285-017-1167-9",
+      "openAccessUrl": "https://doi.org/10.1007/s00285-017-1167-9"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/57830062",
+      "title": "Microbiome interactions shape host fitness",
+      "year": 2018,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1809349115",
+      "openAccessUrl": "https://doi.org/10.1073/pnas.1809349115"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/39795276",
+      "title": "Inferring genetic interactions from comparative fitness data",
+      "year": 2017,
+      "venue": "eLife",
+      "doi": "10.7554/eLife.28629",
+      "openAccessUrl": "https://doi.org/10.7554/eLife.28629"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/39771613",
+      "title": "High-dimensional microbiome interactions shape host fitness",
+      "year": 2017,
+      "doi": "10.1101/232959",
+      "openAccessUrl": "https://doi.org/10.1101/232959"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/36274587",
+      "title": "The Geometry of Partial Fitness Orders and an Efficient Method for Detecting Genetic Interactions",
+      "year": 2017,
+      "doi": "10.1101/180976",
+      "openAccessUrl": "https://doi.org/10.1101/180976"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/32761058",
+      "title": "Tiling algebra for constraint-based layout editing",
+      "year": 2017,
+      "venue": "Journal of Logical and Algebraic Methods in Programming",
+      "doi": "10.1016/j.jlamp.2017.01.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.jlamp.2017.01.004"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/32760444",
+      "title": "Inferring Genetic Interactions From Comparative Fitness Data",
+      "year": 2017,
+      "doi": "10.1101/137372",
+      "openAccessUrl": "https://doi.org/10.1101/137372"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/90853292",
+      "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+      "year": 2016,
+      "doi": "10.1101/092205",
+      "openAccessUrl": "https://doi.org/10.1101/092205"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736385",
+      "title": "The combinatorics of discrete time-trees: theory and open problems",
+      "year": 2016,
+      "doi": "10.1101/063362",
+      "openAccessUrl": "https://doi.org/10.1101/063362"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/32761057",
+      "title": "Dynamic Algorithms for Multimachine Interval Scheduling Through Analysis of Idle Intervals",
+      "year": 2016,
+      "venue": "Algorithmica",
+      "doi": "10.1007/s00453-016-0148-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00453-016-0148-5"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736530",
+      "title": "Reducibilities among equivalence relations induced by recursively enumerable structures",
+      "year": 2016,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2015.11.042",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2015.11.042"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736528",
+      "title": "Stability of B2-type FeS at Earth's inner core pressures",
+      "year": 2016,
+      "venue": "Geophysical Research Letters",
+      "doi": "10.1002/2016GL069374",
+      "openAccessUrl": "https://doi.org/10.1002/2016GL069374"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/32761060",
+      "title": "Stability of B2-type FeS at Earth's inner core pressures",
+      "year": 2016,
+      "venue": "Geophysical Research Letters",
+      "doi": "10.1002/2016gl069374",
+      "openAccessUrl": "https://doi.org/10.1002/2016gl069374"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/32761059",
+      "title": "THE SPACE OF SAMPLED ANCESTOR TREES",
+      "year": 2016,
+      "doi": "10.1130/abs/2016am-278339",
+      "openAccessUrl": "https://doi.org/10.1130/abs/2016am-278339"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736518",
+      "title": "The space of ultrametric phylogenetic trees",
+      "year": 2016,
+      "venue": "Journal of Theoretical Biology",
+      "doi": "10.1016/j.jtbi.2016.05.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.jtbi.2016.05.001"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736526",
+      "title": "Toward Analysis of Structural Changes Common for Alkaline Carbonates and Binary Compounds: Prediction of High-Pressure Structures of Li<inf>2</inf>CO<inf>3</inf>, Na<inf>2</inf>CO<inf>3</inf>, and K<inf>2</inf>CO<inf>3</inf>",
+      "year": 2016,
+      "venue": "Crystal Growth and Design",
+      "doi": "10.1021/acs.cgd.5b01793",
+      "openAccessUrl": "https://doi.org/10.1021/acs.cgd.5b01793"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736516",
+      "title": "Decidable models of small theories",
+      "year": 2015,
+      "venue": "Lobachevskii Journal of Mathematics",
+      "doi": "10.1134/S1995080215040198",
+      "openAccessUrl": "https://doi.org/10.1134/S1995080215040198"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736519",
+      "title": "Dynamic algorithms for monotonic interval scheduling problem",
+      "year": 2015,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2014.09.046",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2014.09.046"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736527",
+      "title": "How well can the exponential-growth coalescent approximate constant-rate birth–death population dynamics?",
+      "year": 2015,
+      "venue": "Proceedings of the Royal Society B: Biological Sciences",
+      "doi": "10.1098/rspb.2015.0420",
+      "openAccessUrl": "https://doi.org/10.1098/rspb.2015.0420"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736517",
+      "title": "Unbiased crystal structure prediction of NiSi under high pressure",
+      "year": 2015,
+      "venue": "Journal of Applied Crystallography",
+      "doi": "10.1107/S1600576715005488",
+      "openAccessUrl": "https://doi.org/10.1107/S1600576715005488"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/32761055",
+      "title": "Unbiased crystal structure prediction of NiSi under high pressure",
+      "year": 2015,
+      "venue": "Journal of Applied Crystallography",
+      "doi": "10.1107/s1600576715005488",
+      "openAccessUrl": "https://doi.org/10.1107/s1600576715005488"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736520",
+      "title": "Dynamic interval scheduling for multiple machines",
+      "year": 2014,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-13075-0_19",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-13075-0_19"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736529",
+      "title": "Graphs realised by r.e. equivalence relations",
+      "year": 2014,
+      "venue": "Annals of Pure and Applied Logic",
+      "doi": "10.1016/j.apal.2014.04.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.apal.2014.04.001"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736523",
+      "title": "Universality for left-computably enumerable metric spaces",
+      "year": 2014,
+      "venue": "Lobachevskii Journal of Mathematics",
+      "doi": "10.1134/S1995080214040179",
+      "openAccessUrl": "https://doi.org/10.1134/S1995080214040179"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736521",
+      "title": "Dynamising interval scheduling: The monotonic case",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-45278-9_16",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-45278-9_16"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736522",
+      "title": "On decidable and computable models of theories",
+      "year": 2013,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-642-39053-1_23",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39053-1_23"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736515",
+      "title": "On constructive models of theories with linear Rudin-Keisler ordering",
+      "year": 2012,
+      "venue": "Journal of Logic and Computation",
+      "doi": "10.1093/logcom/exq043",
+      "openAccessUrl": "https://doi.org/10.1093/logcom/exq043"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736524",
+      "title": "Spectra of computable models for Ehrenfeucht theories",
+      "year": 2007,
+      "venue": "Algebra and Logic",
+      "doi": "10.1007/s10469-007-0014-2",
+      "openAccessUrl": "https://doi.org/10.1007/s10469-007-0014-2"
+    },
+    {
+      "id": "orcid:0000-0001-6299-8249/work/27736525",
+      "title": "Complexity of Ehrenfeucht models",
+      "year": 2006,
+      "venue": "Algebra and Logic",
+      "doi": "10.1007/s10469-006-0027-2",
+      "openAccessUrl": "https://doi.org/10.1007/s10469-006-0027-2"
+    }
+  ]
+}

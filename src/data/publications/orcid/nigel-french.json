@@ -1,0 +1,3129 @@
+{
+  "slug": "nigel-french",
+  "orcidId": "0000-0002-6334-0657",
+  "updatedAt": "2025-12-09T23:11:09.827Z",
+  "works": [
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334826",
+      "title": "A cross-sectional online survey of depression symptoms among New Zealand’s Asian community in the first 10 months of the COVID-19 pandemic",
+      "year": 2025,
+      "venue": "Journal of the Royal Society of New Zealand",
+      "doi": "10.1080/03036758.2023.2251900",
+      "openAccessUrl": "https://doi.org/10.1080/03036758.2023.2251900"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334775",
+      "title": "A mathematical, classical stratification modeling approach to disentangling the impact of weather on infectious diseases: A case study using spatio-temporally disaggregated Campylobacter surveillance data for England and Wales",
+      "year": 2024,
+      "venue": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1011714",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1011714"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334811",
+      "title": "Campylobacter colonization and undernutrition in infants in rural Eastern Ethiopia: a longitudinal community-based birth cohort study",
+      "year": 2024,
+      "venue": "medRxiv",
+      "doi": "10.1101/2024.05.21.24307707",
+      "openAccessUrl": "https://doi.org/10.1101/2024.05.21.24307707"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334803",
+      "title": "Correction to: Measuring the missing: Knowledge, risk perceptions and self-protection practices of COVID-19 among the Asian population in New Zealand: An online survey (Journal of Public Health, (2024), 32, 9, (1631-1648), 10.1007/s10389-023-01926-0)",
+      "year": 2024,
+      "venue": "Journal of Public Health (Germany)",
+      "doi": "10.1007/s10389-023-02076-z",
+      "openAccessUrl": "https://doi.org/10.1007/s10389-023-02076-z"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334822",
+      "title": "Effective use of models in intelligence-to-decision workflows within and across One Health sectors",
+      "year": 2024,
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-3917726/v1",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-3917726/v1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334766",
+      "title": "Effectiveness of COVID-19 vaccines against hospitalisation, death and infection over time in Aotearoa New Zealand: a retrospective cohort study",
+      "year": 2024,
+      "venue": "New Zealand Medical Journal",
+      "doi": "10.26635/6965.6573",
+      "openAccessUrl": "https://doi.org/10.26635/6965.6573"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334827",
+      "title": "Foodborne bacterial pathogens: genome-based approaches for enduring and emerging threats in a complex and changing world",
+      "year": 2024,
+      "venue": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-024-01051-z",
+      "openAccessUrl": "https://doi.org/10.1038/s41579-024-01051-z"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334805",
+      "title": "Genomic and clinical characteristics of campylobacteriosis in Australia",
+      "year": 2024,
+      "venue": "Microbial Genomics",
+      "doi": "10.1099/mgen.0.001174",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001174"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334769",
+      "title": "Genomic diversity of Campylobacter jejuni and Campylobacter coli isolates recovered from human and poultry in Australia and New Zealand, 2017 to 2019",
+      "year": 2024,
+      "venue": "Microbial Genomics",
+      "doi": "10.1099/mgen.0.001319",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001319"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334778",
+      "title": "Home range overlaps of the brushtail possum (Trichosurus vulpecula): implications for disease transmission",
+      "year": 2024,
+      "venue": "European Journal of Wildlife Research",
+      "doi": "10.1007/s10344-024-01827-x",
+      "openAccessUrl": "https://doi.org/10.1007/s10344-024-01827-x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334762",
+      "title": "Lost in the Forest: Encoding categorical variables and the absent levels problem",
+      "year": 2024,
+      "venue": "Data Mining and Knowledge Discovery",
+      "doi": "10.1007/s10618-024-01019-w",
+      "openAccessUrl": "https://doi.org/10.1007/s10618-024-01019-w"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334806",
+      "title": "Measuring the missing: Knowledge, risk perceptions and self-protection practices of COVID-19 among the Asian population in New Zealand: An online survey",
+      "year": 2024,
+      "venue": "Journal of Public Health (Germany)",
+      "doi": "10.1007/s10389-023-01926-0",
+      "openAccessUrl": "https://doi.org/10.1007/s10389-023-01926-0"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334825",
+      "title": "Out of (the) bag—encoding categorical predictors impacts out-of-bag samples",
+      "year": 2024,
+      "venue": "PeerJ Computer Science",
+      "doi": "10.7717/peerj-cs.2445",
+      "openAccessUrl": "https://doi.org/10.7717/peerj-cs.2445"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334765",
+      "title": "Population Structure and Antimicrobial Resistance in Campylobacter jejuni and C. coli Isolated from Humans with Diarrhea and from Poultry, East Africa",
+      "year": 2024,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid3010.231399",
+      "openAccessUrl": "https://doi.org/10.3201/eid3010.231399"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334844",
+      "title": "Severe weather events and cryptosporidiosis in Aotearoa New Zealand: A case series of space-time clusters",
+      "year": 2024,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S095026882400058X",
+      "openAccessUrl": "https://doi.org/10.1017/S095026882400058X"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334784",
+      "title": "Spatial and temporal transmission dynamics of respiratory syncytial virus in New Zealand before and after the COVID-19 pandemic",
+      "year": 2024,
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-024-53998-5",
+      "openAccessUrl": "https://doi.org/10.1038/s41467-024-53998-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334788",
+      "title": "Spatial and temporal transmission dynamics of respiratory syncytial virus in New Zealand before and after the COVID-19 pandemic",
+      "year": 2024,
+      "venue": "medRxiv",
+      "doi": "10.1101/2024.07.15.24310412",
+      "openAccessUrl": "https://doi.org/10.1101/2024.07.15.24310412"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334810",
+      "title": "Steps towards operationalizing One Health approaches",
+      "year": 2024,
+      "venue": "One Health",
+      "doi": "10.1016/j.onehlt.2024.100740",
+      "openAccessUrl": "https://doi.org/10.1016/j.onehlt.2024.100740"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334808",
+      "title": "Steps towards operationalizing One Health approaches",
+      "year": 2024,
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-4000380/v1",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-4000380/v1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334771",
+      "title": "Zoonotic transmission of asymptomatic carriage Staphylococcus aureus on dairy farms in Canterbury, New Zealand",
+      "year": 2024,
+      "venue": "Microbial Genomics",
+      "doi": "10.1099/mgen.0.001318",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001318"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334802",
+      "title": "A novel, stain-free, natural auto-fluorescent signal, Sig M, identified from cytometric and transcriptomic analysis of infectivity of Cryptosporidium hominis and Cryptosporidium parvum",
+      "year": 2023,
+      "venue": "Frontiers in Cellular and Infection Microbiology",
+      "doi": "10.3389/fcimb.2023.1178576",
+      "openAccessUrl": "https://doi.org/10.3389/fcimb.2023.1178576"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334747",
+      "title": "Campylobacter",
+      "year": 2023,
+      "venue": "Encyclopedia of Food Safety, Second Edition, Volume 1-4",
+      "doi": "10.1016/B978-0-12-822521-9.00035-6",
+      "openAccessUrl": "https://doi.org/10.1016/B978-0-12-822521-9.00035-6"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334746",
+      "title": "Continued mitigation needed to minimise the high health burden from COVID-19 in Aotearoa New Zealand",
+      "year": 2023,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334754",
+      "title": "Dientamoeba fragilis associated with microbiome diversity changes in acute gastroenteritis patients",
+      "year": 2023,
+      "venue": "Parasitology International",
+      "doi": "10.1016/j.parint.2023.102788",
+      "openAccessUrl": "https://doi.org/10.1016/j.parint.2023.102788"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334821",
+      "title": "Emerging advances in biosecurity to underpin human, animal, plant, and ecosystem health",
+      "year": 2023,
+      "venue": "iScience",
+      "doi": "10.1016/j.isci.2023.107462",
+      "openAccessUrl": "https://doi.org/10.1016/j.isci.2023.107462"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334819",
+      "title": "Extended-spectrum β-lactamase- and AmpC β-lactamase-producing Enterobacterales associated with urinary tract infections in the New Zealand community: a case-control study",
+      "year": 2023,
+      "venue": "International Journal of Infectious Diseases",
+      "doi": "10.1016/j.ijid.2022.12.013",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijid.2022.12.013"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334814",
+      "title": "Genomic and clinical characteristics of campylobacteriosis in Australia",
+      "year": 2023,
+      "venue": "medRxiv",
+      "doi": "10.1101/2023.10.16.23297105",
+      "openAccessUrl": "https://doi.org/10.1101/2023.10.16.23297105"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334831",
+      "title": "Prevalence and Load of the Campylobacter Genus in Infants and Associated Household Contacts in Rural Eastern Ethiopia: a Longitudinal Study from the Campylobacter Genomics and Environmental Enteric Dysfunction (CAGED) Project",
+      "year": 2023,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/aem.00424-23",
+      "openAccessUrl": "https://doi.org/10.1128/aem.00424-23"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334767",
+      "title": "Red meat safety from livestock to retail in Tanzania: Policy and practice",
+      "year": 2023,
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-3268979",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-3268979"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334804",
+      "title": "Sensitivity of Reverse Transcription Polymerase Chain Reaction Tests for Severe Acute Respiratory Syndrome Coronavirus 2 through Time",
+      "year": 2023,
+      "venue": "Journal of Infectious Diseases",
+      "doi": "10.1093/infdis/jiac317",
+      "openAccessUrl": "https://doi.org/10.1093/infdis/jiac317"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334795",
+      "title": "Source attribution of campylobacteriosis in Australia, 2017–2019",
+      "year": 2023,
+      "venue": "Risk Analysis",
+      "doi": "10.1111/risa.14138",
+      "openAccessUrl": "https://doi.org/10.1111/risa.14138"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334756",
+      "title": "Stigmatising and Racialising COVID-19: Asian People’s Experience in New Zealand",
+      "year": 2023,
+      "venue": "Journal of Racial and Ethnic Health Disparities",
+      "doi": "10.1007/s40615-022-01448-7",
+      "openAccessUrl": "https://doi.org/10.1007/s40615-022-01448-7"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334828",
+      "title": "Dairy Cattle Density and Temporal Patterns of Human Campylobacteriosis and Cryptosporidiosis in New Zealand",
+      "year": 2022,
+      "venue": "EcoHealth",
+      "doi": "10.1007/s10393-022-01593-9",
+      "openAccessUrl": "https://doi.org/10.1007/s10393-022-01593-9"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334823",
+      "title": "Depression symptoms among New Zealand’s Asian community in the first 10 months of the COVID-19 pandemic",
+      "year": 2022,
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-2020091/v1",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-2020091/v1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334817",
+      "title": "From elimination to suppression: genomic epidemiology of a large Delta SARS-CoV-2 outbreak in Aotearoa New Zealand",
+      "year": 2022,
+      "venue": "medRxiv",
+      "doi": "10.1101/2022.04.04.22273376",
+      "openAccessUrl": "https://doi.org/10.1101/2022.04.04.22273376"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334772",
+      "title": "Genomic epidemiology of Delta SARS-CoV-2 during transition from elimination to suppression in Aotearoa New Zealand",
+      "year": 2022,
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-022-31784-5",
+      "openAccessUrl": "https://doi.org/10.1038/s41467-022-31784-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334812",
+      "title": "Lost in the Forest: Encoding Categorical Variables and the Absent Levels Problem",
+      "year": 2022,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2022.09.12.507676",
+      "openAccessUrl": "https://doi.org/10.1101/2022.09.12.507676"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334781",
+      "title": "Risk Factors for Campylobacteriosis in Australia: Outcomes of a 2018–2019 Case-Control Study",
+      "year": 2022,
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-1387051/v1",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-1387051/v1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334755",
+      "title": "Risk factors for campylobacteriosis in Australia: outcomes of a 2018–2019 case–control study",
+      "year": 2022,
+      "venue": "BMC Infectious Diseases",
+      "doi": "10.1186/s12879-022-07553-6",
+      "openAccessUrl": "https://doi.org/10.1186/s12879-022-07553-6"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334780",
+      "title": "Source attribution of campylobacteriosis in Australia circa 2018",
+      "year": 2022,
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-1743613/v1",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-1743613/v1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334829",
+      "title": "Spread of Nontyphoidal Salmonella in the Beef Supply Chain in Northern Tanzania: Sensitivity in a Probabilistic Model Integrating Microbiological Data and Data from Stakeholder Interviews",
+      "year": 2022,
+      "venue": "Risk Analysis",
+      "doi": "10.1111/risa.13826",
+      "openAccessUrl": "https://doi.org/10.1111/risa.13826"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334849",
+      "title": "Tracing the international arrivals of SARS-CoV-2 Omicron variants after Aotearoa New Zealand reopened its border",
+      "year": 2022,
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-022-34186-9",
+      "openAccessUrl": "https://doi.org/10.1038/s41467-022-34186-9"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334799",
+      "title": "Tracing the international arrivals of SARS-CoV-2 Omicron variants after Aotearoa New Zealand reopened its border",
+      "year": 2022,
+      "venue": "medRxiv",
+      "doi": "10.1101/2022.07.12.22277518",
+      "openAccessUrl": "https://doi.org/10.1101/2022.07.12.22277518"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334846",
+      "title": "Uncovering the genetic diversity of Giardia intestinalis in isolates from outbreaks in New Zealand",
+      "year": 2022,
+      "venue": "Infectious Diseases of Poverty",
+      "doi": "10.1186/s40249-022-00969-x",
+      "openAccessUrl": "https://doi.org/10.1186/s40249-022-00969-x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334816",
+      "title": "Unravelling the reservoirs for colonisation of infants with Campylobacter spp. in rural Ethiopia: protocol for a longitudinal study during a global pandemic and political tensions",
+      "year": 2022,
+      "venue": "BMJ Open",
+      "doi": "10.1136/bmjopen-2022-061311",
+      "openAccessUrl": "https://doi.org/10.1136/bmjopen-2022-061311"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334748",
+      "title": "Whole-genome sequencing for food safety",
+      "year": 2022,
+      "venue": "Present Knowledge in Food Safety: A Risk-Based Approach through the Food Chain",
+      "doi": "10.1016/B978-0-12-819470-6.00065-2",
+      "openAccessUrl": "https://doi.org/10.1016/B978-0-12-819470-6.00065-2"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334749",
+      "title": "An evaluation of diagnostic tests in a case series of suspected leptospirosis patients seen in primary care",
+      "year": 2021,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334845",
+      "title": "COVID-19 vaccine strategies for Aotearoa New Zealand: a mathematical modelling study",
+      "year": 2021,
+      "venue": "The Lancet Regional Health - Western Pacific",
+      "doi": "10.1016/j.lanwpc.2021.100256",
+      "openAccessUrl": "https://doi.org/10.1016/j.lanwpc.2021.100256"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334763",
+      "title": "Combining mutation and horizontal gene transfer in a within-host model of antibiotic resistance",
+      "year": 2021,
+      "venue": "Mathematical Biosciences",
+      "doi": "10.1016/j.mbs.2021.108656",
+      "openAccessUrl": "https://doi.org/10.1016/j.mbs.2021.108656"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334791",
+      "title": "Creating symptom-based criteria for diagnostic testing: a case study based on a multivariate analysis of data collected during the first wave of the COVID-19 pandemic in New Zealand",
+      "year": 2021,
+      "venue": "BMC Infectious Diseases",
+      "doi": "10.1186/s12879-021-06810-4",
+      "openAccessUrl": "https://doi.org/10.1186/s12879-021-06810-4"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334820",
+      "title": "First report of novel assemblages and mixed infections of Giardia duodenalis in human isolates from New Zealand",
+      "year": 2021,
+      "venue": "Acta Tropica",
+      "doi": "10.1016/j.actatropica.2021.105969",
+      "openAccessUrl": "https://doi.org/10.1016/j.actatropica.2021.105969"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334786",
+      "title": "Genetic characterisation of Campylobacter concisus: Strategies for improved genomospecies discrimination",
+      "year": 2021,
+      "venue": "Systematic and Applied Microbiology",
+      "doi": "10.1016/j.syapm.2021.126187",
+      "openAccessUrl": "https://doi.org/10.1016/j.syapm.2021.126187"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334764",
+      "title": "Genomic Insights Into Clinical Shiga Toxin-Producing Escherichia coli Strains: A 15-Year Period Survey in Jönköping, Sweden",
+      "year": 2021,
+      "venue": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2021.627861",
+      "openAccessUrl": "https://doi.org/10.3389/fmicb.2021.627861"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334789",
+      "title": "Genomic adaptations of Campylobacter jejuni to long-term human colonization",
+      "year": 2021,
+      "venue": "Gut Pathogens",
+      "doi": "10.1186/s13099-021-00469-7",
+      "openAccessUrl": "https://doi.org/10.1186/s13099-021-00469-7"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334797",
+      "title": "Genomic and phenotypic comparison of two Salmonella Typhimurium strains responsible for consecutive salmonellosis outbreaks in New Zealand",
+      "year": 2021,
+      "venue": "International Journal of Medical Microbiology",
+      "doi": "10.1016/j.ijmm.2021.151534",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijmm.2021.151534"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334761",
+      "title": "Genomic evidence of in-flight transmission of SARS-CoV-2 despite predeparture testing",
+      "year": 2021,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2703.204714",
+      "openAccessUrl": "https://doi.org/10.3201/eid2703.204714"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334847",
+      "title": "Investigating the Meat Pathway as a Source of Human Nontyphoidal Salmonella Bloodstream Infections and Diarrhea in East Africa",
+      "year": 2021,
+      "venue": "Clinical Infectious Diseases",
+      "doi": "10.1093/cid/ciaa1153",
+      "openAccessUrl": "https://doi.org/10.1093/cid/ciaa1153"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334774",
+      "title": "Microbial contamination in drinking water at public outdoor recreation facilities in New Zealand",
+      "year": 2021,
+      "venue": "Journal of Applied Microbiology",
+      "doi": "10.1111/jam.14772",
+      "openAccessUrl": "https://doi.org/10.1111/jam.14772"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334801",
+      "title": "Microbial diversity in water and animal faeces: a metagenomic analysis to assess public health risk",
+      "year": 2021,
+      "venue": "New Zealand Journal of Zoology",
+      "doi": "10.1080/03014223.2020.1831556",
+      "openAccessUrl": "https://doi.org/10.1080/03014223.2020.1831556"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334757",
+      "title": "Real-time genomics for tracking severe acute respiratory syndrome coronavirus 2 border incursions after virus elimination, New Zealand",
+      "year": 2021,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2709.211097",
+      "openAccessUrl": "https://doi.org/10.3201/eid2709.211097"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334753",
+      "title": "Real-time genomics to track COVID-19 post-elimination border incursions in Aotearoa New Zealand",
+      "year": 2021,
+      "venue": "medRxiv",
+      "doi": "10.1101/2021.05.13.21257194",
+      "openAccessUrl": "https://doi.org/10.1101/2021.05.13.21257194"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334773",
+      "title": "Risk assessment approaches for evaluating cumulative exposures to multiple pesticide residues in agro-products using seasonal vegetable monitoring data from Hainan, China: a case study",
+      "year": 2021,
+      "venue": "Environmental Monitoring and Assessment",
+      "doi": "10.1007/s10661-021-09328-z",
+      "openAccessUrl": "https://doi.org/10.1007/s10661-021-09328-z"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334842",
+      "title": "Source attributed case-control study of campylobacteriosis in New Zealand",
+      "year": 2021,
+      "venue": "International Journal of Infectious Diseases",
+      "doi": "10.1016/j.ijid.2020.11.167",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijid.2020.11.167"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334794",
+      "title": "The Genetic Relatedness and Antimicrobial Resistance Patterns of Mastitis-Causing Staphylococcus aureus Strains Isolated from New Zealand Dairy Cattle",
+      "year": 2021,
+      "venue": "Veterinary Sciences",
+      "doi": "10.3390/vetsci8110287",
+      "openAccessUrl": "https://doi.org/10.3390/vetsci8110287"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/103823049",
+      "title": "The Genetic Relatedness and Antimicrobial Resistance Patterns of Mastitis-Causing <i>Staphylococcus aureus</i> Strains Isolated from New Zealand Dairy Cattle",
+      "year": 2021,
+      "venue": "Veterinary Sciences",
+      "doi": "10.3390/vetsci8110287",
+      "openAccessUrl": "https://doi.org/10.3390/vetsci8110287"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334779",
+      "title": "Transmission Dynamics of Shiga Toxin-Producing Escherichia coli in New Zealand Cattle from Farm to Slaughter",
+      "year": 2021,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.02907-20",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.02907-20"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334834",
+      "title": "Transmission dynamics of an antimicrobial resistant Campylobacter jejuni lineage in New Zealand's commercial poultry network",
+      "year": 2021,
+      "venue": "Epidemics",
+      "doi": "10.1016/j.epidem.2021.100521",
+      "openAccessUrl": "https://doi.org/10.1016/j.epidem.2021.100521"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334835",
+      "title": "Uncovering the Genetic Diversity of Giardia Isolates from Outbreaks in New Zealand",
+      "year": 2021,
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-1157774/v1",
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-1157774/v1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334837",
+      "title": "Use of antimicrobials for food animals in New Zealand: updated estimates to identify a baseline to measure targeted reductions",
+      "year": 2021,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2021.1890648",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2021.1890648"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334807",
+      "title": "Use of genomics to track coronavirus disease outbreaks, New Zealand",
+      "year": 2021,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2705.204579",
+      "openAccessUrl": "https://doi.org/10.3201/eid2705.204579"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334792",
+      "title": "Using multiple data sources to explore disease transmission risk between commercial poultry, backyard poultry, and wild birds in New Zealand",
+      "year": 2021,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2021.105327",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2021.105327"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334793",
+      "title": "Whole-genome sequencing and ad hoc shared genome analysis of Staphylococcus aureus isolates from a New Zealand primary school",
+      "year": 2021,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-021-99080-8",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-021-99080-8"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334750",
+      "title": "“We have been warned”—preparing now to prevent the next pandemic",
+      "year": 2021,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334830",
+      "title": "A Review of Potential Public Health Impacts Associated With the Global Dairy Sector",
+      "year": 2020,
+      "venue": "GeoHealth",
+      "doi": "10.1029/2019GH000213",
+      "openAccessUrl": "https://doi.org/10.1029/2019GH000213"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334843",
+      "title": "A large scale waterborne Campylobacteriosis outbreak, Havelock North, New Zealand",
+      "year": 2020,
+      "venue": "Journal of Infection",
+      "doi": "10.1016/j.jinf.2020.06.065",
+      "openAccessUrl": "https://doi.org/10.1016/j.jinf.2020.06.065"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334824",
+      "title": "Bayesian inference for multistrain epidemics with application to escherichia coli o157:H7 in feedlot cattle",
+      "year": 2020,
+      "venue": "Annals of Applied Statistics",
+      "doi": "10.1214/20-AOAS1366",
+      "openAccessUrl": "https://doi.org/10.1214/20-AOAS1366"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334836",
+      "title": "COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study",
+      "year": 2020,
+      "venue": "The Lancet Public Health",
+      "doi": "10.1016/S2468-2667(20)30225-5",
+      "openAccessUrl": "https://doi.org/10.1016/S2468-2667(20)30225-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334752",
+      "title": "COVID-19: Another infectious disease emerging at the animal-human interface",
+      "year": 2020,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334841",
+      "title": "Campylobacter novaezeelandiae sp. nov., isolated from birds and water in New Zealand",
+      "year": 2020,
+      "venue": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/IJSEM.0.004231",
+      "openAccessUrl": "https://doi.org/10.1099/IJSEM.0.004231"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334787",
+      "title": "Carriage of Extended-Spectrum-Beta-Lactamase- and AmpC Beta-Lactamase-Producing Escherichia coli Strains from Humans and Pets in the Same Households",
+      "year": 2020,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.1613-20",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.1613-20"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334798",
+      "title": "Does land use affect pathogen presence in New Zealand drinking water supplies?",
+      "year": 2020,
+      "venue": "Water Research",
+      "doi": "10.1016/j.watres.2020.116229",
+      "openAccessUrl": "https://doi.org/10.1016/j.watres.2020.116229"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334796",
+      "title": "Estimating the level of disease risk and biosecurity on commercial poultry farms in New Zealand",
+      "year": 2020,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2020.1746208",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2020.1746208"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334777",
+      "title": "Genomic epidemiology and carbon metabolism of Escherichia coli serogroup O145 reflect contrasting phylogenies",
+      "year": 2020,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0235066",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0235066"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334760",
+      "title": "Genomic epidemiology reveals transmission patterns and dynamics of SARS-CoV-2 in Aotearoa New Zealand",
+      "year": 2020,
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-020-20235-8",
+      "openAccessUrl": "https://doi.org/10.1038/s41467-020-20235-8"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334815",
+      "title": "Genomic epidemiology reveals transmission patterns and dynamics of SARS-CoV-2 in Aotearoa New Zealand",
+      "year": 2020,
+      "venue": "medRxiv",
+      "doi": "10.1101/2020.08.05.20168930",
+      "openAccessUrl": "https://doi.org/10.1101/2020.08.05.20168930"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334768",
+      "title": "Laboratory Study on the Gastroenteritis Outbreak Caused by a Multidrug-Resistant Campylobacter coli in China",
+      "year": 2020,
+      "venue": "Foodborne Pathogens and Disease",
+      "doi": "10.1089/fpd.2019.2681",
+      "openAccessUrl": "https://doi.org/10.1089/fpd.2019.2681"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334785",
+      "title": "Meat safety in tanzania’s value chain: Experiences, explanations and expectations in butcheries and eateries",
+      "year": 2020,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph17082833",
+      "openAccessUrl": "https://doi.org/10.3390/ijerph17082833"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334800",
+      "title": "Phylogenomic reconstruction sheds light on new relationships and timescale of rails (Aves: Rallidae) evolution",
+      "year": 2020,
+      "venue": "Diversity",
+      "doi": "10.3390/d12020070",
+      "openAccessUrl": "https://doi.org/10.3390/d12020070"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334751",
+      "title": "Politicians: please work together to minimise the spread of COVID-19",
+      "year": 2020,
+      "venue": "The New Zealand medical journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334833",
+      "title": "Prevalence of Campylobacter and Salmonella in African food animals and meat: A systematic review and meta-analysis",
+      "year": 2020,
+      "venue": "International Journal of Food Microbiology",
+      "doi": "10.1016/j.ijfoodmicro.2019.108382",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijfoodmicro.2019.108382"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334790",
+      "title": "Reply to baba and kanamori",
+      "year": 2020,
+      "venue": "Clinical Infectious Diseases",
+      "doi": "10.1093/cid/ciz1102",
+      "openAccessUrl": "https://doi.org/10.1093/cid/ciz1102"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334776",
+      "title": "Species and genotypes causing human cryptosporidiosis in New Zealand",
+      "year": 2020,
+      "venue": "Parasitology Research",
+      "doi": "10.1007/s00436-020-06729-w",
+      "openAccessUrl": "https://doi.org/10.1007/s00436-020-06729-w"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334782",
+      "title": "The power and limitations of genomics to track COVID-19 outbreaks: A case study from New Zealand",
+      "year": 2020,
+      "venue": "medRxiv",
+      "doi": "10.1101/2020.10.28.20221853",
+      "openAccessUrl": "https://doi.org/10.1101/2020.10.28.20221853"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334838",
+      "title": "Unravelling the Impact of Environmental Drivers on Infectious Diseases: The Case of Campylobacter.",
+      "year": 2020,
+      "venue": "SSRN",
+      "doi": "10.2139/ssrn.3680603",
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.3680603"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334848",
+      "title": "Bayesian ancestral state reconstruction models for investigating Salmonella outbreaks",
+      "year": 2019,
+      "venue": "bioRxiv",
+      "doi": "10.1101/574087",
+      "openAccessUrl": "https://doi.org/10.1101/574087"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334839",
+      "title": "Campylobacter jejuni strains associated with wild birds and those causing human disease in six high-use recreational waterways in New Zealand",
+      "year": 2019,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.01228-19",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.01228-19"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/56854201",
+      "title": "Combining MALDI-TOF and genomics in the study of methicillin resistant and multidrug resistant Staphylococcus pseudintermedius in New Zealand",
+      "year": 2019,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-018-37503-9",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-018-37503-9"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334809",
+      "title": "Draft whole-genome sequences of Campylobacter strains isolated from brushtail possums in New Zealand",
+      "year": 2019,
+      "venue": "Microbiology Resource Announcements",
+      "doi": "10.1128/MRA.01276-19",
+      "openAccessUrl": "https://doi.org/10.1128/MRA.01276-19"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334818",
+      "title": "Draft whole-genome sequences of three isolates of a novel strain of a Campylobacter sp. Isolated from New Zealand birds and water",
+      "year": 2019,
+      "venue": "Microbiology Resource Announcements",
+      "doi": "10.1128/MRA.00258-19",
+      "openAccessUrl": "https://doi.org/10.1128/MRA.00258-19"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571675",
+      "title": "Extended-spectrum beta-lactamase-producing enterobacteriaceae in dairy farm environments: A New Zealand perspective",
+      "year": 2019,
+      "venue": "Foodborne Pathogens and Disease",
+      "doi": "10.1089/fpd.2018.2524",
+      "openAccessUrl": "https://doi.org/10.1089/fpd.2018.2524"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/56854200",
+      "title": "Extending statistical models for source attribution of zoonotic diseases: A study of campylobacteriosis",
+      "year": 2019,
+      "venue": "Journal of the Royal Society Interface",
+      "doi": "10.1098/rsif.2018.0534",
+      "openAccessUrl": "https://doi.org/10.1098/rsif.2018.0534"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334770",
+      "title": "Genomic analysis of fluoroquinolone- And tetracycline-resistant campylobacter jejuni sequence type 6964 in humans and poultry, New Zealand, 2014-2016",
+      "year": 2019,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2512.190267",
+      "openAccessUrl": "https://doi.org/10.3201/eid2512.190267"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/56854197",
+      "title": "Genomic correlates of extraintestinal infection are linked with changes in cell morphology in Campylobacter jejuni",
+      "year": 2019,
+      "venue": "Microbial Genomics",
+      "doi": "10.1099/mgen.0.000251",
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.000251"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334759",
+      "title": "Investigation of the validity of two Bayesian ancestral state reconstruction models for estimating Salmonella transmission during outbreaks",
+      "year": 2019,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0214169",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0214169"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334783",
+      "title": "Phylogeographic Analysis Reveals Multiple International transmission Events Have Driven the Global Emergence of Escherichia coli O157:H7",
+      "year": 2019,
+      "venue": "Clinical Infectious Diseases",
+      "doi": "10.1093/cid/ciy919",
+      "openAccessUrl": "https://doi.org/10.1093/cid/ciy919"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/56854198",
+      "title": "Use of genomics to investigate historical importation of shiga toxin-producing Escherichia coli serogroup O26 and nontoxigenic variants into New Zealand",
+      "year": 2019,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2503.180899",
+      "openAccessUrl": "https://doi.org/10.3201/eid2503.180899"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334840",
+      "title": "Whole-genome sequencing of salmonella Mississippi and typhimurium definitive type 160, Australia and New Zealand",
+      "year": 2019,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2509.181811",
+      "openAccessUrl": "https://doi.org/10.3201/eid2509.181811"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571670",
+      "title": "A Bayesian spatio-temporal framework to identify outbreaks and examine environmental and social risk factors for infectious diseases monitored by routine surveillance",
+      "year": 2018,
+      "venue": "Spatial and Spatio-temporal Epidemiology",
+      "doi": "10.1016/j.sste.2017.10.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.sste.2017.10.004"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571687",
+      "title": "A review of methods for assessing the environmental health impacts of an agricultural system",
+      "year": 2018,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph15071315",
+      "openAccessUrl": "https://doi.org/10.3390/ijerph15071315"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571692",
+      "title": "Brushtail possum (Trichosurus vulpecula) social interactions and their implications for bovine tuberculosis epidemiology",
+      "year": 2018,
+      "venue": "Behaviour",
+      "doi": "10.1163/1568539X-00003512",
+      "openAccessUrl": "https://doi.org/10.1163/1568539X-00003512"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571683",
+      "title": "Draft wholegenome sequences of three diarrheagenic Escherichia coli strains isolated from farmed deer in New Zealand",
+      "year": 2018,
+      "venue": "Genome Announcements",
+      "doi": "10.1128/genomeA.00300-18",
+      "openAccessUrl": "https://doi.org/10.1128/genomeA.00300-18"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571678",
+      "title": "Exposure to whole chicken carcasses may present a greater risk of campylobacteriosis compared to exposure to chicken drumsticks",
+      "year": 2018,
+      "venue": "Zoonoses and Public Health",
+      "doi": "10.1111/zph.12505",
+      "openAccessUrl": "https://doi.org/10.1111/zph.12505"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571674",
+      "title": "Genome-by-genome approach for fast bacterial genealogical relationship evaluation",
+      "year": 2018,
+      "venue": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/bty195",
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/bty195"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571693",
+      "title": "Habitat fragmentation, biodiversity loss and the risk of novel infectious disease emergence",
+      "year": 2018,
+      "venue": "Journal of the Royal Society Interface",
+      "doi": "10.1098/rsif.2018.0403",
+      "openAccessUrl": "https://doi.org/10.1098/rsif.2018.0403"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571672",
+      "title": "Identification and characterization of two novel superantigens among Staphylococcus aureus complex",
+      "year": 2018,
+      "venue": "International Journal of Medical Microbiology",
+      "doi": "10.1016/j.ijmm.2018.03.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijmm.2018.03.002"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571691",
+      "title": "Long-term colonization by campylobacter jejuni within a human host: Evolution, antimicrobial resistance, and adaptation",
+      "year": 2018,
+      "venue": "Journal of Infectious Diseases",
+      "doi": "10.1093/infdis/jix561",
+      "openAccessUrl": "https://doi.org/10.1093/infdis/jix561"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571673",
+      "title": "Molecular epidemiology of Shiga toxinproducing Escherichia coli (STEC) on New Zealand dairy farms: Application of a culture-independent assay and whole-genome sequencing",
+      "year": 2018,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.00481-18",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.00481-18"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571668",
+      "title": "The effect of transportation and lairage on faecal shedding and carcass contamination with Escherichia coli O157 and O26 in very young calves in New Zealand",
+      "year": 2018,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268818000973",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268818000973"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571695",
+      "title": "Updating the genomic taxonomy and epidemiology of Campylobacter hyointestinalis",
+      "year": 2018,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-018-20889-x",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-018-20889-x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000337",
+      "title": "A One Health future to meet the AMR challenge?",
+      "year": 2017,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2016.1270651",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2016.1270651"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571688",
+      "title": "Characterisation by multilocus sequence and porA and flaA typing of Campylobacter jejuni isolated from samples of dog faeces collected in one city in New Zealand",
+      "year": 2017,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2017.1311810",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2017.1311810"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571685",
+      "title": "Complete genome sequence of Campylobacter concisus ATCC 33237<sup>T</sup> and draft genome sequences for an additional eight well-characterized C. concisus strains",
+      "year": 2017,
+      "venue": "Genome Announcements",
+      "doi": "10.1128/genomeA.00711-17",
+      "openAccessUrl": "https://doi.org/10.1128/genomeA.00711-17"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571676",
+      "title": "Cost-benefit analyses of supplementary measles immunisation in the highly immunized population of New Zealand",
+      "year": 2017,
+      "venue": "Vaccine",
+      "doi": "10.1016/j.vaccine.2017.07.077",
+      "openAccessUrl": "https://doi.org/10.1016/j.vaccine.2017.07.077"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000417",
+      "title": "Culture independent analysis using gnd as a target gene to assess Escherichia coli diversity and community structure",
+      "year": 2017,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-017-00890-6",
+      "openAccessUrl": "https://doi.org/10.1038/s41598-017-00890-6"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571664",
+      "title": "Design considerations for observational studies",
+      "year": 2017,
+      "venue": "Veterinary Epidemiology: Fourth Edition",
+      "doi": "10.1002/9781118280249.ch16",
+      "openAccessUrl": "https://doi.org/10.1002/9781118280249.ch16"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000301",
+      "title": "Epidemiology of Escherichia coli serogroups O26, O103, O111 and O145 in very young ('bobby') calves in the North Island, New Zealand",
+      "year": 2017,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268817000401",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268817000401"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000354",
+      "title": "Genomic Epidemiology and Management of Salmonella in Island Ecosystems Used for Takahe Conservation",
+      "year": 2017,
+      "venue": "Microbial Ecology",
+      "doi": "10.1007/s00248-017-0959-1",
+      "openAccessUrl": "https://doi.org/10.1007/s00248-017-0959-1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571680",
+      "title": "Genomic analysis of salmonella enterica serovar Typhimurium DT160 associated with a 14-year outbreak, New Zealand, 1998–2012",
+      "year": 2017,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2306.161934",
+      "openAccessUrl": "https://doi.org/10.3201/eid2306.161934"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000449",
+      "title": "Global importation and population risk factors for measles in New Zealand: A case study for highly immunized populations",
+      "year": 2017,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268817000723",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268817000723"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571677",
+      "title": "Inferring ancestral recombination graphs from bacterial genomic data",
+      "year": 2017,
+      "venue": "Genetics",
+      "doi": "10.1534/genetics.116.193425",
+      "openAccessUrl": "https://doi.org/10.1534/genetics.116.193425"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571681",
+      "title": "Investigating brushtail possum (Trichosurus vulpecula) home-range size determinants in a New Zealand native forest",
+      "year": 2017,
+      "venue": "Wildlife Research",
+      "doi": "10.1071/WR16215",
+      "openAccessUrl": "https://doi.org/10.1071/WR16215"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571694",
+      "title": "Local and global genetic diversity of protozoan parasites: Spatial distribution of Cryptosporidium and Giardia genotypes",
+      "year": 2017,
+      "venue": "PLoS Neglected Tropical Diseases",
+      "doi": "10.1371/journal.pntd.0005736",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pntd.0005736"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000275",
+      "title": "Multidrug resistant Enterobacteriaceae in New Zealand: a current perspective",
+      "year": 2017,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2016.1269621",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2016.1269621"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571661",
+      "title": "Validity in epidemiological studies",
+      "year": 2017,
+      "venue": "Veterinary Epidemiology: Fourth Edition",
+      "doi": "10.1002/9781118280249.ch18",
+      "openAccessUrl": "https://doi.org/10.1002/9781118280249.ch18"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571665",
+      "title": "Veterinary Epidemiology: Fourth Edition",
+      "year": 2017,
+      "venue": "Veterinary Epidemiology: Fourth Edition",
+      "doi": "10.1002/9781118280249",
+      "openAccessUrl": "https://doi.org/10.1002/9781118280249"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571679",
+      "title": "sourceR: Classification and source attribution of infectious agents among heterogeneous populations",
+      "year": 2017,
+      "venue": "PLoS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1005564",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1005564"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/176334813",
+      "title": "sourceR: Classification and source attribution of infectious agents among heterogeneous populations",
+      "year": 2017,
+      "venue": "arXiv",
+      "doi": "10.48550/arxiv.1702.07422",
+      "openAccessUrl": "https://doi.org/10.48550/arxiv.1702.07422"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000308",
+      "title": "Cryptosporidiosis Risk in New Zealand Children Under 5 Years Old is Greatest in Areas with High Dairy Cattle Densities",
+      "year": 2016,
+      "venue": "EcoHealth",
+      "doi": "10.1007/s10393-016-1187-8",
+      "openAccessUrl": "https://doi.org/10.1007/s10393-016-1187-8"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000382",
+      "title": "Diversity and relatedness of Shiga toxin-producing Escherichia coli and Campylobacter jejuni between farms in a dairy catchment",
+      "year": 2016,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268815002782",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268815002782"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000463",
+      "title": "Estimating bacterial pathogen levels in New Zealand bulk tank milk",
+      "year": 2016,
+      "venue": "Journal of Food Protection",
+      "doi": "10.4315/0362-028X.JFP-15-230",
+      "openAccessUrl": "https://doi.org/10.4315/0362-028X.JFP-15-230"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000409",
+      "title": "Genomic insights into a sustained national outbreak of yersinia pseudotuberculosis",
+      "year": 2016,
+      "venue": "Genome Biology and Evolution",
+      "doi": "10.1093/gbe/evw285",
+      "openAccessUrl": "https://doi.org/10.1093/gbe/evw285"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000361",
+      "title": "Microbial Genomics of a Host-Associated Commensal Bacterium in Fragmented Populations of Endangered Takahe",
+      "year": 2016,
+      "venue": "Microbial Ecology",
+      "doi": "10.1007/s00248-015-0721-5",
+      "openAccessUrl": "https://doi.org/10.1007/s00248-015-0721-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000356",
+      "title": "Molecular epidemiology of Campylobacter coli strains isolated from different sources in New Zealand between 2005 and 2014",
+      "year": 2016,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.00934-1",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.00934-1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000408",
+      "title": "Nationwide prevalence and risk factors for faecal carriage of Escherichia coli O157 and O26 in very young calves and adult cattle at slaughter in New Zealand",
+      "year": 2016,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268815003209",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268815003209"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000447",
+      "title": "Network analysis of wildlife translocations in New Zealand",
+      "year": 2016,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2015.1110065",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2015.1110065"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000437",
+      "title": "Seasonality of Campylobacter jejuni isolates associated with human campylobacteriosis in the Manawatu region, New Zealand",
+      "year": 2016,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268815002009",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268815002009"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000402",
+      "title": "Sex difference in the survival rate of wild brushtail possums (Trichosurus vulpecula) experimentally challenged with bovine tuberculosis",
+      "year": 2016,
+      "venue": "Research in Veterinary Science",
+      "doi": "10.1016/j.rvsc.2016.05.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.rvsc.2016.05.008"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000292",
+      "title": "Spatial and temporal variation in the association between temperature and salmonellosis in NZ",
+      "year": 2016,
+      "venue": "Australian and New Zealand Journal of Public Health",
+      "doi": "10.1111/1753-6405.12413",
+      "openAccessUrl": "https://doi.org/10.1111/1753-6405.12413"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000419",
+      "title": "'Super' or just 'above average'? Supershedders and the transmission of Escherichia coli O157:H7 among feedlot cattle",
+      "year": 2015,
+      "venue": "Journal of the Royal Society Interface",
+      "doi": "10.1098/rsif.2015.0446",
+      "openAccessUrl": "https://doi.org/10.1098/rsif.2015.0446"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000472",
+      "title": "Cross sectional study of prevalence, genetic diversity and zoonotic potential of Cryptosporidium parvum cycling in New Zealand dairy farms",
+      "year": 2015,
+      "venue": "Parasites and Vectors",
+      "doi": "10.1186/s13071-015-0855-9",
+      "openAccessUrl": "https://doi.org/10.1186/s13071-015-0855-9"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000369",
+      "title": "Environmental change and enteric zoonoses in New Zealand: A systematic review of the evidence",
+      "year": 2015,
+      "venue": "Australian and New Zealand Journal of Public Health",
+      "doi": "10.1111/1753-6405.12274",
+      "openAccessUrl": "https://doi.org/10.1111/1753-6405.12274"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000366",
+      "title": "Estimating the relative rate of recombination to mutation in bacteria from single-locus variants using composite likelihood methods",
+      "year": 2015,
+      "venue": "Annals of Applied Statistics",
+      "doi": "10.1214/14-AOAS795",
+      "openAccessUrl": "https://doi.org/10.1214/14-AOAS795"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000313",
+      "title": "Evaluation of the representativeness of a sentinel surveillance site for campylobacteriosis",
+      "year": 2015,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268814003173",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268814003173"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000316",
+      "title": "Investigation of mortalities associated with Salmonella spp. infection in wildlife on Tiritiri Matangi Island in the Hauraki Gulf of New Zealand",
+      "year": 2015,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2014.990065",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2014.990065"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000220",
+      "title": "Missing in action: An antimicrobial resistance strategy for New Zealand",
+      "year": 2015,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000411",
+      "title": "Molecular approaches to understanding transmission and source attribution in nontyphoidal salmonella and their application in Africa",
+      "year": 2015,
+      "venue": "Clinical Infectious Diseases",
+      "doi": "10.1093/cid/civ727",
+      "openAccessUrl": "https://doi.org/10.1093/cid/civ727"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000345",
+      "title": "Prevalence of Streptococcus dysgalactiae subsp. equisimilis and S. equi subsp. zooepidemicus in a sample of healthy dogs, cats and horses",
+      "year": 2015,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2015.1016133",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2015.1016133"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000460",
+      "title": "Prevalence of endemic enteropathogens of calves in New Zealand dairy farms",
+      "year": 2015,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2014.966168",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2014.966168"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000473",
+      "title": "Risk factors for neonatal calf diarrhoea and enteropathogen shedding in New Zealand dairy farms",
+      "year": 2015,
+      "venue": "Veterinary Journal",
+      "doi": "10.1016/j.tvjl.2015.01.010",
+      "openAccessUrl": "https://doi.org/10.1016/j.tvjl.2015.01.010"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000341",
+      "title": "Using a common commensal bacterium in endangered Takahe as a model to explore pathogen dynamics in isolated wildlife populations",
+      "year": 2015,
+      "venue": "Conservation Biology",
+      "doi": "10.1111/cobi.12521",
+      "openAccessUrl": "https://doi.org/10.1111/cobi.12521"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000318",
+      "title": "Whole Genome Sequencing demonstrates that Geographic Variation of Escherichia coli O157 Genotypes Dominates Host Association",
+      "year": 2015,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/srep14145",
+      "openAccessUrl": "https://doi.org/10.1038/srep14145"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571663",
+      "title": "Bacteria: Campylobacter",
+      "year": 2014,
+      "venue": "Encyclopedia of Food Safety",
+      "doi": "10.1016/B978-0-12-378612-8.00089-5",
+      "openAccessUrl": "https://doi.org/10.1016/B978-0-12-378612-8.00089-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000436",
+      "title": "Campylobacteriosis in returning travellers and potential secondary transmission of exotic strains",
+      "year": 2014,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268813002069",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268813002069"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000454",
+      "title": "Distribution of Escherichia coli strains harbouring Shiga toxin-producing E. Coli (STEC)-associated virulence factors (stx1, stx2, eae, ehxA) from very young calves in the North Island of New Zealand",
+      "year": 2014,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268814000089",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268814000089"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000438",
+      "title": "Erratum: Application of molecular epidemiology to understanding campylobacteriosis in the Canterbury region of New Zealand (Epidemiology and Infection (2012))",
+      "year": 2014,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268813003282",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268813003282"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000457",
+      "title": "Exploiting the explosion of information associated with whole genome sequencing to tackle Shiga toxin-producing Escherichia coli (STEC) in global food production systems",
+      "year": 2014,
+      "venue": "International Journal of Food Microbiology",
+      "doi": "10.1016/j.ijfoodmicro.2014.07.002",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijfoodmicro.2014.07.002"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000284",
+      "title": "Geographic divergence of bovine and human Shiga toxin–producing Escherichia coli O157:H7 genotypes, New Zealand",
+      "year": 2014,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid2012.140281",
+      "openAccessUrl": "https://doi.org/10.3201/eid2012.140281"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000398",
+      "title": "Infections with multiple Cryptosporidium species and new genetic variants in young dairy calves on a farm located within a drinking water catchment area in New Zealand",
+      "year": 2014,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/j.vetpar.2014.03.034",
+      "openAccessUrl": "https://doi.org/10.1016/j.vetpar.2014.03.034"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000276",
+      "title": "Network analysis of translocated takahe populations to identify disease surveillance targets",
+      "year": 2014,
+      "venue": "Conservation Biology",
+      "doi": "10.1111/cobi.12178",
+      "openAccessUrl": "https://doi.org/10.1111/cobi.12178"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000281",
+      "title": "Quantification of historical livestock importation into New Zealand 1860–1979",
+      "year": 2014,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2014.914861",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2014.914861"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000310",
+      "title": "Semi-automatic selection of summary statistics for ABC model choice",
+      "year": 2014,
+      "venue": "Statistical Applications in Genetics and Molecular Biology",
+      "doi": "10.1515/sagmb-2013-0012",
+      "openAccessUrl": "https://doi.org/10.1515/sagmb-2013-0012"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000406",
+      "title": "Temporal and farm-management-Associated variation in faecal-pat prevalence of Campylobacter fetus in sheep and cattle",
+      "year": 2014,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268813002379",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268813002379"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000392",
+      "title": "Temporal and farm-management-associated variation in faecal pat prevalence of Arcobacter spp. in ruminants",
+      "year": 2014,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S095026881300160X",
+      "openAccessUrl": "https://doi.org/10.1017/S095026881300160X"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000395",
+      "title": "A cluster of avian malaria cases in a kiwi management programme",
+      "year": 2013,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2012.736130",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2012.736130"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000387",
+      "title": "A prospective case-control and molecular epidemiological study of human cases of Shiga toxin-producing Escherichia coli in New Zealand",
+      "year": 2013,
+      "venue": "BMC Infectious Diseases",
+      "doi": "10.1186/1471-2334-13-450",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2334-13-450"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000297",
+      "title": "Application of molecular epidemiology to understanding campylobacteriosis in the Canterbury region of New Zealand",
+      "year": 2013,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268812001719",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268812001719"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000440",
+      "title": "Campylobacter jejuni colonization and population structure in urban populations of ducks and starlings in New Zealand",
+      "year": 2013,
+      "venue": "MicrobiologyOpen",
+      "doi": "10.1002/mbo3.102",
+      "openAccessUrl": "https://doi.org/10.1002/mbo3.102"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000400",
+      "title": "Climate variability, weather and enteric disease incidence in New Zealand: Time series analysis",
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0083484",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0083484"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000381",
+      "title": "First detection of Chlamydia psittaci from a wild native passerine bird in New Zealand",
+      "year": 2013,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2012.740656",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2012.740656"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000300",
+      "title": "Increased risk for Campylobacter jejuni and C. coli infection of pet origin in dog owners and evidence for genetic association between strains causing infection in humans and their pets",
+      "year": 2013,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268813000356",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268813000356"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000253",
+      "title": "Molecular-based surveillance of campylobacteriosis in New Zealand - From source attribution to genomic epidemiology",
+      "year": 2013,
+      "venue": "Eurosurveillance"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000331",
+      "title": "PCR revisited: A case for revalidation of PCR assays for microorganisms using identification of Campylobacter species as an exemplar",
+      "year": 2013,
+      "venue": "Quality Assurance and Safety of Crops and Foods",
+      "doi": "10.3920/QAS2012.0158",
+      "openAccessUrl": "https://doi.org/10.3920/QAS2012.0158"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000349",
+      "title": "Potential effects of global environmental changes on cryptosporidiosis and giardiasis transmission",
+      "year": 2013,
+      "venue": "Trends in Parasitology",
+      "doi": "10.1016/j.pt.2012.10.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.pt.2012.10.005"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000432",
+      "title": "Practicalities of Using Non-Local or Non-Recent Multilocus Sequence Typing Data for Source Attribution in Space and Time of Human Campylobacteriosis",
+      "year": 2013,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0055029",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0055029"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000403",
+      "title": "Preventing campylobacter at the source: Why is it so difficult?",
+      "year": 2013,
+      "venue": "Clinical Infectious Diseases",
+      "doi": "10.1093/cid/cit555",
+      "openAccessUrl": "https://doi.org/10.1093/cid/cit555"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000357",
+      "title": "Progressive genome-wide introgression in agricultural Campylobacter coli",
+      "year": 2013,
+      "venue": "Molecular Ecology",
+      "doi": "10.1111/mec.12162",
+      "openAccessUrl": "https://doi.org/10.1111/mec.12162"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000399",
+      "title": "Risk factors for campylobacteriosis in two washington state counties with high numbers of dairy farms",
+      "year": 2013,
+      "venue": "Journal of Clinical Microbiology",
+      "doi": "10.1128/JCM.01433-13",
+      "openAccessUrl": "https://doi.org/10.1128/JCM.01433-13"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000420",
+      "title": "The effect of interruptions during training on the time to the first trial and race start in Thoroughbred racehorses",
+      "year": 2013,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2012.08.010",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2012.08.010"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000425",
+      "title": "Utility of halofuginone lactate for the prevention of natural cryptosporidiosis of calves, in the presence of co-infection with rotavirus and Salmonella Typhimurium",
+      "year": 2013,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/j.vetpar.2013.04.029",
+      "openAccessUrl": "https://doi.org/10.1016/j.vetpar.2013.04.029"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000364",
+      "title": "A Framework for the Joint Modeling of Longitudinal Diagnostic Outcome Data and Latent Infection Status: Application to Investigating the Temporal Relationship between Infection and Disease",
+      "year": 2012,
+      "venue": "Biometrics",
+      "doi": "10.1111/j.1541-0420.2011.01687.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1541-0420.2011.01687.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000423",
+      "title": "Associations between yearling exercise and interruptions during race training in Thoroughbred racehorses",
+      "year": 2012,
+      "venue": "American Journal of Veterinary Research",
+      "doi": "10.2460/ajvr.73.10.1610",
+      "openAccessUrl": "https://doi.org/10.2460/ajvr.73.10.1610"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000315",
+      "title": "Descriptive epidemiological study of the use of antimicrobial drugs by companion animal veterinarians in New Zealand",
+      "year": 2012,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2011.643733",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2011.643733"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000376",
+      "title": "Epidemiology of Shiga toxin-producing Escherichia coli O157 in very young calves in the North Island of New Zealand",
+      "year": 2012,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2011.627063",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2011.627063"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000388",
+      "title": "Estimating the relative roles of recombination and point mutation in the generation of single locus variants in Campylobacter jejuni and Campylobacter coli",
+      "year": 2012,
+      "venue": "Journal of Molecular Evolution",
+      "doi": "10.1007/s00239-012-9505-4",
+      "openAccessUrl": "https://doi.org/10.1007/s00239-012-9505-4"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000383",
+      "title": "Exercise in Thoroughbred yearlings during sales preparation: A cohort study",
+      "year": 2012,
+      "venue": "Equine Veterinary Journal",
+      "doi": "10.1111/j.2042-3306.2011.00370.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.2042-3306.2011.00370.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000371",
+      "title": "Risk factors for campylobacteriosis of chicken, ruminant, and environmental origin: A combined case-control and source attribution analysis",
+      "year": 2012,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0042599",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0042599"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000451",
+      "title": "Risk factors for interruptions to training occurring before the first trial start of 2-year-old Thoroughbred racehorses",
+      "year": 2012,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2012.673163",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2012.673163"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000293",
+      "title": "Seasonality in human zoonotic enteric diseases: A systematic review",
+      "year": 2012,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0031883",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0031883"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000302",
+      "title": "Spatiosurvival analysis of mortality on smallholder dairy farms in Tanga and Iringa regions of Tanzania",
+      "year": 2012,
+      "venue": "Tropical Animal Health and Production",
+      "doi": "10.1007/s11250-011-9974-2",
+      "openAccessUrl": "https://doi.org/10.1007/s11250-011-9974-2"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000377",
+      "title": "The epidemiology of human salmonellosis in New Zealand, 1997-2008",
+      "year": 2012,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268811002470",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268811002470"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000295",
+      "title": "The spatial and temporal determinants of campylobacteriosis notifications in New Zealand, 2001-2007",
+      "year": 2012,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268811002159",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268811002159"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000474",
+      "title": "Variation in stress resistance patterns among stx genotypes and genetic lineages of shiga toxin-producing Escherichia coli O157",
+      "year": 2012,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.06646-11",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.06646-11"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000368",
+      "title": "Genomic variations define divergence of water/wildlife-associated Campylobacter jejuni niche specialists from common clonal complexes",
+      "year": 2011,
+      "venue": "Environmental Microbiology",
+      "doi": "10.1111/j.1462-2920.2011.02461.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1462-2920.2011.02461.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000212",
+      "title": "Keep the focus on contaminated poultry to further curtail New Zealand's campylobacteriosis epidemic",
+      "year": 2011,
+      "venue": "New Zealand Medical Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000422",
+      "title": "Marked campylobacteriosis decline after interventions aimed at poultry, New Zealand",
+      "year": 2011,
+      "venue": "Emerging Infectious Diseases",
+      "doi": "10.3201/eid1706.101272",
+      "openAccessUrl": "https://doi.org/10.3201/eid1706.101272"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000307",
+      "title": "Molecular epidemiology and genetic diversity of Campylobacter jejuni in ruminants",
+      "year": 2011,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268810002736",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268810002736"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000304",
+      "title": "Multivariate analyses revealed distinctive features differentiating human and cattle isolates of shiga toxin-producing Escherichia coli O157 in Japan",
+      "year": 2011,
+      "venue": "Journal of Clinical Microbiology",
+      "doi": "10.1128/JCM.02640-10",
+      "openAccessUrl": "https://doi.org/10.1128/JCM.02640-10"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000309",
+      "title": "Multivariate analyses revealed distinctive features differentiating human and cattle isolates of shiga toxin-producing Escherichia coli O157 in Japan (Journal of Clinical Microbiology (2011) 49, 4, (1495-1500))",
+      "year": 2011,
+      "venue": "Journal of Clinical Microbiology",
+      "doi": "10.1128/JCM.00661-11",
+      "openAccessUrl": "https://doi.org/10.1128/JCM.00661-11"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000407",
+      "title": "Spatio-temporal analyses of highly pathogenic avian influenza H5N1 outbreaks in the Mekong River Delta, Vietnam, 2009",
+      "year": 2011,
+      "venue": "Spatial and Spatio-temporal Epidemiology",
+      "doi": "10.1016/j.sste.2010.11.001",
+      "openAccessUrl": "https://doi.org/10.1016/j.sste.2010.11.001"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000443",
+      "title": "The detection of spatially localised outbreaks in campylobacteriosis notification data",
+      "year": 2011,
+      "venue": "Spatial and Spatio-temporal Epidemiology",
+      "doi": "10.1016/j.sste.2011.07.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.sste.2011.07.008"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000442",
+      "title": "The integration of molecular tools into veterinary and spatial epidemiology",
+      "year": 2011,
+      "venue": "Spatial and Spatio-temporal Epidemiology",
+      "doi": "10.1016/j.sste.2011.07.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.sste.2011.07.005"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000455",
+      "title": "The prevalence of antimicrobial-resistant Escherichia coli in sympatric wild rodents varies by season and host",
+      "year": 2011,
+      "venue": "Journal of Applied Microbiology",
+      "doi": "10.1111/j.1365-2672.2011.04952.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2672.2011.04952.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000277",
+      "title": "Utilizing a combination of molecular and spatial tools to assess the effect of a public health intervention",
+      "year": 2011,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2011.07.011",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2011.07.011"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000456",
+      "title": "Whole-genome comparison of two campylobacter jejuni isolates of the same sequence type reveals multiple loci of different ancestral lineage",
+      "year": 2011,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0027121",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0027121"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000462",
+      "title": "Bayesian zero-inflated predictive modelling of herd-level salmonella prevalence for risk-based surveillance",
+      "year": 2010,
+      "venue": "Zoonoses and Public Health",
+      "doi": "10.1111/j.1863-2378.2010.01355.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1863-2378.2010.01355.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000329",
+      "title": "Binary genomotyping using lipooligosaccharide biosynthesis genes distinguishes between Campylobacter jejuni isolates within poultry-associated multilocus sequence types",
+      "year": 2010,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268809991075",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268809991075"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000339",
+      "title": "Biofilm formation by Campylobacter jejuni in controlled mixed-microbial populations",
+      "year": 2010,
+      "venue": "International Journal of Food Microbiology",
+      "doi": "10.1016/j.ijfoodmicro.2010.07.037",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijfoodmicro.2010.07.037"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000289",
+      "title": "Diverse genetic markers concordantly identify bovine origin Escherichia coli O157 genotypes underrepresented in human disease",
+      "year": 2010,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.01761-09",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.01761-09"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000298",
+      "title": "Evidence for the clustering of antibacterial resistance phenotypes of enterococci within integrated poultry companies",
+      "year": 2010,
+      "venue": "Microbial Ecology",
+      "doi": "10.1007/s00248-009-9625-6",
+      "openAccessUrl": "https://doi.org/10.1007/s00248-009-9625-6"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000319",
+      "title": "Low levels of antibacterial drug resistance expressed by Gram-negative bacteria isolated from poultry carcasses in New Zealand",
+      "year": 2010,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2010.69297",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2010.69297"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000305",
+      "title": "Molecular and serological analysis of the epidemiology of myxoma virus in rabbits",
+      "year": 2010,
+      "venue": "Veterinary Microbiology",
+      "doi": "10.1016/j.vetmic.2009.11.025",
+      "openAccessUrl": "https://doi.org/10.1016/j.vetmic.2009.11.025"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000445",
+      "title": "Molecular and spatial epidemiology of human campylobacteriosis: Source association and genotype-related risk factors",
+      "year": 2010,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268809991579",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268809991579"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000384",
+      "title": "Molecular epidemiology of campylobacter jejuni in a geographically isolated country with a uniquely structured poultry industry",
+      "year": 2010,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.00862-09",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.00862-09"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000464",
+      "title": "Patterns of contact within the New Zealand poultry industry",
+      "year": 2010,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2010.04.009",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2010.04.009"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000278",
+      "title": "Quantifying risk factors for human brucellosis in Rural Northern Tanzania",
+      "year": 2010,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0009968",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0009968"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000321",
+      "title": "Systematic review of causes and factors associated with morbidity and mortality on smallholder dairy farms in Eastern and Southern Africa",
+      "year": 2010,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2010.01.012",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2010.01.012"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000359",
+      "title": "Temporal and farm-management-associated variation in the faecal-pat prevalence of Campylobacter jejuni in ruminants",
+      "year": 2010,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268809991051",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268809991051"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000333",
+      "title": "A tale of two parasites: The comparative epidemiology of cryptosporidiosis and giardiasis",
+      "year": 2009,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268809002465",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268809002465"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000470",
+      "title": "Assigning the source of human campylobacteriosis in New Zealand: A comparative genetic and epidemiological approach",
+      "year": 2009,
+      "venue": "Infection, Genetics and Evolution",
+      "doi": "10.1016/j.meegid.2009.09.003",
+      "openAccessUrl": "https://doi.org/10.1016/j.meegid.2009.09.003"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000444",
+      "title": "Diagnostic assessment without cut-offs: Application of serology for the modelling of bovine digital dermatitis infection",
+      "year": 2009,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2009.08.018",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2009.08.018"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000336",
+      "title": "Evidence from the UK Zoonoses Action Plan in favour of localised anomalies of Salmonella infection on United Kingdom pig farms",
+      "year": 2009,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2009.01.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2009.01.008"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000335",
+      "title": "Informing surveillance programmes by investigating spatial dependency of subclinical",
+      "year": 2009,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268809002106",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268809002106"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000367",
+      "title": "Molecular epidemiology of Cryptosporidium subtypes in cattle in England",
+      "year": 2009,
+      "venue": "Veterinary Journal",
+      "doi": "10.1016/j.tvjl.2007.10.023",
+      "openAccessUrl": "https://doi.org/10.1016/j.tvjl.2007.10.023"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000450",
+      "title": "Molecular epidemiology of campylobacter jejuni isolates from wild-bird fecal material in children's playgrounds",
+      "year": 2009,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.01979-08",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.01979-08"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000428",
+      "title": "Multilocus sequence typing of Campylobacter jejuni, and the correlation between clonal complex and pulsed-field gel electrophoresis macrorestriction profile",
+      "year": 2009,
+      "venue": "FEMS Microbiology Letters",
+      "doi": "10.1111/j.1574-6968.2009.01712.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1574-6968.2009.01712.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000351",
+      "title": "Novel clonal complexes with an unknown animal reservoir dominate Campylobacter jejuni isolates from river water in New Zealand",
+      "year": 2009,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.01039-09",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.01039-09"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000330",
+      "title": "Quantifying exposure to Vero-cytotoxigenic Escherichia coli O157 in milk sold as pasteurized: A model-based approach",
+      "year": 2009,
+      "venue": "International Journal of Food Microbiology",
+      "doi": "10.1016/j.ijfoodmicro.2008.12.036",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijfoodmicro.2008.12.036"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000312",
+      "title": "Quantifying within- and between-animal variation and uncertainty associated with counts of Escherichia coli O157 occurring in naturally infected cattle faeces",
+      "year": 2009,
+      "venue": "Journal of the Royal Society Interface",
+      "doi": "10.1098/rsif.2008.0183",
+      "openAccessUrl": "https://doi.org/10.1098/rsif.2008.0183"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000285",
+      "title": "Source attribution of food-borne zoonoses in New Zealand: A modified hald model",
+      "year": 2009,
+      "venue": "Risk Analysis",
+      "doi": "10.1111/j.1539-6924.2009.01224.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1539-6924.2009.01224.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000353",
+      "title": "Spatial and spatio-temporal analysis of Salmonella infection in dairy herds in England and Wales",
+      "year": 2009,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268808001349",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268808001349"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000393",
+      "title": "Descriptive spatial epidemiology of subclinical Salmonella infection in finisher pig herds: Application of a novel method of spatially adaptive smoothing",
+      "year": 2008,
+      "venue": "Veterinary Research",
+      "doi": "10.1051/vetres:2007040",
+      "openAccessUrl": "https://doi.org/10.1051/vetres:2007040"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000380",
+      "title": "Detection of Cryptosporidium oocysts in fresh and frozen cattle faeces: Comparison of three methods",
+      "year": 2008,
+      "venue": "Letters in Applied Microbiology",
+      "doi": "10.1111/j.1472-765X.2007.02257.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1472-765X.2007.02257.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000439",
+      "title": "Free-roaming and surrendered dogs and cats submitted to a humane shelter in wellington, New Zealand, 1999–2006",
+      "year": 2008,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2008.36850",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2008.36850"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000283",
+      "title": "Longitudinal study of the molecular epidemiology of Campylobacter jejuni in cattle on dairy farms",
+      "year": 2008,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.01669-07",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.01669-07"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000287",
+      "title": "Molecular epidemiology of Campylobacter jejuni populations in dairy cattle, wildlife, and the environment in a farmland area",
+      "year": 2008,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.02198-07",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.02198-07"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000370",
+      "title": "Prevalence and risk factors for Cryptosporidium spp. infection in young calves",
+      "year": 2008,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/j.vetpar.2007.12.003",
+      "openAccessUrl": "https://doi.org/10.1016/j.vetpar.2007.12.003"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000226",
+      "title": "Prevalence of subclinical mastitis and associated risk factors in smallholder dairy cows in Tanzania",
+      "year": 2008,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000360",
+      "title": "Risk factors for epiploic foramen entrapment colic in a UK horse population: A prospective case-control study",
+      "year": 2008,
+      "venue": "Equine Veterinary Journal",
+      "doi": "10.2746/042516408X312149",
+      "openAccessUrl": "https://doi.org/10.2746/042516408X312149"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000413",
+      "title": "Risk factors for epiploic foramen entrapment colic: An international study",
+      "year": 2008,
+      "venue": "Equine Veterinary Journal",
+      "doi": "10.2746/042516408X266079",
+      "openAccessUrl": "https://doi.org/10.2746/042516408X266079"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000314",
+      "title": "Temporal and longitudinal analysis of Danish Swine Salmonellosis Control Programme data: Implications for surveillance",
+      "year": 2008,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268807000234",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268807000234"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000279",
+      "title": "Towards incorporating spatial risk analysis for Salmonella sero-positivity into the Danish swine surveillance programme",
+      "year": 2008,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2007.09.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2007.09.005"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000374",
+      "title": "Wide geographical distribution of internationally rare Campylobacter clones within New Zealand",
+      "year": 2008,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268807009892",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268807009892"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000323",
+      "title": "Advances in biosecurity to 2010 and beyond: Towards integrated detection, analysis and response to exotic pest invasions",
+      "year": 2007,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2007.36779",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2007.36779"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000343",
+      "title": "Application of modelling to determine the absence of foot -and-mouth disease in the face of a suspected incursion",
+      "year": 2007,
+      "venue": "New Zealand Veterinary Journal",
+      "doi": "10.1080/00480169.2007.36783",
+      "openAccessUrl": "https://doi.org/10.1080/00480169.2007.36783"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000452",
+      "title": "Campylobacter lari: Genotype and antibiotic resistance of isolates from cattle, wildlife and water in an area of mixed dairy farmland in the United Kingdom",
+      "year": 2007,
+      "venue": "Environmental Microbiology",
+      "doi": "10.1111/j.1462-2920.2007.01295.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1462-2920.2007.01295.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000286",
+      "title": "Dynamics of infection with multiple transmission mechanisms in unmanaged/managed animal populations",
+      "year": 2007,
+      "venue": "Theoretical Population Biology",
+      "doi": "10.1016/j.tpb.2007.02.003",
+      "openAccessUrl": "https://doi.org/10.1016/j.tpb.2007.02.003"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000280",
+      "title": "Health-seeking behaviour of human brucellosis cases in rural Tanzania",
+      "year": 2007,
+      "venue": "BMC Public Health",
+      "doi": "10.1186/1471-2458-7-315",
+      "openAccessUrl": "https://doi.org/10.1186/1471-2458-7-315"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000342",
+      "title": "Pair approximations and the inclusion of indirect transmission: Theory and application to between farm transmission of Salmonella",
+      "year": 2007,
+      "venue": "Journal of Theoretical Biology",
+      "doi": "10.1016/j.jtbi.2006.08.019",
+      "openAccessUrl": "https://doi.org/10.1016/j.jtbi.2006.08.019"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571667",
+      "title": "Population responses to sterility imposed on female European rabbits",
+      "year": 2007,
+      "venue": "Journal of Applied Ecology",
+      "doi": "10.1111/j.1365-2664.2006.01264.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2664.2006.01264.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000248",
+      "title": "Prevalence and determinants of cryptosporidium spp. infection in smallholder dairy cattle in Iringa and Tanga regions of Tanzania",
+      "year": 2007,
+      "venue": "Onderstepoort Journal of Veterinary Research"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000221",
+      "title": "Seroprevalence of Babesia bigemina in smallholder dairy cattle in Tanzania and associated risk factors",
+      "year": 2007,
+      "venue": "Journal of the South African Veterinary Association"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000347",
+      "title": "Sources of variation in the ampicillin-resistant Escherichia coli concentration in the feces of organic broiler chickens",
+      "year": 2007,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.01482-06",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.01482-06"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000446",
+      "title": "A semi-stochastic model for Salmonella infection in a multi-group herd",
+      "year": 2006,
+      "venue": "Mathematical Biosciences",
+      "doi": "10.1016/j.mbs.2006.01.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.mbs.2006.01.006"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000469",
+      "title": "A semi-stochastic model of the transmission of Escherichia coli O157 in a typical UK dairy herd: Dynamics, sensitivity analysis and intervention/prevention strategies",
+      "year": 2006,
+      "venue": "Journal of Theoretical Biology",
+      "doi": "10.1016/j.jtbi.2006.01.020",
+      "openAccessUrl": "https://doi.org/10.1016/j.jtbi.2006.01.020"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000238",
+      "title": "Accounting for age-dependent susceptibility and occupation-dependent immune status: A new linear analytical SIR model",
+      "year": 2006,
+      "venue": "WSEAS Transactions on Mathematics"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000324",
+      "title": "Analysis of horse race videos to identify intra-race risk factors for fatal distal limb fracture",
+      "year": 2006,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2006.01.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2006.01.006"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000332",
+      "title": "Catastrophic fracture of the lateral condyle of the third metacarpus/metatarsus in UK racehorses - Fracture descriptions and pre-existing pathology",
+      "year": 2006,
+      "venue": "Veterinary Journal",
+      "doi": "10.1016/j.tvjl.2004.10.009",
+      "openAccessUrl": "https://doi.org/10.1016/j.tvjl.2004.10.009"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000334",
+      "title": "Clinical and subclinical mastitis in smallholder dairy farms in Tanzania: Risk, intervention and knowledge transfer",
+      "year": 2006,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2006.01.009",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2006.01.009"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000404",
+      "title": "Detection by the polymerase chain reaction of Anaplasma phagocytophilum in tissues of persistently infected sheep",
+      "year": 2006,
+      "venue": "Journal of Comparative Pathology",
+      "doi": "10.1016/j.jcpa.2005.06.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcpa.2005.06.008"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000405",
+      "title": "Detection by the polymerase chain reaction of Anaplasma phagocytophilum in tissues of persistently infected sheep.",
+      "year": 2006,
+      "venue": "Journal of comparative pathology",
+      "doi": "10.1016/j.jcpa.2005.06.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.jcpa.2005.06.006"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571671",
+      "title": "Development of canine herpesvirus based antifertility vaccines for foxes using bacterial artificial chromosomes",
+      "year": 2006,
+      "venue": "Vaccine",
+      "doi": "10.1016/j.vaccine.2005.08.078",
+      "openAccessUrl": "https://doi.org/10.1016/j.vaccine.2005.08.078"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571684",
+      "title": "Immunocontraceptive effects on female rabbits infected with recombinant myxoma virus expressing rabbit ZP2 or ZP3",
+      "year": 2006,
+      "venue": "Biology of Reproduction",
+      "doi": "10.1095/biolreprod.105.046268",
+      "openAccessUrl": "https://doi.org/10.1095/biolreprod.105.046268"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000299",
+      "title": "Obstruction of equine small intestine associated with focal idiopathic eosinophilic enteritis: An emerging disease?",
+      "year": 2006,
+      "venue": "Veterinary Journal",
+      "doi": "10.1016/j.tvjl.2005.02.031",
+      "openAccessUrl": "https://doi.org/10.1016/j.tvjl.2005.02.031"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000427",
+      "title": "Pre-operative and anaesthesia-related risk factors for mortality in equine colic cases",
+      "year": 2006,
+      "venue": "Veterinary Journal",
+      "doi": "10.1016/j.tvjl.2004.09.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.tvjl.2004.09.005"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000465",
+      "title": "Suitability of canine herpesvirus as a vector for oral bait vaccination of foxes",
+      "year": 2006,
+      "venue": "Veterinary Microbiology",
+      "doi": "10.1016/j.vetmic.2005.12.008",
+      "openAccessUrl": "https://doi.org/10.1016/j.vetmic.2005.12.008"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000241",
+      "title": "The risk of a horse-and-rider partnership falling on the cross-country phase of eventing competitions",
+      "year": 2006,
+      "venue": "Handbook of Environmental Chemistry, Volume 5: Water Pollution"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000435",
+      "title": "The risk of a horse-and-rider partnership falling on the cross-country phase of eventing competitions",
+      "year": 2006,
+      "venue": "Handbook of Environmental Chemistry, Volume 5: Water Pollution",
+      "doi": "10.2746/042516406776563314",
+      "openAccessUrl": "https://doi.org/10.2746/042516406776563314"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000426",
+      "title": "Vero-cytotoxigenic Escherichia coli O157 in pasteurized milk containers at the point of retail: A qualitative approach to exposure assessment",
+      "year": 2006,
+      "venue": "Risk Analysis",
+      "doi": "10.1111/j.1539-6924.2006.00825.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1539-6924.2006.00825.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000397",
+      "title": "A cross-sectional study of reproductive performance of smallholder dairy cows in coastal Tanzania",
+      "year": 2005,
+      "venue": "Tropical Animal Health and Production",
+      "doi": "10.1007/s11250-005-1218-x",
+      "openAccessUrl": "https://doi.org/10.1007/s11250-005-1218-x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000412",
+      "title": "A longitudinal study of sero-conversion to tick-borne pathogens in smallholder dairy youngstock in Tanzania",
+      "year": 2005,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/j.vetpar.2005.04.027",
+      "openAccessUrl": "https://doi.org/10.1016/j.vetpar.2005.04.027"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000414",
+      "title": "Analysis of recombination in Campylobacter jejuni from MLST population data",
+      "year": 2005,
+      "venue": "Journal of Molecular Evolution",
+      "doi": "10.1007/s00239-004-0316-0",
+      "openAccessUrl": "https://doi.org/10.1007/s00239-004-0316-0"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000288",
+      "title": "Clustering of equine grass sickness cases in the United Kingdom: A study considering the effect of position-dependent reporting on the space-time K-function",
+      "year": 2005,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268804003322",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268804003322"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000262",
+      "title": "Cooking the books or simply getting the best out of the data? Assessing the nature of the relationship between variables",
+      "year": 2005,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000211",
+      "title": "Description, socio-economic characteristics, disease managements and mortality dynamics in smallholder's dairy production system in coastal humid region of Tanga, Tanzania",
+      "year": 2005,
+      "venue": "Livestock Research for Rural Development"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000254",
+      "title": "Effect of trace element supplementation on the fertility of dairy herds (multiple letters) [2]",
+      "year": 2005,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000258",
+      "title": "Epidemiological study of the characteristics of veterinarians who pursue a research career: Part 2",
+      "year": 2005,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000231",
+      "title": "Epidemiological study of the characteristics of veterinarians who pursue a research career: Part I",
+      "year": 2005,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000389",
+      "title": "Erratum: Development and application of a spiral plating method for the enumeration of Escherichia coli O157 in bovine faeces (Journal of Applied Microbiology (2004) 97 (581-589))",
+      "year": 2005,
+      "venue": "Journal of Applied Microbiology",
+      "doi": "10.1111/j.1365-2672.2005.02557.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2672.2005.02557.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571666",
+      "title": "Experimental inoculation of European red foxes with recombinant vaccinia virus expressing zona pellucida C proteins",
+      "year": 2005,
+      "venue": "Vaccine",
+      "doi": "10.1016/j.vaccine.2005.04.016",
+      "openAccessUrl": "https://doi.org/10.1016/j.vaccine.2005.04.016"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000217",
+      "title": "Factors affecting long-term survival of horses recovering from surgery of the small intestine",
+      "year": 2005,
+      "venue": "Equine Veterinary Journal",
+      "doi": "10.2746/0425164054529481",
+      "openAccessUrl": "https://doi.org/10.2746/0425164054529481"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000306",
+      "title": "Heterogeneous distributions of Escherichia coli O157 within naturally infected bovine faecal pats",
+      "year": 2005,
+      "venue": "FEMS Microbiology Letters",
+      "doi": "10.1016/j.femsle.2005.01.056",
+      "openAccessUrl": "https://doi.org/10.1016/j.femsle.2005.01.056"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000453",
+      "title": "Infection in social networks: Using network analysis to identify high-risk individuals",
+      "year": 2005,
+      "venue": "American Journal of Epidemiology",
+      "doi": "10.1093/aje/kwi308",
+      "openAccessUrl": "https://doi.org/10.1093/aje/kwi308"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000250",
+      "title": "Modelling long-term survival of horses following surgery for large intestinal disease",
+      "year": 2005,
+      "venue": "Equine Veterinary Journal",
+      "doi": "10.2746/0425164054529328",
+      "openAccessUrl": "https://doi.org/10.2746/0425164054529328"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000466",
+      "title": "Prevalence and genetic diversity of Campylobacter spp. in environmental water samples from a 100-square-kilometer predominantly dairy farming area",
+      "year": 2005,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.71.4.1876-1882.2005",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.71.4.1876-1882.2005"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000441",
+      "title": "Quantifying uncertainty associated with microbial count data: A Bayesian approach",
+      "year": 2005,
+      "venue": "Biometrics",
+      "doi": "10.1111/j.1541-0420.2005.030903.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1541-0420.2005.030903.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000355",
+      "title": "Risk factors for cross-country horse falls at one-day events and at two-/three-day events",
+      "year": 2005,
+      "venue": "Veterinary Journal",
+      "doi": "10.1016/j.tvjl.2005.05.003",
+      "openAccessUrl": "https://doi.org/10.1016/j.tvjl.2005.05.003"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000247",
+      "title": "Risk factors for fatal lateral condylar fracture of the third metacarpus/metatarsus in UK racing",
+      "year": 2005,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000471",
+      "title": "Risk factors for tick attachment to smallholder dairy cattle in Tanzania",
+      "year": 2005,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2004.10.011",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2004.10.011"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000362",
+      "title": "Seroprevalence estimation and risk factors for A. marginale on smallholder dairy farms in Tanzania",
+      "year": 2005,
+      "venue": "Tropical Animal Health and Production",
+      "doi": "10.1007/s11250-005-4307-y",
+      "openAccessUrl": "https://doi.org/10.1007/s11250-005-4307-y"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000303",
+      "title": "Spatial and management factors associated with exposure of smallholder dairy cattle in Tanzania to tick-borne pathogens",
+      "year": 2005,
+      "venue": "International Journal for Parasitology",
+      "doi": "10.1016/j.ijpara.2005.04.006",
+      "openAccessUrl": "https://doi.org/10.1016/j.ijpara.2005.04.006"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000326",
+      "title": "Spatial epidemiology and natural population structure of Campylobacter jejuni colonizing a farmland ecosystem",
+      "year": 2005,
+      "venue": "Environmental Microbiology",
+      "doi": "10.1111/j.1462-2920.2005.00782.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1462-2920.2005.00782.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000459",
+      "title": "The effects of different knowledge-dissemination interventions on the mastitis knowledge of Tanzanian smallholder dairy farmers",
+      "year": 2005,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2005.05.004",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2005.05.004"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000363",
+      "title": "Understanding the dynamics of Salmonella infections in dairy herds: A modelling approach",
+      "year": 2005,
+      "venue": "Journal of Theoretical Biology",
+      "doi": "10.1016/j.jtbi.2004.09.015",
+      "openAccessUrl": "https://doi.org/10.1016/j.jtbi.2004.09.015"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000228",
+      "title": "A prospective cohort study to investigate risk factors for horse falls in UK hurdle and steeplechase racing",
+      "year": 2004,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000260",
+      "title": "Case-control investigation of the factors affecting the risk of horses falling during steeplechase racing in the UK",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571689",
+      "title": "Corticosteroid treatment does not reactivate canine herpesvirus in red foxes",
+      "year": 2004,
+      "venue": "Journal of Wildlife Diseases",
+      "doi": "10.7589/0090-3558-40.2.238",
+      "openAccessUrl": "https://doi.org/10.7589/0090-3558-40.2.238"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000215",
+      "title": "Cross-sectional estimation of Babesia bovis antibody prevalence in cattle in two contrasting dairying areas in Tanzania",
+      "year": 2004,
+      "venue": "Onderstepoort Journal of Veterinary Research"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000468",
+      "title": "Development and application of a spiral plating method for the enumeration of Escherichia coli O157 in bovine faeces",
+      "year": 2004,
+      "venue": "Journal of Applied Microbiology",
+      "doi": "10.1111/j.1365-2672.2004.02339.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2672.2004.02339.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000245",
+      "title": "Effect of trace element supplementation on the fertility of dairy herds (multiple letters) [3]",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000256",
+      "title": "Effect of trace element supplementation on the fertility of dairy herds (multiple letters) [3]",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000240",
+      "title": "Effects of three types of trace element supplementation on the fertility of three commercial daily herds",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000257",
+      "title": "Entrapment of the small intestine in the epiploic foramen in horses: A retrospective analysis of 71 cases recorded between 1991 and 2001",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000267",
+      "title": "Equine grass sickness is associated with low antibody levels to Clostridium botulinum: A matched case-control study",
+      "year": 2004,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000224",
+      "title": "Factors influencing risk of injury to horses falling during eventing",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000421",
+      "title": "Frequency and spatial distribution of environmental Campylobacter spp.",
+      "year": 2004,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.70.11.6501-6511.2004",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.70.11.6501-6511.2004"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000410",
+      "title": "Genotypic and Antibiotic Susceptibility Characteristics of a Campylobacter coli Population Isolated from Dairy Farmland in the United Kingdom",
+      "year": 2004,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.70.2.822-830.2004",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.70.2.822-830.2004"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000223",
+      "title": "Groupings of highly similar major surface protein (p44)-encoding paralogues: A potential index of genetic diversity amongst isolates of Anaplasma phagocytophilum",
+      "year": 2004,
+      "venue": "Microbiology"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000290",
+      "title": "Horse injuries and racing practices in National Hunt racehorses in the UK: The results of a prospective cohort study",
+      "year": 2004,
+      "venue": "Veterinary Journal",
+      "doi": "10.1016/S1090-0233(03)00141-2",
+      "openAccessUrl": "https://doi.org/10.1016/S1090-0233(03)00141-2"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000230",
+      "title": "Horse-level risk factors for fatal distal limb fracture in racing Thoroughbreds in the UK",
+      "year": 2004,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000416",
+      "title": "Intermittent and persistent shedding of Escherichia coli O157 in cohorts of naturally infected calves",
+      "year": 2004,
+      "venue": "Journal of Applied Microbiology",
+      "doi": "10.1111/j.1365-2672.2004.02390.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2672.2004.02390.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571686",
+      "title": "Management of myiasis: Current status and future prospects",
+      "year": 2004,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/j.vetpar.2004.05.007",
+      "openAccessUrl": "https://doi.org/10.1016/j.vetpar.2004.05.007"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000385",
+      "title": "Memory decay and performance-related information bias in the reporting of scores by event riders",
+      "year": 2004,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/j.prevetmed.2004.02.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.prevetmed.2004.02.005"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000227",
+      "title": "Quantitative estimates of the risk of new outbreaks of foot-and-mouth disease as a result of burning pyres",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000237",
+      "title": "Quantitative estimates of the risk of new outbreaks of foot-and-mouth disease as a result of burning pyres (multiple letters) [3]",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000232",
+      "title": "Race- and course-level risk factors for fatal distal limb fracture in racing Thoroughbreds",
+      "year": 2004,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000235",
+      "title": "Risk of fatal distal limb fractures among thoroughbreds involved in the five types of racing in the United Kingdom",
+      "year": 2004,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000348",
+      "title": "Risk of horses falling in the Grand National",
+      "year": 2004,
+      "venue": "Nature",
+      "doi": "10.1038/428385a",
+      "openAccessUrl": "https://doi.org/10.1038/428385a"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000236",
+      "title": "Whip use and race progress are associated with horse falls in hurdle and steeplechase racing in the UK",
+      "year": 2004,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000242",
+      "title": "Why are certain premises at increased risk of equine grass sickness? A matched case-control study",
+      "year": 2004,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000350",
+      "title": "A model appropriate to the transmission of a human food-borne pathogen in a multigroup managed herd",
+      "year": 2003,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(03)00006-0",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(03)00006-0"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000269",
+      "title": "A retrospective case-control study of horse falls in the sport of horse trials and three-day eventing",
+      "year": 2003,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000461",
+      "title": "Bayesian methods for estimating pathogen prevalence within groups of animals from faecal-pat sampling",
+      "year": 2003,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(03)00050-3",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(03)00050-3"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000218",
+      "title": "Case-control study to investigate risk factors for horse falls in hurdle racing in England and Wales",
+      "year": 2003,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571669",
+      "title": "Erratum: Bayesian methods for estimating pathogen prevalence within groups of animals from faecal-pat sampling (Preventive Veterinary Medicine (2002) 58 (145-169))",
+      "year": 2003,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(03)00124-7",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(03)00124-7"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000317",
+      "title": "Evaluation of PCR to detect Theileria parva in field-collected tick and bovine samples in Tanzania",
+      "year": 2003,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(02)00448-X",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(02)00448-X"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000467",
+      "title": "Factors related to the risk of neonatal mortality, birth-weight and serum immunoglobulin concentration in lambs in the UK",
+      "year": 2003,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(02)00235-0",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(02)00235-0"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000264",
+      "title": "Identification of stimulatory and inhibitory inputs to the hypothalamic-pituitary-adrenal axis during hypoglycaemia or transport in Ewes",
+      "year": 2003,
+      "venue": "Journal of Neuroendocrinology"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000327",
+      "title": "Nontyphoidal salmonellae in United Kingdom badgers: Prevalence and spatial distribution",
+      "year": 2003,
+      "venue": "Applied and Environmental Microbiology",
+      "doi": "10.1128/AEM.69.7.4312-4315.2003",
+      "openAccessUrl": "https://doi.org/10.1128/AEM.69.7.4312-4315.2003"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000274",
+      "title": "Prevalence of faecal excretion of verocytotoxigenic Escherichia coli O157 in cattle in England and Wales",
+      "year": 2003,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000222",
+      "title": "Small-world topology of UK racing: The potential for rapid spread of infectious agents",
+      "year": 2003,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000396",
+      "title": "Transmission of Anaplasma phagocytophilum to Ixodes ricinus ticks from sheep in the acute and post-acute phases of infection",
+      "year": 2003,
+      "venue": "Infection and Immunity",
+      "doi": "10.1128/IAI.71.4.2071-2078.2003",
+      "openAccessUrl": "https://doi.org/10.1128/IAI.71.4.2071-2078.2003"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000344",
+      "title": "A clarification of transmission terms in host-microparasite models: Numbers, densities and areas",
+      "year": 2002,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268802007148",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268802007148"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000325",
+      "title": "A mixed-effects time-to-event analysis of the relationship between first-lactation lameness and subsequent lameness in dairy cows in the UK",
+      "year": 2002,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(02)00021-1",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(02)00021-1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000373",
+      "title": "A review of studies on the transmission of Anaplasma phagocytophilum from sheep: Implications for the force of infection in endemic cycles",
+      "year": 2002,
+      "venue": "Experimental and Applied Acarology",
+      "doi": "10.1023/A:1025394315915",
+      "openAccessUrl": "https://doi.org/10.1023/A:1025394315915"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000322",
+      "title": "A systematic compilation and classification of the literature on lameness in cattle",
+      "year": 2002,
+      "venue": "Veterinary Journal",
+      "doi": "10.1053/tvjl.2002.0729",
+      "openAccessUrl": "https://doi.org/10.1053/tvjl.2002.0729"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571662",
+      "title": "Appropriate use of parametric methods and analysis in parasitology research.",
+      "year": 2002,
+      "venue": "International journal for parasitology"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000270",
+      "title": "Case control study to identify risk factors for simple colonic obstruction and distension colic in horses",
+      "year": 2002,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000296",
+      "title": "Development and validation of a simulation model for blowfly strike of sheep",
+      "year": 2002,
+      "venue": "Medical and Veterinary Entomology",
+      "doi": "10.1046/j.1365-2915.2002.00394.x",
+      "openAccessUrl": "https://doi.org/10.1046/j.1365-2915.2002.00394.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000311",
+      "title": "Dose-response relationships for foot and mouth disease in cattle and sheep",
+      "year": 2002,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268801006446",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268801006446"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000234",
+      "title": "Equine surgical colic: Risk factors for postoperative complications",
+      "year": 2002,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000266",
+      "title": "Excretion of vancomycin-resistant enterococci by wild mammals",
+      "year": 2002,
+      "venue": "Emerging Infectious Diseases"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000246",
+      "title": "Factors influencing the development of stereotypic and redirected behaviours in young horses: Findings of a four year prospective epidemiological study",
+      "year": 2002,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000429",
+      "title": "Field evidence for density-dependent facilitation amongst Ixodes ricinus ticks feeding on sheep",
+      "year": 2002,
+      "venue": "Parasitology",
+      "doi": "10.1017/S0031182001001081",
+      "openAccessUrl": "https://doi.org/10.1017/S0031182001001081"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000282",
+      "title": "Generalised additive models and hierarchical logistic regression of lameness in dairy cows",
+      "year": 2002,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(02)00058-2",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(02)00058-2"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000338",
+      "title": "IgG responses to salivary gland extract of Ixodes ricinus ticks vary inversely with resistance in naturally exposed sheep",
+      "year": 2002,
+      "venue": "Medical and Veterinary Entomology",
+      "doi": "10.1046/j.1365-2915.2002.00362.x",
+      "openAccessUrl": "https://doi.org/10.1046/j.1365-2915.2002.00362.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571682",
+      "title": "Letter to the Editor",
+      "year": 2002,
+      "venue": "International Journal for Parasitology",
+      "doi": "10.1016/S0020-7519(02)00133-9",
+      "openAccessUrl": "https://doi.org/10.1016/S0020-7519(02)00133-9"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000244",
+      "title": "Long-term survival of equine surgical colic cases. Part 1: Patterns of mortality and morbidity",
+      "year": 2002,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000249",
+      "title": "Long-term survival of equine surgical colic cases. Part 2: Modelling postoperative survival",
+      "year": 2002,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000424",
+      "title": "Natural Ehrlichia phagocytophila transmission coefficients from sheep 'carriers' to Ixodes ricinus ticks vary with the numbers of feeding ticks",
+      "year": 2002,
+      "venue": "Parasitology",
+      "doi": "10.1017/S003118200100107X",
+      "openAccessUrl": "https://doi.org/10.1017/S003118200100107X"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000433",
+      "title": "Risk factors and sources of variation in horse falls in steeplechase racing in the UK",
+      "year": 2002,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(02)00098-3",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(02)00098-3"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000261",
+      "title": "A cross-sectional study of colic in horses on Thoroughbred training premises in the British Isles in 1997",
+      "year": 2001,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000291",
+      "title": "A stochastic model for disease transmission in a managed herd, motivated by Neospora caninum amongst dairy cattle",
+      "year": 2001,
+      "venue": "Mathematical Biosciences",
+      "doi": "10.1016/S0025-5564(01)00047-5",
+      "openAccessUrl": "https://doi.org/10.1016/S0025-5564(01)00047-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000394",
+      "title": "Effect of infestation with Psoroptes ovis on the nocturnal rubbing and lying behaviour of housed sheep",
+      "year": 2001,
+      "venue": "Applied Animal Behaviour Science",
+      "doi": "10.1016/S0168-1591(00)00166-0",
+      "openAccessUrl": "https://doi.org/10.1016/S0168-1591(00)00166-0"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000225",
+      "title": "Epidemiology of equine grass sickness: A literature review (1909-1999)",
+      "year": 2001,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000401",
+      "title": "Genetic variation in Australian isolates of myxoma virus: An evolutionary and epidemiological study",
+      "year": 2001,
+      "venue": "Archives of Virology",
+      "doi": "10.1007/s007050170109",
+      "openAccessUrl": "https://doi.org/10.1007/s007050170109"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000372",
+      "title": "Immunisation of cattle with recombinant acetylcholinesterase from Dictyocaulus viviparus and with adult worm ES products",
+      "year": 2001,
+      "venue": "International Journal for Parasitology",
+      "doi": "10.1016/S0020-7519(00)00157-0",
+      "openAccessUrl": "https://doi.org/10.1016/S0020-7519(00)00157-0"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000391",
+      "title": "Smallholder dairy farming in the Chikwaka communal land, Zimbabwe: Birth, death and demographic trends",
+      "year": 2001,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/S0167-5877(00)00191-4",
+      "openAccessUrl": "https://doi.org/10.1016/S0167-5877(00)00191-4"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000243",
+      "title": "Copper supplementation and bovine pregnancy rates: Three types of supplementation compared in commercial dairy herds",
+      "year": 2000,
+      "venue": "Irish Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000251",
+      "title": "Grass sickness research.",
+      "year": 2000,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000340",
+      "title": "Occurrence of Clostridium perfringens β2-toxin amongst animals, determined using genotyping and subtyping PCR assays",
+      "year": 2000,
+      "venue": "Epidemiology and Infection",
+      "doi": "10.1017/S0950268899003295",
+      "openAccessUrl": "https://doi.org/10.1017/S0950268899003295"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000239",
+      "title": "Sheep blowfly strike: A model approach",
+      "year": 2000,
+      "venue": "Research in Veterinary Science"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000375",
+      "title": "The use of entomopathogenic fungi for the control of parasitic mites, Psoroptes spp.",
+      "year": 2000,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(00)00277-6",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(00)00277-6"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000213",
+      "title": "Herd-specific and age-specific seroprevalence of Neospora caninum in 14 British dairy herds",
+      "year": 1999,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/53571690",
+      "title": "Infertility in female rabbits (Oryctolagus cuniculus) alloimmunized with the rabbit zona pellucida protein ZPB either as a purified recombinant protein or expressed by recombinant myxoma virus",
+      "year": 1999,
+      "venue": "Biology of Reproduction",
+      "doi": "10.1095/biolreprod61.3.606",
+      "openAccessUrl": "https://doi.org/10.1095/biolreprod61.3.606"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000448",
+      "title": "Mathematical models of Neospora caninum infection in dairy cattle: Transmission and options for control",
+      "year": 1999,
+      "venue": "International Journal for Parasitology",
+      "doi": "10.1016/S0020-7519(99)00131-9",
+      "openAccessUrl": "https://doi.org/10.1016/S0020-7519(99)00131-9"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000365",
+      "title": "Oviposition aggregation by the blowfly Lucilia cuprina",
+      "year": 1999,
+      "venue": "Medical and Veterinary Entomology",
+      "doi": "10.1046/j.1365-2915.1999.00184.x",
+      "openAccessUrl": "https://doi.org/10.1046/j.1365-2915.1999.00184.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000346",
+      "title": "Sheep scab outbreaks in Great Britain between 1973 and 1992: Spatial and temporal patterns",
+      "year": 1999,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(99)00057-6",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(99)00057-6"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000379",
+      "title": "Simulation analysis of the population dynamics of the mite, Psoroptes ovis, infesting sheep",
+      "year": 1999,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(99)00062-X",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(99)00062-X"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000390",
+      "title": "The effects of oviposition aggregation on the incidence of sheep blowfly strike",
+      "year": 1999,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(99)00047-3",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(99)00047-3"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000415",
+      "title": "The effects of temperature and humidity on the off-host survival of Psoroptes ovis and Psoroptes cuniculi",
+      "year": 1999,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(99)00063-1",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(99)00063-1"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000431",
+      "title": "Within-flock transmission of sheep scab in naive sheep housed with single infested sheep",
+      "year": 1999,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(99)00064-3",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(99)00064-3"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000233",
+      "title": "Case control study of diarrhoea and faecal soiling in twoto six-month-old lambs",
+      "year": 1998,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000214",
+      "title": "Tapeworm infection is a significant risk factor for spasmodic colic and ileal impaction colic in the horse",
+      "year": 1998,
+      "venue": "Equine Veterinary Journal"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000328",
+      "title": "The effect of farm management strategies on the incidence of sheep strike in Britain: A simulation analysis",
+      "year": 1998,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(98)00174-5",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(98)00174-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000434",
+      "title": "The incidence of sheep strike by Lucilia sericata on sheep farms in Britain: A simulation model",
+      "year": 1998,
+      "venue": "Veterinary Parasitology",
+      "doi": "10.1016/S0304-4017(97)00163-5",
+      "openAccessUrl": "https://doi.org/10.1016/S0304-4017(97)00163-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000430",
+      "title": "Sensitivity analysis of deterministic and stochastic simulation models of populations of the sheep blowfly, Lucilia sericata",
+      "year": 1997,
+      "venue": "Journal of Theoretical Biology",
+      "doi": "10.1006/jtbi.1996.0255",
+      "openAccessUrl": "https://doi.org/10.1006/jtbi.1996.0255"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000255",
+      "title": "A case control study of blowfly strike in lambs",
+      "year": 1996,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000458",
+      "title": "A model of ovine cutaneous myosis using the predicted abundance of Lucilia sericata and a pattern of sheep susceptibility",
+      "year": 1996,
+      "venue": "Preventive Veterinary Medicine",
+      "doi": "10.1016/0167-5877(95)00528-5",
+      "openAccessUrl": "https://doi.org/10.1016/0167-5877(95)00528-5"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000271",
+      "title": "Role of neonatal and maternal risk factors in the faecal soiling of lambs",
+      "year": 1996,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000418",
+      "title": "Management factors associated with stereotypic and redirected behaviour in the Thoroughbred horse",
+      "year": 1995,
+      "venue": "Equine Veterinary Journal",
+      "doi": "10.1111/j.2042-3306.1995.tb03041.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.2042-3306.1995.tb03041.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000378",
+      "title": "Population suppression for control of the blowfly Lucilia sericata and sheep blowfly strike",
+      "year": 1995,
+      "venue": "Ecological Entomology",
+      "doi": "10.1111/j.1365-2311.1995.tb00433.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2311.1995.tb00433.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000272",
+      "title": "Subcapsular liver rupture in young lambs associated with vitamin E deficiency.",
+      "year": 1995,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000268",
+      "title": "The prevalence of abnormal behaviours in dressage, eventing and endurance horses in relation to stabling.",
+      "year": 1995,
+      "venue": "The Veterinary record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000263",
+      "title": "The seasonal pattern of sheep blowfly strike in England and Wales",
+      "year": 1995,
+      "venue": "Medical and Veterinary Entomology"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000216",
+      "title": "Blowfly strike in England and Wales: the relationship between prevalence and farm and management factors",
+      "year": 1994,
+      "venue": "Medical and Veterinary Entomology",
+      "doi": "10.1111/j.1365-2915.1994.tb00385.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2915.1994.tb00385.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000273",
+      "title": "Ectoparasite control on sheep farms in England and Wales: the method, type and timing of insecticidal treatment.",
+      "year": 1994,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000259",
+      "title": "Lamb tail docking: a controlled field study of the effects of tail amputation on health and productivity.",
+      "year": 1994,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000219",
+      "title": "Tail docking of lambs in the control of flystrike.",
+      "year": 1994,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000352",
+      "title": "Predicting the abundance of the blowfly Lucilia sericata (Diptera: Calliphoridae)",
+      "year": 1993,
+      "venue": "Bulletin of Entomological Research",
+      "doi": "10.1017/S0007485300029345",
+      "openAccessUrl": "https://doi.org/10.1017/S0007485300029345"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000265",
+      "title": "Sheep blowfly population control: Development of a simulation model and analysis of management strategies",
+      "year": 1993,
+      "venue": "Journal of Applied Ecology"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000320",
+      "title": "Blowfly species composition in sheep myiasis in Britain",
+      "year": 1992,
+      "venue": "Medical and Veterinary Entomology",
+      "doi": "10.1111/j.1365-2915.1992.tb00601.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2915.1992.tb00601.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000294",
+      "title": "Development of an attractive target for the sheep blowfly Lucilia sericata",
+      "year": 1992,
+      "venue": "Medical and Veterinary Entomology",
+      "doi": "10.1111/j.1365-2915.1992.tb00038.x",
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2915.1992.tb00038.x"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000386",
+      "title": "Effects of temperature on the development and abundance of the sheep blowfly Lucilia sericata (Diptera: Calliphoridae)",
+      "year": 1992,
+      "venue": "Bulletin of Entomological Research",
+      "doi": "10.1017/S0007485300051531",
+      "openAccessUrl": "https://doi.org/10.1017/S0007485300051531"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000358",
+      "title": "Neuromata in docked lambs' tails",
+      "year": 1992,
+      "venue": "Research in Veterinary Science",
+      "doi": "10.1016/0034-5288(92)90045-4",
+      "openAccessUrl": "https://doi.org/10.1016/0034-5288(92)90045-4"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000229",
+      "title": "Prevalence, regional distribution and control of blowfly strike in England and Wales",
+      "year": 1992,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/33000252",
+      "title": "Wool slip in Wiltshire horns.",
+      "year": 1990,
+      "venue": "Veterinary Record"
+    },
+    {
+      "id": "orcid:0000-0002-6334-0657/work/56854199",
+      "title": "Control of headfly on sheep.",
+      "year": 1977,
+      "venue": "The Veterinary record",
+      "doi": "10.1136/vr.100.3.40",
+      "openAccessUrl": "https://doi.org/10.1136/vr.100.3.40"
+    }
+  ]
+}

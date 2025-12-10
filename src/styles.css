@@ -20,6 +20,7 @@ body {
   min-height: 60vh;
   display: flex;
   align-items: center;
+  background-color: var(--bs-light);
 }
 
 .hero-image-placeholder {
@@ -34,6 +35,25 @@ body {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+/* Hero carousel styles */
+.bp-hero-slide {
+  min-height: 260px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bp-hero-slide .ratio {
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+@media (min-width: 992px) {
+  .hero-section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 }
 
@@ -54,6 +74,17 @@ body {
   transform: translateY(-5px);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
   background-color: #e7f3ff !important;
+}
+
+/* Disable hover effects for specific cards */
+.bp-no-hover {
+  transition: none !important;
+}
+
+.bp-no-hover:hover {
+  transform: none !important;
+  box-shadow: none !important;
+  background-color: inherit !important;
 }
 
 /* Custom spacing utilities */
@@ -198,6 +229,181 @@ body {
   object-fit: cover;
   border-radius: 0.375rem;
   display: block;
+}
+
+/* Timeline styles for Reports page */
+.bp-timeline-wrapper {
+  background-color: var(--bs-light, #f8f9fa);
+  border-radius: 0.75rem;
+  padding: 1.5rem 1.5rem 0.5rem;
+  border: 1px solid var(--bs-border-color, #dee2e6);
+}
+
+.bp-timeline {
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.bp-timeline::before {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: 0.3rem;
+  bottom: 0.3rem;
+  width: 2px;
+  background-color: var(--bs-border-color, #dee2e6);
+}
+
+.bp-timeline-item {
+  position: relative;
+  padding-bottom: 1.25rem;
+}
+
+.bp-timeline-marker {
+  position: absolute;
+  left: -1px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: var(--bs-primary, #0d6efd);
+  top: 0.55rem;
+}
+
+.bp-timeline-content {
+  margin-left: 1.5rem;
+}
+
+.bp-report-content section {
+  margin-bottom: 1.5rem;
+}
+
+/* Sticky sidebar for reports page */
+.bp-sticky-sidebar {
+  position: sticky;
+  top: 1rem;
+  align-self: flex-start;
+}
+
+/* Forward plan content styling (Pandoc-generated HTML) */
+.bp-forward-plan h1,
+.bp-forward-plan h2,
+.bp-forward-plan h3,
+.bp-forward-plan h4,
+.bp-forward-plan h5,
+.bp-forward-plan h6 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  color: #212529;
+}
+
+.bp-forward-plan h1 {
+  font-size: 1.25rem;
+  margin-top: 0;
+}
+
+.bp-forward-plan h2 {
+  font-size: 1.15rem;
+}
+
+.bp-forward-plan p {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+
+.bp-forward-plan ul,
+.bp-forward-plan ol {
+  padding-left: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.bp-forward-plan li {
+  margin-bottom: 0.5rem;
+}
+
+.bp-forward-plan li p {
+  margin-bottom: 0.25rem;
+}
+
+.bp-forward-plan strong {
+  font-weight: 600;
+}
+
+.bp-forward-plan em {
+  font-style: italic;
+}
+
+.bp-forward-plan a {
+  color: #0d6efd;
+  text-decoration: underline;
+}
+
+.bp-forward-plan a:hover {
+  color: #0a58ca;
+}
+
+.bp-forward-plan table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+.bp-forward-plan table th,
+.bp-forward-plan table td {
+  padding: 0.5rem;
+  border: 1px solid #dee2e6;
+}
+
+.bp-forward-plan table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+/* Key question spotlight card styles */
+.bp-key-question-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+  cursor: pointer;
+}
+
+.bp-key-question-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.75rem 1.5rem rgba(15, 23, 42, 0.08);
+}
+
+.bp-key-question-card.bp-key-question-fade-out {
+  opacity: 0;
+}
+
+#bp-key-question-text {
+  min-height: 3rem; /* keep layout stable as questions change */
+}
+
+#bp-key-question-content {
+  flex: 1;
+}
+
+/* Sticky iframe annotations */
+.bp-iframe-section {
+  min-height: 600px; /* Ensure sections have enough height for sticky effect */
+}
+
+.bp-iframe-annotation {
+  position: sticky;
+  top: 2rem; /* Offset from top when sticky */
+  padding-left: 2rem;
+}
+
+@media (max-width: 991.98px) {
+  .bp-iframe-annotation {
+    position: static; /* Disable sticky on smaller screens */
+    padding-right: 0;
+    margin-bottom: 1.5rem;
+  }
+  
+  .bp-iframe-section {
+    min-height: auto;
+  }
 }
 
 /* Responsive adjustments for footer logos */

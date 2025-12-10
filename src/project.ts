@@ -16,6 +16,8 @@ import { partners } from './data/partners';
 // Import project data
 import { findProjectDetail } from './data/researchProjects';
 import type { ProjectExtensionMount } from './projects/extensions';
+import { getPeopleForTheme } from './data/peopleByTheme';
+import { renderPersonCard } from './components/personCard';
 
 // Discover all extension modules under src/projects/*.ts
 const extensionModules = import.meta.glob('./projects/*.ts', {
@@ -59,6 +61,93 @@ function escapeHtml(text: string): string {
   const div = document.createElement('div');
   div.textContent = text;
   return div.innerHTML;
+}
+
+/**
+ * Sets up the rotating key question spotlight card
+ * @param questions - Array of key questions to cycle through
+ */
+function setupKeyQuestionSpotlight(questions: string[]): void {
+  if (!questions || questions.length === 0) {
+    return;
+  }
+
+  const contentEl = document.querySelector<HTMLElement>('#bp-key-question-content');
+  const counterEl = document.querySelector<HTMLElement>('#bp-key-question-counter');
+  const cardEl = document.querySelector<HTMLElement>('.bp-key-question-card');
+
+  if (!contentEl || !counterEl || !cardEl) {
+    return;
+  }
+
+  let index = 0;
+
+  const total = questions.length;
+  const displayDurationMs = 6000; // time each question is shown
+  const fadeDurationMs = 200; // should match CSS transition
+
+  const updateQuestion = (newIndex: number): void => {
+    const question = questions[newIndex];
+    if (contentEl) {
+      contentEl.textContent = question;
+    }
+    counterEl.textContent = `${newIndex + 1} of ${total}`;
+  };
+
+  // Initial render
+  updateQuestion(index);
+
+  let intervalId: number | undefined;
+
+  const advanceQuestion = (): void => {
+    // fade out
+    cardEl.classList.add('bp-key-question-fade-out');
+    window.setTimeout(() => {
+      index = (index + 1) % total;
+      updateQuestion(index);
+      // fade back in
+      cardEl.classList.remove('bp-key-question-fade-out');
+    }, fadeDurationMs);
+  };
+
+  const startRotation = (): void => {
+    intervalId = window.setInterval(() => {
+      advanceQuestion();
+    }, displayDurationMs);
+  };
+
+  const stopRotation = (): void => {
+    if (intervalId !== undefined) {
+      window.clearInterval(intervalId);
+      intervalId = undefined;
+    }
+  };
+
+  const resetRotation = (): void => {
+    stopRotation();
+    startRotation();
+  };
+
+  // Start automatic rotation
+  startRotation();
+
+  // Optional: pause rotation on hover for readability
+  cardEl.addEventListener('mouseenter', () => {
+    stopRotation();
+  });
+
+  cardEl.addEventListener('mouseleave', () => {
+    if (!intervalId) {
+      startRotation();
+    }
+  });
+
+  // Click to advance to next question
+  cardEl.addEventListener('click', () => {
+    advanceQuestion();
+    // Reset the rotation timer so it doesn't immediately advance again
+    resetRotation();
+  });
 }
 
 /**
@@ -116,16 +205,29 @@ function initProjectPage(): void {
   // Get extension mount function if it exists
   const extensionMount = getProjectExtension(project.slug);
 
+  // Get people working on this theme
+  const themePeople = getPeopleForTheme(project.slug);
+
   // Build project page sections
-  const questionsHtml =
+  const questionsCardHtml =
     project.keyQuestions && project.keyQuestions.length > 0
       ? `
-      <section class="mb-5">
-        <h2 class="h4 mb-3">Key Questions</h2>
-        <ul class="list-unstyled">
-          ${project.keyQuestions.map((q) => `<li class="mb-2">• ${escapeHtml(q)}</li>`).join('')}
-        </ul>
-      </section>
+            <div class="col-lg-4">
+              <div class="card shadow-sm bp-key-question-card">
+                <div class="card-body">
+                  <p class="lead mb-1 d-flex align-items-start" id="bp-key-question-text">
+                    <span
+                      class="rounded-circle bg-primary-subtle text-primary d-flex align-items-center justify-content-center me-2 flex-shrink-0"
+                      style="width: 32px; height: 32px; font-size: 1.1rem; margin-top: 0.125rem;"
+                    >
+                      <span class="fw-bold">?</span>
+                    </span>
+                    <span id="bp-key-question-content"></span>
+                  </p>
+                  <p class="text-muted small mb-0" id="bp-key-question-counter"></p>
+                </div>
+              </div>
+            </div>
     `
       : '';
 
@@ -200,30 +302,70 @@ function initProjectPage(): void {
     </header>
   `;
 
+  // Build people section
+  const peopleSectionHtml =
+    themePeople.length === 0
+      ? `
+        <section class="mt-5">
+          <h2 class="h4 mb-3">Associated people</h2>
+          <p class="text-muted small mb-0">
+            Theme members will be listed here soon.
+          </p>
+        </section>
+      `
+      : `
+        <section class="mt-5">
+          <h2 class="h4 mb-3">Associated people</h2>
+          <div class="row g-4">
+            ${themePeople.map(renderPersonCard).join('')}
+          </div>
+        </section>
+      `;
+
   // Build body content
   const bodyHtml = `
     <main class="container py-4">
-      <div class="mb-4">
-        <p class="lead text-muted">${escapeHtml(project.shortDescription)}</p>
-        ${
-          project.longDescription
-            ? `<p class="mt-3">${escapeHtml(project.longDescription)}</p>`
-            : ''
-        }
+      <div class="row align-items-start" id="bp-key-questions">
+        <div class="col-lg-8 mb-4 mb-lg-0">
+          <div class="mb-4">
+            <p class="lead text-muted">${escapeHtml(project.shortDescription)}</p>
+            ${
+              project.longDescription
+                ? `<p class="mt-3">${escapeHtml(project.longDescription)}</p>`
+                : ''
+            }
+          </div>
+        </div>
+        ${questionsCardHtml}
       </div>
-      ${questionsHtml}
-      ${highlightsHtml}
-      ${examplesHtml}
-      ${extraSectionsHtml}
+      <div class="row">
+        <div class="col-lg-10 col-xl-8">
+          ${highlightsHtml}
+          ${examplesHtml}
+          ${extraSectionsHtml}
+        </div>
+      </div>
       ${
         extensionMount
           ? '<section class="mt-5" id="project-extension-root"></section>'
           : ''
       }
+      ${peopleSectionHtml ? `
+        <div class="row">
+          <div class="col-12">
+            ${peopleSectionHtml}
+          </div>
+        </div>
+      ` : ''}
     </main>
   `;
 
   app.innerHTML += pageHeaderHtml + bodyHtml;
+
+  // Initialise key question spotlight
+  if (project.keyQuestions && project.keyQuestions.length > 0) {
+    setupKeyQuestionSpotlight(project.keyQuestions);
+  }
 
   // Mount extension if it exists
   if (extensionMount) {

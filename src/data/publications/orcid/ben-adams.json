@@ -1,0 +1,249 @@
+{
+  "slug": "ben-adams",
+  "orcidId": "0000-0002-1657-9809",
+  "updatedAt": "2025-12-09T23:10:56.332Z",
+  "works": [
+    {
+      "id": "orcid:0000-0002-1657-9809/work/189056555",
+      "title": "Non-Fungible Programs",
+      "year": 2025,
+      "venue": "Ledger",
+      "doi": "10.5195/ledger.2025.406",
+      "openAccessUrl": "https://doi.org/10.5195/ledger.2025.406"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/124681989",
+      "title": "Analysing Environmental Narratives Computationally",
+      "year": 2022,
+      "doi": "10.5334/bcs.c",
+      "openAccessUrl": "https://doi.org/10.5334/bcs.c"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/124681988",
+      "title": "Interdisciplinary Perspectives on Environmental Narratives",
+      "year": 2022,
+      "doi": "10.5334/bcs.b",
+      "openAccessUrl": "https://doi.org/10.5334/bcs.b"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/124681987",
+      "title": "Introduction",
+      "year": 2022,
+      "doi": "10.5334/bcs.a",
+      "openAccessUrl": "https://doi.org/10.5334/bcs.a"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/124681991",
+      "title": "Showing the Potential of Computational Analysis to Support Environmental Narrative Research",
+      "year": 2022,
+      "doi": "10.5334/bcs.d",
+      "openAccessUrl": "https://doi.org/10.5334/bcs.d"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/124681995",
+      "title": "Surveying the Terrain and Looking Forward",
+      "year": 2022,
+      "doi": "10.5334/bcs.l",
+      "openAccessUrl": "https://doi.org/10.5334/bcs.l"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/124681993",
+      "title": "The Wild Process: Constructing Multi-Scalar Environmental Narratives",
+      "year": 2022,
+      "doi": "10.5334/bcs.h",
+      "openAccessUrl": "https://doi.org/10.5334/bcs.h"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/102084537",
+      "title": "Chronotopic information interaction: integrating temporal and spatial structure for historical indexing and interactive search",
+      "year": 2021,
+      "venue": "Digital Scholarship in the Humanities",
+      "doi": "10.1093/llc/fqaa049",
+      "openAccessUrl": "https://doi.org/10.1093/llc/fqaa049"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/103637608",
+      "title": "Natural Language Processing in GIScience Applications",
+      "year": 2021,
+      "venue": "Geographic Information Science & Technology Body of Knowledge",
+      "doi": "10.22224/gistbok/2021.4.5",
+      "openAccessUrl": "https://doi.org/10.22224/gistbok/2021.4.5"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/74636927",
+      "title": "Spatially explicit models for exploring COVID‐19 lockdown strategies",
+      "year": 2020,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/tgis.12660",
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12660"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/57830008",
+      "title": "Where to go and what to do: Extracting leisure activity potentials from Web data on urban space",
+      "year": 2019,
+      "venue": "Computers, Environment and Urban Systems",
+      "doi": "10.1016/j.compenvurbsys.2018.09.005",
+      "openAccessUrl": "https://doi.org/10.1016/j.compenvurbsys.2018.09.005"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/57830007",
+      "title": "Crowdsourcing the character of a place: Character‐level convolutional networks for multilingual geographic text classification",
+      "year": 2018,
+      "venue": "Transactions in GIS",
+      "doi": "10.1111/tgis.12317",
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12317"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29816023",
+      "title": "A data-synthesis-driven method for detecting and extracting vague cognitive regions",
+      "year": 2017,
+      "venue": "International Journal of Geographical Information Science",
+      "doi": "10.1080/13658816.2016.1273357",
+      "openAccessUrl": "https://doi.org/10.1080/13658816.2016.1273357"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815380",
+      "title": "Presenting and preserving the change in taxonomic knowledge for linked data",
+      "year": 2016,
+      "venue": "Semantic Web",
+      "doi": "10.3233/sw-150192",
+      "openAccessUrl": "https://doi.org/10.3233/sw-150192"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815371",
+      "title": "Wāhi, a discrete global grid gazetteer built using linked open data",
+      "year": 2016,
+      "venue": "International Journal of Digital Earth",
+      "doi": "10.1080/17538947.2016.1229819",
+      "openAccessUrl": "https://doi.org/10.1080/17538947.2016.1229819"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815370",
+      "title": "Exploratory Chronotopic Data Analysis",
+      "year": 2016,
+      "venue": "Geographic Information Science",
+      "doi": "10.1007/978-3-319-45738-3_16",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_16"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815501",
+      "title": "Moon Landing or Safari? A Study of Systematic Errors and Their Causes in Geographic Linked Data",
+      "year": 2016,
+      "venue": "Geographic Information Science",
+      "doi": "10.1007/978-3-319-45738-3_18",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_18"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815420",
+      "title": "Things and Strings: Improving Place Name Disambiguation from Short Texts by Combining Entity Co-Occurrence with Topic Modeling",
+      "year": 2016,
+      "venue": "Knowledge Engineering and Knowledge Management",
+      "doi": "10.1007/978-3-319-49004-5_23",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-49004-5_23"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815832",
+      "title": "Thematic signatures for cleansing and enriching place-related linked data",
+      "year": 2015,
+      "venue": "International Journal of Geographical Information Science",
+      "doi": "10.1080/13658816.2014.989855",
+      "openAccessUrl": "https://doi.org/10.1080/13658816.2014.989855"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815780",
+      "title": "Finding similar places using the observation-to-generalization place model",
+      "year": 2015,
+      "venue": "Journal of Geographical Systems",
+      "doi": "10.1007/s10109-015-0209-3",
+      "openAccessUrl": "https://doi.org/10.1007/s10109-015-0209-3"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815721",
+      "title": "Frankenplace",
+      "year": 2015,
+      "venue": "Proceedings of the 24th International Conference on World Wide Web - WWW '15",
+      "doi": "10.1145/2736277.2741137",
+      "openAccessUrl": "https://doi.org/10.1145/2736277.2741137"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815850",
+      "title": "A weighted multi-attribute method for matching user-generated Points of Interest",
+      "year": 2014,
+      "venue": "Cartography and Geographic Information Science",
+      "doi": "10.1080/15230406.2014.880327",
+      "openAccessUrl": "https://doi.org/10.1080/15230406.2014.880327"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815833",
+      "title": "Re-Envisioning Data Description Using Peirce’s Pragmatics",
+      "year": 2014,
+      "venue": "Geographic Information Science",
+      "doi": "10.1007/978-3-319-11593-1_10",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-11593-1_10"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815854",
+      "title": "A Geo-semantics Flyby",
+      "year": 2013,
+      "venue": "Reasoning Web. Semantic Technologies for Intelligent Data Access",
+      "doi": "10.1007/978-3-642-39784-4_6",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39784-4_6"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815857",
+      "title": "A Thematic Approach to User Similarity Built on Geosocial Check-ins",
+      "year": 2013,
+      "venue": "Geographic Information Science at the Heart of Europe",
+      "doi": "10.1007/978-3-319-00615-4_3",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-00615-4_3"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815851",
+      "title": "Weighted multi-attribute matching of user-generated points of interest",
+      "year": 2013,
+      "venue": "Proceedings of the 21st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems - SIGSPATIAL'13",
+      "doi": "10.1145/2525314.2525455",
+      "openAccessUrl": "https://doi.org/10.1145/2525314.2525455"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815941",
+      "title": "Inferring Thematic Places from Spatially Referenced Natural Language Descriptions",
+      "year": 2012,
+      "venue": "Crowdsourcing Geographic Knowledge",
+      "doi": "10.1007/978-94-007-4587-2_12",
+      "openAccessUrl": "https://doi.org/10.1007/978-94-007-4587-2_12"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815952",
+      "title": "Constructing geo-ontologies by reification of observation data",
+      "year": 2011,
+      "venue": "Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems - GIS '11",
+      "doi": "10.1145/2093973.2094015",
+      "openAccessUrl": "https://doi.org/10.1145/2093973.2094015"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815961",
+      "title": "Semantic Referencing – Determining Context Weights for Similarity Measurement",
+      "year": 2010,
+      "venue": "Geographic Information Science",
+      "doi": "10.1007/978-3-642-15300-6_6",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15300-6_6"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815956",
+      "title": "Conceptual Space Markup Language (CSML): Towards the Cognitive Semantic Web",
+      "year": 2009,
+      "venue": "2009 IEEE International Conference on Semantic Computing",
+      "doi": "10.1109/icsc.2009.58",
+      "openAccessUrl": "https://doi.org/10.1109/icsc.2009.58"
+    },
+    {
+      "id": "orcid:0000-0002-1657-9809/work/29815959",
+      "title": "A Metric Conceptual Space Algebra",
+      "year": 2009,
+      "venue": "Spatial Information Theory",
+      "doi": "10.1007/978-3-642-03832-7_4",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-03832-7_4"
+    }
+  ]
+}

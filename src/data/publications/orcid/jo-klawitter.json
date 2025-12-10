@@ -1,0 +1,187 @@
+{
+  "slug": "jo-klawitter",
+  "orcidId": "0000-0001-8917-5269",
+  "updatedAt": "2025-12-09T23:11:13.094Z",
+  "works": [
+    {
+      "id": "orcid:0000-0001-8917-5269/work/180772656",
+      "title": "Visualizing Geophylogenies - Internal and External Labeling with Phylogenetic Tree Constraints",
+      "year": 2025,
+      "venue": "Journal of Graph Algorithms and Applications",
+      "doi": "10.7155/jgaa.v29i1.2975",
+      "openAccessUrl": "https://doi.org/10.7155/jgaa.v29i1.2975"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/177937425",
+      "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
+      "year": 2025,
+      "venue": "PLOS Computational Biology",
+      "doi": "10.1371/journal.pcbi.1012789",
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1012789"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/154172948",
+      "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
+      "year": 2024,
+      "doi": "10.1101/2024.02.20.581316",
+      "openAccessUrl": "https://doi.org/10.1101/2024.02.20.581316"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/184046415",
+      "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
+      "year": 2024,
+      "doi": "10.1101/2024.02.20.581316",
+      "openAccessUrl": "https://doi.org/10.1101/2024.02.20.581316"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/168450106",
+      "title": "Skeletons in the Forest: Using Entropy-Based Rogue Detection on Bayesian Phylogenetic Tree Distributions",
+      "year": 2024,
+      "doi": "10.1101/2024.09.25.615070",
+      "openAccessUrl": "https://doi.org/10.1101/2024.09.25.615070"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/126778968",
+      "title": "Morphing Rectangular Duals",
+      "year": 2023,
+      "doi": "10.1007/978-3-031-22203-0_28",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-22203-0_28"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/126778967",
+      "title": "Outside-Obstacle Representations with All Vertices on the Outer Face",
+      "year": 2023,
+      "doi": "10.1007/978-3-031-22203-0_31",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-22203-0_31"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/150446385",
+      "title": "Tree Drawings with Columns",
+      "year": 2023,
+      "doi": "10.1007/978-3-031-49272-3_14",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-49272-3_14"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/124975621",
+      "title": "Visualizing Multispecies Coalescent Trees: Drawing Gene Trees Inside Species Trees",
+      "year": 2023,
+      "doi": "10.1007/978-3-031-23101-8_7",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-23101-8_7"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/110691758",
+      "title": "Simple algorithms for partial and simultaneous rectangular duals with given contact orientations",
+      "year": 2022,
+      "venue": "Theoretical Computer Science",
+      "doi": "10.1016/j.tcs.2022.03.031",
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2022.03.031"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/110595003",
+      "title": "Algorithms for Floor Planning with Proximity Requirements",
+      "year": 2022,
+      "doi": "10.1007/978-981-19-1280-1_10",
+      "openAccessUrl": "https://doi.org/10.1007/978-981-19-1280-1_10"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/119972763",
+      "title": "The Segment Number: Algorithms and Universal Lower Bounds for Some Classes of Planar Graphs",
+      "year": 2022,
+      "doi": "10.1007/978-3-031-15914-5_20",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-15914-5_20"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/93279677",
+      "title": "Extending Partial Representations of Rectangular Duals with Given Contact Orientations",
+      "year": 2021,
+      "doi": "10.1007/978-3-030-75242-2_24",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-75242-2_24"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/105187334",
+      "title": "Upward Planar Drawings with Three and More Slopes",
+      "year": 2021,
+      "doi": "10.1007/978-3-030-92931-2_11",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-92931-2_11"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/83403798",
+      "title": "The agreement distance of unrooted phylogenetic networks",
+      "year": 2020,
+      "venue": "Discrete Mathematics & Theoretical Computer Science ; vol. 22 no. 1 ; Graph Theory ; 1365-8050",
+      "doi": "10.23638/DMTCS-22-1-22",
+      "openAccessUrl": "https://doi.org/10.23638/DMTCS-22-1-22"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/181527040",
+      "title": "The agreement distance of unrooted phylogenetic networks",
+      "year": 2020,
+      "venue": "Discrete Mathematics & Theoretical Computer Science",
+      "doi": "10.23638/DMTCS-22-1-22",
+      "openAccessUrl": "https://doi.org/10.23638/DMTCS-22-1-22"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/88781750",
+      "title": "Drawing Tree-Based Phylogenetic Networks with Minimum Number of Crossings",
+      "year": 2020,
+      "doi": "10.1007/978-3-030-68766-3_14",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-68766-3_14"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/83403542",
+      "title": "On the Subnet Prune and Regraft Distance",
+      "year": 2019,
+      "venue": "The Electronic Journal of Combinatorics",
+      "doi": "10.37236/7860",
+      "openAccessUrl": "https://doi.org/10.37236/7860"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/83403643",
+      "title": "Rearrangement operations on unrooted phylogenetic networks",
+      "year": 2019,
+      "venue": "Theory and Applications of Graphs",
+      "doi": "10.20429/tag.2019.060206",
+      "openAccessUrl": "https://doi.org/10.20429/tag.2019.060206"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/83403579",
+      "title": "The agreement distance of rooted phylogenetic networks",
+      "year": 2019,
+      "venue": "Discrete Mathematics & Theoretical Computer Science ; Vol. 21 no. 3  ; 1365-8050",
+      "doi": "10.23638/DMTCS-21-3-19",
+      "openAccessUrl": "https://doi.org/10.23638/DMTCS-21-3-19"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/181527039",
+      "title": "The agreement distance of rooted phylogenetic networks",
+      "year": 2019,
+      "venue": "Discrete Mathematics & Theoretical Computer Science",
+      "doi": "10.23638/DMTCS-21-3-19",
+      "openAccessUrl": "https://doi.org/10.23638/DMTCS-21-3-19"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/55025787",
+      "title": "Experimental evaluation of book drawing algorithms",
+      "year": 2018,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-73915-1_19",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-73915-1_19"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/83403512",
+      "title": "The SNPR neighbourhood of tree-child networks",
+      "year": 2018,
+      "venue": "Journal of Graph Algorithms and Applications",
+      "doi": "10.7155/jgaa.00472",
+      "openAccessUrl": "https://doi.org/10.7155/jgaa.00472"
+    },
+    {
+      "id": "orcid:0000-0001-8917-5269/work/55025788",
+      "title": "Combinatorial properties of triangle-free rectangle arrangements and the squarability problem",
+      "year": 2015,
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "doi": "10.1007/978-3-319-27261-0_20",
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-27261-0_20"
+    }
+  ]
+}

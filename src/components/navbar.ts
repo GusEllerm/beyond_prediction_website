@@ -14,6 +14,9 @@ function getActiveLink(): string | null {
   if (pathname === '/people.html' || pathname === '/person.html') {
     return 'people';
   }
+  if (pathname === '/reports.html' || pathname === '/report.html') {
+    return 'reports';
+  }
 
   return null;
 }
@@ -58,6 +61,9 @@ export function renderNavbar(container: HTMLElement): void {
               </li>
               <li class="nav-item">
                 <a class="${getNavLinkClass('people')}" href="/people.html" ${getNavLinkAria('people')}>People</a>
+              </li>
+              <li class="nav-item">
+                <a class="${getNavLinkClass('reports')}" href="/reports.html" ${getNavLinkAria('reports')}>Annual Reports</a>
               </li>
             </ul>
           </div>

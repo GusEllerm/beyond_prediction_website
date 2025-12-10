@@ -14,7 +14,11 @@ import { renderBreadcrumb } from './components/breadcrumb';
 
 // Import data
 import { partners } from './data/partners';
-import { allPeople, type Person } from './data/people';
+import {
+  allPeople,
+  type Person,
+  type PublicationSource,
+} from './data/people';
 import type {
   PersonPublication,
   PersonPublicationsSnapshot,
@@ -31,24 +35,51 @@ if (!navbarContainer || !app || !footerContainer) {
 renderNavbar(navbarContainer);
 footerContainer.innerHTML = renderFooter(partners);
 
-// Load all publication snapshots
-const publicationsModules = import.meta.glob('./data/publications/*.json', {
+// Load all publication snapshots from both sources
+const openAlexSnapshots = import.meta.glob(
+  './data/publications/openalex/*.json',
+  {
+    eager: true,
+  }
+) as Record<string, { default: PersonPublicationsSnapshot }>;
+
+const orcidSnapshots = import.meta.glob('./data/publications/orcid/*.json', {
   eager: true,
 }) as Record<string, { default: PersonPublicationsSnapshot }>;
 
 /**
- * Gets publications for a person by their slug
- * @param slug - The person slug
- * @returns Array of publications or null if not found
+ * Gets publications snapshot for a person based on their publicationSource
+ * @param person - The person object
+ * @returns The publications snapshot or null if not found
  */
-function getPublicationsForSlug(slug: string): PersonPublication[] | null {
-  for (const [path, mod] of Object.entries(publicationsModules)) {
-    // path example: "./data/publications/mark-gahegan.json"
-    if (path.endsWith(`/publications/${slug}.json`)) {
-      return mod.default.works ?? [];
+function getSnapshotForPerson(
+  person: Person
+): PersonPublicationsSnapshot | null {
+  const source: PublicationSource = person.publicationSource ?? 'openalex';
+
+  const modules = source === 'orcid' ? orcidSnapshots : openAlexSnapshots;
+
+  const targetSuffix = `/${person.slug}.json`;
+  for (const [path, mod] of Object.entries(modules)) {
+    if (path.endsWith(targetSuffix)) {
+      const data = (mod as any).default ?? mod;
+      return data as PersonPublicationsSnapshot;
     }
   }
+
   return null;
+}
+
+/**
+ * Gets publications for a person
+ * @param person - The person object
+ * @returns Array of publications or null if not found
+ */
+function getPublicationsForPerson(
+  person: Person
+): PersonPublication[] | null {
+  const snapshot = getSnapshotForPerson(person);
+  return snapshot?.works ?? null;
 }
 
 /**
@@ -69,14 +100,24 @@ function getPublicationUrl(work: PersonPublication): string {
 
 /**
  * Renders the publications section HTML as Bootstrap cards
+ * @param person - The person object (to determine source)
  * @param publications - Array of publications or null
  * @returns HTML string for the publications section
  */
 function renderPublicationsSection(
+  person: Person,
   publications: PersonPublication[] | null
 ): string {
+  const source: PublicationSource = person.publicationSource ?? 'openalex';
+  const sourceLabel = source === 'orcid' ? 'ORCID' : 'OpenAlex';
+
   if (!publications || publications.length === 0) {
-    return '';
+    return `
+      <section class="mt-4" aria-labelledby="recent-publications-heading">
+        <h2 id="recent-publications-heading" class="h5 mb-2">Recent publications (${sourceLabel})</h2>
+        <p class="text-muted mb-0">No publications found.</p>
+      </section>
+    `;
   }
 
   const cardsHtml = publications
@@ -109,12 +150,12 @@ function renderPublicationsSection(
 
   return `
     <section class="mt-4" aria-labelledby="recent-publications-heading">
-      <h2 id="recent-publications-heading" class="h5 mb-3">Recent publications</h2>
+      <h2 id="recent-publications-heading" class="h5 mb-3">Recent publications (${sourceLabel})</h2>
       <div class="row row-cols-1 g-3">
         ${cardsHtml}
       </div>
       <p class="text-muted small mt-2 mb-0">
-        Publications retrieved from the OpenAlex API (snapshot updated periodically).
+        Publications retrieved from the ${sourceLabel} API (snapshot updated periodically).
       </p>
     </section>
   `;
@@ -129,6 +170,69 @@ function escapeHtml(text: string): string {
   const div = document.createElement('div');
   div.textContent = text;
   return div.innerHTML;
+}
+
+
+/**
+ * Renders the biography section for a person
+ * @param person - The person object
+ * @returns HTML string for the biography section
+ */
+function renderBiographySection(person: Person): string {
+  if (!person.bio) {
+    return `
+      <section class="mb-4">
+        <h2 class="h5 mb-2">Biography</h2>
+        <p class="text-muted mb-0">
+          Profile details will be added soon.
+        </p>
+      </section>
+    `;
+  }
+
+  const bioSourcesHtml = renderBioSources(person);
+
+  return `
+    <section class="mb-4">
+      <h2 class="h5 mb-2">Biography</h2>
+      <p class="mb-0">
+        ${escapeHtml(person.bio)}
+      </p>
+      ${bioSourcesHtml}
+    </section>
+  `;
+}
+
+/**
+ * Renders the biography sources section
+ * @param person - The person object
+ * @returns HTML string for the sources section, or empty string if no sources
+ */
+function renderBioSources(person: Person): string {
+  if (!person.bioSources || person.bioSources.length === 0) {
+    return '';
+  }
+
+  const items = person.bioSources
+    .map(
+      (source) => `
+        <li class="small">
+          <a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">
+            ${escapeHtml(source.label)}
+          </a>
+        </li>
+      `
+    )
+    .join('');
+
+  return `
+    <div class="mt-2">
+      <h3 class="visually-hidden">Biography sources</h3>
+      <ul class="mb-0 ps-3">
+        ${items}
+      </ul>
+    </div>
+  `;
 }
 
 /**
@@ -217,12 +321,8 @@ function renderPersonDetailBody(p: Person): string {
     ? `<div class="d-flex flex-wrap gap-2">${badges.join('')}</div>`
     : '';
 
-  // Bio text
-  const bioLong = p.bioLong
-    ? `<p>${escapeHtml(p.bioLong)}</p>`
-    : p.bioShort
-      ? `<p>${escapeHtml(p.bioShort)}</p>`
-      : '<p class="text-muted">Profile details will be added soon.</p>';
+  // Biography section
+  const biographySectionHtml = renderBiographySection(p);
 
   // Contact section (for aside column)
   const contactItems: string[] = [];
@@ -280,13 +380,14 @@ function renderPersonDetailBody(p: Person): string {
 
   // Right column: name, bio, publications
   // Get publications for this person
-  const publications = getPublicationsForSlug(p.slug);
-  const publicationsSectionHtml = renderPublicationsSection(publications);
+  const publications = getPublicationsForPerson(p);
+  const publicationsSectionHtml = renderPublicationsSection(p, publications);
 
   const mainColumn = `
     <section class="col-md-8 col-lg-9 mb-4">
       <h1 class="display-5 mb-2">${safeName}</h1>
-      ${bioLong}
+      ${p.title ? `<p class="text-muted mb-3">${escapeHtml(p.title)}</p>` : ''}
+      ${biographySectionHtml}
       ${publicationsSectionHtml}
     </section>
   `;
