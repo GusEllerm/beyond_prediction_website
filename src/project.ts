@@ -164,10 +164,10 @@ function initProjectPage(): void {
   const project = findProjectDetail(slug);
 
   // Render navbar
-  const navbarContainer = document.createElement('div');
-  navbarContainer.id = 'navbar-container';
-  app.appendChild(navbarContainer);
-  renderNavbar(navbarContainer);
+    const navbarContainer = document.createElement('div');
+    navbarContainer.id = 'navbar-container';
+    app.appendChild(navbarContainer);
+    renderNavbar(navbarContainer);
 
   if (!project) {
     // Project not found - render error page
@@ -251,21 +251,21 @@ function initProjectPage(): void {
         <div class="row g-3">
           ${project.examples
             .map(
-              (example) => `
+              (example) => {
+                const exampleUrl = `/example.html?project=${encodeURIComponent(project.slug)}&example=${encodeURIComponent(example.slug)}`;
+                return `
                 <div class="col-md-6">
-                  <div class="card h-100">
-                    <div class="card-body">
-                      <h3 class="h5 card-title">${escapeHtml(example.title)}</h3>
-                      <p class="card-text">${escapeHtml(example.description)}</p>
-                      ${
-                        example.linkUrl
-                          ? `<a href="${escapeHtml(example.linkUrl)}" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener noreferrer">View example</a>`
-                          : ''
-                      }
+                  <a href="${exampleUrl}" class="text-decoration-none text-reset d-block h-100">
+                    <div class="card h-100">
+                      <div class="card-body">
+                        <h3 class="h5 card-title">${escapeHtml(example.title)}</h3>
+                        <p class="card-text">${escapeHtml(example.description)}</p>
+                      </div>
                     </div>
-                  </div>
+                  </a>
                 </div>
-              `
+              `;
+              }
             )
             .join('')}
         </div>
@@ -307,7 +307,7 @@ function initProjectPage(): void {
     themePeople.length === 0
       ? `
         <section class="mt-5">
-          <h2 class="h4 mb-3">Associated people</h2>
+          <h2 class="h4 mb-3">People</h2>
           <p class="text-muted small mb-0">
             Theme members will be listed here soon.
           </p>
@@ -315,7 +315,7 @@ function initProjectPage(): void {
       `
       : `
         <section class="mt-5">
-          <h2 class="h4 mb-3">Associated people</h2>
+          <h2 class="h4 mb-3">People</h2>
           <div class="row g-4">
             ${themePeople.map(renderPersonCard).join('')}
           </div>
@@ -334,22 +334,28 @@ function initProjectPage(): void {
                 ? `<p class="mt-3">${escapeHtml(project.longDescription)}</p>`
                 : ''
             }
+            ${highlightsHtml}
           </div>
         </div>
         ${questionsCardHtml}
-      </div>
-      <div class="row">
-        <div class="col-lg-10 col-xl-8">
-          ${highlightsHtml}
-          ${examplesHtml}
-          ${extraSectionsHtml}
-        </div>
       </div>
       ${
         extensionMount
           ? '<section class="mt-5" id="project-extension-root"></section>'
           : ''
       }
+      ${examplesHtml ? `
+        <div class="row">
+          <div class="col-12">
+            ${examplesHtml}
+          </div>
+        </div>
+      ` : ''}
+      <div class="row">
+        <div class="col-lg-10 col-xl-8">
+          ${extraSectionsHtml}
+        </div>
+      </div>
       ${peopleSectionHtml ? `
         <div class="row">
           <div class="col-12">

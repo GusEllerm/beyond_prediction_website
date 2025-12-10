@@ -173,6 +173,17 @@ body {
   padding-right: 0;
 }
 
+/* Ensure navbar-toggler doesn't affect layout on desktop */
+@media (min-width: 992px) {
+  .bp-header > .navbar:first-child .navbar-toggler {
+    display: none;
+  }
+  
+  .bp-header > .navbar:first-child .navbar-collapse {
+    display: flex !important;
+  }
+}
+
 /* University logo in bottom navbar - scale proportionally to navbar height */
 /* Navbar has py-3 (1rem top + 1rem bottom = 2rem padding) + content height */
 /* Logo should be roughly 70-80% of total navbar height */
@@ -403,6 +414,41 @@ body {
   margin-bottom: 1.5rem;
 }
 
+/* Example content styling (similar to report content) */
+.bp-example-content {
+  line-height: 1.7;
+}
+
+.bp-example-content h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+
+.bp-example-content h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #212529;
+}
+
+.bp-example-content ul,
+.bp-example-content ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.bp-example-content li {
+  margin-bottom: 0.5rem;
+}
+
+.bp-example-content p {
+  margin-bottom: 1rem;
+}
+
 /* Sticky sidebar for reports page */
 .bp-sticky-sidebar {
   position: sticky;
@@ -528,6 +574,30 @@ body {
   }
   
   .bp-iframe-section {
+    min-height: auto;
+  }
+}
+
+/* Sticky showcase annotations for example pages */
+.bp-showcase-section {
+  min-height: 400px; /* Ensure sections have enough height for sticky effect */
+}
+
+.bp-showcase-annotation {
+  position: sticky;
+  top: 2rem; /* Offset from top when sticky */
+  padding-left: 2rem; /* Adjusted for right-side annotation */
+}
+
+@media (max-width: 991.98px) {
+  .bp-showcase-annotation {
+    position: static; /* Disable sticky on smaller screens */
+    padding-left: 0;
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  .bp-showcase-section {
     min-height: auto;
   }
 }

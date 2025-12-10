@@ -163,8 +163,8 @@ async function renderReport(): Promise<void> {
         ${downloadButtons.join('')}
       </div>
     </div>
-  `
-      : '';
+    `
+    : '';
 
   const breadcrumbHtml = renderBreadcrumb([
     { label: 'Home', href: '/' },

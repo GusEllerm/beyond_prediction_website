@@ -122,8 +122,12 @@ function renderReportsTimeline(): void {
             </p>
           </header>
           ${forwardPlanBannerHtml}
-          ${latestReportSection}
-          <section class="mb-4">
+        ${latestReportSection}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-10 col-xl-8">
+          <section class="mb-4" id="all-reports-section">
             <h2 class="h5 mb-3">All annual reports</h2>
             <div class="bp-timeline-wrapper">
               <ul class="bp-timeline list-unstyled mb-0">

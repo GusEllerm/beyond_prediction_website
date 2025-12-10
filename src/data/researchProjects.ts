@@ -1,10 +1,23 @@
 /**
+ * Showcase type for example features
+ */
+export type ExampleShowcaseKind = 'image' | 'iframe' | 'video' | 'html';
+
+/**
  * Project example interface for showcasing specific examples or case studies
  */
 export interface ProjectExample {
+  slug: string; // unique, URL-safe identifier for the example (lowercase, hyphen-separated)
   title: string;
-  description: string;
-  linkUrl?: string;
+  description: string; // general description of the example
+  
+  // Showcase feature (primary visual/interactive element)
+  showcaseKind?: ExampleShowcaseKind;
+  showcaseSource?: string; // URL for iframe/image/video, or HTML string for html kind
+  showcaseDescription?: string; // description specific to the showcase feature
+  
+  // Associated publications (OpenAlex work IDs)
+  publicationIds?: string[]; // e.g. ["https://openalex.org/W12345", "https://openalex.org/W67890"]
 }
 
 /**
@@ -71,15 +84,30 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
-        title: 'Example: Vegetation Index LivePublication',
+        slug: 'early-proof-of-concept',
+        title: 'Early Proof of Concept',
         description:
-          'A live article that updates automatically as new satellite data arrives, with interactive visualizations that reflect current environmental conditions.',
-        linkUrl: '#',
+          'An early demonstration of the LivePublication framework showcasing how static research papers can be transformed into living documents that update automatically as new data and code become available.',
+        showcaseKind: 'iframe',
+        showcaseSource: 'https://livepublication.github.io/LP_Pub_LID/',
+        showcaseDescription:
+          'An early example of LivePublication demonstrating live, updating components and generative content for computationally driven sciences.',
+        publicationIds: [
+          'https://openalex.org/W4387005217', // LivePublication: The Science Workflow Creates and Updates the Publication
+          'https://openalex.org/W4414260950', // GIScience in the era of Artificial Intelligence
+          'https://openalex.org/W4398184796', // Faithful Reasoning over Scientific Claims
+        ],
       },
       {
-        title: 'Example: Climate Model Validation',
+        slug: 'new-zealand-coastal-dynamics',
+        title: 'New Zealand Coastal Dynamics',
         description:
-          'A research paper that includes live model runs, allowing readers to explore different scenarios and see results update in real-time.',
+          'A live research article tracking coastal changes in New Zealand, with visualizations and analyses that update automatically as new satellite and monitoring data arrives.',
+        showcaseKind: 'iframe',
+        showcaseSource: 'https://coastsat.livepublication.org/#6/-42.000/172.000',
+        showcaseDescription:
+          'A live article that updates automatically as new satellite data arrives, with interactive visualizations.',
+        // publicationIds: [], // Add publication IDs here when available
       },
     ],
   },
@@ -104,12 +132,13 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
+        slug: 'hallucination-detection-demo',
         title: 'Hallucination Detection Demo',
         description:
           'A case study demonstrating AI summarization of scientific articles with automatic detection of fabricated or unreliable claims.',
-        linkUrl: '#',
       },
       {
+        slug: 'explainable-model-decisions',
         title: 'Explainable Model Decisions',
         description:
           'Tools that reveal the reasoning chain behind AI predictions, showing which features and data points influenced the final decision.',
@@ -137,11 +166,13 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
+        slug: 'literature-knowledge-graph',
         title: 'Literature Knowledge Graph',
         description:
           'A knowledge graph automatically constructed from research papers, enabling discovery of connections between papers, methods, and findings.',
       },
       {
+        slug: 'dynamic-review-generation',
         title: 'Dynamic Review Generation',
         description:
           'An automatically updating literature review that incorporates new papers as they are published, maintaining currentness without manual updates.',
@@ -169,11 +200,13 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
+        slug: 'tumor-evolution-analysis',
         title: 'Tumor Evolution Analysis',
         description:
           'Using single-cell genomic data to reconstruct the evolutionary history of tumors and identify key mutation events.',
       },
       {
+        slug: 'human-population-genomics',
         title: 'Human Population Genomics',
         description:
           'Large-scale analysis of human genomic diversity to understand migration patterns and population structure.',
@@ -203,11 +236,13 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
+        slug: 'invasive-species-risk-assessment',
         title: 'Invasive Species Risk Assessment',
         description:
           'Models that predict the likelihood and impact of potential invasive species based on climate, habitat, and species traits.',
       },
       {
+        slug: 'ecosystem-resilience-mapping',
         title: 'Ecosystem Resilience Mapping',
         description:
           'Tools that identify areas of high ecosystem resilience and vulnerability to guide conservation efforts.',
@@ -235,11 +270,13 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
+        slug: 'community-data-governance-model',
         title: 'Community Data Governance Model',
         description:
           'A framework for genomic research that centers community control over data collection, use, and sharing.',
       },
       {
+        slug: 'health-equity-analysis-tools',
         title: 'Health Equity Analysis Tools',
         description:
           'Genomic tools designed to address health disparities while respecting cultural protocols and community needs.',
@@ -267,12 +304,13 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
+        slug: 'resbaz-aotearoa',
         title: 'ResBaz Aotearoa',
         description:
           'Annual community conference bringing together researchers, developers, and data scientists to share skills and build networks.',
-        linkUrl: '#',
       },
       {
+        slug: 'carpentries-workshops',
         title: 'Carpentries Workshops',
         description:
           'Regular workshops teaching foundational coding and data science skills to researchers across disciplines.',

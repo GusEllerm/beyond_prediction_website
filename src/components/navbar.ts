@@ -80,8 +80,8 @@ export function renderNavbar(container: HTMLElement): void {
               />
             </a>
             <a href="/" class="text-decoration-none">
-              <span class="fw-semibold">Beyond Prediction</span>
-            </a>
+            <span class="fw-semibold">Beyond Prediction</span>
+          </a>
           </div>
           <form class="col-12 col-lg-4 mb-2 mb-lg-0" role="search" id="bp-search-form">
             <input

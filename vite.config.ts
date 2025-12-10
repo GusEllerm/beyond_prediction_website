@@ -13,6 +13,7 @@ export default defineConfig({
       input: {
         main: './index.html',
         project: './project.html',
+        example: './example.html',
         search: './search.html',
         about: './about.html',
         people: './people.html',

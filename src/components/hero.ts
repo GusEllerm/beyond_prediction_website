@@ -172,7 +172,7 @@ export function renderHero(container: HTMLElement): void {
               </div>
               <a href="/forward-plan.html" class="btn btn-light btn-sm mt-2 mt-md-0">
                 View forward plan
-              </a>
+            </a>
             </div>
           </div>
           <div class="col-lg-6">
