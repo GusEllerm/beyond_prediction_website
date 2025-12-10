@@ -17,6 +17,8 @@ export default defineConfig({
         about: './about.html',
         people: './people.html',
         person: './person.html',
+        reports: './reports.html',
+        report: './report.html',
       },
     },
   },
