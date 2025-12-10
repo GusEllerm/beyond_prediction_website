@@ -31,7 +31,7 @@ footerContainer.innerHTML = renderFooter(partners);
  */
 async function loadForwardPlanHtml(): Promise<string> {
   try {
-    const response = await fetch('/src/content/forward-plan-2025-2026.html');
+    const response = await fetch('/content/forward-plan-2025-2026.html');
     if (!response.ok) {
       throw new Error(`HTTP ${response.status} ${response.statusText}`);
     }

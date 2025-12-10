@@ -21,7 +21,7 @@ export const reports: AnnualReport[] = [
     toYear: 2021,
     title: 'Annual Report 2020–2021',
     summary: 'Placeholder summary for the 2020–2021 Beyond Prediction annual report.',
-    htmlPartialPath: '/src/content/reports/2020-2021.html',
+    htmlPartialPath: '/content/reports/2020-2021.html',
   },
   {
     slug: '2021-2022',
@@ -29,7 +29,7 @@ export const reports: AnnualReport[] = [
     toYear: 2022,
     title: 'Annual Report 2021–2022',
     summary: 'Placeholder summary for the 2021–2022 Beyond Prediction annual report.',
-    htmlPartialPath: '/src/content/reports/2021-2022.html',
+    htmlPartialPath: '/content/reports/2021-2022.html',
   },
   {
     slug: '2022-2023',
@@ -37,7 +37,7 @@ export const reports: AnnualReport[] = [
     toYear: 2023,
     title: 'Annual Report 2022–2023',
     summary: 'Placeholder summary for the 2022–2023 Beyond Prediction annual report.',
-    htmlPartialPath: '/src/content/reports/2022-2023.html',
+    htmlPartialPath: '/content/reports/2022-2023.html',
   },
   {
     slug: '2023-2024',
@@ -45,7 +45,7 @@ export const reports: AnnualReport[] = [
     toYear: 2024,
     title: 'Annual Report 2023–2024',
     summary: 'Placeholder summary for the 2023–2024 Beyond Prediction annual report.',
-    htmlPartialPath: '/src/content/reports/2023-2024.html',
+    htmlPartialPath: '/content/reports/2023-2024.html',
   },
   {
     slug: '2024-2025',
@@ -53,7 +53,7 @@ export const reports: AnnualReport[] = [
     toYear: 2025,
     title: 'Annual Report 2024–2025',
     summary: 'Placeholder summary for the 2024–2025 Beyond Prediction annual report.',
-    htmlPartialPath: '/src/content/reports/2024-2025.html',
+    htmlPartialPath: '/content/reports/2024-2025.html',
   },
 ];
 
