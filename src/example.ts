@@ -327,13 +327,9 @@ function renderExample(): void {
         <h1 class="h3 mb-1">${escapeHtml(example.title)}</h1>
         <p class="text-muted mb-0">Project from ${escapeHtml(project.title)}</p>
       </header>
-      <div class="row">
-        <div class="col-lg-10 col-xl-8">
-          <section class="bp-example-content">
-            <p class="lead">${escapeHtml(example.description)}</p>
-          </section>
-        </div>
-      </div>
+      <section class="bp-example-content mb-4">
+        <p class="lead">${escapeHtml(example.description)}</p>
+      </section>
       ${showcaseContent
         ? example.showcaseDescription
           ? `
