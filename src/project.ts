@@ -212,42 +212,31 @@ function initProjectPage(): void {
   const questionsCardHtml =
     project.keyQuestions && project.keyQuestions.length > 0
       ? `
-            <div class="col-lg-4">
-              <div class="card shadow-sm bp-key-question-card">
-                <div class="card-body">
-                  <p class="lead mb-1 d-flex align-items-start" id="bp-key-question-text">
-                    <span
-                      class="rounded-circle bg-primary-subtle text-primary d-flex align-items-center justify-content-center me-2 flex-shrink-0"
-                      style="width: 32px; height: 32px; font-size: 1.1rem; margin-top: 0.125rem;"
-                    >
-                      <span class="fw-bold">?</span>
-                    </span>
+            <div class="col-lg-4 d-flex">
+              <div class="card shadow-sm bp-key-question-card w-100 h-100">
+                <div class="card-body d-flex flex-column justify-content-center h-100 position-relative">
+                  <span
+                    class="rounded-circle bg-primary-subtle text-primary d-flex align-items-center justify-content-center position-absolute top-0 start-0 bp-key-question-icon"
+                    style="width: 32px; height: 32px; font-size: 1.1rem; margin: 1rem;"
+                  >
+                    <span class="fw-bold">?</span>
+                  </span>
+                  <p class="lead mb-1" id="bp-key-question-text" style="padding-left: 32px;">
                     <span id="bp-key-question-content"></span>
                   </p>
-                  <p class="text-muted small mb-0" id="bp-key-question-counter"></p>
+                  <p class="text-muted small mb-0 position-absolute bottom-0 end-0 me-3 mb-3" id="bp-key-question-counter"></p>
                 </div>
               </div>
             </div>
     `
       : '';
 
-  const highlightsHtml =
-    project.highlights && project.highlights.length > 0
-      ? `
-      <section class="mb-5">
-        <h2 class="h4 mb-3">Highlights</h2>
-        <ul class="list-unstyled">
-          ${project.highlights.map((h) => `<li class="mb-2">• ${escapeHtml(h)}</li>`).join('')}
-        </ul>
-      </section>
-    `
-      : '';
 
   const examplesHtml =
     project.examples && project.examples.length > 0
       ? `
-      <section class="mb-5">
-        <h2 class="h4 mb-3">Examples</h2>
+      <section class="mt-5">
+        <h2 class="h4 mb-2">Research</h2>
         <div class="row g-3">
           ${project.examples
             .map(
@@ -259,7 +248,7 @@ function initProjectPage(): void {
                     <div class="card h-100">
                       <div class="card-body">
                         <h3 class="h5 card-title">${escapeHtml(example.title)}</h3>
-                        <p class="card-text">${escapeHtml(example.description)}</p>
+                        <p class="card-text">${escapeHtml(example.shortDescription ?? example.description)}</p>
                       </div>
                     </div>
                   </a>
@@ -307,7 +296,7 @@ function initProjectPage(): void {
     themePeople.length === 0
       ? `
         <section class="mt-5">
-          <h2 class="h4 mb-3">People</h2>
+          <h2 class="h4 mb-2">People</h2>
           <p class="text-muted small mb-0">
             Theme members will be listed here soon.
           </p>
@@ -315,8 +304,8 @@ function initProjectPage(): void {
       `
       : `
         <section class="mt-5">
-          <h2 class="h4 mb-3">People</h2>
-          <div class="row g-4">
+          <h2 class="h4 mb-2">People</h2>
+          <div class="row g-3">
             ${themePeople.map(renderPersonCard).join('')}
           </div>
         </section>
@@ -325,16 +314,15 @@ function initProjectPage(): void {
   // Build body content
   const bodyHtml = `
     <main class="container py-4">
-      <div class="row align-items-start" id="bp-key-questions">
-        <div class="col-lg-8 mb-4 mb-lg-0">
-          <div class="mb-4">
+      <div class="row align-items-stretch" id="bp-key-questions">
+        <div class="col-lg-8 mb-4 mb-lg-0 d-flex">
+          <div class="flex-grow-1">
             <p class="lead text-muted">${escapeHtml(project.shortDescription)}</p>
             ${
               project.longDescription
                 ? `<p class="mt-3">${escapeHtml(project.longDescription)}</p>`
                 : ''
             }
-            ${highlightsHtml}
           </div>
         </div>
         ${questionsCardHtml}

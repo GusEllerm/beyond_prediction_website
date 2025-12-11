@@ -51,8 +51,17 @@ body {
 }
 
 /* Hero carousel styles */
+#bp-hero-carousel .carousel-inner {
+  height: 460px; /* Fixed height for consistent carousel size */
+}
+
+#bp-hero-carousel .carousel-item {
+  height: 460px; /* Match carousel-inner height */
+}
+
 .bp-hero-slide {
-  min-height: 260px;
+  height: 100%;
+  min-height: 450px;
   display: flex;
   flex-direction: column;
 }
@@ -60,6 +69,28 @@ body {
 .bp-hero-slide .ratio {
   border-radius: 0.75rem;
   overflow: hidden;
+}
+
+/* Hero image container - allows images to fit naturally without forced aspect ratio */
+.bp-hero-image-container {
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* Default to 16:9 aspect ratio for container */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.75rem;
+}
+
+.bp-hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 
 /* Hero carousel controls - ensure they're always visible */

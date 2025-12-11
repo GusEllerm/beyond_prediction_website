@@ -426,7 +426,8 @@ export const industryPartners: Person[] = [
     email: 'nokome@stenci.la',
     orcidId: '0000-0003-1608-7967',
     themeSlugs: [
-      'live-research-articles'
+      'live-research-articles',
+      'ai-research-literature'
     ],
     bio: "Nokome Bentley is a marine scientist and data scientist, and the founder of Stencila, an open-source platform for reproducible, data-driven documents. He has more than two decades of experience in fisheries science and environmental data analysis, and works as a principal data scientist with Dragonfly Data Science. Nokome's recent work explores how generative AI can support transparent and provenance-aware scientific writing. He contributes to the project through his expertise in reproducible research tooling, open science and software engineering for scientific publishing.",
     bioSources: [

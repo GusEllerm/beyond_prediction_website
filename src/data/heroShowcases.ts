@@ -40,27 +40,19 @@ export const heroShowcases: HeroShowcase[] = [
     ctaHref: '/project.html?project=live-research-articles',
   },
   {
-    id: 'genomics',
-    title: 'Genomics and phylogenies',
-    summary: 'Interactive evolutionary trees and uncertainty visualisations.',
-    kind: 'video',
-    videoSrc: '/assets/hero-genomics-placeholder.mp4', // placeholder
+    id: 'echology',
+    title: 'Echology and Evolution',
+    summary: 'Studying sex differences in genetic recombination helps explain how genomes evolve and guides modern conservation of threatened species.',
+    kind: 'image',
+    imageUrl: '/showcase/hehe.png', // placeholder
   },
   {
-    id: 'custom-html',
+    id: 'stencila',
     title: 'AI for research literature',
-    summary: 'Turning static papers into queryable, living documents.',
-    kind: 'html',
-    html: `
-      <div class="ratio ratio-16x9 d-flex align-items-center justify-content-center bg-light rounded">
-        <div class="text-center px-3">
-          <p class="mb-1 fw-semibold">AI for research literature</p>
-          <p class="mb-0 small text-muted">Prototype view of a dynamic literature graph (placeholder).</p>
-        </div>
-      </div>
-    `,
-    ctaLabel: 'Learn more',
-    ctaHref: '/project.html?project=ai-research-literature',
+    summary: 'Exploring state of the art publication mediums for science.',
+    kind: 'image',
+    imageUrl: '/showcase/stencila.png',
+    imageAlt: 'Stencila logo',
   },
 ];
 

@@ -69,11 +69,11 @@ function renderShowcaseContent(showcase: HeroShowcase, index: number): string {
     case 'image':
       if (!showcase.imageUrl) return '';
       return `
-        <div class="ratio ratio-16x9">
+        <div class="bp-hero-image-container">
           <img
             src="${escapeHtml(showcase.imageUrl)}"
             alt="${escapeHtml(showcase.imageAlt ?? '')}"
-            class="img-fluid rounded"
+            class="bp-hero-image rounded"
           />
         </div>
       `;

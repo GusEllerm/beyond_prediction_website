@@ -229,8 +229,8 @@ function renderPublicationsSection(publications: PersonPublication[]): string {
     .join('');
 
   return `
-    <section class="mt-5">
-      <h2 class="h4 mb-3">Associated publications</h2>
+    <section class="mt-4">
+      <h2 class="h4 mb-2">Associated publications</h2>
       <div class="row row-cols-1 g-3">
         ${cardsHtml}
       </div>
@@ -325,7 +325,7 @@ function renderExample(): void {
     <main class="container py-4">
       <header class="mb-4">
         <h1 class="h3 mb-1">${escapeHtml(example.title)}</h1>
-        <p class="text-muted mb-0">Example from ${escapeHtml(project.title)}</p>
+        <p class="text-muted mb-0">Project from ${escapeHtml(project.title)}</p>
       </header>
       <div class="row">
         <div class="col-lg-10 col-xl-8">
@@ -339,7 +339,7 @@ function renderExample(): void {
           ? `
             <div class="row">
               <div class="col-lg-10 col-xl-8">
-                <div class="bp-showcase-section mb-5">
+                <div class="bp-showcase-section mb-0">
                   ${showcaseContent}
                 </div>
               </div>
@@ -360,11 +360,13 @@ function renderExample(): void {
             </div>
           `
         : ''}
-      <div class="row">
-        <div class="col-lg-10 col-xl-8">
-          ${publicationsHtml}
+      ${publicationsHtml ? `
+        <div class="row">
+          <div class="col-12">
+            ${publicationsHtml}
+          </div>
         </div>
-      </div>
+      ` : ''}
     </main>
   `;
 }

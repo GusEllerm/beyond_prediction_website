@@ -10,6 +10,7 @@ export interface ProjectExample {
   slug: string; // unique, URL-safe identifier for the example (lowercase, hyphen-separated)
   title: string;
   description: string; // general description of the example
+  shortDescription?: string; // optional shorter description for use in example cards on project pages (overrides description)
   
   // Showcase feature (primary visual/interactive element)
   showcaseKind?: ExampleShowcaseKind;
@@ -93,7 +94,7 @@ export const researchProjects: ResearchProject[] = [
         showcaseDescription:
           'An early example of LivePublication demonstrating live, updating components and generative content for computationally driven sciences.',
         publicationIds: [
-          'https://openalex.org/W4387005217', // LivePublication: The Science Workflow Creates and Updates the Publication
+          'https://openalex.org/W4387005217', // LivePublication: The Science Creates and Updates the Publication
           'https://openalex.org/W4414260950', // GIScience in the era of Artificial Intelligence
           'https://openalex.org/W4398184796', // Faithful Reasoning over Scientific Claims
         ],
@@ -236,19 +237,47 @@ export const researchProjects: ResearchProject[] = [
     ],
     examples: [
       {
-        slug: 'invasive-species-risk-assessment',
-        title: 'Invasive Species Risk Assessment',
+        slug: 'host-microbiome-environmental-change',
+        title: 'Modelling Host–Microbiome Responses to Environmental Change',
+        publicationIds: [
+          'https://openalex.org/W4414057662',
+        ],
+        showcaseKind: 'image',
+        showcaseSource: 'projects/biodiversity-ecology-biosecurity/microbe-fitness.png',
+        showcaseDescription:
+          'This figure maps how well hosts and microbes are doing at the end of the simulation across different combinations of vertical transmission (along one axis) and the number of microbial generations per host generation (along the other), under several types of changing environments. Each panel is a heatmap: warm colours show high fitness, cool colours low fitness. In the microbe panels, when there are few microbial generations, high vertical transmission clearly maximises microbial fitness, but the corresponding host panels show that those same parameter values give poor host fitness—evidence of a trade-off. As you move up to many microbial generations per host, the patterns in the host and microbe heatmaps start to align: a band of parameter space appears where both host and microbe fitness are high, especially in environments that change in a correlated way over time.',
         description:
-          'Models that predict the likelihood and impact of potential invasive species based on climate, habitat, and species traits.',
+          'This research uses agent-based models to explore how hosts and their microbiomes (“holobionts”) evolve together in changing environments. The results show that rapid microbial evolution can transform a host–microbe conflict into a mutual benefit. When microbes experience only a few generations per host generation, increasing vertical transmission tends to favour microbial fitness at the expense of host fitness, or vice versa. But when microbes undergo many generations within a single host lifetime, they can quickly adapt to shifting environmental conditions in ways that maintain or improve both microbial and host fitness, especially in environments that change in predictable (autocorrelated) ways.',
+        shortDescription:
+          'This research uses agent-based models to explore how hosts and their microbiomes (“holobionts”) evolve together in changing environments.'
       },
       {
-        slug: 'ecosystem-resilience-mapping',
-        title: 'Ecosystem Resilience Mapping',
+        slug: 'hihi-conservation-genomics',
+        title: 'Genomic Tools for Conservation of the Hihi (Stitchbird)',
+        publicationIds: [
+          'https://openalex.org/W4413110717',
+          'https://openalex.org/W4401246348',
+        ],
+        shortDescription:
+          'This research develops and applies cutting-edge genomic methods to support conservation of the threatened hihi, an endemic New Zealand forest bird.',
         description:
-          'Tools that identify areas of high ecosystem resilience and vulnerability to guide conservation efforts.',
+          'This project develops and applies cutting-edge genomic methods to support conservation of the threatened hihi, an endemic New Zealand forest bird. High-density linkage maps reveal how recombination differs between males and females across the genome, improving our understanding of the species’ adaptive potential and evolutionary constraints. In parallel, we test genotype imputation strategies in this small, low-diversity population, showing that accurate genomic data can be obtained from modest sample sizes and sequencing budgets. Together, these tools help managers and researchers model genetic diversity, inbreeding, and long-term viability in threatened bird populations.',
+        showcaseKind: 'image',
+        showcaseSource: 'projects/biodiversity-ecology-biosecurity/hihi-conservation.png',
+        showcaseDescription:
+          'This figure shows the first genome-wide genetic map for the hihi. Each vertical bar represents one chromosome, with coloured bands marking how frequently recombination occurs along its length: cooler colours indicate regions where recombination is rare, while warmer colours highlight recombination “hotspots.” Together, these maps reveal that smaller chromosomes tend to have higher recombination rates and that recombination is very unevenly distributed within and between chromosomes. The inset locates the study population on Tiritiri Matangi Island and links the genetic work back to a real, endangered New Zealand bird.',
+
+      },
+      {
+        slug: 'invasive-species-genomic-survey-design',
+        title: 'Genomic Survey Design for Invasive Species and Biosecurity',
+        shortDescription:
+          'This project evaluates how different population-genomic approaches change the stories we tell about adaptation in invasive species.',
+        description:
+          'This project evaluates how different population-genomic approaches change the stories we tell about adaptation in invasive species. Using the invasive common myna as a case study, we compare signals of selection obtained from reduced-representation (RADseq) and whole-genome sequencing datasets. The work shows that key adaptive regions can be missed in low-density datasets and that artefacts like allelic dropout can create false signals of selection. These findings provide practical guidance for designing genomic surveys that reliably detect adaptation in invasive and biosecurity-relevant species.',
       },
     ],
-  },
+  },  
   {
     slug: 'maori-genomics-data-sovereignty',
     title: 'Māori Genomics & Data Sovereignty',
