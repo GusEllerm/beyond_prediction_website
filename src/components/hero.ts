@@ -159,11 +159,14 @@ export function renderHero(container: HTMLElement): void {
   container.innerHTML = `
     <section class="hero-section bg-light py-5">
       <div class="container">
-        <div class="row align-items-center">
+        <div class="row align-items-stretch">
           <div class="col-lg-6">
             <h1 class="display-4 fw-bold mb-4">Beyond Prediction: explanatory and transparent data science </h1>
             <p class="lead mb-4">
               Developing explainable, auditable data science methods for Aotearoa New Zealand's environment, health and society.
+            </p>
+            <p class="small text-muted mb-4">
+              Funded through <a href="https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund" target="_blank" rel="noopener noreferrer" class="text-decoration-underline text-muted">MBIE's Strategic Science Investment Fund (SSIF)</a> as part of the <a href="https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/strategic-science-investment-fund/ssif-funded-programmes/data-science-platform" target="_blank" rel="noopener noreferrer" class="text-decoration-underline text-muted">National Data Science Initiative</a>.
             </p>
             <div class="alert alert-primary d-flex flex-wrap align-items-center justify-content-between mb-0" role="alert">
               <div class="me-3">
@@ -175,8 +178,8 @@ export function renderHero(container: HTMLElement): void {
             </a>
             </div>
           </div>
-          <div class="col-lg-6">
-            <div id="bp-hero-carousel" class="carousel carousel-dark slide carousel-fade">
+          <div class="col-lg-6 d-flex">
+            <div id="bp-hero-carousel" class="carousel carousel-dark slide carousel-fade w-100 d-flex flex-column">
               <div class="carousel-indicators">
                 ${indicators}
               </div>

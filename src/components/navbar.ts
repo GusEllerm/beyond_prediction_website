@@ -66,12 +66,21 @@ export function renderNavbar(container: HTMLElement): void {
                 <a class="${getNavLinkClass('reports')}" href="/reports.html" ${getNavLinkAria('reports')}>Annual Reports</a>
               </li>
             </ul>
+            <form class="d-flex mb-2 mb-lg-0 bp-navbar-search-top" role="search" id="bp-search-form">
+              <input
+                type="search"
+                class="form-control"
+                placeholder="Search research & projects..."
+                aria-label="Search"
+                id="bp-search-input"
+              />
+            </form>
           </div>
         </div>
       </nav>
       <div class="navbar navbar-light bp-navbar-bg">
-        <div class="container d-flex flex-wrap align-items-center justify-content-between py-3">
-          <div class="navbar-brand d-flex align-items-center mb-2 mb-lg-0">
+        <div class="container d-flex flex-nowrap align-items-center justify-content-between py-3 bp-navbar-bottom-row">
+          <div class="navbar-brand d-flex align-items-center mb-0 flex-shrink-1 me-3">
             <a href="https://www.auckland.ac.nz" target="_blank" rel="noopener noreferrer" class="text-decoration-none me-3 d-flex align-items-center">
               <img
                 src="/logos/university_of_auckland_nav_logo.svg"
@@ -79,19 +88,17 @@ export function renderNavbar(container: HTMLElement): void {
                 class="bp-university-logo"
               />
             </a>
-            <a href="/" class="text-decoration-none">
-            <span class="fw-semibold">Beyond Prediction</span>
+            <a href="/" class="text-decoration-none bp-navbar-title">
+            <span class="fw-semibold">Beyond Prediction:<br>explanatory and transparent data science</span>
           </a>
           </div>
-          <form class="col-12 col-lg-4 mb-2 mb-lg-0" role="search" id="bp-search-form">
-            <input
-              type="search"
-              class="form-control"
-              placeholder="Search research & projects..."
-              aria-label="Search"
-              id="bp-search-input"
+          <a href="https://www.mbie.govt.nz" target="_blank" rel="noopener noreferrer" class="text-decoration-none d-flex align-items-center ms-3">
+            <img
+              src="/logos/mbie.svg"
+              alt="Ministry of Business, Innovation and Employment"
+              class="bp-university-logo"
             />
-          </form>
+          </a>
         </div>
       </div>
     </header>

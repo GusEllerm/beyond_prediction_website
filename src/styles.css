@@ -52,18 +52,22 @@ body {
 
 /* Hero carousel styles */
 #bp-hero-carousel .carousel-inner {
-  height: 460px; /* Fixed height for consistent carousel size */
+  flex: 1;
+  display: flex;
+  align-items: stretch;
 }
 
 #bp-hero-carousel .carousel-item {
-  height: 460px; /* Match carousel-inner height */
+  height: 100%;
+  display: flex;
+  align-items: stretch;
 }
 
 .bp-hero-slide {
   height: 100%;
-  min-height: 450px;
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
 .bp-hero-slide .ratio {
@@ -247,6 +251,65 @@ body {
 
 .bp-header > .navbar:last-child .navbar-brand > a:last-child span {
   display: inline-block;
+}
+
+/* Navbar bottom row */
+.bp-header > .navbar:last-child .bp-navbar-bottom-row {
+  flex-wrap: nowrap;
+}
+
+/* Navbar title wrapper - allows title to wrap over two lines */
+.bp-navbar-title {
+  max-width: 500px;
+  line-height: 1.3;
+  white-space: normal;
+  flex: 1 1 auto;
+  min-width: 0; /* Allows flex item to shrink below content size */
+}
+
+.bp-navbar-title span {
+  display: block;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Navbar search form in top navbar (dark blue background) */
+.bp-navbar-search-top {
+  min-width: 250px;
+  max-width: 400px;
+  flex: 0 0 auto;
+}
+
+.bp-navbar-search-top .form-control {
+  background-color: var(--bp-light-blue);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #212529;
+  padding-top: 0.375rem;
+  padding-bottom: 0.375rem;
+  height: calc(1.5em + 0.75rem);
+}
+
+.bp-navbar-search-top .form-control:focus {
+  background-color: var(--bp-light-blue);
+  border-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25);
+  color: #212529;
+}
+
+.bp-navbar-search-top .form-control::placeholder {
+  color: #6c757d;
+}
+
+/* Medium screens - adjust title max-width */
+@media (max-width: 1200px) {
+  .bp-navbar-title {
+    max-width: 400px;
+  }
+  
+  .bp-navbar-search-top {
+    min-width: 200px;
+    max-width: 350px;
+  }
 }
 
 /* Navbar background color - top half is dark blue, bottom half is light blue */
