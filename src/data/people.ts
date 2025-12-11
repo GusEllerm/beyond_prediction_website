@@ -4,9 +4,9 @@
  * 
  * To add a photo:
  * 1. Place the photo file in `public/photos/` directory
- * 2. Name it using the person's slug (e.g., `mark-gahegan.jpg`)
- * 3. Set `photoUrl: '/photos/mark-gahegan.jpg'` in the person object
- * 4. Supported formats: .jpg, .jpeg, .png, .webp
+ * 2. Name it using the person's slug (e.g., `mark-gahegan.webp`)
+ * 3. Set `photoUrl: '/photos/mark-gahegan.webp'` in the person object
+ * 4. Preferred format: .webp (for better performance). Also supports: .jpg, .jpeg, .png
  */
 export interface PersonBioSource {
   label: string;
@@ -27,7 +27,7 @@ export interface Person {
   bioSources?: PersonBioSource[]; // sources for biography
   email?: string;
   website?: string;
-  photoUrl?: string; // Path to photo in public/photos/ (e.g., '/photos/mark-gahegan.jpg')
+  photoUrl?: string; // Path to photo in public/photos/ (e.g., '/photos/mark-gahegan.webp')
   orcidId?: string; // ORCID identifier, e.g. "0000-0001-7209-8156"
   publicationSource?: PublicationSource; // default: 'openalex' if not set
   tags?: string[];
@@ -56,7 +56,7 @@ export const principalInvestigators: Person[] = [
     affiliation: 'University of Auckland',
     roleLabel: 'Principal Investigator',
     email: 'm.gahegan@auckland.ac.nz',
-    photoUrl: '/photos/mark-gahegan.jpeg',
+    photoUrl: '/photos/mark-gahegan.webp',
     orcidId: '0000-0001-7209-8156',
     themeSlugs: [
       'live-research-articles',
@@ -89,7 +89,7 @@ export const coInvestigators: Person[] = [
     affiliation: 'University of Auckland',
     roleLabel: 'Co-PI',
     email: 'alexei@cs.auckland.ac.nz',
-    photoUrl: '/photos/alexei-drummond.png',
+    photoUrl: '/photos/alexei-drummond.webp',
     orcidId: '0000-0003-4454-2576',
     themeSlugs: [
       'genomics-data-science',
@@ -113,7 +113,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Principal Investigator',
     affiliation: 'University of Canterbury',
     roleLabel: 'Co-PI',
-    photoUrl: '/photos/ben-adams.jpeg',
+    photoUrl: '/photos/ben-adams.webp',
     email: 'benjamin.adams@canterbury.ac.nz',
     orcidId: '0000-0002-1657-9809',
     publicationSource: 'orcid',
@@ -140,7 +140,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Principal Investigator',
     affiliation: 'University of Otago',
     roleLabel: 'Co-PI',
-    photoUrl: '/photos/paul-gardner.jpg',
+    photoUrl: '/photos/paul-gardner.webp',
     email: 'paul.gardner@otago.ac.nz',
     orcidId: '0000-0002-7808-1213',
     publicationSource: 'orcid',
@@ -166,7 +166,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'University of Otago',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/phillip-wilcox.png',
+    photoUrl: '/photos/phillip-wilcox.webp',
     email: 'phillip.wilcox@otago.ac.nz',
     orcidId: '0000-0001-8485-6962',
     themeSlugs: [
@@ -196,7 +196,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'University of Auckland',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/lara-greaves.jpg',
+    photoUrl: '/photos/lara-greaves.webp',
     email: 'lara.greaves@auckland.ac.nz',
     orcidId: '0000-0003-0537-7125',
     publicationSource: 'orcid',
@@ -219,7 +219,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'University of Canterbury',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/alex-gavryushkin.png',
+    photoUrl: '/photos/alex-gavryushkin.webp',
     email: 'alex@biods.org',
     orcidId: '0000-0001-6299-8249',
     publicationSource: 'orcid',
@@ -245,7 +245,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'University of Auckland',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/sebastian-link.png',
+    photoUrl: '/photos/sebastian-link.webp',
     email: 's.link@auckland.ac.nz',
     orcidId: '0000-0002-1816-2863',
     publicationSource: 'orcid',
@@ -268,7 +268,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'University of Auckland',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/michael-witbrock.png',
+    photoUrl: '/photos/michael-witbrock.webp',
     email: 'm.witbrock@auckland.ac.nz',
     orcidId: '0000-0002-7554-0971',
     publicationSource: 'orcid',
@@ -318,7 +318,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'University of Otago',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/david-bryant.png',
+    photoUrl: '/photos/david-bryant.webp',
     email: 'david.bryant@otago.ac.nz',
     orcidId: '0000-0003-1963-5535',
     publicationSource: 'orcid',
@@ -344,7 +344,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'Massey University',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/nigel-french.png',
+    photoUrl: '/photos/nigel-french.webp',
     email: 'N.P.French@massey.ac.nz',
     orcidId: '0000-0002-6334-0657',
     publicationSource: 'orcid',
@@ -367,7 +367,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'University of Auckland',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/anna-santure.jpg',
+    photoUrl: '/photos/anna-santure.webp',
     email: 'a.santure@auckland.ac.nz',
     orcidId: '0000-0001-8965-1042',
     themeSlugs: ['biodiversity-ecology-biosecurity'],
@@ -389,7 +389,7 @@ export const coInvestigators: Person[] = [
     title: 'Co-Investigator',
     affiliation: 'Massey University',
     roleLabel: 'Co-Investigator',
-    photoUrl: '/photos/marti-anderson.jpg',
+    photoUrl: '/photos/marti-anderson.webp',
     email: 'M.J.Anderson@massey.ac.nz',
     orcidId: '0000-0002-4018-4049',
     publicationSource: 'orcid',
@@ -422,7 +422,7 @@ export const industryPartners: Person[] = [
     title: 'Industry Collaborator',
     affiliation: 'Stencila',
     roleLabel: 'Industry Partner',
-    photoUrl: '/photos/nokome-bentley.jpeg',
+    photoUrl: '/photos/nokome-bentley.webp',
     email: 'nokome@stenci.la',
     orcidId: '0000-0003-1608-7967',
     themeSlugs: [
@@ -483,7 +483,7 @@ export const postDocs: Person[] = [
     title: 'Postdoctoral Researcher',
     affiliation: 'University of Auckland',
     roleLabel: 'Post-Doc',
-    photoUrl: '/photos/jo-klawitter.jpg',
+    photoUrl: '/photos/jo-klawitter.webp',
     email: 'jo.klawitter@auckland.ac.nz',
     orcidId: '0000-0001-8917-5269',
     publicationSource: 'orcid',
@@ -512,7 +512,7 @@ export const postDocs: Person[] = [
     roleLabel: 'Post-Doc',
     email: 'gus.ellerm@auckland.ac.nz',
     orcidId: '0000-0001-8260-231X',
-    photoUrl: '/photos/gus-ellerm.png',
+    photoUrl: '/photos/gus-ellerm.webp',
     themeSlugs: [
       'live-research-articles',
     ],

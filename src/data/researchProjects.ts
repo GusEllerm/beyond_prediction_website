@@ -243,7 +243,7 @@ export const researchProjects: ResearchProject[] = [
           'https://openalex.org/W4414057662',
         ],
         showcaseKind: 'image',
-        showcaseSource: 'projects/biodiversity-ecology-biosecurity/microbe-fitness.png',
+        showcaseSource: 'projects/biodiversity-ecology-biosecurity/microbe-fitness.webp',
         showcaseDescription:
           'This figure maps how well hosts and microbes are doing at the end of the simulation across different combinations of vertical transmission (along one axis) and the number of microbial generations per host generation (along the other), under several types of changing environments. Each panel is a heatmap: warm colours show high fitness, cool colours low fitness. In the microbe panels, when there are few microbial generations, high vertical transmission clearly maximises microbial fitness, but the corresponding host panels show that those same parameter values give poor host fitness—evidence of a trade-off. As you move up to many microbial generations per host, the patterns in the host and microbe heatmaps start to align: a band of parameter space appears where both host and microbe fitness are high, especially in environments that change in a correlated way over time.',
         description:
@@ -263,7 +263,7 @@ export const researchProjects: ResearchProject[] = [
         description:
           'This project develops and applies cutting-edge genomic methods to support conservation of the threatened hihi, an endemic New Zealand forest bird. High-density linkage maps reveal how recombination differs between males and females across the genome, improving our understanding of the species’ adaptive potential and evolutionary constraints. In parallel, we test genotype imputation strategies in this small, low-diversity population, showing that accurate genomic data can be obtained from modest sample sizes and sequencing budgets. Together, these tools help managers and researchers model genetic diversity, inbreeding, and long-term viability in threatened bird populations.',
         showcaseKind: 'image',
-        showcaseSource: 'projects/biodiversity-ecology-biosecurity/hihi-conservation.png',
+        showcaseSource: 'projects/biodiversity-ecology-biosecurity/hihi-conservation.webp',
         showcaseDescription:
           'This figure shows the first genome-wide genetic map for the hihi. Each vertical bar represents one chromosome, with coloured bands marking how frequently recombination occurs along its length: cooler colours indicate regions where recombination is rare, while warmer colours highlight recombination “hotspots.” Together, these maps reveal that smaller chromosomes tend to have higher recombination rates and that recombination is very unevenly distributed within and between chromosomes. The inset locates the study population on Tiritiri Matangi Island and links the genetic work back to a real, endangered New Zealand bird.',
 

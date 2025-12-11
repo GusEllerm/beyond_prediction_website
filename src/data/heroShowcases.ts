@@ -44,14 +44,14 @@ export const heroShowcases: HeroShowcase[] = [
     title: 'Echology and Evolution',
     summary: 'Studying sex differences in genetic recombination helps explain how genomes evolve and guides modern conservation of threatened species.',
     kind: 'image',
-    imageUrl: '/showcase/hehe.png', // placeholder
+    imageUrl: '/showcase/hehe.webp', // placeholder
   },
   {
     id: 'stencila',
     title: 'AI for research literature',
     summary: 'Exploring state of the art publication mediums for science.',
     kind: 'image',
-    imageUrl: '/showcase/stencila.png',
+    imageUrl: '/showcase/stencila.webp',
     imageAlt: 'Stencila logo',
   },
 ];
