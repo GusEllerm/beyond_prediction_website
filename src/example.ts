@@ -17,6 +17,12 @@ import { partners } from './data/partners';
 import { findProjectDetail, type ExampleShowcaseKind } from './data/researchProjects';
 import type { PersonPublication } from './data/publications';
 import { getPublicationsByIds, getPublicationUrl } from './utils/publications';
+import type { ExampleExtensionMount } from './example/extensions';
+
+// Discover all extension modules under src/example/*.ts
+const extensionModules = import.meta.glob('./example/*.ts', {
+  eager: true,
+}) as Record<string, { mountExampleExtension?: ExampleExtensionMount }>;
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
@@ -38,6 +44,29 @@ function escapeHtml(text: string): string {
   const div = document.createElement('div');
   div.textContent = text;
   return div.innerHTML;
+}
+
+/**
+ * Gets the example extension mount function for a given project and example slug
+ * @param projectSlug - The project slug
+ * @param exampleSlug - The example slug to find an extension for
+ * @returns The mount function or null if no extension exists
+ */
+function getExampleExtension(projectSlug: string, exampleSlug: string): ExampleExtensionMount | null {
+  for (const [path, mod] of Object.entries(extensionModules)) {
+    // Example path: "./example/project-slug-example-slug.ts" or "./example/example-slug.ts"
+    // We'll support both patterns: project-specific and example-specific
+    const projectExamplePath = `/example/${projectSlug}-${exampleSlug}.ts`;
+    const exampleOnlyPath = `/example/${exampleSlug}.ts`;
+    
+    if (
+      (path.endsWith(projectExamplePath) || path.endsWith(exampleOnlyPath)) &&
+      typeof mod.mountExampleExtension === 'function'
+    ) {
+      return mod.mountExampleExtension;
+    }
+  }
+  return null;
 }
 
 /**
@@ -234,6 +263,9 @@ function renderExample(): void {
     return;
   }
 
+  // Get extension mount function if it exists
+  const extensionMount = getExampleExtension(projectSlug, exampleSlug);
+
   // Get publications for this example
   const publications = example.publicationIds
     ? getPublicationsByIds(example.publicationIds)
@@ -298,6 +330,11 @@ function renderExample(): void {
             </div>
           `
         : ''}
+      ${
+        extensionMount
+          ? '<section class="mt-5" id="example-extension-root"></section>'
+          : ''
+      }
       ${publicationsHtml ? `
         <div class="row">
           <div class="col-12">
@@ -307,6 +344,16 @@ function renderExample(): void {
       ` : ''}
     </main>
   `;
+
+  // Mount extension if it exists
+  if (extensionMount) {
+    const extensionRoot = document.getElementById('example-extension-root');
+    if (extensionRoot) {
+      extensionMount(extensionRoot, project, example);
+    } else {
+      console.error('Example extension root element not found');
+    }
+  }
 }
 
 // Initialize the page when DOM is ready
