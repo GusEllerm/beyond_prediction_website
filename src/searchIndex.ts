@@ -19,7 +19,7 @@ export const searchIndex: SearchRecord[] = researchProjects.map((project) => ({
   slug: project.slug,
   title: project.title,
   summary: project.shortDescription ?? '',
-  tags: project.highlights,
+  tags: project.tags,
   href: `/project.html?project=${encodeURIComponent(project.slug)}`,
 }));
 

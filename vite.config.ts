@@ -21,6 +21,7 @@ export default defineConfig({
         reports: './reports.html',
         report: './report.html',
         'forward-plan': './forward-plan.html',
+        'research-outputs': './research-outputs.html',
       },
     },
   },

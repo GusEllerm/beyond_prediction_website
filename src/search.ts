@@ -37,7 +37,10 @@ function getSearchParamsFromUrl(): { query: string; typeFilter?: SearchItemType 
   const query = (params.get('q') ?? '').trim();
   const typeParam = params.get('type');
   const typeFilter: SearchItemType | undefined =
-    typeParam === 'people' ? 'person' : typeParam === 'projects' ? 'project' : undefined;
+    typeParam === 'people' ? 'person' 
+    : typeParam === 'projects' ? 'project' 
+    : typeParam === 'publications' ? 'publication'
+    : undefined;
   return { query, typeFilter };
 }
 
@@ -72,6 +75,44 @@ function renderProjectsSection(
   container.innerHTML += `
     <section class="mt-4">
       <h2 class="h5 mb-3">Projects</h2>
+      <div class="row g-3">
+        ${cardsHtml}
+      </div>
+    </section>
+  `;
+}
+
+/**
+ * Renders the publications section
+ * @param container - The container element to render into
+ * @param results - Array of publication search items
+ */
+function renderPublicationsSection(
+  container: HTMLElement,
+  results: SearchItem[]
+): void {
+  if (!results.length) return;
+
+  const cardsHtml = results
+    .map(
+      (item) => `
+        <div class="col-md-6 mb-3">
+          <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none text-reset">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title">${escapeHtml(item.title)}</h5>
+                <p class="card-text small text-muted mb-0">${escapeHtml(item.summary)}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+      `
+    )
+    .join('');
+
+  container.innerHTML += `
+    <section class="mt-4">
+      <h2 class="h5 mb-3">Publications</h2>
       <div class="row g-3">
         ${cardsHtml}
       </div>
@@ -139,11 +180,19 @@ function renderResults(
 
   // Split results by type
   let projectResults = allMatches.filter((item) => item.type === 'project');
+  let publicationResults = allMatches.filter((item) => item.type === 'publication');
   let personResults = allMatches.filter((item) => item.type === 'person');
 
-  // If type=people was passed, hide project results
+  // If type filter was passed, hide other results
   if (typeFilter === 'person') {
     projectResults = [];
+    publicationResults = [];
+  } else if (typeFilter === 'project') {
+    publicationResults = [];
+    personResults = [];
+  } else if (typeFilter === 'publication') {
+    projectResults = [];
+    personResults = [];
   }
 
   if (allMatches.length === 0) {
@@ -166,8 +215,9 @@ function renderResults(
     <p class="text-muted mb-4">Showing ${allMatches.length} result(s) for "<strong>${escapeHtml(query)}</strong>".</p>
   `;
 
-  // Render projects first, then people
+  // Render projects first, then publications, then people
   renderProjectsSection(wrapper, projectResults);
+  renderPublicationsSection(wrapper, publicationResults);
   renderPeopleSection(wrapper, personResults);
 
   container.innerHTML = '';
@@ -215,8 +265,52 @@ function initSearchPage(): void {
 }
 
 // Initialize the page when DOM is ready
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', initSearchPage);
-} else {
-  initSearchPage();
+try {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      try {
+        initSearchPage();
+      } catch (error) {
+        console.error('Error initializing search page:', error);
+        const app = document.querySelector<HTMLDivElement>('#app');
+        if (app) {
+          app.innerHTML = `
+            <div class="container py-5">
+              <h1 class="mb-4">Search</h1>
+              <p class="text-danger">An error occurred while loading the search page. Please try refreshing the page.</p>
+              <pre class="bg-light p-3 rounded">${escapeHtml(String(error))}</pre>
+            </div>
+          `;
+        }
+      }
+    });
+  } else {
+    try {
+      initSearchPage();
+    } catch (error) {
+      console.error('Error initializing search page:', error);
+      const app = document.querySelector<HTMLDivElement>('#app');
+      if (app) {
+        app.innerHTML = `
+          <div class="container py-5">
+            <h1 class="mb-4">Search</h1>
+            <p class="text-danger">An error occurred while loading the search page. Please try refreshing the page.</p>
+            <pre class="bg-light p-3 rounded">${escapeHtml(String(error))}</pre>
+          </div>
+        `;
+      }
+    }
+  }
+} catch (error) {
+  console.error('Fatal error in search page:', error);
+  const app = document.querySelector<HTMLDivElement>('#app');
+  if (app) {
+    app.innerHTML = `
+      <div class="container py-5">
+        <h1 class="mb-4">Search</h1>
+        <p class="text-danger">A fatal error occurred. Please try refreshing the page.</p>
+        <pre class="bg-light p-3 rounded">${escapeHtml(String(error))}</pre>
+      </div>
+    `;
+  }
 }

@@ -128,7 +128,7 @@ function renderReportsTimeline(): void {
       <div class="row">
         <div class="col-lg-10 col-xl-8">
           <section class="mb-4" id="all-reports-section">
-            <h2 class="h5 mb-3">All annual reports</h2>
+            <h2 class="h5 mb-3">Annual Reports</h2>
             <div class="bp-timeline-wrapper">
               <ul class="bp-timeline list-unstyled mb-0">
                 ${timelineItemsHtml}

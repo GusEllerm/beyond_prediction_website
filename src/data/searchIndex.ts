@@ -4,11 +4,12 @@ import type {
   PersonPublication,
   PersonPublicationsSnapshot,
 } from './publications';
+import { createPublicationLookup } from '../utils/publications';
 
 /**
  * Search item type discriminator
  */
-export type SearchItemType = 'project' | 'person';
+export type SearchItemType = 'project' | 'person' | 'publication';
 
 /**
  * Unified search item interface
@@ -57,7 +58,6 @@ const projectItems: SearchItem[] = researchProjects.map((project) => ({
     project.shortDescription,
     project.longDescription,
     (project.tags ?? []).join(' '),
-    (project.highlights ?? []).join(' '),
     (project.keyQuestions ?? []).join(' '),
   ]
     .filter(Boolean)
@@ -100,9 +100,49 @@ const personItems: SearchItem[] = allPeople.map((person) => {
 });
 
 /**
- * Unified search index containing both projects and people
+ * Index publications from all projects
  */
-export const searchIndex: SearchItem[] = [...projectItems, ...personItems];
+const publicationItems: SearchItem[] = (() => {
+  const items: SearchItem[] = [];
+  const lookup = createPublicationLookup();
+
+  for (const project of researchProjects) {
+    if (project.publicationIds && project.publicationIds.length > 0) {
+      for (const pubId of project.publicationIds) {
+        const pub = lookup.get(pubId);
+        if (pub && pub.id && pub.title) {
+          // Use publication ID as unique identifier (remove https:// prefix for cleaner slug-like ID)
+          const pubSlug = pub.id.replace(/^https?:\/\//, '').replace(/\//g, '-');
+          const pubUrl = pub.openAccessUrl || (pub.doi ? `https://doi.org/${pub.doi}` : pub.id);
+          
+          items.push({
+            id: pubSlug,
+            type: 'publication' as const,
+            title: pub.title,
+            summary: pub.venue ? `${pub.venue}${pub.year ? ` (${pub.year})` : ''}` : pub.year ? `(${pub.year})` : '',
+            url: pubUrl,
+            searchableText: [
+              pub.title,
+              pub.venue,
+              pub.year?.toString(),
+              pub.doi,
+              project.title, // Include project title so searching for project name finds its publications
+            ]
+              .filter(Boolean)
+              .join(' \n '),
+          });
+        }
+      }
+    }
+  }
+
+  return items;
+})();
+
+/**
+ * Unified search index containing projects, people, and publications
+ */
+export const searchIndex: SearchItem[] = [...projectItems, ...personItems, ...publicationItems];
 
 /**
  * Simple search function that filters items based on query

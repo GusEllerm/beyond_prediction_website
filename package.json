@@ -11,7 +11,10 @@
     "format": "prettier --write \"src/**/*.{ts,tsx,css}\"",
     "update:publications": "npm run update:openalex && npm run update:orcid",
     "update:openalex": "tsx scripts/update_openalex_publications.ts",
-    "update:orcid": "tsx scripts/update_orcid_publications.ts"
+    "update:orcid": "tsx scripts/update_orcid_publications.ts",
+    "add:doi": "tsx scripts/add_doi_publication.ts",
+    "convert:reports": "./scripts/convert_reports.sh",
+    "fix:report-lists": "tsx scripts/fix_html_lists.ts"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",

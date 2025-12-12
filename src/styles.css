@@ -228,10 +228,22 @@ body {
   width: auto;
 }
 
+/* MBIE logo in bottom navbar - slightly larger */
+.bp-header > .navbar:last-child img[src="/logos/mbie.svg"] {
+  height: calc(1rem + 1.75rem + 1rem); /* Slightly taller than university logo */
+  max-height: 5.5rem;
+  width: auto;
+}
+
 @media (max-width: 991.98px) {
   .bp-header > .navbar:last-child .navbar-brand img {
     height: 2.5rem;
     max-height: 3rem;
+  }
+  
+  .bp-header > .navbar:last-child img[src="/logos/mbie.svg"] {
+    height: 2.75rem;
+    max-height: 3.25rem;
   }
 }
 
@@ -647,6 +659,99 @@ body {
 
 #bp-key-question-content {
   flex: 1;
+}
+
+/* PDF viewer styles */
+.bp-pdf-viewer-container {
+  width: 100%;
+}
+
+/* Iframe viewer container */
+.bp-iframe-viewer-container {
+  width: 100%;
+}
+
+/* Showcase action buttons - match publication card hover behavior */
+.bp-showcase-action-btn {
+  color: #212529;
+  border-color: #212529;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    background-color 0.3s ease,
+    border-color 0.3s ease,
+    color 0.3s ease;
+}
+
+.bp-showcase-action-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  background-color: var(--bp-light-blue);
+  border-color: #212529;
+  color: #212529;
+}
+
+.bp-pdf-viewer {
+  width: 100%;
+  min-height: 600px;
+  height: 80vh;
+  max-height: 1200px;
+}
+
+/* Research Outputs publications container with scrollable max-height */
+.bp-publications-container {
+  max-height: calc(100vh - 400px);
+  min-height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 0.75rem;
+  padding-bottom: 0.5rem;
+  position: relative;
+  /* Smooth scrolling */
+  scroll-behavior: smooth;
+  /* Custom scrollbar styling */
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0.05);
+}
+
+/* Custom scrollbar for webkit browsers (Chrome, Safari, Edge) */
+.bp-publications-container::-webkit-scrollbar {
+  width: 10px;
+}
+
+.bp-publications-container::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 5px;
+  margin: 0.5rem 0;
+}
+
+.bp-publications-container::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+  transition: background-color 0.2s ease;
+}
+
+.bp-publications-container::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .bp-publications-container {
+    max-height: calc(100vh - 350px);
+    min-height: 300px;
+    padding-right: 0.5rem;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .bp-pdf-viewer {
+    min-height: 500px;
+    height: 70vh;
+    max-height: 800px;
+  }
 }
 
 /* Sticky iframe annotations */

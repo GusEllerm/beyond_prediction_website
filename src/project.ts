@@ -18,6 +18,7 @@ import { findProjectDetail } from './data/researchProjects';
 import type { ProjectExtensionMount } from './projects/extensions';
 import { getPeopleForTheme } from './data/peopleByTheme';
 import { renderPersonCard } from './components/personCard';
+import { getPublicationsByIds, renderPublicationsSection } from './utils/publications';
 
 // Discover all extension modules under src/projects/*.ts
 const extensionModules = import.meta.glob('./projects/*.ts', {
@@ -208,6 +209,19 @@ function initProjectPage(): void {
   // Get people working on this theme
   const themePeople = getPeopleForTheme(project.slug);
 
+  // Get publications for this project and sort by year (newest first)
+  const publications = project.publicationIds
+    ? getPublicationsByIds(project.publicationIds).sort((a, b) => {
+        // Sort by year descending (newest first)
+        // Publications without years go to the end
+        if (!a.year && !b.year) return 0;
+        if (!a.year) return 1;
+        if (!b.year) return -1;
+        return b.year - a.year;
+      })
+    : [];
+  const publicationsHtml = renderPublicationsSection(publications);
+
   // Build project page sections
   const questionsCardHtml =
     project.keyQuestions && project.keyQuestions.length > 0
@@ -336,6 +350,13 @@ function initProjectPage(): void {
         <div class="row">
           <div class="col-12">
             ${examplesHtml}
+          </div>
+        </div>
+      ` : ''}
+      ${publicationsHtml ? `
+        <div class="row">
+          <div class="col-12">
+            ${publicationsHtml}
           </div>
         </div>
       ` : ''}

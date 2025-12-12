@@ -64,6 +64,7 @@ Desktop.ini
 *.tmp
 *.temp
 .cache/
+temp_*.json
 
 
 # ignore documentation

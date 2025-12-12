@@ -1,13 +1,611 @@
-<section>
-  <h2>Report content placeholder: 2022–2023</h2>
-  <p>
-    This is a stand-in HTML section for the 2022–2023 Beyond Prediction annual
-    report. Replace this with the full report content once the documents are
-    converted to a web-friendly format.
-  </p>
-  <p>
-    You might include an executive summary, key achievements, notable
-    collaborations, and links to related publications here.
-  </p>
-</section>
+<p><strong>Public Statement</strong></p><p><strong>(300 words)</strong></p><p>The team has achieved significant research progress this year in three distinct areas: (i)  phylogenetic analysis—studying the relationships between genomics and disease, (ii) ecological modelling—contrasting geographical and genomic differences within endangered species and (iii) live science publishing—creating a new way of publishing science experiments embedded within traditional research articles.  In each of these areas we have developed new methods and related software that has been shared openly with the science community.</p><p>Collaborations within our team are now leading to additional grant proposals in the areas of AI and genomics, and we have strengthened our collaborations with other research partners based in Aotearoa (notably ESR and Genomics Aotearoa).</p><p>We sponsored a significant national outreach &amp; training event (ResBaz 2021) enabling hundreds of applied researchers throughout the country to learn new data science skills that they can apply in their own research.  We are also now training a future generation of NZ data scientists via our PhDs and post-doctoral scholarships.  </p><p>Taken together, this progress  is producing the new methods, code, collaborations and workforce that will ensure Aotearoa can take full advantage of data science in its future research endeavours in key industries and branches of government.</p><p><strong>Progress &amp; key achievements</strong></p><p><strong>Strategic intent *</strong></p><p>Our strategic direction focuses on three specific themes, these are:</p>
 
+<ul><li>
+
+<p>Live Data Science</p>
+
+</li><li>
+
+<p>Transparent Data Science</p>
+
+</li><li>
+
+<p>Biological and Ecological applications of Data Science.</p>
+
+</li></ul>
+
+<p>We provide examples of our work towards these strategic directions below.</p><p><strong>Live Data Science—closing the gap between doing science and publishing science</strong></p><p>We have been working on our <strong>Live data Science</strong> demonstrators, focussing for now on how to bring publications and report writing more in line with modern eScience toolchains and workflows. Team members at Universities of Auckland and Canterbury have worked together to develop a first prototype of a live science pipeline that fully links live data ingestion through computational workflows to dynamic publication—i.e. a publication that updates itself as the data it consumes is either updated or improved. The prototype pipeline integrates an instrument data collection with a workflow defined in the Common Workflow Language and web-based front-end to model vegetation water-stress levels in real time using satellite data that is regularly updated. This work has been fruitful as it has helped us to develop a metamodel for representing live science experiments that we will be using more broadly going forward. This metamodel will allow us build interchangeable live science publishing tools for scientists working in a wide variety of computational environments. Our first publication on this work has been accepted for publication and presentation at the 18th IEEE International eScience Conference in Salt Lake City, Utah later this year (A. Ellerm, B. Adams, M. Gahegan, and L. Trombach (2022) Enabling LivePublication. In: <em>2022 IEEE 18th International Conference on eScience</em>).</p><p>We can now take what we’ve learned from the prototype development and collaborate with other groups on the grant. Our next step in this regard is to extend this prototype to address the urgent need for live phylogenetic modelling of infectious diseases within New Zealand, including new COVID19 variants. We intend to complete a Case Study for MBIE on this Live Data Science demonstrator over the next few months.</p><p><strong>Transparent Data Science—increasing trust in scientific claims</strong></p><p>Learning how to verify the claims in scientific papers and “science releases” (media announcements of scientific findings) is a difficult task for both artificial intelligence (AI) systems and humans. However, this task is crucial because learning to separate verified facts from speculation or falsehoods has important consequences. Success at this task can help the reader understand scientific topics and promote science. Conversely, failure at this task leads to the spread of misinformation and exaggeration, which can cause distortion in scientific communication and undermine public confidence in science.</p><p>Training machine learning models to successfully perform scientific fact-checking tasks is challenging due to the expertise bottleneck that limits the availability of appropriate training datasets. In this task, models use textual evidence to confirm scientific claims, which requires data that can be used to train the models—i.e extensive domain-expert annotation. Consequently, the number of existing scientific-fact-checking datasets and the sizes of those datasets are limited. However, these limitations do not apply to multiple-choice question datasets because of the necessity of domain exams in the modern education system.</p><p>As one of the first steps towards addressing the fact-checking dataset scarcity problem in scientific domains, we have developed a workflow for automatically converting multiple-choice questions into fact-checking data, which we call Multi2Claim. By applying the proposed workflow, we generated two large-scale datasets for scientific-fact-checking tasks: Med-Fact and Gsci-Fact for the medical and general science domains, respectively. These two datasets are among the first examples of large-scale scientific-fact-checking datasets and as such are useful to many researchers—and are being shared. We developed baseline models for the verdict prediction task using each dataset. Additionally, we demonstrated that the datasets could be used to improve performance with respect to the F 1 weighted metric on existing fact-checking datasets such as SciFact, HEALTHVER, COVID-Fact, and CLIMATE-FEVER. In some cases, the improvement in performance was up to a 26\% increase.</p><p>Another challenge that makes applying cutting-edge deep learning models (transformer-based models) to scientific data difficult (scientific textual data and genomic sequences) is the models' input length limitation. Where the data source is long, current models cannot scale to the subtle complexities and relationships that they contain.</p><p>In this regard, we have made significant progress in the following two areas. (1) We were able to apply a linearized version of the transformer-based models to genome-wide association studies (GWAS) data. By using a scalable (long input) on the linearized version of the transformer-based models and appropriately encoding Single Nucleotide Variants (SNVs), we were able to achieve competitive initial performance for prediction of gout disease (with an AUROC of 83% when classifying a balanced test set using genotype and demographic information). (Outcomes of collaboration with Canterbury University on the GWAS project). (2) We also investigated whether the internal mechanisms (attention mechanism) of off-the shelf models (BERT, GPT-2) can be practically used to overcome the input length limitation. To this end, we used layer-based attention scores to shorten input length. We examined our methodology both in the general domain text corpus (IMDB dataset) and the scientific papers corpus (scholarly papers in four distinct fields: computer science, mathematics, biology, and physics). We showed that attention scores could be used to shorten the input length for some downstream tasks, such as topic classification of scientific papers without adversely affecting the quality of the classification tasks, thus allowing us to analyse much longer documents effectively.</p><p><strong>Biological and Ecological applications of Data Science—measuring genetic diversity of threatened species</strong></p><p>In the past year, our Biological Data Science: Modelling biodiversity sub-theme has continued to develop reproducible, open source methods to measure genetic diversity and infer adaptability over time and space. By measuring how genetic diversity is structured in space, and how this influences the ability of species to adapt to changing selection pressures, including climate change, we can inform conservation management decisions that may mitigate the effects of low genetic diversity for threatened species, and can offer insight into the ongoing threat of invasive species establishing in novel areas. We have identified and summarised common diversity metrics from both the genetic/ genomic and ecological literature and have implemented these in R. We have begun to apply these methods to an exemplar genomic dataset of the taonga bird species, the threatened hihi (<em>Notiomystis cincta</em>). Funding and collaboration with Genomics Aotearoa have enabled the generation of a high quality genome assembly and population sequencing data for 250 hihi from an intensively monitored population, which our Data Science methods are beginning to be applied to. Our current Data Science PhD student (Eirian Perkins) is leading ongoing methods and workflow development that will integrate these methods into our 'live science' workflows, such that new data is automatically imported as it becomes available and the analysis re-run. We are also collating of a list of open access datasets (and associated ecological research questions) that our new methods can be applied to. </p><p> </p><p><strong>Excellence *</strong></p><p>University scientists typically measure excellence via the number of journal and conference articles produced, the standing of these journals and the number of times their work is referenced. In the past year our team has produced 45 such articles, appearing in very high-ranking journals such as:</p>
+
+<ul><li>
+
+<p><em>Science</em></p>
+
+</li><li>
+
+<p><em>Nature Communications</em></p>
+
+</li><li>
+
+<p><em>Genome biology</em></p>
+
+</li><li>
+
+<p><em>Ecology Letters</em></p>
+
+</li><li>
+
+<p><em>Biological Reviews</em></p>
+
+</li><li>
+
+<p><em>Ecology </em></p>
+
+</li><li>
+
+<p>IEEE Transactions On Knowledge And Data Engineering</p>
+
+</li><li>
+
+<p><em>Journal of Statistical Computation and Simulation</em></p>
+
+</li><li>
+
+<p><em>2022 IEEE 18th International Conference on eScience</em></p>
+
+</li><li>
+
+<p><em>ICML Workshop on Computational Biology 2022</em></p>
+
+</li><li>
+
+<p>Journal of <em>Infectious Diseases</em></p>
+
+</li><li>
+
+<p><em>Emerging Infectious Diseases</em></p>
+
+</li><li>
+
+<p>Ninth Annual Conference on Advances in Cognitive Systems. 2021</p>
+
+</li><li>
+
+<p>39th International Conference on Machine Learning (ICML) 2022</p>
+
+</li><li>
+
+<p><em>Journal Of Data Semantics</em></p>
+
+</li></ul>
+
+<p>In terms of breakthrough work that is truly world-class in terms of excellence, we highlight below just two specific items this year, though these are just a sample.</p><p><strong>Landscape-wide genomics</strong></p><p>One of our key focus areas is the intersection of genomics environment, and the interplay between them. A special focus for us has been to identify the mathematical congruencies between currently used measures of genetic variance (among individuals) and distance-based ecological measures of variability (among sampling units).</p><p>Some significant headway was achieved this year. Specifically, we considered genotype data (<strong>M</strong>, comprised of SNPs for a set of individuals), which is typically transformed to allele frequencies, and used to create a “genomic relatedness matrix” (<strong>G</strong>). We have been able to derive the mathematical relationship between this (classical genetic variance) matrix and a much more general matrix of similarities (namely, Gower’s <strong>G</strong>matrix, which can be partitioned and analysed in ecological or other contexts). This kicks open the door to allow genomic relatedness matrices to be analysed using a full suite of semi-parametric and non-parametric techniques that are robust and powerful – both for partitioning (e.g., to examine effects of treatments, environmental variables, or changes through time or space), and also for derivation of similarity-based biodiversity measures. We believe our related tools/methods will be very useful for</p><p><strong>Meta-data science</strong></p><p>Meta-data science is the (usually automated) discovery of metadata and various schema and semantic information from streams of raw data so the data can be better understood and reused, even if it was not originally well documented when it was produced. This helps increase the reusability of data, a key goal of open science.</p><p>The efficiency of database schema that are created by automated means (or even by manual means) can have a dramatic effect on performance. And in any data-intensive environment, performance inefficiency can be crippling. We studied the problem of computing all cross joins that hold on a given data table. Cross joins form the most expressive and costly query operation, and the degree by which cross joins hold provide us also with a measure how independent feature sets are in a given data set. This leads to effective query optimization techniques.</p><p>One new outcome is the creation of a new <em>normal form</em> (normal form is a term used to describe the logical consistency of a database schema) for relational schema design that quantifies the update inefficiency and join efficiency at schema design time, and additionally an algorithm that computes a schema in that normal form with a minimal level of update inefficiency achievable. This new normal form improves limitations of classical schema design since it takes into account new meta data in the form of cardinality constraints, while classical design is based on functional dependencies only.</p><p>The properties of the schema translate into the performance of physical database operations such as updates and joins, so they have a substantial, and measurable positive impact on performance of queries/transactions involving large datasets. This new method offers quantifiable benefits to the design of <em>any</em> relational database, thus has very wide applicability beyond data science.</p><p><strong>Impact *</strong></p><p>Our science impact is clearly evidenced again by our long list of publications in highly-ranked journals. This year our team has produced 45 research articles, one of which in <em>Emerging Infectious Diseases</em> has already been cited 49 times in less than a year. Many others have already been cited more than 20 times, which means that other researchers are finding our work useful in their own.</p><p>Arguably more important is the fact that now we are seeing some of our software development efforts bearing fruit and being launched into the world. We are committed to developing reproducible, open source methods and applications, and we provide two specific examples below in detail, both available to other researchers in Aotearoa and beyond via <em>github</em>.</p><p><strong>LinguaPhylo—a domain-specific modelling environment for phylogenetics research</strong></p><p>The first impact example is <em>LinguaPhylo</em> (<a href="https://linguaphylo.github.io"><u>https://linguaphylo.github.io</u></a>).  <em>LinguaPhylo</em> (or <em>LPhy</em> for short) is a new domain-specific modeling language with supporting open source software for visualisation, simulation and inference. <em>LPhy</em> fills a crucial gap in the ecosystem for computational biology tools focused on probabilistic modelling of molecular evolution, phylogenetics and genealogical inference. There has been impressive progress in the sophistication of models implemented and applied to comparative molecular data sets, but alongside this progress has been a lack of tools that assist in pedagogy, reproducibility and reusability of such models. Specifically there has been a lack of development of high-level formal languages for compact, precise model specification that are both human-friendly and computer-readable. In this work we address that gap by introducing a high-level extensible declarative specification language with implicit typing and array programming features that allows compact and precise descriptions of cutting-edge probabilistic models for phylogenetic analyses that are both human- and computer-readable. We have implemented a bridge between this new language and the popular Bayesian inference tool BEAST 2, and we have also developed the LPhy Studio software package for:</p>
+
+<ol type="i"><li>
+
+<p>graphical visualisation—so that the modelling workflow can be more easily understood and shared</p>
+
+</li><li>
+
+<p>narrative generation—such that a text description of any model can be automatically produced, again to improve understandability &amp; transparency and</p>
+
+</li><li>
+
+<p>simulation of models specified in the new LinguaPhylo language.</p>
+
+</li></ol>
+
+<p>The first paper on this work is available as a preprint and is in review in PLoS Computational Biology.</p><p><strong>Stencila—Open-source desktop science publishing and sharing</strong></p>
+
+<p>The second impact example is <strong>Stencila</strong>, our industry partner. Over the past year Stencila has been focussed on development of version 2.0 of our platform for publishing reproducible research. We have taken feedback from users and re-architected the platform to be easier to install, easier to use and more integrated with other formats and platforms. We are currently wrapping this development up, moving towards writing documentation and a launch of version 2.0 in October 2022. Key features include:<br /><br />
+1. <strong>Integrations</strong>: Bidirectional conversion to/from the following document formats is supported: Markdown, Jupyter Notebooks, R Markdown, Microsoft Word, Google Docs, HTML, JSON, JSON5, YAML, TOML<br /><br />
+We have also developed technology to incorporate executable elements such as code chunks into Microsoft Word and Google Docs, formats that normally do not support such elements. This allows data scientists to more easily collaborate with others by being able to create and share "executable DOCX" files that can have changes made to their content and then converted back to executable formats such as Jupyter. In other words, it combines the positive benefits of open research tools and tools to report about such research.</p>
+
+<p>Importantly, this <strong>closes the gap between the ‘doing’ science and the ‘reporting’ science</strong>, a gap that currently leads to inconsistencies and inaccuracies, and is in large part responsible for the reproducibility crisis in science.</p>
+
+<p>2. <strong>Reactivity</strong>—live science within a desktop environment<br />
+A major part of our version 2 development has been making Stencila documents fully reactive (to changes in underpinning data—see the first section of Strategic Intent above) . This allows any changes made within the document itself, or to external files, to be reflected in the outputs of the document. To this end we have implemented document dependency analysis. For each document we create a dependency graph, based on semantic analysis of code, which includes elements within the document (e.g. Parameters, CodeChunks) and other files (e.g. a CSV data file). Using this dependency graph, we are able to make the document reactive to changes. For example, if a code chunk reads a CSV file and the integrated file watcher sees that the CSV file has changed, the code chunk will be re-executed.<br /><br />
+3. <strong>Reproducibility</strong><br />
+We have made it easier to create lightweight reproducible compute environments for documents. We have built on top of tools such as ASDF (<a href="https://protect-au.mimecast.com/s/XLUrCBNqMRH6opNAcWHDbu?domain=asdf-vm.com"><u>https://asdf-vm.com/</u></a>), modern package managers such as Poetry (<a href="https://protect-au.mimecast.com/s/tDVMCD1vOJHvPNZMCk3PY-?domain=python-poetry.org"><u>https://python-poetry.org/</u></a>) and Renv (<a href="https://protect-au.mimecast.com/s/OxpJCE8wg6H9PVjniBFDUL?domain=rstudio.github.io"><u>https://rstudio.github.io/renv/</u></a>), and the Taskfile format (<a href="https://protect-au.mimecast.com/s/_sN-CGv0kQtYgK9qfYlyMN?domain=taskfile.dev"><u>https://taskfile.dev/</u></a>) to reduce the friction for users in going from their local development environment to being able to publish reproducible research directly on the web.</p>
+
+<p>As far as code outputs, there were 45 releases of Stencila (ignoring patch releases) in the past year (0.113-0.142 and 1.0 to 1.16; <a href="https://protect-au.mimecast.com/s/K5XDC71RxWHp0m9JI2FwRi?domain=github.com"><u>https://github.com/stencila/stencila/releases)</u></a>, which gives some indication of the dramatic pace of progress with this project.</p><p><strong>Investing in people (capability) *</strong></p><p>Via our PhD and post-doc funding, we are growing a new generation of Data Science researchers with the skills necessary to make strong contributions in industry, academia and government, along with a passion for open and transparent science. Despite the handicaps associated with the pandemic, we are now almost up to strength with our post-doc appointments and are catching up to where we hoped to be with our PhD students.</p><p>The 2021 <em>Research Bazaar</em> (<em>ResBaz’21</em>) event led by the University of Auckland (Laura Armstrong, Mark Gahegan and the team at the Centre for eResearch) hosted a special track in Data Science sponsored by <em>Beyond Prediction</em> as part of our national outreach to increase data science literacy among the research community at large. This intensive 3 day event was delivered online because of COVID restrictions but included a range of practical activities supported by gangs of tutors. The specific Data Science track offered 24 Data Science-focussed workshops or other learning opportunities, along with a broad mix of other digital skills offerings. Topics included:</p>
+
+<ul><li>
+
+<p>Introduction to Machine Learning</p>
+
+</li><li>
+
+<p>Becoming a Data Scientist</p>
+
+</li><li>
+
+<p>Machine Learing in Julia</p>
+
+</li><li>
+
+<p>Python for image manipulation and repeatable research pipelines</p>
+
+</li><li>
+
+<p>Māori and Pacific researchers: Reimagining relationality with digital tools</p>
+
+</li><li>
+
+<p>Working with Social Media Data</p>
+
+</li><li>
+
+<p>Introduction to R and R-Studio</p>
+
+</li><li>
+
+<p>Open Source in Research</p>
+
+</li><li>
+
+<p>…and many others.</p>
+
+</li></ul>
+
+<p>Half of the activities were effectively ‘tasters’ introducing new approaches, tools and data science skills, and half were ‘hands-on’ with varying levels of complexity from beginner to advanced, so researchers got to learn new skills that they can apply directly in their day-to-day research. See <a href="https://resbaz.auckland.ac.nz/sessions/">https://resbaz.auckland.ac.nz/sessions/</a> for a full description of the <em>ResBaz’21</em> programme.</p><p><strong>Over 1300 separate attendances in the Data Science stream workshops were attained</strong> for those 24 workshops.  Each one of these represents a researcher becoming aware of or learning a new skill.  Researchers attended from across the university and CRI sector.</p><p><strong>Domestic and international collaboration *</strong></p><p><strong>Domestic Collaboration</strong></p><p>We have deepened our relationship with ESR and are now hosting an ESR employee (Hugo Strydom) as a PhD student with us, cementing lines of collaboration over infectious disease monitoring and modelling. Hugo is a senior scientists at ESR, registered at Massey University and co-supervised by a team from Massey, ESR and the University of Auckland. The initial phase of his work is focussed on the phylodynamics of <em>Salmonella enterica</em>Enteritidis sequence type ST11, which has been the cause of an ongoing outbreak of salmonellosis in Aotearoa associated with eggs and poultry meat since 2019. He has been working on developing his skills in bioinformatics, ancestral state reconstruction modelling and data visualisation using a whole genome sequenced dataset of ~250 isolates from human cases and poultry samples. </p><p>This project has led directly to strong collaboration between two AI research groups from Auckland and Canterbury. There is now a strong collaboration on AI in genomics between the groups led by professors Alex G (U.Canterbury) and Michael Witbrock (U.Auckland), both PIs in this project but with no previous history of working together. Their respective research groups are working closely on developing data science and AI approaches to large-scale molecular sequencing data to develop an AI approach to genome-wide association studies (GWAS) data. This is a general approach that allows the network to learn from sequencing data in an unsupervised way (pre-training stage) and then be trained on a (deseas) phenotype of interest. They have published preliminary results at the ICML Workshop on Computational Biology 2022 where the work was accepted and presented as both a spotlight talk and a poster and attracted additional funding from Marsden to take these ideas further.</p><p><strong>International Collaboration</strong></p><p>Difficulties with international travel have curtailed many of our planned international activities over the past year..</p><p>We collaborated with Megan Leask and Tony Merriman from the University of Alabama in Birmingham to apply our genome-wide association studies method (mentioned in the section above) to gout data.</p><p>Prof Tanja Stadler at ETH, Switzerland, works on the Swiss government COVID response and is keen to adopt a similar approach to real time analysis &amp; reporting that we are pioneering here. Tanja’s lab sequence more than half of all COVID samples in Switzerland and Tanja reports to central government politicians on the results. She will shortly be engaging with us to co-supervise a PhD student and to host this student in ETH for 1-2 months per year.</p><p><strong>Vision Mātauranga *</strong></p><p>We continue to teach the principles around Māori Data Sovereignty (MDS) in all of our Research Data Workshops and including at the ResBaz event described above (investing in people section). Many researchers warm to the values at the heart of MDS once they understand the reasonable motivations behind them. <strong>Practically, this means that hundreds of researchers have now heard a simple introduction to MDS and have been exposed to its core values.</strong></p><p>The genome-wide association studies mentioned under Domestic Collaboration are specifically focussed on people with Māori and Pacifica ancestry, to try to better understand the genetic factors in this disease so that there might be better health outcomes for those affected individuals. Specifically, genetic analysis of health conditions in humans is most often done using GWAS (genome-wide association studies) in large studies (<em>n</em> &gt; 10<sup>5</sup> participants) genotyped via genome-wide DNA marker panels and/or DNA sequencing-based techniques. Not only does this allow specific genomic regions associated with conditions to be identified, it also enables genome-wide estimation of both heritability and disease risk/resilience (DR). Study designs and predictive methodologies which do not consider these genetic relationships require somewhat larger datasets to effectively detect sufficient genetic regions for PRS-based research and/or clinical applications (ref). However, such datasets do not generally include many indigenous peoples, who have important genetic differences from more commonly studied populations of typically European descent. Moreover, existing datasets from Māori (and Pasifika) domiciled in New Zealand are few, and those that could be utilised, consist of fewer than two thousand individuals – typically from case control studies (reference) – so are underpowered for clinically accurate DR prediction. In addition, establishing sufficiently powered GWAS is highly unlikely in Aotearoa/NZ because of substantive costs associated with generating genotypic data. Māori communities have also been historically reluctant to engage in medical genomics research, thus any studies need to ensure clinically implementable estimates of DR can be obtained to justify participation of such communities.</p><p>Our approach combines statistical simulation, and new prediction methodologies, and incorporation of Māori knowledge regarding whakapapa, to collectively determine optimal study and analysis strategies for DR prediction in Te Ao Māori.</p><p>Team member Lara Greaves has been working to establish a Māori data researchers network. This group has had two casual meet ups, but has been hampered by COVID restrictions and outbreaks to meet up more. Lara has also been working with Andrew Sporle at iNZight Analytics to help to establish a Māori data science student pilot support programme with Precision driven health and the healthier lives NSC. We intend to use our earmarked Māori student funding to support this initiative shortly.</p><p>Lara has also been active within Te Mana Raraunga where she is an exec member and participated in submissions to government on the Data and Statistics Bill and has presented on Māori data and data sovereignty in the IDI.</p><p><strong>Additional information</strong></p><p><strong>Alexei D</strong></p><p>Hi Mark,</p><p>Hope this is helpful:</p><p>Progress</p><p>We have been working on two main projects relevant to the Beyond Prediction grant. </p><p>LinguaPhylo</p><p>==========</p><p>The first is LinguaPhylo (<a href="https://linguaphylo.github.io"><u>https://linguaphylo.github.io</u></a>).  LinguaPhylo (or LPhy for short) is a new domain-specific modeling language with supporting open source software for visualisation, simulation and inference. LPhy fills a crucial gap in the ecosystem for computational biology tools focused on probabilistic modelling of molecular evolution, phylogenetics and genealogical inference. There has been impressive progress in the sophistication of models implemented and applied to comparative molecular data sets, but alongside this progress has been a lack of tools that assist in pedagogy, reproducibility and reusability of such models. Specifically there has been a lack of development of high-level formal languages for compact, precise model specification that are both human-friendly and computer-readable. In this work we address that gap by introducing a high-level extensible declarative specification language with implicit typing and array programming features that allows compact and precise descriptions of cutting-edge probabilistic models for phylogenetic analyses that are both human- and computer-readable. We have implemented a bridge between this new language and the popular Bayesian inference tool BEAST 2, and we have also developed the LPhy Studio software package for (i) graphical visualisation, (ii) narrative generation and (iii) simulation of models specified in the new LinguaPhylo language. The first paper on this work is available as a preprint and is in review in PLoS Computational Biology.</p><p>Bayesian phylodynamic inference from single-cell sequencing data</p><p>===================================================</p><p>The second project carries on from recent work by Kylie Chen on developing Bayesian evolutionary inference tools for the study of single-cell sequencing data, especially for studying cancer evolution in individual patients. Single-cell sequencing provides a new way to explore the evolutionary history of cell lineages in vivo. Compared to traditional bulk sequencing, where a population of heterogeneous cells is pooled to form a single observation, single-cell sequencing isolates and amplifies genetic material from individual cells, thereby preserving the information about the origin of the sequences. However, single-cell data are more error-prone than bulk sequencing data due to the limited genomic material available per cell. We have developed computational models to account for error and mutation in such data and allow for evolutionary inference of single-cell data within a mature and extensible open source Bayesian framework, BEAST2. This first piece of work has recently been published in Molecular Biology and Evolution. Following on from this we have submitted a Marsden grant (currently in the second round) to substantially expand our collaboration on this work to include international colleagues in ETH and University of Vigo. </p><p>Research Outputs</p><p> </p><p>Alexei J Drummond, Kylie Chen, Fábio K Mendes, Dong Xie (2022) LinguaPhylo: a probabilistic model specification language for reproducible phylogenetic analyses. bioRxiv.  doi:10.1101/2022.08.08.503246</p><p>Kylie Chen, Jiří C Moravec, Alex Gavryushkin, David Welch, Alexei J Drummond (2022) Accounting for errors in data improves divergence time estimates in single-cell cancer evolution. Mol Biol Evol.  doi:10.1093/molbev/msac143</p><p>PhD students (not funded by Beyond Prediction)</p><p>Kylie Chen</p><p>Cinthy Jimenez</p><p>Christiaan Swanepoel</p><p>Cheers</p><p>Alexei</p><p><strong>Laura G</strong></p><p>I'm not entirely sure what I am needing to be doing for this grant - a catch up some time would be good.</p><p>I've led a paper on Māori data/data sov in the IDI, presented it at the University of Queensland and will at the International Population Data Linkage conference in Edinburgh next month. I'm assuming that might be related?</p><p>I've been working to establish a Māori data researchers network. We've had 2 casual meet ups. But have been waiting for covid to calm down to get that under way.</p><p>I've also been working with Andrew Sporle at iNZight Analytics to help to establish a Māori data science student pilot support programme with Precision driven health and the healthier lives NSC. This might be something the grant considers investing money in? Or taking on a student?</p><p>I'm also an exec member at Te Mana Raraunga and submitted on the Data and Statistics Bill - have done some work supporting them.</p><p>Ngā mihi,</p><p>Lara</p><p><strong>Paul G</strong></p><p>Hola Mark,</p><p>I'm attending a conference in Spain, and will be travelling for at least another week. </p><p>Alex and I have advertised for a PhD student, of 100 applicants we long-listed 18. Only 2 were able to complete the challenges we set them. I have made an offer to one in the last week and am waiting to hear back. The other candidate is also excellent, but withdrew due to a family member's health concerns. She may be interested in a position later. </p><p>Gardner, P. P., Paterson, J. M., McGimpsey, S., Ashari-Ghomi, F., Umu, S. U., Pawlik, A., ... &amp; Black, M. A. (2022). Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software. Genome biology, 23(1), 1-13.<br /><a href="https://protect-au.mimecast.com/s/qtMCC71RxWHpwyVNt8CMZO?domain=doi.org"><u>https://doi.org/10.1186/s13059-022-02625-x</u></a></p><p>The paper is doing well on altmetrics, and generated plenty of discussion on twitter:</p><p><a href="https://protect-au.mimecast.com/s/iI2rC81VyBHvEQPqc1Jsjk?domain=genomebiology.biomedcentral.com"><u>https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02625-x/metrics</u></a></p><p>I am still working with ESR on a GA funded pathogen project (<em>Streptococcus pyogenes</em>) which causes rheumatic fever. Isolates have been selected and are being sequenced now.</p><p>Otherwise, not too much else to report I'm afraid. </p><p>Best wishes,</p><p>Paul.</p><p><strong>Anna Santure / Marti Anderson</strong></p><p>Dear Mark,</p><p>Just to add a few more comments to what Anna has already written…</p>
+
+<ol type="1"><li>
+
+<p>Progress on named objectives</p>
+
+</li></ol>
+
+<p>One special focus for us is to identify the mathematical congruencies between currently used measures of genetic variance (among individuals) and distance-based ecological measures of variability (among sampling units).</p><p>Some significant headway was achieved this year. Specifically, we considered genotype data (<strong>M</strong>, comprised of SNPs for a set of individuals), which is typically transformed to allele frequencies, and used to create a “genomic relatedness matrix” (<strong>G</strong>). We have been able to derive the mathematical relationship between this (classical genetic variance) matrix and a (much more general) matrix of similarities (namely, Gower’s <strong>G</strong>matrix, which can be partitioned and analysed in ecological or other contexts). This kicks open the door to allow genomic relatedness matrices to be analysed using a full suite of semi-parametric/non-parametric techniques that are robust and powerful – both for partitioning (e.g., to examine effects of treatments, environmental variables, or changes through time or space), and also for derivation of similarity-based biodiversity measures.</p><p>Work on a coding platform to achieve this is ongoing. Prototypes of code for analysing specific examples are also being developed (see Anna’s message below for further details).</p><p> </p>
+
+<ol start="2" type="1"><li>
+
+<p>Research Outputs</p>
+
+</li></ol>
+
+<p>Related work of mine (funded by a RSNZ Marsden grant and also funded through PRIMER-e) is to develop new models of <em><strong>nonlinear responses of species to environmental gradients</strong></em>. This foundational paper is soon to be re-submitted (after a second round of reviews), with only minor amendments required, so I expect it shall quite soon (within the next month?) be “in press”:</p>
+
+<ul><li>
+
+<p>Anderson MJ, Walsh DCI, Sweatman WL, Punnet AJ. (under revision). Non-linear models of species’ responses to environmental and spatial gradients. <em>Ecology Letters</em>.</p>
+
+</li></ul>
+
+<p>A substantial associated <strong>R package</strong> for implementing these models is also now available on Github:</p>
+
+<ul><li>
+
+<p>Walsh DCI, Anderson MJ, Punnett AJ, Adegoke N (2022). <em>senlm: Species environment non-linear modelling</em>. <a href="https://protect-au.mimecast.com/s/oonLC4QOrYI0oDOosOpXUp?domain=primer-e.github.io/"><u>https://primer-e.github.io/senlm/</u></a></p>
+
+</li></ul>
+
+<p>A substantial review paper on ecological drivers underpinning directional changes in ecological beta diversity is also currently being revised for re-submission after receiving favourable reviews:</p>
+
+<ul><li>
+
+<p>Rolls RJ, Deane DC, Johnson SE, Heino J, Anderson MJ, Ellingsen KE. (under revision). Conceptual models of ecological drivers underpinning directional change in beta diversity across ecosystems. <em>Biological Reviews</em>.</p>
+
+</li></ul>
+
+<p> </p><p>The following papers appeared in 2021 (note: I think the articles associated with the special issue that I edited in honour of Bob Clarke were mentioned to you last year, but that special issue did not appear until Sep 2021, so maybe should/could be included in this years’ report?):</p>
+
+<ul><li>
+
+<p>Greening, S.S., Zhang, J., Midwinter, A.C., Wilkinson, D.A., Fayaz, A., Williamson, D.A., Anderson, M.J., Gates, M.C. and French, N.P. 2021. Transmission dynamics of an antimicrobial resistant <em>Campylobacter jejuni</em> lineage in New Zealand’s commercial poultry network. <em>Epidemics</em> 37: 100521. doi: 10.1016/j.epidem.2021.100521.</p>
+
+</li><li>
+
+<p>Balazy, P., Anderson, M.J., Chelchowski, Włodarska-Kowalczuk, M., Kuklinski, P. and Berge, J. 2021. Shallow-water scavengers of polar night and day – an arctic time-lapse photography study. <em>Frontiers in Marine Science</em> 8: 656772. doi: 10.3389/fmars.2021.656772.</p>
+
+</li><li>
+
+<p>Adegoke, N.A., Punnett A. and Anderson, M.J. 2021. Estimation of multivariate dependence structures via constrained maximum likelihood. <em>Journal of Agricultural, Biological and Ecological Statistics</em>. vol. pp. <a href="https://protect-au.mimecast.com/s/DzGTC5QPv1IjvX7vuObXiC?domain=doi.org"><u>doi.org/10.1007/s13253-021-00475-x</u></a>.</p>
+
+</li><li>
+
+<p>Anderson, M.J., Somerfield, P.J. and Warwick, R.M. 2021. Introduction: in appreciation of K. Robert Clarke. <em>Austral Ecology</em>. Special issue in honour of K. Robert Clarke 46(6): 891-900.</p>
+
+</li><li>
+
+<p>Bevilacqua, S., Anderson, M.J., Ugland, K., Somerfield, P. and Terlizzi, A. 2021. The use of taxonomic relationships among species in applied ecological research: baseline, steps forward, and future challenges. <em>Austral Ecology</em>. Special issue in honour of K. Robert Clarke 46(6): 950-964.</p>
+
+</li><li>
+
+<p>Myers, E.M.V., Eme, D., Liggins, L., Roberts, C.D., Harvey, E.S. and Anderson, M.J. 2021. Functional beta diversity of New Zealand fishes: characterising morphological turnover along depth and latitude gradients, with derivation of functional bioregions. <em>Austral Ecology</em>. Special issue in honour of K. Robert Clarke 46(6): 965-981.</p>
+
+</li><li>
+
+<p>Hendriks, K.P., Bisschop, K., Kortenbosch, H.H., Kavanagh, J.C., Larue, A.E.A., Phung, C.-C., Bonte, D., Duijm, E. J., Salles, J.F., Pigot, A.L., Richter Mendoza, F.J., Schilthuizen, M., Anderson, M.J., Speksnijder, A.G.C.L. and Etienne, R.S. 2021. Microbiome and environment explain the absence of correlations between consumers and their diet in Bornean microsnails. <em>Ecology</em> 102(2), e03237.</p>
+
+</li><li>
+
+<p>Myers, E.M.V., Anderson, M.J., Liggins, L., Harvey, E.S., Roberts, C.D. and Eme, D. (2021). High functional diversity in deep-sea fish communities and increasing intra-specific trait variation with increasing latitude. <em>Ecology and Evolution</em> 11(15):10600-10612. doi: 10.1002/ece3.7871.</p>
+
+</li><li>
+
+<p>Stocks, J.R., Davis, S., Anderson, M.J., Asmus, M.W., Cheshire, K.J.M., van der Meulen, D.E., Walsh, C.T. and Gilligan, D.M. 2021. Fish and flows: abiotic drivers influence the recruitment response of a freshwater fish community throughout a regulated lotic system of the Murray-Darling Basin, Australia. <em>Aquatic Conservation: Marine and Freshwater Ecosystems</em> 31: 3228-3247. doi: 10.1002/aqc.3636.</p>
+
+</li><li>
+
+<p>Adegoke, N.A., Smith, A.N.H., Anderson, M.J. and Pawley, M.D.M. 2021. MEWMA charts when parameters are estimated with applications in gene expression and bimetal thermostat monitoring. <em>Journal of Statistical Computation and Simulation</em> 91: 37-57.</p>
+
+</li></ul>
+
+<p> </p><p>In terms of outreach, the following intensive <strong>online workshops</strong> on multivariate data analysis (5 days, 8-9 hrs per day) were presented by me:</p>
+
+<ul><li>
+
+<p>8-12 August 2022: “<em>Workshop on Multivariate Analysis in Ecology (&amp; other Sciences) using PRIMER v7</em>.” → Online Workshop, organised by PRIMER-e, Pacific Daylight Time, USA (UTC – 7 hrs).</p>
+
+</li><li>
+
+<p>15-19 November 2021: “<em>Workshop on Multivariate Analysis in Ecology (&amp; other Sciences) using PERMANOVA+ for PRIMER v7</em>.” → Online Workshop, organised by PRIMER-e, Australian Western Standard Time (UTC + 8 hrs).</p>
+
+</li></ul>
+
+<p>I also presented (online) the following <strong>invited seminars</strong>:</p>
+
+<blockquote>
+
+<p>Anderson, M.J. (06-08-2021). “Introduction to PERMANOVA+: experimental design and analysis for multivariate ecology.” Invited seminar (presented online), Department of Marine Biology, Microbiology &amp; Biochemistry, School of Marine Sciences, Cochin University of Science and Technology (CUSAT), Cochin, Kerala, India. </p><p>Anderson, M.J. (02-08-2021). “Introduction and overview of PRIMER version 7: insights on multivariate analysis for ecological data.” Invited seminar (presented online), Department of Marine Biology, Microbiology &amp; Biochemistry, School of Marine Sciences, Cochin University of Science and Technology (CUSAT), Cochin, Kerala, India.</p>
+
+</blockquote>
+
+<p>I had invitations to present two separate seminars down at Victoria University in Wellington, but COVID got in the way, so that trip (even after 3 attempts to move/re-schedule it!) did not happen this year (☹). Maybe next year!</p><p>Hope something above is helpful to you!</p><p>-Marti</p><p> </p><p> </p><p> </p><p><strong>From:</strong> Anna Santure &lt;<a href="mailto:a.santure@auckland.ac.nz"><u>a.santure@auckland.ac.nz</u></a>&gt; <br /><strong>Sent:</strong> Tuesday, 16 August 2022 10:31 AM<br /><strong>To:</strong> Mark Gahegan &lt;<a href="mailto:m.gahegan@auckland.ac.nz"><u>m.gahegan@auckland.ac.nz</u></a>&gt;; Marti Anderson &lt;<a href="mailto:marti@primer-e.co.nz"><u>marti@primer-e.co.nz</u></a>&gt;<br /><strong>Subject:</strong> RE: MBIE Data Science Platform: Beyond Prediction -- Research outcomes needed now</p><p> </p><p>Kia ora Mark, kia ora Marti, </p><p> </p><p>great to hear from you, Mark! That time of year again, phew! Please let me know if you need any further information. </p><p> </p><p>1. Progress </p>
+
+<ol>
+  <li>Research outputs (Santure group) - Aug ‘21 to Aug ‘22</li>
+</ol>
+
+<p><u>Manuscripts </u></p><p>Bonnet, T., Morrissey, M.B., de Villemereuil, P., Alberts, S.C., Arcese, P., Bailey, L., Boutin, S., Brekke, P., Brent, L.J.N., Camenisch, G., Charmantier, A., Clutton-Brock, T.H., Cockburn, A., Coltmanm D.W., Courtiol, A., Davidian, E., Evans, S.R., Ewen, J.G., Festa-Bianchet, M., de Franceschi, C., Gustafsson, L., Höner, O.P., Houslay, T.M., Keller, L.F., Manser, M., McAdam, A.G., McLean, E., Nietlisbach, P., Osmond, H.L., Pemberton, J.M., Postma, E., Reid, J.M., Rutschmann, A., Santure, A.W., Sheldon, B.C., Slate, J., Teplitsky, C., Visser, M.E., Wachter, B., Kruuk, L.E.B. (2022) Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. Science 376: 1012-1016. <a href="https://protect-au.mimecast.com/s/suWoC6XQwzSODpvDUm8QlH?domain=doi.org"><u>https://doi.org/10.1126/science.abk0853</u></a> (May 2022, 7 citations to date) </p><p> </p><p>Salloum, P.M., Santure, A.W., Lavery, S.D. &amp; de Villemereuil, P. (2022) Finding the adaptive needles in a population-structured haystack: a case study in a New Zealand mollusc. Journal of Animal Ecology 91: 1209-1221. <a href="https://protect-au.mimecast.com/s/zLbSC71RxWHpq8KqCNWqO0?domain=doi.org"><u>https://doi.org/10.1111/1365-2656.13692</u></a> (March 2022, 1 citation to date) </p><p> </p><p>Duntsch, L., Brekke, P., Ewen, J.G., &amp; Santure, A.W. (2022) Who are you? A framework to identify and report genetic sample mix-ups. Molecular Ecology Resources 22: 1855-1867. <a href="https://protect-au.mimecast.com/s/1r_2C81VyBHvr20rSoB4SI?domain=doi.org"><u>https://doi.org/10.1111/1755-0998.13575</u></a> (December 2021, 1 citation to date) </p><p> </p><p> </p><p>Duntsch, L., Whibley, A., Brekke, P. Ewen, J.G. &amp; Santure, A.W. (2021) Genomic data of different resolutions reveal consistent inbreeding estimates but contrasting homozygosity landscapes for a threatened species. Molecular Ecology 30: 6006-6020. <a href="https://protect-au.mimecast.com/s/PwTQC91WzLH31lX1H1oLYJ?domain=doi.org"><u>https://doi.org/10.1111/mec.16068</u></a> (December 2021, 5 citations to date) </p><p> </p><p><u>Invited talks </u></p><p>Invited talk, Australasian Ornithological Society conference, Online, February 2022. <em>Predicting the evolutionary potential of the threatened hihi – what can genomic information tell us?</em> Santure, A.W.  </p><p> </p><p>II. N/A, no preprints to share </p><p> </p><p>III. University of Auckland PhD student Eirian Perkins, commenced 2021. Eirian is part-time. </p><p>Hui Zhen Tan is a new PhD student we hoped would have started by now but there have been some visa delays. She will be commencing full time on 1 November. </p><p> </p><p>3. Other information </p><p>A. Ellerm, B. Adams, M. Gahegan, and L. Trombach (2022) Enabling LivePublication. In: <em>2022 IEEE 18th International Conference on eScience</em>.</p>
+
+<ol>
+  <li>SNVformer: An Attention-based Deep Neural Network for GWAS Data. Kieran Elmes, Diana Benavides-Prado, Neset Ozkan Tan, Trung Bao Nguyen, Nicholas Sumpter, Megan Leask, Michael Witbrock, and Alex Gavryushkin. ICML Workshop on Computational Biology 2022. This was presented at the conference as a spotlight talk and also a poster. <a href="https://protect-au.mimecast.com/s/DL5iC1WLoBTzzgG2CL3SEO?domain=icml-compbio.github.io"><u>https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_58.pdf</u></a></li>
+  <li>Online Bayesian Analysis with BEAST 2. Remco Bouckaert, Lena Collienne, and Alex Gavryushkin. bioRxiv 2022. Under revision at eLife. <a href="https://protect-au.mimecast.com/s/t-ZZC2xMp1Ullr3PC1lGuW?domain=doi.org"><u>https://doi.org/10.1101/2022.05.03.490538</u></a></li>
+  <li>Tuberous sclerosis complex: a complex case. Ryan Powell, Sharon Pattison, Jiri Moravec, Basharat Bhat, Nada Guirguis, David Markie, Greg Jones, Jason Copedo, Ian Morison, Alex Gavryushkin, Bronwyn Gray, Lisa Wyeth, Mike Eccles, and Erin Macaulay. Cold Spring Harbor Molecular Case Studies, 8: a006182, 2022. <a href="https://protect-au.mimecast.com/s/3MvtC3QNqKIAA3K6u2i4q3?domain=ncbi.nlm.nih.gov/"><u>https://www.ncbi.nlm.nih.gov/pmc/articles/pmc9059781/</u></a></li>
+  <li>Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software</li>
+</ol>
+
+<p>Paul Gardner, James Paterson, Stephanie McGimpsey, Fatemeh Ashari-Ghomi, Sinan Umu, Aleksandra Pawlik, Alex Gavryushkin, and Michael Black. Genome Biology, 23(56), 2022. <a href="https://protect-au.mimecast.com/s/eQ2wC4QOrYI00P5McWCL4T?domain=doi.org"><u>https://doi.org/10.1186/s13059-022-02625-x</u></a></p><p> </p><p>All papers are open access with PDFs available at the links above.</p><p> </p>
+
+<ol start="3" type="I"><li>
+
+<p><strong>Please supply the names of any</strong> <strong>Postdocs or PhD students that you have manged to recruit</strong>, for some or all of the time since we began.</p>
+
+</li></ol>
+<ol>
+  <li>Dr Lena Collienne (postdoc)</li>
+  <li>Dr Jiri Moravec (postdoc)</li>
+  <li>Kieran Elmes (PhD student funded from elsewhere with scholarship topup funded from this grant)</li>
+  <li>Lars Berling (PhD student funded from elsewhere)</li>
+</ol>
+
+<p> </p><p> </p><p><strong>3.  Anything else of likely interest to MBIE, tell me that too!</strong></p>
+
+<ol type="1"><li>
+
+<p>Discovery of meta data from data:</p>
+
+<ul><li>
+
+<p>We studied the problem of computing all cross joins that hold on a given data table. Cross joins form the most expressive and costly query operation, and the degree by which cross joins hold provide us also with a measure how independent feature sets are in a given data set. This leads to effective query optimization techniques. We showed that the decision variant of the problem is not only NP-complete but even W[3]-complete in the size of the output. Despite of these efficiency barriers, we developed several algorithms that work efficiently within those limits. We also extended the algorithms to compute the degree by which cross joins hold. </p>
+
+</li></ul></li><li>
+
+<p>Application of meta data to data preparation, in particular the design of data models with respect to different data quality dimensions. </p>
+
+<ul><li>
+
+<p>One outcome is the proposal of a new normal form for relational schema design that quantifies the update inefficiency and join efficiency at schema design time, and an algorithm that computes a schema in that normal form with a minimal level of update inefficiency achievable. The properties of the schema translate into the performance of physical database operations such as updates and joins. The new normal form improves limitations of classical schema design since it takes into account new meta data in the form of cardinality constraints, while classical design is based on functional dependencies only.</p>
+
+</li><li>
+
+<p>A second outcome includes a refinement of the classical Boyce-Codd Normal Form by parameterizing the number of minimal keys exhibited as a measure of both access variety and update complexity. We showed - whenever possible - how to compute a dependency-preserving Boyce-Codd Normal Form decomposition that exhibits a globally minimum number of minimal keys, thereby optimizing update complexity. If a dependency-preserving Boyce-Codd Normal Form decomposition does not exist, our algorithm still returns a schema in Third Normal Form that minimizes the sub-schemata that are not in Boyce-Codd Normal Form, and minimizes also the number of minimal keys exhibited by the sub-schemata that are in Boyce-Codd Normal Form. Again, the properties of the schemata translate into the performance of physical database operations such as updates and queries.</p>
+
+</li></ul></li></ol>
+
+<p>Journal outputs:</p>
+
+<ul><li>
+
+<p>HANNULA, M.; ZHANG, Z.; SONG, BK.; LINK.S: “Discovery of Cross Joins”, IEEE Transactions on Knowledge and Data Engineering, Online First, DOI: <a href="https://doi.org/10.1109/TKDE.2022.3192842">https://doi.org/10.1109/TKDE.2022.3192842</a>, 2022.</p>
+
+</li><li>
+
+<p>KOEHLER, H.; LE, V.; LINK, S.: “Possible Keys and Functional Dependencies”, <em>Journal of Data Semantics</em>, Volume 10(3-4): 327-366, DOI: <a href="https://doi.org/10.1007/s13740-021-00135-w">https://doi.org/10.1007/s13740-021-00135-w</a>, 2021.</p>
+
+</li></ul>
+
+<p>Conference outputs:</p>
+
+<ul><li>
+
+<p>LINK, S.; PRADE, H.; RICHARD, G.: “Analogical proportions, multivalued dependencies, and explanations”, Scalable Uncertainty Management, SUM, 2022.</p>
+
+</li><li>
+
+<p>LINK, S.: “Object Normal Form, Fourth Normal Form and Their Application to Database Security”, accepted to ER, 2022.</p>
+
+</li><li>
+
+<p>EXCELL, Y.; LINK, S.: “Learning to match product codes”, In: Proceedings of the 35<sup>th</sup> ACM International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE), 2022.</p>
+
+</li></ul>
+
+<p>Under Review:</p>
+
+<ul><li>
+
+<p>HANNULA, M.; LINK, S.: “Controlling Entity Integrity with Key Sets”</p>
+
+</li><li>
+
+<p>LINK, S.: “Entity Integrity for Semi-structured Big Data”</p>
+
+</li><li>
+
+<p>ZHANG, Z.; CHEN, W.; LINK, S.: ‘Composite Object Normal Forms’</p>
+
+</li><li>
+
+<p>HANNULA, M.; KONTINEN, J.; LINK.S: “On the Interaction of Functional and Inclusion Dependencies with Independence Atoms”</p>
+
+</li><li>
+
+<p>LINK., S.; WEI, Z.: “The Bounded Cardinality Normal Form for the Logical Design of Relational Database Schemata”</p>
+
+</li><li>
+
+<p>KOEHLER, H.; GANDHI, A.; HARTMANN, S.; THALHEIM, B.; LINK, S.: “Cardinality Constraints and Functional Dependencies in SQL: Taming Data Redundancy in Logical Database Design”</p>
+
+</li></ul><ul><li>
+
+<p>SKAVANTZOS, P.; LECK, U.; ZHAO, K.; LINK, S.: “Uniqueness Constraints on Property Graphs”</p>
+
+</li><li>
+
+<p>SKAVANTZOS, P.; LINK, S.: “Fundamentals of Logical Designs for Property Graphs”</p>
+
+</li></ul>
+
+<p><strong>Nigel French</strong></p><p>PhD student Hugo Strydom was successfully enrolled in February 2022 and has been making excellent progress to date. Hugo is a senior scientists at ESR, registered at Massey University and co-supervised by a team from Massey, ESR and the University of Auckland. The initial phase of his work is focussed on the phylodynamics of <em>Salmonella enterica</em>Enteritidis sequence type ST11, which has been the cause of an ongoing outbreak of salmonellosis in Aotearoa associated with eggs and poultry meat since 2019. He has been working on developing his skills in bioinformatics, ancestral state reconstruction modelling and data visualisation using a whole genome sequenced dataset of ~250 isolates from human cases and poultry samples. </p><p> </p><p>A second PhD student, Mike Mwanga,  is in the process of being offered a place from Massey University. His work will focus on the phylodynamics of <em>Neisseria meningitidis</em> and the genomic epidemiology and phylodynamics of meningococcal disease in Aotearoa. He will be supervised by academics from Massey, ESR and the University of Auckland.  </p><p>            Zadoks, R. N.<em> et al.</em> Spread of Nontyphoidal Salmonella in the Beef Supply Chain in Northern Tanzania: Sensitivity in a Probabilistic Model Integrating Microbiological Data and Data from Stakeholder Interviews. <em>Risk Anal.</em> <strong>42</strong>, 989-1006, doi:10.1111/risa.13826 (2022).</p><p>2             Jelley, L.<em> et al.</em> Genomic epidemiology of Delta SARS-CoV-2 during transition from elimination to suppression in Aotearoa New Zealand. <em>Nat Commun</em> <strong>13</strong>, 4035, doi:10.1038/s41467-022-31784-5 (2022).</p><p>3             Binny, R. N.<em> et al.</em> Sensitivity of RT-PCR tests for SARS-CoV-2 through time. <em>J Infect Dis</em>, doi:10.1093/infdis/jiac317 (2022).</p><p>4             Swadi, T.<em> et al.</em> Genomic Evidence of In-Flight Transmission of SARS-CoV-2 Despite Predeparture Testing. <em>Emerg Infect Dis</em> <strong>27</strong>, doi:10.3201/eid2703.204714 (2021). Cited 49 times</p><p>5             Scott, P.<em> et al.</em> Whole-genome sequencing and ad hoc shared genome analysis of Staphylococcus aureus isolates from a New Zealand primary school. <em>Sci. Rep.</em> <strong>11</strong>, 20328, doi:10.1038/s41598-021-99080-8 (2021).</p><p>6             Roberts, M. G.<em> et al.</em> Combining mutation and horizontal gene transfer in a within-host model of antibiotic resistance. <em>Math Biosci</em><strong>339</strong>, 108656, doi:10.1016/j.mbs.2021.108656 (2021).</p><p>7             Phiri, B. J., Hayman, D. T. S., Biggs, P. J., French, N. P. &amp; Garcia-R, J. C. Microbial diversity in water and animal faeces: a metagenomic analysis to assess public health risk. <em>N. Z. J. Zool.</em> <strong>48</strong>, 188-201, doi:10.1080/03014223.2020.1831556 (2021).</p><p>8             Nguyen, T.<em> et al.</em> COVID-19 vaccine strategies for Aotearoa New Zealand: a mathematical modelling study. <em>Lancet Reg Health West Pac</em> <strong>15</strong>, 100256, doi:10.1016/j.lanwpc.2021.100256 (2021).</p><p>9             Lake, R. J.<em> et al.</em> Source attributed case-control study of campylobacteriosis in New Zealand. <em>Int. J. Infect. Dis.</em> <strong>103</strong>, 268-277, doi:10.1016/j.ijid.2020.11.167 (2021).</p><p>10           Greening, S. S.<em> et al.</em> Transmission dynamics of an antimicrobial resistant Campylobacter jejuni lineage in New Zealand's commercial poultry network. <em>Epidemics</em> <strong>37</strong>, 100521, doi:10.1016/j.epidem.2021.100521 (2021).</p><p>11           Greening, S. S., Rawdon, T. G., Mulqueen, K., French, N. P. &amp; Gates, M. C. Using multiple data sources to explore disease transmission risk between commercial poultry, backyard poultry, and wild birds in New Zealand. <em>Prev Vet Med</em>, 105327, doi:<a href="https://protect-au.mimecast.com/s/A_e9CE8wg6H9LyY3UNfl-n?domain=doi.org">https://doi.org/10.1016/j.prevetmed.2021.105327</a> (2021).</p><p>12           Geoghegan, J.<em> et al.</em> Use of Genomics to Track Coronavirus Disease Outbreaks, New Zealand. <em>Emerging Infectious Disease journal</em><strong>27</strong>, doi:10.3201/eid2705.204579 (2021). Cited 20 times</p><p>13           French, N.<em> et al.</em> Creating symptom-based criteria for diagnostic testing: a case study based on a multivariate analysis of data collected during the first wave of the COVID-19 pandemic in New Zealand. <em>BMC Infect. Dis.</em> <strong>21</strong>, 1119, doi:10.1186/s12879-021-06810-4 (2021).</p><p>14           Douglas, J.<em> et al.</em> Real-Time Genomics for Tracking Severe Acute Respiratory Syndrome Coronavirus 2 Border Incursions after Virus Elimination, New Zealand. <em>Emerg Infect Dis</em> <strong>27</strong>, 2361-2368, doi:10.3201/eid2709.211097 (2021). Cited 22 times</p><p>15           Crump, J. A.<em> et al.</em> Investigating the meat pathway as a source of human nontyphoidal Salmonella bloodstream infections and diarrhea in East Africa. <em>Clin. Infect. Dis.</em>, doi:10.1093/cid/ciaa1153 (2021).</p>
+
+<p><strong>Nokome Bentley</strong><br /><br />
+Best regards,<br />
+Nokome<br /><br />
+Over the past year Stencila has been focussed on development of version 2.0 of our platform for publishing reproducible research. We have taken feedback from users and re-architected the platform to be easier to install, easier to use and more integrated with other formats and platforms. We are currently wrapping this development up, moving towards writing documentation and a launch of version 2.0 in October. Key features include:<br /><br />
+# Integrations<br /><br />
+Stencila aims to be compatible with many formats to meet the varied preferences of users (both for formats and software). Bidirectional conversion to/from the following document formats is supported:<br /><br />
+- Markdown<br />
+- Jupyter Notebooks<br />
+- R Markdown<br />
+- Microsoft Word<br />
+- Google Docs<br />
+- HTML<br />
+- JSON<br />
+- JSON5<br />
+- YAML<br />
+- TOML<br /><br />
+In addition, we have converters in progress for LaTeX and OrgMode. We support lossless, or close to lossless conversion for all formats. For example, we have developed technology to incorporate executable elements such as code chunks into Microsoft Word and Google Docs -<br />
+formats that normally do not support such elements. This allows data scientists to more easily collaborate with others by being able to send the "executable DOCX" files that can have changes made to them and then converted back to executable formats such as Jupyter<br />
+Notebooks.<br /><br />
+# Reactivity<br /><br />
+A major part of our version 2 development has been making Stencila documents fully reactive. This allows changes made within the document itself, or to external files, to be reflected in the outputs of the document. To this end we have implemented document dependency analysis. For each document we create a dependency graph, based on semantic analysis of code, which includes elements within the document (e.g. Parameters, CodeChunks) and other files (e.g. a CSV data file). Using this dependency graph, we are able to make the document reactive to changes. For example, if a code chunk reads a CSV file and the integrated file watcher sees that the CSV file has changed, the code chunk will be re-executed.<br /><br />
+# Reproducibility<br /><br />
+We have made it easier to create lightweight reproducible compute environments for documents. We have built on top of tools such as ASDF (<a href="https://protect-au.mimecast.com/s/XLUrCBNqMRH6opNAcWHDbu?domain=asdf-vm.com"><u>https://asdf-vm.com/</u></a>), modern package managers such as Poetry (<a href="https://protect-au.mimecast.com/s/tDVMCD1vOJHvPNZMCk3PY-?domain=python-poetry.org"><u>https://python-poetry.org/</u></a>) and Renv (<a href="https://protect-au.mimecast.com/s/OxpJCE8wg6H9PVjniBFDUL?domain=rstudio.github.io"><u>https://rstudio.github.io/renv/</u></a>), and the Taskfile format (<a href="https://protect-au.mimecast.com/s/_sN-CGv0kQtYgK9qfYlyMN?domain=taskfile.dev"><u>https://taskfile.dev/</u></a>) to reduce the friction for users in going from their local development environment to being able to publish reproducible research on the web.</p><p>Unfortunately I have very much been "in the cave" doing development so have only had a few outside interactions (that is about to change with launch of v2).<br /><br />
+However, I did give a presentation to the "Enabling reproducible computational research: Are we focusing on solutions rather than problems?" session at SciDataCon, one of the two events held for International Data Week 2022 in Seoul, Korea.<br /><br />
+The notes from that session are here if it is of use / interest: <a href="https://protect-au.mimecast.com/s/z8udC6XQwzSOgoxBIBMDlu?domain=docs.google.com"><u>https://docs.google.com/document/d/1OL72pEolpfbEmkZzVS8TLpaWNCMfC4T-h0ZQrEzdLHs/edit</u></a><br /><br />
+As far as code outputs, we made 45 releases of Stencila (ignoring patch releases) in the past year (0.113-0.142 and 1.0 to 1.16; <a href="https://protect-au.mimecast.com/s/K5XDC71RxWHp0m9JI2FwRi?domain=github.com"><u>https://github.com/stencila/stencila/releases)</u></a>.<br /><br />
+Yes, it would be great to discuss outreach soon. The next few weeks will be extremely busy for me leading up to launch Sept 12. But after that I really need to shift to user engagement (and seeking more funding and/or customers so that I can keep going...)</p>
+
+<p><strong>Neset Tan / Michael Witbrock /Mark Gahegan</strong></p><p>One of the bottlenecks that makes applying cutting-edge deep learning models (transformer-based models) to scientific data (scientific textual data and genomic sequences) difficult is the models' input length limitation. Where the data source is long, current models cannot scale to the subtle complexities and relationships that they contain.</p><p>Learning how to verify the claims in scientific papers and “science releases” (media announcements of scientific findings) is a difficult task for both artificial intelligence (AI) systems and humans. However, this task is crucial because learning to separate verified facts from speculation or falsehoods has important consequences. Success at this task can help the reader understand scientific topics and promote science. Conversely, failure at this task leads to the spread of misinformation and exaggeration, which can cause distortion in scientific communication and undermine public confidence in science.</p><p>Training machine learning models to successfully perform scientific fact-checking tasks is challenging due to the expertise bottleneck that limits the availability of appropriate training datasets. In this task, models use textual evidence to confirm scientific claims, which requires data that contains extensive domain-expert annotation. Consequently, the number of existing scientific-fact-checking datasets and the sizes of those datasets are limited. However, these limitations do not apply to multiple-choice question datasets because of the necessity of domain exams in the modern education system.</p><p>As one of the first steps towards addressing the fact-checking dataset scarcity problem in scientific domains, we have developed a workflow for automatically converting multiple-choice questions into fact-checking data, which we call Multi2Claim. By applying the proposed workflow, we generated two large-scale datasets for scientific-fact-checking tasks: Med-Fact and Gsci-Fact for the medical and general science domains, respectively. These two datasets are among the first examples of large-scale scientific-fact-checking datasets and as such are useful to many researchers—and are being shared. We developed baseline models for the verdict prediction task using each dataset. Additionally, we demonstrated that the datasets could be used to improve performance with respect to the F 1 weighted metric on existing fact-checking datasets such as SciFact, HEALTHVER, COVID-Fact, and CLIMATE-FEVER. In some cases, the improvement in performance was up to a 26\% increase.</p><p>Another challenge that makes applying cutting-edge deep learning models (transformer-based models) to scientific data difficult (scientific textual data and genomic sequences) is the models' input length limitation. Where the data source is long, current models cannot scale to the subtle complexities and relationships that they contain.</p><p>In this regard, we summarised the achieved results as follows:</p><p>We were able to apply a linearized version of the transformer-based models to genome-wide association studies (GWAS) data. By using a scalable (long input) on the linearized version of the transformer-based models and appropriately encoding Single Nucleotide Variants (SNVs), we were able to achieve competitive initial performance for prediction of gout disease (with an AUROC of 83% when classifying a balanced test set using genotype and demographic information). (Outcomes of collaboration with Canterbury University on the GWAS project)</p><p>We also investigated whether the internal mechanisms (attention mechanism) of off-the shelf models (BERT, GPT-2) can be practically used to overcome the input length limitation. To this end, we used layer-based attention scores to shorten input length. We examined our methodology both in the general domain text corpus (IMDB dataset) and the scientific papers corpus (scholarly papers in four distinct fields: computer science, mathematics, biology, and physics). We showed that attention scores could be used to shorten the input length for some downstream tasks, such as topic classification of scientific papers. (Outcomes of Neset TAN’s (PhD student) preliminary research questions)</p><p><strong>Research Outputs</strong></p>
+
+<ol type="1"><li>
+
+<p>Alexei J Drummond, Kylie Chen, Fábio K Mendes, Dong Xie (2022) LinguaPhylo: a probabilistic model specification language for reproducible phylogenetic analyses. bioRxiv.  doi:10.1101/2022.08.08.503246</p>
+
+</li><li>
+
+<p>Kylie Chen, Jiří C Moravec, Alex Gavryushkin, David Welch, Alexei J Drummond (2022) Accounting for errors in data improves divergence time estimates in single-cell cancer evolution. Mol Biol Evol.  doi:10.1093/molbev/msac143</p>
+
+</li><li>
+
+<p>Gardner, P. P., Paterson, J. M., McGimpsey, S., Ashari-Ghomi, F., Umu, S. U., Pawlik, A., ... &amp; Black, M. A. (2022). Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software. Genome biology, 23(1), 1-13.<br /><u><a href="https://protect-au.mimecast.com/s/qtMCC71RxWHpwyVNt8CMZO?domain=doi.org">https://doi.org/10.1186/s13059-022-02625-x</a></u> The paper is doing well on altmetrics, and generated plenty of discussion on twitter: <a href="https://protect-au.mimecast.com/s/iI2rC81VyBHvEQPqc1Jsjk?domain=genomebiology.biomedcentral.com"><u>https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02625-x/metrics</u></a></p>
+
+</li><li>
+
+<p>Anderson MJ, Walsh DCI, Sweatman WL, Punnet AJ. (under revision). Non-linear models of species’ responses to environmental and spatial gradients. <em>Ecology Letters</em>.</p>
+
+</li><li>
+
+<p>Rolls RJ, Deane DC, Johnson SE, Heino J, Anderson MJ, Ellingsen KE. (under revision). Conceptual models of ecological drivers underpinning directional change in beta diversity across ecosystems. <em>Biological Reviews</em>.</p>
+
+</li><li>
+
+<p>Greening, S.S., Zhang, J., Midwinter, A.C., Wilkinson, D.A., Fayaz, A., Williamson, D.A., Anderson, M.J., Gates, M.C. and French, N.P. 2021. Transmission dynamics of an antimicrobial resistant <em>Campylobacter jejuni</em> lineage in New Zealand’s commercial poultry network. <em>Epidemics</em> 37: 100521. doi: 10.1016/j.epidem.2021.100521.</p>
+
+</li><li>
+
+<p>Balazy, P., Anderson, M.J., Chelchowski, Włodarska-Kowalczuk, M., Kuklinski, P. and Berge, J. 2021. Shallow-water scavengers of polar night and day – an arctic time-lapse photography study. <em>Frontiers in Marine Science</em> 8: 656772. doi: 10.3389/fmars.2021.656772.</p>
+
+</li><li>
+
+<p>Adegoke, N.A., Punnett A. and Anderson, M.J. 2021. Estimation of multivariate dependence structures via constrained maximum likelihood. <em>Journal of Agricultural, Biological and Ecological Statistics</em>. vol. pp. <a href="https://protect-au.mimecast.com/s/DzGTC5QPv1IjvX7vuObXiC?domain=doi.org"><u>doi.org/10.1007/s13253-021-00475-x</u></a>.</p>
+
+</li><li>
+
+<p>Anderson, M.J., Somerfield, P.J. and Warwick, R.M. 2021. Introduction: in appreciation of K. Robert Clarke. <em>Austral Ecology</em>. Special issue in honour of K. Robert Clarke 46(6): 891-900.</p>
+
+</li><li>
+
+<p>Bevilacqua, S., Anderson, M.J., Ugland, K., Somerfield, P. and Terlizzi, A. 2021. The use of taxonomic relationships among species in applied ecological research: baseline, steps forward, and future challenges. <em>Austral Ecology</em>. Special issue in honour of K. Robert Clarke 46(6): 950-964.</p>
+
+</li><li>
+
+<p>Myers, E.M.V., Eme, D., Liggins, L., Roberts, C.D., Harvey, E.S. and Anderson, M.J. 2021. Functional beta diversity of New Zealand fishes: characterising morphological turnover along depth and latitude gradients, with derivation of functional bioregions. <em>Austral Ecology</em>. Special issue in honour of K. Robert Clarke 46(6): 965-981.</p>
+
+</li><li>
+
+<p>Hendriks, K.P., Bisschop, K., Kortenbosch, H.H., Kavanagh, J.C., Larue, A.E.A., Phung, C.-C., Bonte, D., Duijm, E. J., Salles, J.F., Pigot, A.L., Richter Mendoza, F.J., Schilthuizen, M., Anderson, M.J., Speksnijder, A.G.C.L. and Etienne, R.S. 2021. Microbiome and environment explain the absence of correlations between consumers and their diet in Bornean microsnails. <em>Ecology</em> 102(2), e03237.</p>
+
+</li><li>
+
+<p>Myers, E.M.V., Anderson, M.J., Liggins, L., Harvey, E.S., Roberts, C.D. and Eme, D. (2021). High functional diversity in deep-sea fish communities and increasing intra-specific trait variation with increasing latitude. <em>Ecology and Evolution</em> 11(15):10600-10612. doi: 10.1002/ece3.7871.</p>
+
+</li><li>
+
+<p>Stocks, J.R., Davis, S., Anderson, M.J., Asmus, M.W., Cheshire, K.J.M., van der Meulen, D.E., Walsh, C.T. and Gilligan, D.M. 2021. Fish and flows: abiotic drivers influence the recruitment response of a freshwater fish community throughout a regulated lotic system of the Murray-Darling Basin, Australia. <em>Aquatic Conservation: Marine and Freshwater Ecosystems</em> 31: 3228-3247. doi: 10.1002/aqc.3636.</p>
+
+</li><li>
+
+<p>Adegoke, N.A., Smith, A.N.H., Anderson, M.J. and Pawley, M.D.M. 2021. MEWMA charts when parameters are estimated with applications in gene expression and bimetal thermostat monitoring. <em>Journal of Statistical Computation and Simulation</em> 91: 37-57.</p>
+
+</li><li>
+
+<p>Bonnet, T., Morrissey, M.B., de Villemereuil, P., Alberts, S.C., Arcese, P., Bailey, L., Boutin, S., Brekke, P., Brent, L.J.N., Camenisch, G., Charmantier, A., Clutton-Brock, T.H., Cockburn, A., Coltmanm D.W., Courtiol, A., Davidian, E., Evans, S.R., Ewen, J.G., Festa-Bianchet, M., de Franceschi, C., Gustafsson, L., Höner, O.P., Houslay, T.M., Keller, L.F., Manser, M., McAdam, A.G., McLean, E., Nietlisbach, P., Osmond, H.L., Pemberton, J.M., Postma, E., Reid, J.M., Rutschmann, A., Santure, A.W., Sheldon, B.C., Slate, J., Teplitsky, C., Visser, M.E., Wachter, B., Kruuk, L.E.B. (2022) Genetic variance in fitness indicates rapid contemporary adaptive evolution in wild animals. Science 376: 1012-1016. <a href="https://protect-au.mimecast.com/s/suWoC6XQwzSODpvDUm8QlH?domain=doi.org"><u>https://doi.org/10.1126/science.abk0853</u></a> (May 2022, 7 citations to date) </p>
+
+</li><li>
+
+<p>Salloum, P.M., Santure, A.W., Lavery, S.D. &amp; de Villemereuil, P. (2022) Finding the adaptive needles in a population-structured haystack: a case study in a New Zealand mollusc. Journal of Animal Ecology 91: 1209-1221. <a href="https://protect-au.mimecast.com/s/zLbSC71RxWHpq8KqCNWqO0?domain=doi.org"><u>https://doi.org/10.1111/1365-2656.13692</u></a> (March 2022, 1 citation to date) </p>
+
+</li><li>
+
+<p>Duntsch, L., Brekke, P., Ewen, J.G., &amp; Santure, A.W. (2022) Who are you? A framework to identify and report genetic sample mix-ups. Molecular Ecology Resources 22: 1855-1867. <a href="https://protect-au.mimecast.com/s/1r_2C81VyBHvr20rSoB4SI?domain=doi.org"><u>https://doi.org/10.1111/1755-0998.13575</u></a> (December 2021, 1 citation to date) </p>
+
+</li><li>
+
+<p>Duntsch, L., Whibley, A., Brekke, P. Ewen, J.G. &amp; Santure, A.W. (2021) Genomic data of different resolutions reveal consistent inbreeding estimates but contrasting homozygosity landscapes for a threatened species. Molecular Ecology 30: 6006-6020. <a href="https://protect-au.mimecast.com/s/PwTQC91WzLH31lX1H1oLYJ?domain=doi.org"><u>https://doi.org/10.1111/mec.16068</u></a> (December 2021, 5 citations to date) </p>
+
+</li><li>
+
+<p>Ellerm, B. Adams, M. Gahegan, and L. Trombach (2022) Enabling LivePublication. In: <em>2022 IEEE 18th International Conference on eScience</em>.</p>
+
+</li><li>
+
+<p>SNVformer: An Attention-based Deep Neural Network for GWAS Data. Kieran Elmes, Diana Benavides-Prado, Neset Ozkan Tan, Trung Bao Nguyen, Nicholas Sumpter, Megan Leask, Michael Witbrock, and Alex Gavryushkin. ICML Workshop on Computational Biology 2022. This was presented at the conference as a spotlight talk and also a poster. <a href="https://protect-au.mimecast.com/s/DL5iC1WLoBTzzgG2CL3SEO?domain=icml-compbio.github.io"><u>https://icml-compbio.github.io/2022/papers/WCBICML2022_paper_58.pdf</u></a></p>
+
+</li><li>
+
+<p>Remco Bouckaert, Lena Collienne, and Alex Gavryushkin. bioRxiv 2022. Online Bayesian Analysis with BEAST 2.. Under revision at eLife. <a href="https://protect-au.mimecast.com/s/t-ZZC2xMp1Ullr3PC1lGuW?domain=doi.org"><u>https://doi.org/10.1101/2022.05.03.490538</u></a></p>
+
+</li><li>
+
+<p>Ryan Powell, Sharon Pattison, Jiri Moravec, Basharat Bhat, Nada Guirguis, David Markie, Greg Jones, Jason Copedo, Ian Morison, Alex Gavryushkin, Bronwyn Gray, Lisa Wyeth, Mike Eccles, and Erin Macaulay, 2022. Tuberous sclerosis complex: a complex case.. Cold Spring Harbor Molecular Case Studies, 8: a006182, 2022. <a href="https://protect-au.mimecast.com/s/3MvtC3QNqKIAA3K6u2i4q3?domain=ncbi.nlm.nih.gov/"><u>https://www.ncbi.nlm.nih.gov/pmc/articles/pmc9059781/</u></a></p>
+
+</li><li>
+
+<p>Hannula, M.; Zhang, Z.; Song, Bk.; Link.S: “Discovery Of Cross Joins”, Ieee Transactions On Knowledge And Data Engineering, Online First, Doi: <a href="https://doi.org/10.1109/TKDE.2022.3192842">Https://Doi.Org/10.1109/Tkde.2022.3192842</a>, 2022.</p>
+
+</li><li>
+
+<p>Koehler, H.; Le, V.; Link, S.: “Possible Keys And Functional Dependencies”, <em>Journal Of Data Semantics</em>, Volume 10(3-4): 327-366, Doi: <a href="https://doi.org/10.1007/s13740-021-00135-w">Https://Doi.Org/10.1007/S13740-021-00135-W</a>, 2021.</p>
+
+</li><li>
+
+<p>Link, S.; Prade, H.; Richard, G.: “Analogical Proportions, Multivalued Dependencies, And Explanations”, Scalable Uncertainty Management, Sum, 2022.</p>
+
+</li><li>
+
+<p>Link, S.: “Object Normal Form, Fourth Normal Form And Their Application To Database Security”, Accepted To Er, 2022.</p>
+
+</li><li>
+
+<p>Excell, Y.; Link, S.: “Learning To Match Product Codes”, In: Proceedings Of The 35<sup>th</sup> Acm International Conference On Industrial, Engineering And Other Applications Of Applied Intelligent Systems (Iea/Aie), 2022.</p>
+
+</li><li>
+
+<p>Zadoks, R. N.<em> et al.</em> Spread of Nontyphoidal Salmonella in the Beef Supply Chain in Northern Tanzania: Sensitivity in a Probabilistic Model Integrating Microbiological Data and Data from Stakeholder Interviews. <em>Risk Anal.</em> <strong>42</strong>, 989-1006, doi:10.1111/risa.13826 (2022).</p>
+
+</li><li>
+
+<p>Jelley, L.<em> et al.</em> Genomic epidemiology of Delta SARS-CoV-2 during transition from elimination to suppression in Aotearoa New Zealand. <em>Nat Commun</em> <strong>13</strong>, 4035, doi:10.1038/s41467-022-31784-5 (2022).</p>
+
+</li><li>
+
+<p>Binny, R. N.<em> et al.</em> Sensitivity of RT-PCR tests for SARS-CoV-2 through time. <em>J Infect Dis</em>, doi:10.1093/infdis/jiac317 (2022).</p>
+
+</li><li>
+
+<p>Swadi, T.<em> et al.</em> Genomic Evidence of In-Flight Transmission of SARS-CoV-2 Despite Predeparture Testing. <em>Emerg Infect Dis</em> <strong>27</strong>, doi:10.3201/eid2703.204714 (2021). Cited 49 times</p>
+
+</li><li>
+
+<p>Scott, P.<em> et al.</em> Whole-genome sequencing and ad hoc shared genome analysis of Staphylococcus aureus isolates from a New Zealand primary school. <em>Sci. Rep.</em> <strong>11</strong>, 20328, doi:10.1038/s41598-021-99080-8 (2021).</p>
+
+</li><li>
+
+<p>Roberts, M. G.<em> et al.</em> Combining mutation and horizontal gene transfer in a within-host model of antibiotic resistance. <em>Math Biosci</em><strong>339</strong>, 108656, doi:10.1016/j.mbs.2021.108656 (2021).</p>
+
+</li><li>
+
+<p>Phiri, B. J., Hayman, D. T. S., Biggs, P. J., French, N. P. &amp; Garcia-R, J. C. Microbial diversity in water and animal faeces: a metagenomic analysis to assess public health risk. <em>N. Z. J. Zool.</em> <strong>48</strong>, 188-201, doi:10.1080/03014223.2020.1831556 (2021).</p>
+
+</li><li>
+
+<p>Nguyen, T.<em> et al.</em> COVID-19 vaccine strategies for Aotearoa New Zealand: a mathematical modelling study. <em>Lancet Reg Health West Pac</em> <strong>15</strong>, 100256, doi:10.1016/j.lanwpc.2021.100256 (2021).</p>
+
+</li><li>
+
+<p>Lake, R. J.<em> et al.</em> Source attributed case-control study of campylobacteriosis in New Zealand. <em>Int. J. Infect. Dis.</em> <strong>103</strong>, 268-277, doi:10.1016/j.ijid.2020.11.167 (2021).</p>
+
+</li><li>
+
+<p>Greening, S. S.<em> et al.</em> Transmission dynamics of an antimicrobial resistant Campylobacter jejuni lineage in New Zealand's commercial poultry network. <em>Epidemics</em> <strong>37</strong>, 100521, doi:10.1016/j.epidem.2021.100521 (2021).</p>
+
+</li><li>
+
+<p>Greening, S. S., Rawdon, T. G., Mulqueen, K., French, N. P. &amp; Gates, M. C. Using multiple data sources to explore disease transmission risk between commercial poultry, backyard poultry, and wild birds in New Zealand. <em>Prev Vet Med</em>, 105327, doi:<a href="https://protect-au.mimecast.com/s/A_e9CE8wg6H9LyY3UNfl-n?domain=doi.org">https://doi.org/10.1016/j.prevetmed.2021.105327</a> (2021).</p>
+
+</li><li>
+
+<p>Geoghegan, J.<em> et al.</em> Use of Genomics to Track Coronavirus Disease Outbreaks, New Zealand. <em>Emerging Infectious Disease journal</em><strong>27</strong>, doi:10.3201/eid2705.204579 (2021). Cited 20 times</p>
+
+</li><li>
+
+<p>French, N.<em> et al.</em> Creating symptom-based criteria for diagnostic testing: a case study based on a multivariate analysis of data collected during the first wave of the COVID-19 pandemic in New Zealand. <em>BMC Infect. Dis.</em> <strong>21</strong>, 1119, doi:10.1186/s12879-021-06810-4 (2021).</p>
+
+</li><li>
+
+<p>Douglas, J.<em> et al.</em> Real-Time Genomics for Tracking Severe Acute Respiratory Syndrome Coronavirus 2 Border Incursions after Virus Elimination, New Zealand. <em>Emerg Infect Dis</em> <strong>27</strong>, 2361-2368, doi:10.3201/eid2709.211097 (2021). Cited 22 times</p>
+
+</li><li>
+
+<p>Crump, J. A.<em> et al.</em> Investigating the meat pathway as a source of human nontyphoidal Salmonella bloodstream infections and diarrhoea in East Africa. <em>Clin. Infect. Dis.</em>, doi:10.1093/cid/ciaa1153 (2021).</p>
+
+</li><li>
+
+<p>Neset Tan, Bensemann, Joshua and Benavides-Prado, Diana and Chen, Yang and Gahegan, Mark and Lee, Lia and Peng, Alex Yuxuan and Riddle, Patricia and Witbrock, Michael. “An explainability analysis of a sentiment prediction task using a transformer-based attention filter”. In: Proceedings of the Ninth Annual Conference on Advances in Cognitive Systems. 2021.</p>
+
+</li><li>
+
+<p>Elmes, Kieran, Diana Benavides-Prado, Neset Tan, Trung Bao Nguyen, Nicholas Sumpter, Megan Leask, Michael Witbrock, and Alex Gavryushkin. "SNVformer: An Attention-based Deep Neural Network for GWAS Data." 39th International Conference on Machine Learning (ICML) 2022.</p>
+
+</li></ol>
+
+<p> </p><p><strong>Workshops</strong></p><p>In terms of outreach, the following intensive <strong>online workshops</strong> on multivariate data analysis (5 days, 8-9 hrs per day) were presented by Marti Anderson</p><p>8-12 August 2022: “<em>Workshop on Multivariate Analysis in Ecology (&amp; other Sciences) using PRIMER v7</em>.” → Online Workshop, organised by PRIMER-e, Pacific Daylight Time, USA (UTC – 7 hrs).</p><p>15-19 November 2021: “<em>Workshop on Multivariate Analysis in Ecology (&amp; other Sciences) using PERMANOVA+ for PRIMER v7</em>.” → Online Workshop, organised by PRIMER-e, Australian Western Standard Time (UTC + 8 hrs).</p><p>Data Science stream at the 2021 ResBaz event (Mark Gahegan and the team at the Centre for eResearch). The ResBaz event presented over 40 Data Science-focussed workshops, along with other digital skills offerings. See <a href="https://resbaz.auckland.ac.nz/sessions/">https://resbaz.auckland.ac.nz/sessions/</a> for a full description.</p><p><strong>Software</strong></p><p>A substantial associated <strong>R package</strong> for implementing these models is also now available on Github:</p>
+
+<ul><li>
+
+<p>Walsh DCI, Anderson MJ, Punnett AJ, Adegoke N (2022). <em>senlm: Species environment non-linear modelling</em>. <a href="https://protect-au.mimecast.com/s/oonLC4QOrYI0oDOosOpXUp?domain=primer-e.github.io/"><u>https://primer-e.github.io/senlm/</u></a></p>
+
+</li></ul>
+
+<p><strong>Version 2 of Stencila to be released in Oct 2022.</strong></p><p><strong>Invited talks/seminars</strong></p>
+
+<blockquote>
+
+<p>Anderson, M.J. (06-08-2021). “Introduction to PERMANOVA+: experimental design and analysis for multivariate ecology.” Invited seminar (presented online), Department of Marine Biology, Microbiology &amp; Biochemistry, School of Marine Sciences, Cochin University of Science and Technology (CUSAT), Cochin, Kerala, India. </p><p>Anderson, M.J. (02-08-2021). “Introduction and overview of PRIMER version 7: insights on multivariate analysis for ecological data.” Invited seminar (presented online), Department of Marine Biology, Microbiology &amp; Biochemistry, School of Marine Sciences, Cochin University of Science and Technology (CUSAT), Cochin, Kerala, India.</p>
+
+</blockquote>
+
+<p>Invited talk, Australasian Ornithological Society conference, Online, February 2022. <em>Predicting the evolutionary potential of the threatened hihi – what can genomic information tell us?</em> Santure, A.W.  </p><p>Automatically deriving text from data and code is a major focus of our work in three areas.</p>
+
+<ol>
+  <li>The LPhy project (see above) integrates code, workflow and visualisations of results into a single programming language for phylogenetics.</li>
+  <li>Our research on meta-data science (see above) is focussed on the automated semantic understanding of raw data streams</li>
+  <li>Our research on scientific fact-checking is targetted at inconsistencies between the text descriptions and trusted data, code, or other texts.</li>
+  <li>The immanent software release from Stencila provides an environment that combines scientific data analysis with journal publishing in an easy-to-use application. Many of the specifications needed for a full live journal are now already implemented in this code base.</li>
+  <li>Our first research article on our 'live paper' concept accepted for publication. This article contains our first published descriptions of both the software architecture and the start of specifications and semantic choices for the major interfaces.</li>
+</ol>
+
+<p>Several hundred researchers received training in one or more data science workshops at ResBaz 2021 (see above)! We say over 1200 attendances at tagged data science events. during ResBaz. This has led to additional training in the more substantial Software &amp; Data Carpentry sessions by some attendees.</p><p>(the KPI 02.03.00 is repeated--I believe the repeated text should say ecological instead of biological.)</p><p>Are reported above, significant new methods and models have been developed in both ecology and genomics that are now openly available to other researchers.</p><p>(again, the KPI is repeated on the portal, not sure why this time?)</p><p>Basic infrastructure for sharing data has been deployed, we are close to also deploying more advanced 'scientific instrument data service' as a valid end-point (source of data) for our data science workflows. This means we can automate the ingest and integration of data held in other non-local science repositories.</p><p>For the present, we have deployed software, methods and other open science outcomes in community-managed repositories and in GitHub, since these are the most heavily searched and the most trusted &amp; secure. In the future, we may build a repository for our workflows that we host locally.</p><p>A potential project has been identified for a Maori student in the area of VM, Big Data and Precision Driven Health but we have not yet successfully recruited for this.</p><p>Given the difficulties of travel this year, collaboration has still so far been mostly virtual. There has been no annual Hui but there has been some interaction through hosting ResBaz, and with Time Evolving Data Science road show.</p><p><strong>Post-doc is hired and in place, Dr Anthony Blaom, who is also the leader of the international Machine Learning in Jula (MLJ) project. This is creating opportunities to leverage MLJ in some of our code development activities.</strong></p><p><strong>This year, we have built collaborations with ETH in Zurich in the area of phylogenetic analysis leading to some joint work proposed for the coming year and a strong collaboration some of our genomics research. Evidence of this is a PhD student we are about to fund who will be jointly supervised by us and researchers from ETH.</strong></p><p><strong>The issues are of course COVID, which has once again put a hold on most planned travel and opportunities to work face-to-face with overseas researchers, or indeed to host them here. We expect this situation to improve in the coming year.</strong></p><p><strong>We have 8 PhD students enrolled (or about to be). Given the difficulties in recruiting from overseas, we are pleased to have achieved this.</strong></p><p><strong>It has still been very difficult to recruit the post-docs we need from the pool within NZ. In fact it was our stated intention to hire from overseas, to grow the NZ talent pool in this area. So we have delayed hiring a couple of our post-doc positions during the border closures, though we are actively trying to hire now.</strong></p>

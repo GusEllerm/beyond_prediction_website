@@ -16,6 +16,7 @@ import { partners } from './data/partners';
 // Import project data
 import { findProjectDetail, type ExampleShowcaseKind } from './data/researchProjects';
 import type { PersonPublication } from './data/publications';
+import { getPublicationsByIds, getPublicationUrl } from './utils/publications';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
@@ -55,88 +56,6 @@ function getSlugsFromUrl(): { projectSlug: string; exampleSlug: string } | null 
   return { projectSlug, exampleSlug };
 }
 
-// Load all publication snapshots to create a lookup by publication ID
-const openAlexSnapshots = import.meta.glob(
-  './data/publications/openalex/*.json',
-  {
-    eager: true,
-  }
-) as Record<string, { default: { works: PersonPublication[] } }>;
-
-const orcidSnapshots = import.meta.glob('./data/publications/orcid/*.json', {
-  eager: true,
-}) as Record<string, { default: { works: PersonPublication[] } }>;
-
-/**
- * Creates a lookup map of publications by their ID
- * @returns Map of publication ID to publication object
- */
-function createPublicationLookup(): Map<string, PersonPublication> {
-  const lookup = new Map<string, PersonPublication>();
-  
-  // Process OpenAlex snapshots
-  for (const mod of Object.values(openAlexSnapshots)) {
-    const snapshot = mod.default;
-    if (snapshot?.works) {
-      for (const work of snapshot.works) {
-        if (work.id) {
-          lookup.set(work.id, work);
-        }
-      }
-    }
-  }
-  
-  // Process ORCID snapshots
-  for (const mod of Object.values(orcidSnapshots)) {
-    const snapshot = mod.default;
-    if (snapshot?.works) {
-      for (const work of snapshot.works) {
-        if (work.id) {
-          // Only add if not already in map (OpenAlex takes precedence)
-          if (!lookup.has(work.id)) {
-            lookup.set(work.id, work);
-          }
-        }
-      }
-    }
-  }
-  
-  return lookup;
-}
-
-/**
- * Gets publications by their IDs
- * @param publicationIds - Array of publication IDs (OpenAlex work IDs)
- * @returns Array of publication objects
- */
-function getPublicationsByIds(publicationIds: string[]): PersonPublication[] {
-  const lookup = createPublicationLookup();
-  const publications: PersonPublication[] = [];
-  
-  for (const id of publicationIds) {
-    const pub = lookup.get(id);
-    if (pub) {
-      publications.push(pub);
-    }
-  }
-  
-  return publications;
-}
-
-/**
- * Gets the best available URL for a publication
- * @param work - The publication work
- * @returns The best available URL
- */
-function getPublicationUrl(work: PersonPublication): string {
-  if (work.openAccessUrl) return work.openAccessUrl;
-  if (work.doi) {
-    const cleanDoi = work.doi.replace(/^doi:/i, '').trim();
-    return `https://doi.org/${cleanDoi}`;
-  }
-  if (work.id) return work.id;
-  return '#';
-}
 
 /**
  * Renders the showcase feature based on its kind
@@ -155,14 +74,21 @@ function renderShowcaseContent(
   switch (kind) {
     case 'iframe':
       return `
-        <div class="ratio ratio-16x9">
-          <iframe
-            src="${escapeHtml(source)}"
-            title="Example showcase"
-            loading="lazy"
-            class="border-0 rounded w-100 h-100"
-            allowfullscreen
-          ></iframe>
+        <div class="bp-iframe-viewer-container">
+          <div class="ratio ratio-16x9">
+            <iframe
+              src="${escapeHtml(source)}"
+              title="Example showcase"
+              loading="lazy"
+              class="border-0 rounded w-100 h-100"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <div class="mt-2">
+            <a href="${escapeHtml(source)}" target="_blank" rel="noopener noreferrer" class="btn btn-outline-dark btn-sm bp-showcase-action-btn">
+              Open in new tab
+            </a>
+          </div>
         </div>
       `;
     case 'image':
@@ -182,6 +108,22 @@ function renderShowcaseContent(
             controls
             class="rounded w-100 h-100"
           ></video>
+        </div>
+      `;
+    case 'pdf':
+      return `
+        <div class="bp-pdf-viewer-container">
+          <iframe
+            src="${escapeHtml(source)}#toolbar=1&navpanes=1&scrollbar=1"
+            title="PDF viewer"
+            class="bp-pdf-viewer border rounded w-100"
+            loading="lazy"
+          ></iframe>
+          <div class="mt-2">
+            <a href="${escapeHtml(source)}" target="_blank" rel="noopener noreferrer" class="btn btn-outline-dark btn-sm bp-showcase-action-btn">
+              Open PDF in new window
+            </a>
+          </div>
         </div>
       `;
     case 'html':
@@ -230,7 +172,7 @@ function renderPublicationsSection(publications: PersonPublication[]): string {
 
   return `
     <section class="mt-4">
-      <h2 class="h4 mb-2">Associated publications</h2>
+      <h2 class="h4 mb-2">Associated Publications</h2>
       <div class="row row-cols-1 g-3">
         ${cardsHtml}
       </div>
@@ -348,7 +290,7 @@ function renderExample(): void {
           `
           : `
             <div class="row">
-              <div class="col-lg-10 col-xl-8">
+              <div class="col-12">
                 <div class="mb-4">
                   ${showcaseContent}
                 </div>

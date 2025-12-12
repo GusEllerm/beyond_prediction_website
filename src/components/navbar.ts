@@ -17,6 +17,9 @@ function getActiveLink(): string | null {
   if (pathname === '/reports.html' || pathname === '/report.html') {
     return 'reports';
   }
+  if (pathname === '/research-outputs.html') {
+    return 'research-outputs';
+  }
 
   return null;
 }
@@ -64,6 +67,9 @@ export function renderNavbar(container: HTMLElement): void {
               </li>
               <li class="nav-item">
                 <a class="${getNavLinkClass('reports')}" href="/reports.html" ${getNavLinkAria('reports')}>Annual Reports</a>
+              </li>
+              <li class="nav-item">
+                <a class="${getNavLinkClass('research-outputs')}" href="/research-outputs.html" ${getNavLinkAria('research-outputs')}>Research Outputs</a>
               </li>
             </ul>
             <form class="d-flex mb-2 mb-lg-0 bp-navbar-search-top" role="search" id="bp-search-form">
