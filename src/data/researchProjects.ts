@@ -406,8 +406,9 @@ export const researchProjects: ResearchProject[] = [
       {
         slug: 'resbaz-aotearoa',
         title: 'ResBaz Aotearoa',
+        shortDescription: 'ResBaz (Research Bazaar) is a digital research skills festival designed to boost the computational and data capabilities of the research community.',
         description:
-          'Annual community conference bringing together researchers, developers, and data scientists to share skills and build networks.',
+          'ResBaz (Research Bazaar) is a digital research skills festival designed to boost the computational and data capabilities of the research community. It exists because modern scholarship increasingly depends on digital tools and workflows, yet PhD students and early-career researchers often have limited formal opportunities to learn these skills. ResBaz responds to this gap by offering accessible, practical training that builds digital literacy, dexterity, and capacity for collaboration across disciplines.',
         showcaseKind: `iframe`,
         showcaseSource: `https://resbaz.auckland.ac.nz/schedule/`,
         showcaseDescription:
