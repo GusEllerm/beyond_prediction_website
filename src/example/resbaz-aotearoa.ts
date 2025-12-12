@@ -557,7 +557,7 @@ export const mountExampleExtension: ExampleExtensionMount = (root, _project, _ex
       <p class="text-muted">
         This chart summarises how ResBaz Aotearoa participants are distributed across the Aotearoa research community –
         including universities, Crown Research Institutes, government, business, vocational providers, and other
-        organisations. "Other" combines the "other" and "unknown" categories. Full category detail is available from 2024 onwards.
+        organisations. 
       </p>
       <div id="destination-chart" class="mt-3"></div>
     </section>
