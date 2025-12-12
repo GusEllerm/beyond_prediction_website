@@ -292,21 +292,21 @@ function renderResearchOutputsPage(): void {
             <div class="card-body">
               <div class="row g-3">
                 <div class="${authors.length > 0 ? 'col' : 'col-12'}">
-                  <h5 class="card-title mb-2">
-                    <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
-                      ${escapeHtml(pub.title)}
-                    </a>
-                  </h5>
-                  <p class="card-text small text-muted mb-2">
-                    ${yearDisplay}${venueDisplay}
-                  </p>
+              <h5 class="card-title mb-2">
+                <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
+                  ${escapeHtml(pub.title)}
+                </a>
+              </h5>
+              <p class="card-text small text-muted mb-2">
+                ${yearDisplay}${venueDisplay}
+              </p>
                   ${authorsHtml}
-                  <p class="card-text small mb-0">
-                    <span class="text-muted">Theme:</span>
-                    <a href="${escapeHtml(projectUrl)}" class="text-decoration-none">
-                      ${escapeHtml(pub.projectTitle)}
-                    </a>
-                  </p>
+              <p class="card-text small mb-0">
+                <span class="text-muted">Theme:</span>
+                <a href="${escapeHtml(projectUrl)}" class="text-decoration-none">
+                  ${escapeHtml(pub.projectTitle)}
+                </a>
+              </p>
                 </div>
                 ${authorPhotosHtml}
               </div>
