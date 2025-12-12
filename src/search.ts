@@ -16,6 +16,10 @@ import { partners } from './data/partners';
 // Import search utilities
 import { searchItems, type SearchItem, type SearchItemType } from './data/searchIndex';
 import { allPeople, type Person } from './data/people';
+import { createPublicationLookup, getPublicationUrl } from './utils/publications';
+import { getPublicationAuthors } from './utils/authorMatching';
+import { researchProjects } from './data/researchProjects';
+import type { PersonPublication } from './data/publications';
 
 /**
  * Escapes HTML special characters to prevent XSS
@@ -155,6 +159,132 @@ function renderPeopleSection(
 }
 
 /**
+ * Gets all publications from all projects
+ */
+function getAllPublications(): Array<PersonPublication & { projectSlug: string; projectTitle: string }> {
+  const publications: Array<PersonPublication & { projectSlug: string; projectTitle: string }> = [];
+  const lookup = createPublicationLookup();
+  const seenPublicationIds = new Set<string>();
+
+  for (const project of researchProjects) {
+    if (project.publicationIds && project.publicationIds.length > 0) {
+      for (const pubId of project.publicationIds) {
+        const pub = lookup.get(pubId);
+        if (pub && !seenPublicationIds.has(pub.id)) {
+          seenPublicationIds.add(pub.id);
+          publications.push({
+            ...pub,
+            projectSlug: project.slug,
+            projectTitle: project.title,
+          });
+        }
+      }
+    }
+  }
+
+  return publications;
+}
+
+/**
+ * Renders publications by matched authors
+ * @param container - The container element to render into
+ * @param matchedPersonSlugs - Array of person slugs that matched the search
+ */
+function renderAuthorPublicationsSection(
+  container: HTMLElement,
+  matchedPersonSlugs: string[]
+): void {
+  if (!matchedPersonSlugs.length) return;
+
+  const allPublications = getAllPublications();
+  const matchedPublications = new Map<string, PersonPublication & { projectSlug: string; projectTitle: string }>();
+
+  // Find publications by matched authors
+  for (const pub of allPublications) {
+    const authors = getPublicationAuthors(pub, allPeople);
+    const hasMatchedAuthor = authors.some((author) => matchedPersonSlugs.includes(author.slug));
+    
+    if (hasMatchedAuthor) {
+      matchedPublications.set(pub.id, pub);
+    }
+  }
+
+  if (matchedPublications.size === 0) return;
+
+  // Get person names for the heading
+  const personBySlug = new Map<string, Person>(
+    allPeople.map((p) => [p.slug, p])
+  );
+  const matchedPersonNames = matchedPersonSlugs
+    .map((slug) => personBySlug.get(slug)?.name)
+    .filter(Boolean) as string[];
+
+  const headingText = matchedPersonNames.length === 1
+    ? `Research Outputs by ${matchedPersonNames[0]}`
+    : `Research Outputs by ${matchedPersonNames.join(', ')}`;
+
+  const cardsHtml = Array.from(matchedPublications.values())
+    .sort((a, b) => {
+      // Sort by year (newest first), then by title
+      if (a.year !== b.year) {
+        if (!a.year) return 1;
+        if (!b.year) return -1;
+        return b.year - a.year;
+      }
+      return a.title.localeCompare(b.title);
+    })
+    .map((pub) => {
+      const url = getPublicationUrl(pub);
+      const yearDisplay = pub.year ? ` (${pub.year})` : '';
+      const venueDisplay = pub.venue ? ` ${escapeHtml(pub.venue)}` : '';
+      const projectUrl = `/project.html?project=${encodeURIComponent(pub.projectSlug)}`;
+
+      // Get matched authors for this publication
+      const authors = getPublicationAuthors(pub, allPeople);
+      const authorsHtml = authors.length > 0
+        ? `<p class="card-text small mb-2">
+            <span class="text-muted">Authors:</span>
+            ${authors.map((author) => 
+              `<a href="/person.html?person=${encodeURIComponent(author.slug)}" class="text-decoration-none">${escapeHtml(author.name)}</a>`
+            ).join(', ')}
+          </p>`
+        : '';
+
+      return `
+        <div class="card mb-3">
+          <div class="card-body">
+            <h5 class="card-title mb-2">
+              <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
+                ${escapeHtml(pub.title)}
+              </a>
+            </h5>
+            <p class="card-text small text-muted mb-2">
+              ${yearDisplay}${venueDisplay}
+            </p>
+            ${authorsHtml}
+            <p class="card-text small mb-0">
+              <span class="text-muted">Theme:</span>
+              <a href="${escapeHtml(projectUrl)}" class="text-decoration-none">
+                ${escapeHtml(pub.projectTitle)}
+              </a>
+            </p>
+          </div>
+        </div>
+      `;
+    })
+    .join('');
+
+  container.innerHTML += `
+    <section class="mt-4">
+      <h2 class="h5 mb-3">${escapeHtml(headingText)}</h2>
+      <div class="bp-publications-container">
+        ${cardsHtml}
+      </div>
+    </section>
+  `;
+}
+
+/**
  * Renders search results in the container
  * @param container - The container element to render results into
  * @param query - The search query string
@@ -219,6 +349,12 @@ function renderResults(
   renderProjectsSection(wrapper, projectResults);
   renderPublicationsSection(wrapper, publicationResults);
   renderPeopleSection(wrapper, personResults);
+
+  // If people matched, also show their publications
+  if (personResults.length > 0 && !typeFilter) {
+    const matchedPersonSlugs = personResults.map((item) => item.id);
+    renderAuthorPublicationsSection(wrapper, matchedPersonSlugs);
+  }
 
   container.innerHTML = '';
   container.appendChild(wrapper);
