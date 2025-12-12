@@ -9,7 +9,39 @@
       "year": 2025,
       "venue": "Communications in computer and information science",
       "doi": "https://doi.org/10.1007/978-981-95-4088-4_34",
-      "openAccessUrl": "https://doi.org/10.1007/978-981-95-4088-4_34"
+      "openAccessUrl": "https://doi.org/10.1007/978-981-95-4088-4_34",
+      "authors": [
+        {
+          "name": "Yuchen Su",
+          "orcidId": "0009-0007-5287-4163",
+          "openAlexId": "https://openalex.org/A5110905959",
+          "position": 1
+        },
+        {
+          "name": "Yonghua Zhu",
+          "orcidId": "0000-0003-3339-8855",
+          "openAlexId": "https://openalex.org/A5076565589",
+          "position": 2
+        },
+        {
+          "name": "Yang Chen",
+          "orcidId": "0000-0002-1148-3920",
+          "openAlexId": "https://openalex.org/A5017089583",
+          "position": 3
+        },
+        {
+          "name": "Diana Benavides‐Prado",
+          "orcidId": "0000-0003-1137-2822",
+          "openAlexId": "https://openalex.org/A5017390828",
+          "position": 4
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4415556596",
@@ -17,7 +49,185 @@
       "year": 2025,
       "venue": "AI Magazine",
       "doi": "https://doi.org/10.1002/aaai.70035",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70035"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70035",
+      "authors": [
+        {
+          "name": "Vinay K. Chaudhri",
+          "openAlexId": "https://openalex.org/A5021474475",
+          "position": 1
+        },
+        {
+          "name": "Chaitan Baru",
+          "openAlexId": "https://openalex.org/A5008513409",
+          "position": 2
+        },
+        {
+          "name": "Brandon Bennett",
+          "orcidId": "0000-0001-5020-6478",
+          "openAlexId": "https://openalex.org/A5000685042",
+          "position": 3
+        },
+        {
+          "name": "Mehul Bhatt",
+          "orcidId": "0000-0002-6290-5492",
+          "openAlexId": "https://openalex.org/A5062194044",
+          "position": 4
+        },
+        {
+          "name": "D. G. Cassel",
+          "openAlexId": "https://openalex.org/A5108288011",
+          "position": 5
+        },
+        {
+          "name": "Anthony G. Cohn",
+          "orcidId": "0000-0002-7652-8907",
+          "openAlexId": "https://openalex.org/A5024409281",
+          "position": 6
+        },
+        {
+          "name": "Rina Dechter",
+          "openAlexId": "https://openalex.org/A5053651798",
+          "position": 7
+        },
+        {
+          "name": "Esra Erdem",
+          "orcidId": "0000-0001-8384-7810",
+          "openAlexId": "https://openalex.org/A5016455314",
+          "position": 8
+        },
+        {
+          "name": "Dave Ferrucci",
+          "openAlexId": "https://openalex.org/A5022519376",
+          "position": 9
+        },
+        {
+          "name": "Ken Forbus",
+          "openAlexId": "https://openalex.org/A5087294231",
+          "position": 10
+        },
+        {
+          "name": "Gregory Gelfond",
+          "orcidId": "0000-0001-5315-7894",
+          "openAlexId": "https://openalex.org/A5032540041",
+          "position": 11
+        },
+        {
+          "name": "Michael Genesereth",
+          "orcidId": "0000-0001-9124-7487",
+          "openAlexId": "https://openalex.org/A5014045303",
+          "position": 12
+        },
+        {
+          "name": "Andrew S. Gordon",
+          "openAlexId": "https://openalex.org/A5103574915",
+          "position": 13
+        },
+        {
+          "name": "Benjamin N. Grosof",
+          "openAlexId": "https://openalex.org/A5030821392",
+          "position": 14
+        },
+        {
+          "name": "Gopal Gupta",
+          "orcidId": "0000-0001-9727-0362",
+          "openAlexId": "https://openalex.org/A5067377863",
+          "position": 15
+        },
+        {
+          "name": "James Hendler",
+          "orcidId": "0000-0003-3056-1960",
+          "openAlexId": "https://openalex.org/A5010414972",
+          "position": 16
+        },
+        {
+          "name": "Sharat Israni",
+          "openAlexId": "https://openalex.org/A5060724306",
+          "position": 17
+        },
+        {
+          "name": "Tyler R. Josephson",
+          "orcidId": "0000-0002-0100-0227",
+          "openAlexId": "https://openalex.org/A5072721027",
+          "position": 18
+        },
+        {
+          "name": "Patrick C. Kyllonen",
+          "orcidId": "0000-0002-6517-4576",
+          "openAlexId": "https://openalex.org/A5080596578",
+          "position": 19
+        },
+        {
+          "name": "Yuliya Lierler",
+          "openAlexId": "https://openalex.org/A5008816972",
+          "position": 20
+        },
+        {
+          "name": "Vladimir Lifschitz",
+          "orcidId": "0000-0001-6051-7907",
+          "openAlexId": "https://openalex.org/A5076917986",
+          "position": 21
+        },
+        {
+          "name": "Clifton McFate",
+          "openAlexId": "https://openalex.org/A5081681659",
+          "position": 22
+        },
+        {
+          "name": "Hande Küçük McGinty",
+          "openAlexId": "https://openalex.org/A5112876257",
+          "position": 23
+        },
+        {
+          "name": "Leora Morgenstern",
+          "openAlexId": "https://openalex.org/A5007148856",
+          "position": 24
+        },
+        {
+          "name": "Alessandro Oltramari",
+          "orcidId": "0000-0003-1559-4852",
+          "openAlexId": "https://openalex.org/A5052185760",
+          "position": 25
+        },
+        {
+          "name": "Praveen Paritosh",
+          "openAlexId": "https://openalex.org/A5076601570",
+          "position": 26
+        },
+        {
+          "name": "Dan Roth",
+          "orcidId": "0009-0002-1447-5173",
+          "openAlexId": "https://openalex.org/A5023802054",
+          "position": 27
+        },
+        {
+          "name": "Blake Shepard",
+          "openAlexId": "https://openalex.org/A5038154162",
+          "position": 28
+        },
+        {
+          "name": "Cogan Shimizu",
+          "openAlexId": "https://openalex.org/A5114760882",
+          "position": 29
+        },
+        {
+          "name": "Denny Vrandečić",
+          "orcidId": "0000-0002-9593-2294",
+          "openAlexId": "https://openalex.org/A5018023802",
+          "position": 30
+        },
+        {
+          "name": "Mark E. Whiting",
+          "orcidId": "0000-0002-6395-7833",
+          "openAlexId": "https://openalex.org/A5069999998",
+          "position": 31
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 32
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414980976",
@@ -25,7 +235,25 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2510.06001",
-      "openAccessUrl": "https://arxiv.org/pdf/2510.06001"
+      "openAccessUrl": "https://arxiv.org/pdf/2510.06001",
+      "authors": [
+        {
+          "name": "Timothy Pistotti",
+          "openAlexId": "https://openalex.org/A5107544607",
+          "position": 1
+        },
+        {
+          "name": "Jason Brown",
+          "openAlexId": "https://openalex.org/A5028806800",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414981001",
@@ -33,7 +261,26 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2510.06018",
-      "openAccessUrl": "https://arxiv.org/pdf/2510.06018"
+      "openAccessUrl": "https://arxiv.org/pdf/2510.06018",
+      "authors": [
+        {
+          "name": "Timothy Pistotti",
+          "openAlexId": "https://openalex.org/A5107544607",
+          "position": 1
+        },
+        {
+          "name": "Jason Brown",
+          "orcidId": "0000-0003-2501-3556",
+          "openAlexId": "https://openalex.org/A5052103869",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414860680",
@@ -41,7 +288,26 @@
       "year": 2025,
       "venue": "Knowledge-Based Systems",
       "doi": "https://doi.org/10.1016/j.knosys.2025.114623",
-      "openAccessUrl": "https://doi.org/10.1016/j.knosys.2025.114623"
+      "openAccessUrl": "https://doi.org/10.1016/j.knosys.2025.114623",
+      "authors": [
+        {
+          "name": "Minjung Kim",
+          "openAlexId": "https://openalex.org/A5107212186",
+          "position": 1
+        },
+        {
+          "name": "Yusuke Hioka",
+          "orcidId": "0000-0003-3380-9677",
+          "openAlexId": "https://openalex.org/A5069841141",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4415332038",
@@ -49,7 +315,59 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2509.23135",
-      "openAccessUrl": "https://arxiv.org/pdf/2509.23135"
+      "openAccessUrl": "https://arxiv.org/pdf/2509.23135",
+      "authors": [
+        {
+          "name": "Yang Chen",
+          "openAlexId": "https://openalex.org/A5101295580",
+          "position": 1
+        },
+        {
+          "name": "Menglin Zou",
+          "openAlexId": "https://openalex.org/A5067217837",
+          "position": 2
+        },
+        {
+          "name": "Jiaqi Zhang",
+          "openAlexId": "https://openalex.org/A5007262254",
+          "position": 3
+        },
+        {
+          "name": "Yingqian Zhang",
+          "orcidId": "0000-0001-9568-0392",
+          "openAlexId": "https://openalex.org/A5004461578",
+          "position": 4
+        },
+        {
+          "name": "Junyi Yang",
+          "orcidId": "0000-0002-9603-3717",
+          "openAlexId": "https://openalex.org/A5018616205",
+          "position": 5
+        },
+        {
+          "name": "G. Gendron",
+          "openAlexId": "https://openalex.org/A5074844252",
+          "position": 6
+        },
+        {
+          "name": "Libo Zhang",
+          "orcidId": "0000-0002-8705-0435",
+          "openAlexId": "https://openalex.org/A5100337171",
+          "position": 7
+        },
+        {
+          "name": "Jiamou Liu",
+          "orcidId": "0000-0002-0824-0899",
+          "openAlexId": "https://openalex.org/A5083914998",
+          "position": 8
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 9
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414691608",
@@ -57,7 +375,39 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2507.09259",
-      "openAccessUrl": "https://arxiv.org/pdf/2507.09259"
+      "openAccessUrl": "https://arxiv.org/pdf/2507.09259",
+      "authors": [
+        {
+          "name": "Yuchen Su",
+          "orcidId": "0009-0009-4034-5883",
+          "openAlexId": "https://openalex.org/A5101940296",
+          "position": 1
+        },
+        {
+          "name": "Yonghua Zhu",
+          "orcidId": "0000-0002-3092-8972",
+          "openAlexId": "https://openalex.org/A5100565969",
+          "position": 2
+        },
+        {
+          "name": "Yang Chen",
+          "orcidId": "0000-0001-6204-9334",
+          "openAlexId": "https://openalex.org/A5100350358",
+          "position": 3
+        },
+        {
+          "name": "Diana Benavides‐Prado",
+          "orcidId": "0000-0003-1137-2822",
+          "openAlexId": "https://openalex.org/A5017390828",
+          "position": 4
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4415348259",
@@ -65,7 +415,45 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2507.04793",
-      "openAccessUrl": "https://arxiv.org/pdf/2507.04793"
+      "openAccessUrl": "https://arxiv.org/pdf/2507.04793",
+      "authors": [
+        {
+          "name": "Yuchen Su",
+          "orcidId": "0009-0009-4034-5883",
+          "openAlexId": "https://openalex.org/A5101940296",
+          "position": 1
+        },
+        {
+          "name": "Yonghua Zhu",
+          "orcidId": "0000-0002-3092-8972",
+          "openAlexId": "https://openalex.org/A5100565969",
+          "position": 2
+        },
+        {
+          "name": "Ruofan Wang",
+          "orcidId": "0000-0002-3657-7456",
+          "openAlexId": "https://openalex.org/A5100600013",
+          "position": 3
+        },
+        {
+          "name": "Zijian Huang",
+          "orcidId": "0000-0001-8316-4753",
+          "openAlexId": "https://openalex.org/A5065327274",
+          "position": 4
+        },
+        {
+          "name": "Diana Benavides‐Prado",
+          "orcidId": "0000-0003-1137-2822",
+          "openAlexId": "https://openalex.org/A5017390828",
+          "position": 5
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4415023939",
@@ -73,7 +461,31 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2505.14396",
-      "openAccessUrl": "https://arxiv.org/pdf/2505.14396"
+      "openAccessUrl": "https://arxiv.org/pdf/2505.14396",
+      "authors": [
+        {
+          "name": "G. Gendron",
+          "openAlexId": "https://openalex.org/A5074844252",
+          "position": 1
+        },
+        {
+          "name": "Jože M. Rožanec",
+          "openAlexId": "https://openalex.org/A5067396725",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        },
+        {
+          "name": "Gillian Dobbie",
+          "orcidId": "0000-0001-7245-0367",
+          "openAlexId": "https://openalex.org/A5016115576",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4409361116",
@@ -81,7 +493,66 @@
       "year": 2025,
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
       "doi": "https://doi.org/10.1609/aaai.v39i28.35164",
-      "openAccessUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/35164/37319"
+      "openAccessUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/35164/37319",
+      "authors": [
+        {
+          "name": "Qiming Bao",
+          "orcidId": "0000-0002-1000-7383",
+          "openAlexId": "https://openalex.org/A5009635346",
+          "position": 1
+        },
+        {
+          "name": "Juho Leinonen",
+          "orcidId": "0000-0001-6829-9449",
+          "openAlexId": "https://openalex.org/A5041367899",
+          "position": 2
+        },
+        {
+          "name": "Alex Yuxuan Peng",
+          "orcidId": "0000-0002-9922-5781",
+          "openAlexId": "https://openalex.org/A5049443230",
+          "position": 3
+        },
+        {
+          "name": "Wanjun Zhong",
+          "openAlexId": "https://openalex.org/A5019101763",
+          "position": 4
+        },
+        {
+          "name": "G. Gendron",
+          "openAlexId": "https://openalex.org/A5074844252",
+          "position": 5
+        },
+        {
+          "name": "Timothy Pistotti",
+          "openAlexId": "https://openalex.org/A5107544607",
+          "position": 6
+        },
+        {
+          "name": "Alice Huang",
+          "orcidId": "0000-0002-4795-3402",
+          "openAlexId": "https://openalex.org/A5013907686",
+          "position": 7
+        },
+        {
+          "name": "Paul Denny",
+          "orcidId": "0000-0002-5150-9806",
+          "openAlexId": "https://openalex.org/A5032890999",
+          "position": 8
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 9
+        },
+        {
+          "name": "Jiamou Liu",
+          "orcidId": "0000-0002-0824-0899",
+          "openAlexId": "https://openalex.org/A5083914998",
+          "position": 10
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4407093406",
@@ -89,7 +560,31 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2501.18817",
-      "openAccessUrl": "https://arxiv.org/pdf/2501.18817"
+      "openAccessUrl": "https://arxiv.org/pdf/2501.18817",
+      "authors": [
+        {
+          "name": "Andrey Borro",
+          "openAlexId": "https://openalex.org/A5116129869",
+          "position": 1
+        },
+        {
+          "name": "Patricia Riddle",
+          "orcidId": "0000-0001-8616-0053",
+          "openAlexId": "https://openalex.org/A5028387093",
+          "position": 2
+        },
+        {
+          "name": "M. W. Barley",
+          "openAlexId": "https://openalex.org/A5027949522",
+          "position": 3
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4407093387",
@@ -97,14 +592,76 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2501.18816",
-      "openAccessUrl": "https://arxiv.org/pdf/2501.18816"
+      "openAccessUrl": "https://arxiv.org/pdf/2501.18816",
+      "authors": [
+        {
+          "name": "Andrey Borro",
+          "openAlexId": "https://openalex.org/A5116129865",
+          "position": 1
+        },
+        {
+          "name": "Patricia Riddle",
+          "orcidId": "0000-0001-8616-0053",
+          "openAlexId": "https://openalex.org/A5028387093",
+          "position": 2
+        },
+        {
+          "name": "Michael Barley",
+          "openAlexId": "https://openalex.org/A5016737838",
+          "position": 3
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4416034927",
       "title": "A Survey of Pun Generation: Datasets, Evaluations and Methodologies",
       "year": 2025,
       "doi": "https://doi.org/10.18653/v1/2025.findings-emnlp.389",
-      "openAccessUrl": "https://aclanthology.org/2025.findings-emnlp.389.pdf"
+      "openAccessUrl": "https://aclanthology.org/2025.findings-emnlp.389.pdf",
+      "authors": [
+        {
+          "name": "Yuchen Su",
+          "orcidId": "0009-0009-4034-5883",
+          "openAlexId": "https://openalex.org/A5101940296",
+          "position": 1
+        },
+        {
+          "name": "Yonghua Zhu",
+          "orcidId": "0000-0002-3092-8972",
+          "openAlexId": "https://openalex.org/A5100565969",
+          "position": 2
+        },
+        {
+          "name": "Ruofan Wang",
+          "orcidId": "0000-0002-3657-7456",
+          "openAlexId": "https://openalex.org/A5100600013",
+          "position": 3
+        },
+        {
+          "name": "Zijian Huang",
+          "orcidId": "0000-0001-8316-4753",
+          "openAlexId": "https://openalex.org/A5065327274",
+          "position": 4
+        },
+        {
+          "name": "Diana Benavides‐Prado",
+          "orcidId": "0000-0003-1137-2822",
+          "openAlexId": "https://openalex.org/A5017390828",
+          "position": 5
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411122568",
@@ -112,7 +669,21 @@
       "year": 2025,
       "venue": "Lecture notes in computer science",
       "doi": "https://doi.org/10.1007/978-981-96-6576-1_2",
-      "openAccessUrl": "https://doi.org/10.1007/978-981-96-6576-1_2"
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-6576-1_2",
+      "authors": [
+        {
+          "name": "Nathan Young",
+          "orcidId": "0000-0001-6695-6441",
+          "openAlexId": "https://openalex.org/A5103223347",
+          "position": 1
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4406002437",
@@ -120,7 +691,33 @@
       "year": 2025,
       "venue": "World Wide Web",
       "doi": "https://doi.org/10.1007/s11280-024-01327-7",
-      "openAccessUrl": "https://doi.org/10.1007/s11280-024-01327-7"
+      "openAccessUrl": "https://doi.org/10.1007/s11280-024-01327-7",
+      "authors": [
+        {
+          "name": "Haofen Wang",
+          "orcidId": "0009-0002-0145-7873",
+          "openAlexId": "https://openalex.org/A5101664305",
+          "position": 1
+        },
+        {
+          "name": "Arijit Khan",
+          "orcidId": "0000-0002-7312-6312",
+          "openAlexId": "https://openalex.org/A5019024971",
+          "position": 2
+        },
+        {
+          "name": "Jun Liu",
+          "orcidId": "0000-0003-4007-6109",
+          "openAlexId": "https://openalex.org/A5100362109",
+          "position": 3
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410052331",
@@ -128,14 +725,58 @@
       "year": 2025,
       "venue": "SSRN Electronic Journal",
       "doi": "https://doi.org/10.2139/ssrn.5240692",
-      "openAccessUrl": "https://doi.org/10.2139/ssrn.5240692"
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.5240692",
+      "authors": [
+        {
+          "name": "Minjung Kim",
+          "orcidId": "0000-0002-1732-3418",
+          "openAlexId": "https://openalex.org/A5100333884",
+          "position": 1
+        },
+        {
+          "name": "Yusuke Hioka",
+          "orcidId": "0000-0003-3380-9677",
+          "openAlexId": "https://openalex.org/A5069841141",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4416033684",
       "title": "The Benefits of Being Uncertain: Perplexity as a Signal for Naturalness in Multilingual Machine Translation",
       "year": 2025,
       "doi": "https://doi.org/10.18653/v1/2025.uncertainlp-main.7",
-      "openAccessUrl": "https://aclanthology.org/2025.uncertainlp-main.7.pdf"
+      "openAccessUrl": "https://aclanthology.org/2025.uncertainlp-main.7.pdf",
+      "authors": [
+        {
+          "name": "Timothy Pistotti",
+          "openAlexId": "https://openalex.org/A5107544607",
+          "position": 1
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 2
+        },
+        {
+          "name": "Dianne P. O’Leary",
+          "orcidId": "0000-0001-9809-5180",
+          "openAlexId": "https://openalex.org/A5062480442",
+          "position": 3
+        },
+        {
+          "name": "Jason Brown",
+          "openAlexId": "https://openalex.org/A5028806800",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4405720306",
@@ -143,14 +784,110 @@
       "year": 2024,
       "venue": "AI & Society",
       "doi": "https://doi.org/10.1007/s00146-024-02161-1",
-      "openAccessUrl": "https://doi.org/10.1007/s00146-024-02161-1"
+      "openAccessUrl": "https://doi.org/10.1007/s00146-024-02161-1",
+      "authors": [
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 1
+        },
+        {
+          "name": "Allan McCay",
+          "orcidId": "0000-0003-2291-0526",
+          "openAlexId": "https://openalex.org/A5008035118",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4405602291",
       "title": "Causal Behaviour Modelling for Player Action Prediction in Rugby League Using Graph Neural Networks",
       "year": 2024,
       "doi": "https://doi.org/10.1109/ivcnz64857.2024.10794449",
-      "openAccessUrl": "https://doi.org/10.1109/ivcnz64857.2024.10794449"
+      "openAccessUrl": "https://doi.org/10.1109/ivcnz64857.2024.10794449",
+      "authors": [
+        {
+          "name": "Jiaxuan Wang",
+          "orcidId": "0009-0008-0450-6857",
+          "openAlexId": "https://openalex.org/A5100621288",
+          "position": 1
+        },
+        {
+          "name": "Ruoshu Wang",
+          "openAlexId": "https://openalex.org/A5045806013",
+          "position": 2
+        },
+        {
+          "name": "G. Gendron",
+          "openAlexId": "https://openalex.org/A5074844252",
+          "position": 3
+        },
+        {
+          "name": "Shahrokh Heidari",
+          "openAlexId": "https://openalex.org/A5077323575",
+          "position": 4
+        },
+        {
+          "name": "David Arturo Soriano Valdez",
+          "orcidId": "0000-0003-2353-1018",
+          "openAlexId": "https://openalex.org/A5022120434",
+          "position": 5
+        },
+        {
+          "name": "Gastão Cruz",
+          "orcidId": "0000-0002-7397-9104",
+          "openAlexId": "https://openalex.org/A5033242710",
+          "position": 6
+        },
+        {
+          "name": "Stephen R. Hallett",
+          "orcidId": "0000-0003-0751-8323",
+          "openAlexId": "https://openalex.org/A5071213517",
+          "position": 7
+        },
+        {
+          "name": "Mitchell Rogers",
+          "orcidId": "0000-0003-1713-7743",
+          "openAlexId": "https://openalex.org/A5062659211",
+          "position": 8
+        },
+        {
+          "name": "Alexander Woodward",
+          "orcidId": "0000-0003-3068-1401",
+          "openAlexId": "https://openalex.org/A5063813481",
+          "position": 9
+        },
+        {
+          "name": "Alfonso Gastelum‐Strozzi",
+          "orcidId": "0000-0001-9668-5822",
+          "openAlexId": "https://openalex.org/A5089235780",
+          "position": 10
+        },
+        {
+          "name": "R. H. Mitchel",
+          "openAlexId": "https://openalex.org/A5103514763",
+          "position": 11
+        },
+        {
+          "name": "Mengjie Zhang",
+          "orcidId": "0000-0003-4463-9538",
+          "openAlexId": "https://openalex.org/A5100400258",
+          "position": 12
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 13
+        },
+        {
+          "name": "Patrice Delmas",
+          "orcidId": "0000-0002-0235-4596",
+          "openAlexId": "https://openalex.org/A5047114006",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404814007",
@@ -158,7 +895,32 @@
       "year": 2024,
       "venue": "Journal of Engineering Project and Production Management",
       "doi": "https://doi.org/10.32738/jeppm-2024-0035",
-      "openAccessUrl": "http://doi.org/10.32738/jeppm-2024-0035"
+      "openAccessUrl": "http://doi.org/10.32738/jeppm-2024-0035",
+      "authors": [
+        {
+          "name": "Stefan Fuchs",
+          "openAlexId": "https://openalex.org/A1978422924",
+          "position": 1
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A2094470858",
+          "position": 2
+        },
+        {
+          "name": "Johannes Dimyadi",
+          "orcidId": "0000-0002-0004-1131",
+          "openAlexId": "https://openalex.org/A1981705007",
+          "position": 3
+        },
+        {
+          "name": "Robert Amor",
+          "orcidId": "0000-0002-4329-9044",
+          "openAlexId": "https://openalex.org/A1995029789",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4403344852",
@@ -166,7 +928,26 @@
       "year": 2024,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2410.06349",
-      "openAccessUrl": "https://arxiv.org/pdf/2410.06349"
+      "openAccessUrl": "https://arxiv.org/pdf/2410.06349",
+      "authors": [
+        {
+          "name": "G. Gendron",
+          "openAlexId": "https://openalex.org/A5074844252",
+          "position": 1
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 2
+        },
+        {
+          "name": "Gillian Dobbie",
+          "orcidId": "0000-0001-7245-0367",
+          "openAlexId": "https://openalex.org/A5016115576",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4403344847",
@@ -174,7 +955,31 @@
       "year": 2024,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2410.06392",
-      "openAccessUrl": "https://arxiv.org/pdf/2410.06392"
+      "openAccessUrl": "https://arxiv.org/pdf/2410.06392",
+      "authors": [
+        {
+          "name": "G. Gendron",
+          "openAlexId": "https://openalex.org/A5074844252",
+          "position": 1
+        },
+        {
+          "name": "Jože M. Rožanec",
+          "openAlexId": "https://openalex.org/A5067396725",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        },
+        {
+          "name": "Gillian Dobbie",
+          "orcidId": "0000-0001-7245-0367",
+          "openAlexId": "https://openalex.org/A5016115576",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4403964169",
@@ -182,7 +987,27 @@
       "year": 2024,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2410.04703",
-      "openAccessUrl": "https://arxiv.org/pdf/2410.04703"
+      "openAccessUrl": "https://arxiv.org/pdf/2410.04703",
+      "authors": [
+        {
+          "name": "Minjung Kim",
+          "orcidId": "0009-0002-0471-0352",
+          "openAlexId": "https://openalex.org/A5101467783",
+          "position": 1
+        },
+        {
+          "name": "Yusuke Hioka",
+          "orcidId": "0000-0003-3380-9677",
+          "openAlexId": "https://openalex.org/A5069841141",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402939753",
@@ -190,7 +1015,26 @@
       "year": 2024,
       "venue": "IFIP advances in information and communication technology",
       "doi": "https://doi.org/10.1007/978-3-031-71253-1",
-      "openAccessUrl": "https://inria.hal.science/hal-05142875"
+      "openAccessUrl": "https://inria.hal.science/hal-05142875",
+      "authors": [
+        {
+          "name": "Zhongzhi Shi",
+          "orcidId": "0000-0002-3280-1676",
+          "openAlexId": "https://openalex.org/A5075925664",
+          "position": 1
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 2
+        },
+        {
+          "name": "Qi Tian",
+          "openAlexId": "https://openalex.org/A5111111339",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4405621898",
@@ -198,7 +1042,21 @@
       "year": 2024,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2408.12065",
-      "openAccessUrl": "https://arxiv.org/pdf/2408.12065"
+      "openAccessUrl": "https://arxiv.org/pdf/2408.12065",
+      "authors": [
+        {
+          "name": "Nathan Young",
+          "orcidId": "0000-0001-6695-6441",
+          "openAlexId": "https://openalex.org/A5103223347",
+          "position": 1
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4401249549",
@@ -206,7 +1064,32 @@
       "year": 2024,
       "venue": "Advanced Engineering Informatics",
       "doi": "https://doi.org/10.1016/j.aei.2024.102735",
-      "openAccessUrl": "https://doi.org/10.1016/j.aei.2024.102735"
+      "openAccessUrl": "https://doi.org/10.1016/j.aei.2024.102735",
+      "authors": [
+        {
+          "name": "Stefan Fuchs",
+          "openAlexId": "https://openalex.org/A5052271871",
+          "position": 1
+        },
+        {
+          "name": "Johannes Dimyadi",
+          "orcidId": "0000-0002-0004-1131",
+          "openAlexId": "https://openalex.org/A5079346224",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        },
+        {
+          "name": "Robert Amor",
+          "orcidId": "0000-0002-4329-9044",
+          "openAlexId": "https://openalex.org/A5052941224",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4401306281",
@@ -214,28 +1097,146 @@
       "year": 2024,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2407.21060",
-      "openAccessUrl": "https://arxiv.org/pdf/2407.21060"
+      "openAccessUrl": "https://arxiv.org/pdf/2407.21060",
+      "authors": [
+        {
+          "name": "Stefan Fuchs",
+          "openAlexId": "https://openalex.org/A5052271871",
+          "position": 1
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 2
+        },
+        {
+          "name": "Johannes Dimyadi",
+          "orcidId": "0000-0002-0004-1131",
+          "openAlexId": "https://openalex.org/A5079346224",
+          "position": 3
+        },
+        {
+          "name": "Robert Amor",
+          "orcidId": "0000-0002-4329-9044",
+          "openAlexId": "https://openalex.org/A5052941224",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4401023880",
       "title": "Connecting Giants: Synergistic Knowledge Transfer of Large Multimodal Models for Few-Shot Learning",
       "year": 2024,
       "doi": "https://doi.org/10.24963/ijcai.2024/693",
-      "openAccessUrl": "https://doi.org/10.24963/ijcai.2024/693"
+      "openAccessUrl": "https://doi.org/10.24963/ijcai.2024/693",
+      "authors": [
+        {
+          "name": "G. Gendron",
+          "openAlexId": "https://openalex.org/A5074844252",
+          "position": 1
+        },
+        {
+          "name": "Qiming Bao",
+          "orcidId": "0000-0002-1000-7383",
+          "openAlexId": "https://openalex.org/A5009635346",
+          "position": 2
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 3
+        },
+        {
+          "name": "Gillian Dobbie",
+          "orcidId": "0000-0001-7245-0367",
+          "openAlexId": "https://openalex.org/A5016115576",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402352427",
       "title": "Enhancing Data Augmentation with Knowledge-enriched Data Generation via Dynamic Prompt-tuning Method",
       "year": 2024,
       "doi": "https://doi.org/10.1109/ijcnn60899.2024.10651072",
-      "openAccessUrl": "http://doi.org/10.1109/ijcnn60899.2024.10651072"
+      "openAccessUrl": "http://doi.org/10.1109/ijcnn60899.2024.10651072",
+      "authors": [
+        {
+          "name": "Qianqian Qi",
+          "openAlexId": "https://openalex.org/A5101620144",
+          "position": 1
+        },
+        {
+          "name": "Qiming Bao",
+          "orcidId": "0000-0002-1000-7383",
+          "openAlexId": "https://openalex.org/A5009635346",
+          "position": 2
+        },
+        {
+          "name": "Alex Yuxuan Peng",
+          "orcidId": "0000-0002-9922-5781",
+          "openAlexId": "https://openalex.org/A5049443230",
+          "position": 3
+        },
+        {
+          "name": "Jiamou Liu",
+          "orcidId": "0000-0002-0824-0899",
+          "openAlexId": "https://openalex.org/A5083914998",
+          "position": 4
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402352398",
       "title": "Epic-Level Text Generation with LLM through Auto-prompted Reinforcement Learning",
       "year": 2024,
       "doi": "https://doi.org/10.1109/ijcnn60899.2024.10650358",
-      "openAccessUrl": "https://doi.org/10.1109/ijcnn60899.2024.10650358"
+      "openAccessUrl": "https://doi.org/10.1109/ijcnn60899.2024.10650358",
+      "authors": [
+        {
+          "name": "Qianqian Qi",
+          "openAlexId": "https://openalex.org/A5101620144",
+          "position": 1
+        },
+        {
+          "name": "Lin Ni",
+          "orcidId": "0000-0001-6118-6724",
+          "openAlexId": "https://openalex.org/A5070404711",
+          "position": 2
+        },
+        {
+          "name": "Zhongsheng Wang",
+          "orcidId": "0000-0001-8366-8660",
+          "openAlexId": "https://openalex.org/A5101473707",
+          "position": 3
+        },
+        {
+          "name": "Libo Zhang",
+          "orcidId": "0000-0001-5992-0790",
+          "openAlexId": "https://openalex.org/A5053928029",
+          "position": 4
+        },
+        {
+          "name": "Jiamou Liu",
+          "orcidId": "0000-0002-0824-0899",
+          "openAlexId": "https://openalex.org/A5083914998",
+          "position": 5
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 6
+        }
+      ]
     }
   ]
 }

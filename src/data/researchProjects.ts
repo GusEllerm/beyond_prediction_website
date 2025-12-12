@@ -412,7 +412,7 @@ export const researchProjects: ResearchProject[] = [
         showcaseKind: `iframe`,
         showcaseSource: `https://resbaz.auckland.ac.nz/schedule/`,
         showcaseDescription:
-          'The ResBaz Aotearoa 2025 schedule presents a week-long programme of online digital research skills training, allowing viewers to scroll through each day to see the full range of sessions offered. The timetable highlights practical workshops on foundational computational skills (such as R, Python, command line and version control), data management and cleaning, qualitative and survey tools, spatial and statistical analysis, and the use of cloud and high-performance computing infrastructure. It also includes sessions on research communication and impact, open and reproducible science practices, and the responsible use of emerging technologies such as AI in research workflows.',
+          'The ResBaz Aotearoa 2025 schedule presents a week-long programme of online digital research skills training. The timetable highlights practical workshops on foundational computational skills (such as R, Python, command line and version control), data management and cleaning, qualitative and survey tools, spatial and statistical analysis, and the use of cloud and high-performance computing infrastructure. It also includes sessions on research communication and impact, open and reproducible science practices, and the responsible use of emerging technologies such as AI in research workflows.',
       },
       {
         slug: 'carpentries-workshops',

@@ -9,7 +9,14 @@
       "year": 2025,
       "venue": "RNA",
       "doi": "10.1261/rna.080416.125",
-      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125"
+      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/176442778",
@@ -17,14 +24,28 @@
       "year": 2024,
       "venue": "Bioinformatics Advances",
       "doi": "10.1093/bioadv/vbaf011",
-      "openAccessUrl": "https://doi.org/10.1093/bioadv/vbaf011"
+      "openAccessUrl": "https://doi.org/10.1093/bioadv/vbaf011",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/173367189",
       "title": "Assessing the robustness of human ncRNA notations",
       "year": 2024,
       "doi": "10.1101/2024.12.08.627405",
-      "openAccessUrl": "https://doi.org/10.1101/2024.12.08.627405"
+      "openAccessUrl": "https://doi.org/10.1101/2024.12.08.627405",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/149737346",
@@ -32,7 +53,14 @@
       "year": 2024,
       "venue": "MicrobiologyOpen",
       "doi": "10.1002/mbo3.1395",
-      "openAccessUrl": "https://doi.org/10.1002/mbo3.1395"
+      "openAccessUrl": "https://doi.org/10.1002/mbo3.1395",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/144284959",
@@ -40,7 +68,14 @@
       "year": 2023,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0292818",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0292818"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0292818",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/131335656",
@@ -48,21 +83,42 @@
       "year": 2023,
       "venue": "PeerJ",
       "doi": "10.7717/peerj.14969",
-      "openAccessUrl": "https://doi.org/10.7717/peerj.14969"
+      "openAccessUrl": "https://doi.org/10.7717/peerj.14969",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/121194755",
       "title": "High-throughput transposon mutagenesis in the family Enterobacteriaceae reveals core essential genes and rapid turnover of essentiality",
       "year": 2022,
       "doi": "10.1101/2022.10.20.512852",
-      "openAccessUrl": "https://doi.org/10.1101/2022.10.20.512852"
+      "openAccessUrl": "https://doi.org/10.1101/2022.10.20.512852",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/108681992",
       "title": "LazyPair: scalable prediction of protein-protein interactions and interaction types",
       "year": 2022,
       "doi": "10.1101/2022.02.21.481370",
-      "openAccessUrl": "https://doi.org/10.1101/2022.02.21.481370"
+      "openAccessUrl": "https://doi.org/10.1101/2022.02.21.481370",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/108313580",
@@ -70,7 +126,14 @@
       "year": 2022,
       "venue": "Genome Biology",
       "doi": "10.1186/s13059-022-02625-x",
-      "openAccessUrl": "https://doi.org/10.1186/s13059-022-02625-x"
+      "openAccessUrl": "https://doi.org/10.1186/s13059-022-02625-x",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/101032410",
@@ -78,7 +141,14 @@
       "year": 2021,
       "venue": "PLOS Computational Biology",
       "doi": "10.1371/journal.pcbi.1009461",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1009461"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1009461",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/94337603",
@@ -86,7 +156,14 @@
       "year": 2021,
       "venue": "Environmental Microbiology",
       "doi": "10.1111/1462-2920.15595",
-      "openAccessUrl": "https://doi.org/10.1111/1462-2920.15595"
+      "openAccessUrl": "https://doi.org/10.1111/1462-2920.15595",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/90961644",
@@ -94,14 +171,28 @@
       "year": 2021,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gkab175",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gkab175"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkab175",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/84572370",
       "title": "Razor: annotation of signal peptides from toxins",
       "year": 2020,
       "doi": "10.1101/2020.11.30.405613",
-      "openAccessUrl": "https://doi.org/10.1101/2020.11.30.405613"
+      "openAccessUrl": "https://doi.org/10.1101/2020.11.30.405613",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/84781235",
@@ -109,14 +200,28 @@
       "year": 2020,
       "venue": "Database",
       "doi": "10.1093/database/baaa105",
-      "openAccessUrl": "https://doi.org/10.1093/database/baaa105"
+      "openAccessUrl": "https://doi.org/10.1093/database/baaa105",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/81795133",
       "title": "Features of Functional Human Genes",
       "year": 2020,
       "doi": "10.1101/2020.10.10.334193",
-      "openAccessUrl": "https://doi.org/10.1101/2020.10.10.334193"
+      "openAccessUrl": "https://doi.org/10.1101/2020.10.10.334193",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/80830011",
@@ -124,7 +229,14 @@
       "year": 2020,
       "venue": "Bioinformatics",
       "doi": "10.1093/bioinformatics/btaa578",
-      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btaa578"
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btaa578",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/56117781",
@@ -132,7 +244,14 @@
       "year": 2019,
       "venue": "Science",
       "doi": "10.1126/science.aat7244",
-      "openAccessUrl": "https://doi.org/10.1126/science.aat7244"
+      "openAccessUrl": "https://doi.org/10.1126/science.aat7244",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/56286101",
@@ -140,7 +259,14 @@
       "year": 2019,
       "venue": "Microbial genomics",
       "doi": "10.1099/mgen.0.000251",
-      "openAccessUrl": "https://doi.org/10.1099/mgen.0.000251"
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.000251",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/56286102",
@@ -148,14 +274,28 @@
       "year": 2019,
       "venue": "PeerJ",
       "doi": "10.7717/peerj.6160",
-      "openAccessUrl": "https://doi.org/10.7717/peerj.6160"
+      "openAccessUrl": "https://doi.org/10.7717/peerj.6160",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51227227",
       "title": "The genetic robustness of RNA and protein from evolutionary, structural and functional perspectives",
       "year": 2018,
       "doi": "10.1101/480087",
-      "openAccessUrl": "https://doi.org/10.1101/480087"
+      "openAccessUrl": "https://doi.org/10.1101/480087",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119607",
@@ -163,7 +303,14 @@
       "year": 2018,
       "venue": "Molecular Biology and Evolution",
       "doi": "10.1093/molbev/msy046",
-      "openAccessUrl": "https://doi.org/10.1093/molbev/msy046"
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msy046",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119602",
@@ -171,7 +318,14 @@
       "year": 2018,
       "venue": "PLoS Genetics",
       "doi": "10.1371/journal.pgen.1007333",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1007333"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1007333",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119597",
@@ -179,7 +333,14 @@
       "year": 2018,
       "venue": "Molecular Ecology Resources",
       "doi": "10.1111/1755-0998.12907",
-      "openAccessUrl": "https://doi.org/10.1111/1755-0998.12907"
+      "openAccessUrl": "https://doi.org/10.1111/1755-0998.12907",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119614",
@@ -187,7 +348,14 @@
       "year": 2017,
       "venue": "Bioinformatics",
       "doi": "10.1093/bioinformatics/btw728",
-      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btw728"
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btw728",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119600",
@@ -195,7 +363,14 @@
       "year": 2017,
       "venue": "BMC Genomics",
       "doi": "10.1186/s12864-017-4197-1",
-      "openAccessUrl": "https://doi.org/10.1186/s12864-017-4197-1"
+      "openAccessUrl": "https://doi.org/10.1186/s12864-017-4197-1",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119605",
@@ -203,7 +378,14 @@
       "year": 2017,
       "venue": "Genome Announcements",
       "doi": "10.1128/genomeA.00436-17",
-      "openAccessUrl": "https://doi.org/10.1128/genomeA.00436-17"
+      "openAccessUrl": "https://doi.org/10.1128/genomeA.00436-17",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119593",
@@ -211,7 +393,14 @@
       "year": 2017,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0172790",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0172790"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0172790",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119598",
@@ -219,7 +408,14 @@
       "year": 2017,
       "venue": "RNA Biology",
       "doi": "10.1080/15476286.2016.1272747",
-      "openAccessUrl": "https://doi.org/10.1080/15476286.2016.1272747"
+      "openAccessUrl": "https://doi.org/10.1080/15476286.2016.1272747",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/26849693",
@@ -227,7 +423,14 @@
       "year": 2016,
       "venue": "eLife",
       "doi": "10.7554/eLife.13479",
-      "openAccessUrl": "https://doi.org/10.7554/eLife.13479"
+      "openAccessUrl": "https://doi.org/10.7554/eLife.13479",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119609",
@@ -235,7 +438,14 @@
       "year": 2016,
       "venue": "eLife",
       "doi": "10.7554/eLife.13479",
-      "openAccessUrl": "https://doi.org/10.7554/eLife.13479"
+      "openAccessUrl": "https://doi.org/10.7554/eLife.13479",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119616",
@@ -243,7 +453,14 @@
       "year": 2016,
       "venue": "Bioinformatics",
       "doi": "10.1093/bioinformatics/btw518",
-      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btw518"
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btw518",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119615",
@@ -251,7 +468,14 @@
       "year": 2016,
       "venue": "Scientific Reports",
       "doi": "10.1038/srep19233",
-      "openAccessUrl": "https://doi.org/10.1038/srep19233"
+      "openAccessUrl": "https://doi.org/10.1038/srep19233",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119594",
@@ -259,7 +483,14 @@
       "year": 2016,
       "venue": "Current Protocols in Bioinformatics",
       "doi": "10.1002/cpbi.4",
-      "openAccessUrl": "https://doi.org/10.1002/cpbi.4"
+      "openAccessUrl": "https://doi.org/10.1002/cpbi.4",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/37562201",
@@ -267,7 +498,14 @@
       "year": 2015,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gku1327",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gku1327"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1327",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119606",
@@ -275,7 +513,14 @@
       "year": 2015,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gku1327",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gku1327"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1327",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/37562802",
@@ -283,7 +528,14 @@
       "year": 2015,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gku1063",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gku1063"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1063",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119611",
@@ -291,7 +543,14 @@
       "year": 2015,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gku1063",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gku1063"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gku1063",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119610",
@@ -299,13 +558,27 @@
       "year": 2015,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0121797",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121797"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121797",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/56286100",
       "title": "Crowdsourcing RNA structural alignments with an online computer game",
       "year": 2015,
-      "venue": "Pacific Symposium on Biocomputing"
+      "venue": "Pacific Symposium on Biocomputing",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119613",
@@ -313,13 +586,27 @@
       "year": 2015,
       "venue": "Cytogenetic and Genome Research",
       "doi": "10.1159/000430927",
-      "openAccessUrl": "https://doi.org/10.1159/000430927"
+      "openAccessUrl": "https://doi.org/10.1159/000430927",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/16719577",
       "title": "An introduction to RNA databases",
       "year": 2014,
-      "venue": "RNA Sequence, Structure, and Function: Computational and Bioinformatic Methods"
+      "venue": "RNA Sequence, Structure, and Function: Computational and Bioinformatic Methods",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119601",
@@ -327,13 +614,27 @@
       "year": 2014,
       "venue": "Methods in Molecular Biology",
       "doi": "10.1007/978-1-62703-709-9_6",
-      "openAccessUrl": "https://doi.org/10.1007/978-1-62703-709-9_6"
+      "openAccessUrl": "https://doi.org/10.1007/978-1-62703-709-9_6",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/16719583",
       "title": "Comparative genomic data of the Avian Phylogenomics Project",
       "year": 2014,
-      "venue": "GigaScience"
+      "venue": "GigaScience",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119595",
@@ -341,7 +642,14 @@
       "year": 2014,
       "venue": "Science",
       "doi": "10.1126/science.1251385",
-      "openAccessUrl": "https://doi.org/10.1126/science.1251385"
+      "openAccessUrl": "https://doi.org/10.1126/science.1251385",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119599",
@@ -349,7 +657,14 @@
       "year": 2014,
       "venue": "Mobile DNA",
       "doi": "10.1186/1759-8753-5-25",
-      "openAccessUrl": "https://doi.org/10.1186/1759-8753-5-25"
+      "openAccessUrl": "https://doi.org/10.1186/1759-8753-5-25",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119603",
@@ -357,7 +672,14 @@
       "year": 2014,
       "venue": "PLoS Computational Biology",
       "doi": "10.1371/journal.pcbi.1003907",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1003907"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1003907",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201395",
@@ -365,7 +687,14 @@
       "year": 2013,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gkt148",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gkt148"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkt148",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119612",
@@ -373,7 +702,14 @@
       "year": 2013,
       "venue": "mBio",
       "doi": "10.1128/mBio.00565-13",
-      "openAccessUrl": "https://doi.org/10.1128/mBio.00565-13"
+      "openAccessUrl": "https://doi.org/10.1128/mBio.00565-13",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201396",
@@ -381,7 +717,14 @@
       "year": 2013,
       "venue": "RNA Biology",
       "doi": "10.4161/rna.23502",
-      "openAccessUrl": "https://doi.org/10.4161/rna.23502"
+      "openAccessUrl": "https://doi.org/10.4161/rna.23502",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201397",
@@ -389,7 +732,14 @@
       "year": 2013,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gks1005",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gks1005"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gks1005",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201398",
@@ -397,7 +747,14 @@
       "year": 2012,
       "venue": "Journal of Bacteriology",
       "doi": "10.1128/JB.06790-11",
-      "openAccessUrl": "https://doi.org/10.1128/JB.06790-11"
+      "openAccessUrl": "https://doi.org/10.1128/JB.06790-11",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119608",
@@ -405,7 +762,14 @@
       "year": 2012,
       "venue": "PLoS Computational Biology",
       "doi": "10.1371/journal.pcbi.1002752",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1002752"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1002752",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158357",
@@ -413,7 +777,14 @@
       "year": 2012,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gkr1195",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gkr1195"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkr1195",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158365",
@@ -421,7 +792,14 @@
       "year": 2012,
       "venue": "RNA",
       "doi": "10.1261/rna.032052.111",
-      "openAccessUrl": "https://doi.org/10.1261/rna.032052.111"
+      "openAccessUrl": "https://doi.org/10.1261/rna.032052.111",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201402",
@@ -429,7 +807,14 @@
       "year": 2011,
       "venue": "Microbiology",
       "doi": "10.1099/mic.0.050278-0",
-      "openAccessUrl": "https://doi.org/10.1099/mic.0.050278-0"
+      "openAccessUrl": "https://doi.org/10.1099/mic.0.050278-0",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201403",
@@ -437,7 +822,14 @@
       "year": 2011,
       "venue": "RNA",
       "doi": "10.1261/rna.2750811",
-      "openAccessUrl": "https://doi.org/10.1261/rna.2750811"
+      "openAccessUrl": "https://doi.org/10.1261/rna.2750811",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201404",
@@ -445,7 +837,14 @@
       "year": 2011,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gkr168",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gkr168"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkr168",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201405",
@@ -453,7 +852,14 @@
       "year": 2011,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gkq1129",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gkq1129"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkq1129",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/51119596",
@@ -461,7 +867,14 @@
       "year": 2011,
       "venue": "RNA Biology",
       "doi": "10.4161/rna.8.5.16037",
-      "openAccessUrl": "https://doi.org/10.4161/rna.8.5.16037"
+      "openAccessUrl": "https://doi.org/10.4161/rna.8.5.16037",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158355",
@@ -469,7 +882,14 @@
       "year": 2010,
       "venue": "PLoS Genetics",
       "doi": "10.1371/journal.pgen.1001099",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1001099"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1001099",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201409",
@@ -477,7 +897,14 @@
       "year": 2010,
       "venue": "Journal of Biology",
       "doi": "10.1186/jbiol211",
-      "openAccessUrl": "https://doi.org/10.1186/jbiol211"
+      "openAccessUrl": "https://doi.org/10.1186/jbiol211",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201410",
@@ -485,13 +912,27 @@
       "year": 2010,
       "venue": "PLoS Computational Biology",
       "doi": "10.1371/journal.pcbi.1000941",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1000941"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1000941",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201411",
       "title": "A home for RNA families at RNA Biology",
       "year": 2009,
-      "venue": "RNA Biology"
+      "venue": "RNA Biology",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201412",
@@ -499,7 +940,14 @@
       "year": 2009,
       "venue": "PLoS Genetics",
       "doi": "10.1371/journal.pgen.1000569",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1000569"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pgen.1000569",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201413",
@@ -507,7 +955,14 @@
       "year": 2009,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gkn766",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gkn766"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkn766",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201414",
@@ -515,7 +970,14 @@
       "year": 2009,
       "venue": "Briefings in Functional Genomics and Proteomics",
       "doi": "10.1093/bfgp/elp042",
-      "openAccessUrl": "https://doi.org/10.1093/bfgp/elp042"
+      "openAccessUrl": "https://doi.org/10.1093/bfgp/elp042",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201415",
@@ -523,7 +985,14 @@
       "year": 2008,
       "venue": "Genome Research",
       "doi": "10.1101/gr.6836108",
-      "openAccessUrl": "https://doi.org/10.1101/gr.6836108"
+      "openAccessUrl": "https://doi.org/10.1101/gr.6836108",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201416",
@@ -531,7 +1000,14 @@
       "year": 2008,
       "venue": "Trends in Genetics",
       "doi": "10.1016/j.tig.2008.03.009",
-      "openAccessUrl": "https://doi.org/10.1016/j.tig.2008.03.009"
+      "openAccessUrl": "https://doi.org/10.1016/j.tig.2008.03.009",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158373",
@@ -539,7 +1015,14 @@
       "year": 2008,
       "venue": "RNA",
       "doi": "10.1261/rna.1200508",
-      "openAccessUrl": "https://doi.org/10.1261/rna.1200508"
+      "openAccessUrl": "https://doi.org/10.1261/rna.1200508",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158352",
@@ -547,7 +1030,14 @@
       "year": 2007,
       "venue": "Genome Research",
       "doi": "10.1101/gr.5890907",
-      "openAccessUrl": "https://doi.org/10.1101/gr.5890907"
+      "openAccessUrl": "https://doi.org/10.1101/gr.5890907",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158356",
@@ -555,7 +1045,14 @@
       "year": 2007,
       "venue": "Bioinformatics",
       "doi": "10.1093/bioinformatics/btm525",
-      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btm525"
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btm525",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158359",
@@ -563,7 +1060,14 @@
       "year": 2007,
       "venue": "BMC Bioinformatics",
       "doi": "10.1186/1471-2105-8-S8-P8",
-      "openAccessUrl": "https://doi.org/10.1186/1471-2105-8-S8-P8"
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-8-S8-P8",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158378",
@@ -571,7 +1075,14 @@
       "year": 2007,
       "venue": "BMC Genomics",
       "doi": "10.1186/1471-2164-8-244",
-      "openAccessUrl": "https://doi.org/10.1186/1471-2164-8-244"
+      "openAccessUrl": "https://doi.org/10.1186/1471-2164-8-244",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158347",
@@ -579,7 +1090,14 @@
       "year": 2006,
       "venue": "BMC Bioinformatics",
       "doi": "10.1186/1471-2105-7-239",
-      "openAccessUrl": "https://doi.org/10.1186/1471-2105-7-239"
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-7-239",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201423",
@@ -587,7 +1105,14 @@
       "year": 2006,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gkl590",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gkl590"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gkl590",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201424",
@@ -595,7 +1120,14 @@
       "year": 2006,
       "venue": "Bioinformatics",
       "doi": "10.1093/bioinformatics/btl514",
-      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btl514"
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btl514",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201425",
@@ -603,7 +1135,14 @@
       "year": 2005,
       "venue": "Nucleic Acids Research",
       "doi": "10.1093/nar/gki541",
-      "openAccessUrl": "https://doi.org/10.1093/nar/gki541"
+      "openAccessUrl": "https://doi.org/10.1093/nar/gki541",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201427",
@@ -611,14 +1150,28 @@
       "year": 2005,
       "venue": "Applied Bioinformatics",
       "doi": "10.2165/00822942-200504010-00006",
-      "openAccessUrl": "https://doi.org/10.2165/00822942-200504010-00006"
+      "openAccessUrl": "https://doi.org/10.2165/00822942-200504010-00006",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158343",
       "title": "Untitled work",
       "year": 2005,
       "doi": "10.1186/1471-2105-6-241",
-      "openAccessUrl": "https://doi.org/10.1186/1471-2105-6-241"
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-6-241",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201426",
@@ -626,7 +1179,14 @@
       "year": 2005,
       "venue": "BMC Bioinformatics",
       "doi": "10.1186/1471-2105-6-241",
-      "openAccessUrl": "https://doi.org/10.1186/1471-2105-6-241"
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-6-241",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158346",
@@ -634,7 +1194,14 @@
       "year": 2004,
       "venue": "BMC Bioinformatics",
       "doi": "10.1186/1471-2105-5-140",
-      "openAccessUrl": "https://doi.org/10.1186/1471-2105-5-140"
+      "openAccessUrl": "https://doi.org/10.1186/1471-2105-5-140",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201429",
@@ -642,7 +1209,14 @@
       "year": 2003,
       "venue": "Bioinformatics",
       "doi": "10.1093/bioinformatics/btg080",
-      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btg080"
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btg080",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158361",
@@ -650,7 +1224,14 @@
       "year": 2003,
       "venue": "Proceedings of the Royal Society B: Biological Sciences",
       "doi": "10.1098/rspb.2003.2355",
-      "openAccessUrl": "https://doi.org/10.1098/rspb.2003.2355"
+      "openAccessUrl": "https://doi.org/10.1098/rspb.2003.2355",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/6158370",
@@ -658,19 +1239,40 @@
       "year": 2003,
       "venue": "Applied and Environmental Microbiology",
       "doi": "10.1128/AEM.69.9.5104-5114.2003",
-      "openAccessUrl": "https://doi.org/10.1128/AEM.69.9.5104-5114.2003"
+      "openAccessUrl": "https://doi.org/10.1128/AEM.69.9.5104-5114.2003",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201432",
       "title": "RNA folding argues against a hot-start origin of life",
       "year": 2000,
-      "venue": "Journal of Molecular Evolution"
+      "venue": "Journal of Molecular Evolution",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201393",
       "title": "Three years of RNA Families",
       "doi": "http://dx.doi.org/10.4161/rna.9.1.18979",
-      "openAccessUrl": "https://doi.org/http://dx.doi.org/10.4161/rna.9.1.18979"
+      "openAccessUrl": "https://doi.org/http://dx.doi.org/10.4161/rna.9.1.18979",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-7808-1213/work/9201401",
@@ -678,7 +1280,14 @@
       "year": 2012,
       "venue": "RNA Biology",
       "doi": "10.4161/rna.9.1.18979",
-      "openAccessUrl": "https://doi.org/10.4161/rna.9.1.18979"
+      "openAccessUrl": "https://doi.org/10.4161/rna.9.1.18979",
+      "authors": [
+        {
+          "name": "Paul Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "position": 1
+        }
+      ]
     }
   ]
 }

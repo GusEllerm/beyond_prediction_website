@@ -4,5 +4,73 @@
   "year": 2022,
   "venue": "The Journal of Infectious Diseases",
   "doi": "10.1093/infdis/jiac317",
-  "openAccessUrl": "https://academic.oup.com/jid/advance-article-pdf/doi/10.1093/infdis/jiac317/45490314/jiac317.pdf"
+  "openAccessUrl": "https://academic.oup.com/jid/advance-article-pdf/doi/10.1093/infdis/jiac317/45490314/jiac317.pdf",
+  "authors": [
+    {
+      "name": "Rachelle N. Binny",
+      "orcidId": "0000-0002-3433-0417",
+      "openAlexId": "https://openalex.org/A5083272177",
+      "position": 1
+    },
+    {
+      "name": "Patricia Priest",
+      "orcidId": "0000-0003-2311-6236",
+      "openAlexId": "https://openalex.org/A5088233726",
+      "position": 2
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 3
+    },
+    {
+      "name": "Matthew Parry",
+      "orcidId": "0000-0002-6588-0219",
+      "openAlexId": "https://openalex.org/A5026967054",
+      "position": 4
+    },
+    {
+      "name": "Audrey Lustig",
+      "orcidId": "0000-0002-0869-3847",
+      "openAlexId": "https://openalex.org/A5071407955",
+      "position": 5
+    },
+    {
+      "name": "Shaun C. Hendy",
+      "orcidId": "0000-0003-3468-6517",
+      "openAlexId": "https://openalex.org/A5076052999",
+      "position": 6
+    },
+    {
+      "name": "Oliver J. Maclaren",
+      "orcidId": "0000-0002-3982-4539",
+      "openAlexId": "https://openalex.org/A5074871064",
+      "position": 7
+    },
+    {
+      "name": "Kannan Ridings",
+      "orcidId": "0000-0002-8801-4428",
+      "openAlexId": "https://openalex.org/A5052564078",
+      "position": 8
+    },
+    {
+      "name": "Nicholas Steyn",
+      "orcidId": "0000-0001-8904-2941",
+      "openAlexId": "https://openalex.org/A5070115625",
+      "position": 9
+    },
+    {
+      "name": "Giorgia Vattiato",
+      "orcidId": "0000-0002-7994-7541",
+      "openAlexId": "https://openalex.org/A5031989809",
+      "position": 10
+    },
+    {
+      "name": "Michael J. Plank",
+      "orcidId": "0000-0002-7539-3465",
+      "openAlexId": "https://openalex.org/A5079232149",
+      "position": 11
+    }
+  ]
 }

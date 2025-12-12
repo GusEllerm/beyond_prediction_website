@@ -4,5 +4,18 @@
   "year": 2025,
   "venue": "arXiv (Cornell University)",
   "doi": "10.48550/arxiv.2507.03847",
-  "openAccessUrl": "https://arxiv.org/pdf/2507.03847"
+  "openAccessUrl": "https://arxiv.org/pdf/2507.03847",
+  "authors": [
+    {
+      "name": "Reilly Haskins",
+      "openAlexId": "https://openalex.org/A5114224629",
+      "position": 1
+    },
+    {
+      "name": "Benjamin Adams",
+      "orcidId": "0000-0002-1657-9809",
+      "openAlexId": "https://openalex.org/A5009482088",
+      "position": 2
+    }
+  ]
 }

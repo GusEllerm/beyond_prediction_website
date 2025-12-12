@@ -12,6 +12,8 @@
     "update:publications": "npm run update:openalex && npm run update:orcid",
     "update:openalex": "tsx scripts/update_openalex_publications.ts",
     "update:orcid": "tsx scripts/update_orcid_publications.ts",
+    "enrich:authors": "tsx scripts/enrich_publications_with_authors.ts",
+    "cross-reference": "tsx scripts/cross_reference_publications_people.ts",
     "add:doi": "tsx scripts/add_doi_publication.ts",
     "convert:reports": "./scripts/convert_reports.sh",
     "fix:report-lists": "tsx scripts/fix_html_lists.ts"

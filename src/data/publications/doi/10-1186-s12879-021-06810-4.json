@@ -4,5 +4,58 @@
   "year": 2021,
   "venue": "BMC Infectious Diseases",
   "doi": "10.1186/s12879-021-06810-4",
-  "openAccessUrl": "https://bmcinfectdis.biomedcentral.com/counter/pdf/10.1186/s12879-021-06810-4"
+  "openAccessUrl": "https://bmcinfectdis.biomedcentral.com/counter/pdf/10.1186/s12879-021-06810-4",
+  "authors": [
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 1
+    },
+    {
+      "name": "Geoff Jones",
+      "orcidId": "0000-0002-4456-5324",
+      "openAlexId": "https://openalex.org/A5042934084",
+      "position": 2
+    },
+    {
+      "name": "C. Heuer",
+      "orcidId": "0000-0003-0449-1540",
+      "openAlexId": "https://openalex.org/A5089640735",
+      "position": 3
+    },
+    {
+      "name": "Virginia Hope",
+      "openAlexId": "https://openalex.org/A5104090365",
+      "position": 4
+    },
+    {
+      "name": "Sarah Jefferies",
+      "orcidId": "0000-0001-7660-4466",
+      "openAlexId": "https://openalex.org/A5015927579",
+      "position": 5
+    },
+    {
+      "name": "Petra Muellner",
+      "openAlexId": "https://openalex.org/A5113518079",
+      "position": 6
+    },
+    {
+      "name": "Andrea McNeill",
+      "openAlexId": "https://openalex.org/A5056613413",
+      "position": 7
+    },
+    {
+      "name": "Stephen Haslett",
+      "orcidId": "0000-0002-2775-5468",
+      "openAlexId": "https://openalex.org/A5007869784",
+      "position": 8
+    },
+    {
+      "name": "Patricia Priest",
+      "orcidId": "0000-0003-2311-6236",
+      "openAlexId": "https://openalex.org/A5088233726",
+      "position": 9
+    }
+  ]
 }

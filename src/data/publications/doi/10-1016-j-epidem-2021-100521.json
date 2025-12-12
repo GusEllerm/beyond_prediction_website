@@ -4,5 +4,61 @@
   "year": 2021,
   "venue": "Epidemics",
   "doi": "10.1016/j.epidem.2021.100521",
-  "openAccessUrl": "https://doi.org/10.1016/j.epidem.2021.100521"
+  "openAccessUrl": "https://doi.org/10.1016/j.epidem.2021.100521",
+  "authors": [
+    {
+      "name": "Sabrina S. Greening",
+      "orcidId": "0000-0003-4091-9022",
+      "openAlexId": "https://openalex.org/A5037289957",
+      "position": 1
+    },
+    {
+      "name": "Ji Zhang",
+      "orcidId": "0000-0003-2582-2978",
+      "openAlexId": "https://openalex.org/A5100329279",
+      "position": 2
+    },
+    {
+      "name": "Anne C. Midwinter",
+      "orcidId": "0000-0001-5731-3233",
+      "openAlexId": "https://openalex.org/A5026814647",
+      "position": 3
+    },
+    {
+      "name": "David A. Wilkinson",
+      "orcidId": "0000-0002-9986-6212",
+      "openAlexId": "https://openalex.org/A5101820260",
+      "position": 4
+    },
+    {
+      "name": "Ahmed Fayaz",
+      "orcidId": "0000-0001-8879-4535",
+      "openAlexId": "https://openalex.org/A5048549688",
+      "position": 5
+    },
+    {
+      "name": "Deborah A. Williamson",
+      "orcidId": "0000-0001-7363-6665",
+      "openAlexId": "https://openalex.org/A5033969972",
+      "position": 6
+    },
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 7
+    },
+    {
+      "name": "M. Carolyn Gates",
+      "orcidId": "0000-0002-7790-1945",
+      "openAlexId": "https://openalex.org/A5064395243",
+      "position": 8
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 9
+    }
+  ]
 }

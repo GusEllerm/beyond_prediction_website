@@ -1,0 +1,231 @@
+================================================================================
+PUBLICATION-PEOPLE CROSS-REFERENCE REPORT
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total publications analyzed: 1846
+Publications with matched authors: 455
+People with matched publications: 16
+Total author-publication matches: 500
+
+PUBLICATIONS BY PROJECT
+--------------------------------------------------------------------------------
+
+Live Research Articles (LivePublication) (live-research-articles)
+  Total publications: 5
+  Publications with matched authors: 2
+    - Enabling LivePublication...
+      Authors: Ben Adams, Mark Gahegan
+    - LivePublication: The Science Workflow Creates and Updates th...
+      Authors: Mark Gahegan, Ben Adams
+
+Trustworthy & Explainable AI for Science (trustworthy-explainable-ai)
+  Total publications: 15
+  Publications with matched authors: 13
+    - Multi2Claim: Generating Scientific Claims from Multi-Choice ...
+      Authors: Neset Tan, Mark Gahegan, Michael Witbrock
+    - Faithful Reasoning over Scientific Claims...
+      Authors: Neset Tan, Mark Gahegan, Michael Witbrock
+    - Meta-Inverse Reinforcement Learning for Mean Field Games via...
+      Authors: Neset Tan, Michael Witbrock
+    - KEA Explain: Explanations of Hallucinations using Graph Kern...
+      Authors: Ben Adams
+    - Distilled Circuits: A Mechanistic Study of Internal Restruct...
+      Authors: Ben Adams
+    ... and 8 more
+
+Genomics Data Science & Evolutionary Inference (genomics-data-science)
+  Total publications: 9
+  Publications with matched authors: 8
+    - Accounting for Errors in Data Improves Divergence Time Estim...
+      Authors: Alex Gavryushkin, Alexei Drummond
+    - SNVformer: An Attention-based Deep Neural Network for GWAS D...
+      Authors: Neset Tan, Michael Witbrock, Alex Gavryushkin
+    - Construction of relatedness matrices in autopolyploid popula...
+      Authors: Michael Black
+    - Evaluating computational tools for protein-coding sequence d...
+      Authors: Michael Black, Paul Gardner
+    - A bioinformatician, computer scientist, and geneticist lead ...
+      Authors: Paul Gardner
+    ... and 3 more
+
+Biodiversity, Ecology & Biosecurity Modelling (biodiversity-ecology-biosecurity)
+  Total publications: 36
+  Publications with matched authors: 34
+    - Finding the adaptive needles in a population‐structured hays...
+      Authors: Anna Santure
+    - Who are you? A framework to identify and report genetic samp...
+      Authors: Anna Santure
+    - Genomic data of different resolutions reveal consistent inbr...
+      Authors: Anna Santure
+    - High Imputation Accuracy Can Be Achieved Using a Small Refer...
+      Authors: Anna Santure
+    - Transmission dynamics of an antimicrobial resistant Campylob...
+      Authors: Marti Anderson, Nigel French
+    ... and 29 more
+
+Māori Genomics & Data Sovereignty (maori-genomics-data-sovereignty)
+  Total publications: 2
+  Publications with matched authors: 2
+    - Advancing diagnosis and research for rare genetic diseases i...
+      Authors: Phillip Wilcox
+    - Identifying Māori perspectives on gene editing in Aotearoa N...
+      Authors: Phillip Wilcox
+
+Digital Research Skills & Communities (digital-research-skills)
+  Total publications: 6
+  Publications with matched authors: 3
+    - Sustained software development, not number of citations or j...
+      Authors: Paul Gardner, Alex Gavryushkin, Michael Black
+    - Learning to Match Product Codes...
+      Authors: Sebastian Link
+    - A bioinformatician, computer scientist, and geneticist lead ...
+      Authors: Paul Gardner
+
+PEOPLE AND THEIR PUBLICATIONS
+--------------------------------------------------------------------------------
+
+Mark Gahegan (mark-gahegan)
+  Role: Principal Investigator
+  ORCID: 0000-0001-7209-8156
+  Matched publications: 35
+  Publications by project:
+    Live Research Articles (LivePublication): 4 publication(s)
+    Trustworthy & Explainable AI for Science: 6 publication(s)
+
+Alexei Drummond (alexei-drummond)
+  Role: Co-PI
+  ORCID: 0000-0003-4454-2576
+  Matched publications: 38
+  Publications by project:
+    Genomics Data Science & Evolutionary Inference: 2 publication(s)
+    Biodiversity, Ecology & Biosecurity Modelling: 10 publication(s)
+
+Ben Adams (ben-adams)
+  Role: Co-PI
+  ORCID: 0000-0002-1657-9809
+  Matched publications: 39
+  Publications by project:
+    Trustworthy & Explainable AI for Science: 4 publication(s)
+    Live Research Articles (LivePublication): 4 publication(s)
+
+Paul Gardner (paul-gardner)
+  Role: Co-PI
+  ORCID: 0000-0002-7808-1213
+  Matched publications: 34
+  Publications by project:
+    Genomics Data Science & Evolutionary Inference: 8 publication(s)
+
+Phillip Wilcox (phillip-wilcox)
+  Role: Co-Investigator
+  ORCID: 0000-0001-8485-6962
+  Matched publications: 6
+  Publications by project:
+    Māori Genomics & Data Sovereignty: 2 publication(s)
+
+Lara Greaves (lara-greaves)
+  Role: Co-Investigator
+  ORCID: 0000-0003-0537-7125
+  Matched publications: 30
+
+Alex Gavryushkin (alex-gavryushkin)
+  Role: Co-Investigator
+  ORCID: 0000-0001-6299-8249
+  Matched publications: 35
+  Publications by project:
+    Trustworthy & Explainable AI for Science: 2 publication(s)
+    Genomics Data Science & Evolutionary Inference: 4 publication(s)
+    Biodiversity, Ecology & Biosecurity Modelling: 2 publication(s)
+
+Sebastian Link (sebastian-link)
+  Role: Co-Investigator
+  ORCID: 0000-0002-1816-2863
+  Matched publications: 38
+  Publications by project:
+    Trustworthy & Explainable AI for Science: 11 publication(s)
+    Digital Research Skills & Communities: 1 publication(s)
+
+Michael Witbrock (michael-witbrock)
+  Role: Co-Investigator
+  ORCID: 0000-0002-7554-0971
+  Matched publications: 45
+  Publications by project:
+    Trustworthy & Explainable AI for Science: 8 publication(s)
+
+Michael Black (michael-black)
+  Role: Co-Investigator
+  ORCID: 0000-0003-1174-6054
+  Matched publications: 39
+  Publications by project:
+    Genomics Data Science & Evolutionary Inference: 8 publication(s)
+
+David Bryant (david-bryant)
+  Role: Co-Investigator
+  ORCID: 0000-0003-1963-5535
+  Matched publications: 32
+
+Nigel French (nigel-french)
+  Role: Co-Investigator
+  ORCID: 0000-0002-6334-0657
+  Matched publications: 46
+  Publications by project:
+    Biodiversity, Ecology & Biosecurity Modelling: 16 publication(s)
+
+Anna Santure (anna-santure)
+  Role: Co-Investigator
+  ORCID: 0000-0001-8965-1042
+  Matched publications: 36
+  Publications by project:
+    Genomics Data Science & Evolutionary Inference: 2 publication(s)
+    Biodiversity, Ecology & Biosecurity Modelling: 6 publication(s)
+
+Marti Anderson (marti-anderson)
+  Role: Co-Investigator
+  ORCID: 0000-0002-4018-4049
+  Matched publications: 39
+  Publications by project:
+    Biodiversity, Ecology & Biosecurity Modelling: 13 publication(s)
+
+Neset Tan (neset-tan)
+  Role: Post-Doc
+  ORCID: 0000-0001-6201-7295
+  Matched publications: 29
+  Publications by project:
+    Trustworthy & Explainable AI for Science: 8 publication(s)
+
+Jo Klawitter (jo-klawitter)
+  Role: Post-Doc
+  ORCID: 0000-0001-8917-5269
+  Matched publications: 34
+  Publications by project:
+    Biodiversity, Ecology & Biosecurity Modelling: 8 publication(s)
+
+PUBLICATIONS WITHOUT MATCHED AUTHORS
+--------------------------------------------------------------------------------
+Found 1353 publications without matched authors:
+  - Utilising the ArchiMate framework to model secure micromobility servic... (has 1 author(s) in metadata but none matched)
+  - Modelling Security Aspects with ArchiMate: A Systematic Mapping Study... (has 2 author(s) in metadata but none matched)
+  - Accuracy and Scalability of Machine Learning Methods for Genotype-Phen... (no author metadata)
+  - The Fossilized Birth–Death Model Is Identifiable... (no author metadata)
+  - An Automated Convergence Diagnostic for Phylogenetic MCMC Analyses... (no author metadata)
+  - Estimating the mean in the space of ranked phylogenetic trees... (no author metadata)
+  - Filtering for highly variable genes and high quality spots improves ph... (no author metadata)
+  - Ranked Subtree Prune and Regraft... (no author metadata)
+  - Accurate Bayesian phylogenetic point estimation using a tree distribut... (no author metadata)
+  - The Fossilised Birth-Death Model is Identifiable... (no author metadata)
+  - An automated convergence diagnostic for phylogenetic MCMC analyses... (no author metadata)
+  - Ranked Subtree Prune and Regraft... (no author metadata)
+  - Estimating the mean in the space of ranked phylogenetic trees... (no author metadata)
+  - Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data... (no author metadata)
+  - A fast lasso-based method for inferring higher-order interactions... (no author metadata)
+  - Accounting for Errors in Data Improves Divergence Time Estimates in Si... (no author metadata)
+  - SNVformer: An Attention-based Deep Neural Network for GWAS Data... (no author metadata)
+  - Online Bayesian Analysis with BEAST 2... (no author metadata)
+  - A Fast Lasso-Based Method for Inferring Higher-Order Interactions... (no author metadata)
+  - Discrete coalescent trees... (no author metadata)
+  ... and 1333 more
+
+================================================================================
+End of report
+================================================================================

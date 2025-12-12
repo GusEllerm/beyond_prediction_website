@@ -8,7 +8,14 @@
       "title": "Accuracy and Scalability of Machine Learning Methods for Genotype-Phenotype Association Data",
       "year": 2025,
       "doi": "10.1101/2025.02.13.638022",
-      "openAccessUrl": "https://doi.org/10.1101/2025.02.13.638022"
+      "openAccessUrl": "https://doi.org/10.1101/2025.02.13.638022",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/169808293",
@@ -16,7 +23,14 @@
       "year": 2025,
       "venue": "Systematic Biology",
       "doi": "10.1093/sysbio/syae058",
-      "openAccessUrl": "https://doi.org/10.1093/sysbio/syae058"
+      "openAccessUrl": "https://doi.org/10.1093/sysbio/syae058",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/173521729",
@@ -24,7 +38,14 @@
       "year": 2024,
       "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
       "doi": "10.1109/TCBB.2024.3457875",
-      "openAccessUrl": "https://doi.org/10.1109/TCBB.2024.3457875"
+      "openAccessUrl": "https://doi.org/10.1109/TCBB.2024.3457875",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/165949594",
@@ -32,14 +53,28 @@
       "year": 2024,
       "venue": "Bioinformatics",
       "doi": "10.1093/bioinformatics/btae514",
-      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btae514"
+      "openAccessUrl": "https://doi.org/10.1093/bioinformatics/btae514",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/163769103",
       "title": "Filtering for highly variable genes and high quality spots improves phylogenetic analysis of cancer spatial transcriptomics Visium data",
       "year": 2024,
       "doi": "10.1101/2024.07.11.603166",
-      "openAccessUrl": "https://doi.org/10.1101/2024.07.11.603166"
+      "openAccessUrl": "https://doi.org/10.1101/2024.07.11.603166",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/152047917",
@@ -47,42 +82,84 @@
       "year": 2024,
       "venue": "Bulletin of Mathematical Biology",
       "doi": "10.1007/s11538-023-01244-2",
-      "openAccessUrl": "https://doi.org/10.1007/s11538-023-01244-2"
+      "openAccessUrl": "https://doi.org/10.1007/s11538-023-01244-2",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/154167294",
       "title": "Accurate Bayesian phylogenetic point estimation using a tree distribution parameterized by clade probabilities",
       "year": 2024,
       "doi": "10.1101/2024.02.20.581316",
-      "openAccessUrl": "https://doi.org/10.1101/2024.02.20.581316"
+      "openAccessUrl": "https://doi.org/10.1101/2024.02.20.581316",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/152959397",
       "title": "The Fossilised Birth-Death Model is Identifiable",
       "year": 2024,
       "doi": "10.1101/2024.02.08.579547",
-      "openAccessUrl": "https://doi.org/10.1101/2024.02.08.579547"
+      "openAccessUrl": "https://doi.org/10.1101/2024.02.08.579547",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/140428012",
       "title": "An automated convergence diagnostic for phylogenetic MCMC analyses",
       "year": 2023,
       "doi": "10.1101/2023.08.10.552869",
-      "openAccessUrl": "https://doi.org/10.1101/2023.08.10.552869"
+      "openAccessUrl": "https://doi.org/10.1101/2023.08.10.552869",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/135333147",
       "title": "Ranked Subtree Prune and Regraft",
       "year": 2023,
       "doi": "10.1101/2023.05.16.541039",
-      "openAccessUrl": "https://doi.org/10.1101/2023.05.16.541039"
+      "openAccessUrl": "https://doi.org/10.1101/2023.05.16.541039",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/134762889",
       "title": "Estimating the mean in the space of ranked phylogenetic trees",
       "year": 2023,
       "doi": "10.1101/2023.05.08.539790",
-      "openAccessUrl": "https://doi.org/10.1101/2023.05.08.539790"
+      "openAccessUrl": "https://doi.org/10.1101/2023.05.08.539790",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/125465784",
@@ -90,7 +167,14 @@
       "year": 2023,
       "venue": "Journal of Computational Biology",
       "doi": "10.1089/cmb.2022.0357",
-      "openAccessUrl": "https://doi.org/10.1089/cmb.2022.0357"
+      "openAccessUrl": "https://doi.org/10.1089/cmb.2022.0357",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/125524192",
@@ -98,7 +182,14 @@
       "year": 2022,
       "venue": "PLOS Computational Biology",
       "doi": "10.1371/journal.pcbi.1010730",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1010730"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1010730",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/116895182",
@@ -106,28 +197,56 @@
       "year": 2022,
       "venue": "Molecular Biology and Evolution",
       "doi": "10.1093/molbev/msac143",
-      "openAccessUrl": "https://doi.org/10.1093/molbev/msac143"
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msac143",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/115643722",
       "title": "SNVformer: An Attention-based Deep Neural Network for GWAS Data",
       "year": 2022,
       "doi": "10.1101/2022.07.07.499217",
-      "openAccessUrl": "https://doi.org/10.1101/2022.07.07.499217"
+      "openAccessUrl": "https://doi.org/10.1101/2022.07.07.499217",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/112571604",
       "title": "Online Bayesian Analysis with BEAST 2",
       "year": 2022,
       "doi": "10.1101/2022.05.03.490538",
-      "openAccessUrl": "https://doi.org/10.1101/2022.05.03.490538"
+      "openAccessUrl": "https://doi.org/10.1101/2022.05.03.490538",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/104767459",
       "title": "A Fast Lasso-Based Method for Inferring Higher-Order Interactions",
       "year": 2021,
       "doi": "10.1101/2021.12.13.471844",
-      "openAccessUrl": "https://doi.org/10.1101/2021.12.13.471844"
+      "openAccessUrl": "https://doi.org/10.1101/2021.12.13.471844",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/102655358",
@@ -135,7 +254,14 @@
       "year": 2021,
       "venue": "Journal of Mathematical Biology",
       "doi": "10.1007/s00285-021-01685-0",
-      "openAccessUrl": "https://doi.org/10.1007/s00285-021-01685-0"
+      "openAccessUrl": "https://doi.org/10.1007/s00285-021-01685-0",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/96929241",
@@ -143,28 +269,56 @@
       "year": 2021,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0254491",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0254491"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0254491",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/113329107",
       "title": "Accounting for errors in data improves timing in single-cell cancer evolution",
       "year": 2021,
       "doi": "10.1101/2021.03.17.435906",
-      "openAccessUrl": "https://doi.org/10.1101/2021.03.17.435906"
+      "openAccessUrl": "https://doi.org/10.1101/2021.03.17.435906",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/87833763",
       "title": "A Fast Lasso-Based Method for Inferring Pairwise Interactions",
       "year": 2021,
       "doi": "10.1101/2021.01.28.428698",
-      "openAccessUrl": "https://doi.org/10.1101/2021.01.28.428698"
+      "openAccessUrl": "https://doi.org/10.1101/2021.01.28.428698",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/86536913",
       "title": "Testing for phylogenetic signal in single-cell RNA-seq data",
       "year": 2021,
       "doi": "10.1101/2021.01.07.425804",
-      "openAccessUrl": "https://doi.org/10.1101/2021.01.07.425804"
+      "openAccessUrl": "https://doi.org/10.1101/2021.01.07.425804",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/87454903",
@@ -172,21 +326,42 @@
       "year": 2021,
       "venue": "Journal of Mathematical Biology",
       "doi": "10.1007/s00285-021-01567-5",
-      "openAccessUrl": "https://doi.org/10.1007/s00285-021-01567-5"
+      "openAccessUrl": "https://doi.org/10.1007/s00285-021-01567-5",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/79329321",
       "title": "Learning epistatic gene interactions from perturbation screens",
       "year": 2020,
       "doi": "10.1101/2020.08.24.264713",
-      "openAccessUrl": "https://doi.org/10.1101/2020.08.24.264713"
+      "openAccessUrl": "https://doi.org/10.1101/2020.08.24.264713",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/66369931",
       "title": "Geometry of Ranked Nearest Neighbour Interchange Space of Phylogenetic Trees",
       "year": 2019,
       "doi": "10.1101/2019.12.19.883603",
-      "openAccessUrl": "https://doi.org/10.1101/2019.12.19.883603"
+      "openAccessUrl": "https://doi.org/10.1101/2019.12.19.883603",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/52634797",
@@ -194,7 +369,14 @@
       "year": 2018,
       "venue": "Nextjournal",
       "doi": "10.33016/nextjournal.csi.KV6mmQ6tbdA4EeLceHkXS",
-      "openAccessUrl": "https://doi.org/10.33016/nextjournal.csi.KV6mmQ6tbdA4EeLceHkXS"
+      "openAccessUrl": "https://doi.org/10.33016/nextjournal.csi.KV6mmQ6tbdA4EeLceHkXS",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/44411280",
@@ -202,7 +384,14 @@
       "year": 2018,
       "venue": "Journal of Mathematical Biology",
       "doi": "10.1007/s00285-018-1237-7",
-      "openAccessUrl": "https://doi.org/10.1007/s00285-018-1237-7"
+      "openAccessUrl": "https://doi.org/10.1007/s00285-018-1237-7",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/35597579",
@@ -210,7 +399,14 @@
       "year": 2018,
       "venue": "Journal of Mathematical Biology",
       "doi": "10.1007/s00285-017-1167-9",
-      "openAccessUrl": "https://doi.org/10.1007/s00285-017-1167-9"
+      "openAccessUrl": "https://doi.org/10.1007/s00285-017-1167-9",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/57830062",
@@ -218,7 +414,14 @@
       "year": 2018,
       "venue": "Proceedings of the National Academy of Sciences",
       "doi": "10.1073/pnas.1809349115",
-      "openAccessUrl": "https://doi.org/10.1073/pnas.1809349115"
+      "openAccessUrl": "https://doi.org/10.1073/pnas.1809349115",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/39795276",
@@ -226,21 +429,42 @@
       "year": 2017,
       "venue": "eLife",
       "doi": "10.7554/eLife.28629",
-      "openAccessUrl": "https://doi.org/10.7554/eLife.28629"
+      "openAccessUrl": "https://doi.org/10.7554/eLife.28629",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/39771613",
       "title": "High-dimensional microbiome interactions shape host fitness",
       "year": 2017,
       "doi": "10.1101/232959",
-      "openAccessUrl": "https://doi.org/10.1101/232959"
+      "openAccessUrl": "https://doi.org/10.1101/232959",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/36274587",
       "title": "The Geometry of Partial Fitness Orders and an Efficient Method for Detecting Genetic Interactions",
       "year": 2017,
       "doi": "10.1101/180976",
-      "openAccessUrl": "https://doi.org/10.1101/180976"
+      "openAccessUrl": "https://doi.org/10.1101/180976",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/32761058",
@@ -248,28 +472,56 @@
       "year": 2017,
       "venue": "Journal of Logical and Algebraic Methods in Programming",
       "doi": "10.1016/j.jlamp.2017.01.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jlamp.2017.01.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jlamp.2017.01.004",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/32760444",
       "title": "Inferring Genetic Interactions From Comparative Fitness Data",
       "year": 2017,
       "doi": "10.1101/137372",
-      "openAccessUrl": "https://doi.org/10.1101/137372"
+      "openAccessUrl": "https://doi.org/10.1101/137372",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/90853292",
       "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
       "year": 2016,
       "doi": "10.1101/092205",
-      "openAccessUrl": "https://doi.org/10.1101/092205"
+      "openAccessUrl": "https://doi.org/10.1101/092205",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736385",
       "title": "The combinatorics of discrete time-trees: theory and open problems",
       "year": 2016,
       "doi": "10.1101/063362",
-      "openAccessUrl": "https://doi.org/10.1101/063362"
+      "openAccessUrl": "https://doi.org/10.1101/063362",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/32761057",
@@ -277,7 +529,14 @@
       "year": 2016,
       "venue": "Algorithmica",
       "doi": "10.1007/s00453-016-0148-5",
-      "openAccessUrl": "https://doi.org/10.1007/s00453-016-0148-5"
+      "openAccessUrl": "https://doi.org/10.1007/s00453-016-0148-5",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736530",
@@ -285,7 +544,14 @@
       "year": 2016,
       "venue": "Theoretical Computer Science",
       "doi": "10.1016/j.tcs.2015.11.042",
-      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2015.11.042"
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2015.11.042",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736528",
@@ -293,7 +559,14 @@
       "year": 2016,
       "venue": "Geophysical Research Letters",
       "doi": "10.1002/2016GL069374",
-      "openAccessUrl": "https://doi.org/10.1002/2016GL069374"
+      "openAccessUrl": "https://doi.org/10.1002/2016GL069374",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/32761060",
@@ -301,14 +574,28 @@
       "year": 2016,
       "venue": "Geophysical Research Letters",
       "doi": "10.1002/2016gl069374",
-      "openAccessUrl": "https://doi.org/10.1002/2016gl069374"
+      "openAccessUrl": "https://doi.org/10.1002/2016gl069374",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/32761059",
       "title": "THE SPACE OF SAMPLED ANCESTOR TREES",
       "year": 2016,
       "doi": "10.1130/abs/2016am-278339",
-      "openAccessUrl": "https://doi.org/10.1130/abs/2016am-278339"
+      "openAccessUrl": "https://doi.org/10.1130/abs/2016am-278339",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736518",
@@ -316,7 +603,14 @@
       "year": 2016,
       "venue": "Journal of Theoretical Biology",
       "doi": "10.1016/j.jtbi.2016.05.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.jtbi.2016.05.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.jtbi.2016.05.001",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736526",
@@ -324,7 +618,14 @@
       "year": 2016,
       "venue": "Crystal Growth and Design",
       "doi": "10.1021/acs.cgd.5b01793",
-      "openAccessUrl": "https://doi.org/10.1021/acs.cgd.5b01793"
+      "openAccessUrl": "https://doi.org/10.1021/acs.cgd.5b01793",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736516",
@@ -332,7 +633,14 @@
       "year": 2015,
       "venue": "Lobachevskii Journal of Mathematics",
       "doi": "10.1134/S1995080215040198",
-      "openAccessUrl": "https://doi.org/10.1134/S1995080215040198"
+      "openAccessUrl": "https://doi.org/10.1134/S1995080215040198",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736519",
@@ -340,7 +648,14 @@
       "year": 2015,
       "venue": "Theoretical Computer Science",
       "doi": "10.1016/j.tcs.2014.09.046",
-      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2014.09.046"
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2014.09.046",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736527",
@@ -348,7 +663,14 @@
       "year": 2015,
       "venue": "Proceedings of the Royal Society B: Biological Sciences",
       "doi": "10.1098/rspb.2015.0420",
-      "openAccessUrl": "https://doi.org/10.1098/rspb.2015.0420"
+      "openAccessUrl": "https://doi.org/10.1098/rspb.2015.0420",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736517",
@@ -356,7 +678,14 @@
       "year": 2015,
       "venue": "Journal of Applied Crystallography",
       "doi": "10.1107/S1600576715005488",
-      "openAccessUrl": "https://doi.org/10.1107/S1600576715005488"
+      "openAccessUrl": "https://doi.org/10.1107/S1600576715005488",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/32761055",
@@ -364,7 +693,14 @@
       "year": 2015,
       "venue": "Journal of Applied Crystallography",
       "doi": "10.1107/s1600576715005488",
-      "openAccessUrl": "https://doi.org/10.1107/s1600576715005488"
+      "openAccessUrl": "https://doi.org/10.1107/s1600576715005488",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736520",
@@ -372,7 +708,14 @@
       "year": 2014,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-13075-0_19",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-13075-0_19"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-13075-0_19",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736529",
@@ -380,7 +723,14 @@
       "year": 2014,
       "venue": "Annals of Pure and Applied Logic",
       "doi": "10.1016/j.apal.2014.04.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.apal.2014.04.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.apal.2014.04.001",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736523",
@@ -388,7 +738,14 @@
       "year": 2014,
       "venue": "Lobachevskii Journal of Mathematics",
       "doi": "10.1134/S1995080214040179",
-      "openAccessUrl": "https://doi.org/10.1134/S1995080214040179"
+      "openAccessUrl": "https://doi.org/10.1134/S1995080214040179",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736521",
@@ -396,7 +753,14 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-45278-9_16",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-45278-9_16"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-45278-9_16",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736522",
@@ -404,7 +768,14 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-39053-1_23",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39053-1_23"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39053-1_23",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736515",
@@ -412,7 +783,14 @@
       "year": 2012,
       "venue": "Journal of Logic and Computation",
       "doi": "10.1093/logcom/exq043",
-      "openAccessUrl": "https://doi.org/10.1093/logcom/exq043"
+      "openAccessUrl": "https://doi.org/10.1093/logcom/exq043",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736524",
@@ -420,7 +798,14 @@
       "year": 2007,
       "venue": "Algebra and Logic",
       "doi": "10.1007/s10469-007-0014-2",
-      "openAccessUrl": "https://doi.org/10.1007/s10469-007-0014-2"
+      "openAccessUrl": "https://doi.org/10.1007/s10469-007-0014-2",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-6299-8249/work/27736525",
@@ -428,7 +813,14 @@
       "year": 2006,
       "venue": "Algebra and Logic",
       "doi": "10.1007/s10469-006-0027-2",
-      "openAccessUrl": "https://doi.org/10.1007/s10469-006-0027-2"
+      "openAccessUrl": "https://doi.org/10.1007/s10469-006-0027-2",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "position": 1
+        }
+      ]
     }
   ]
 }

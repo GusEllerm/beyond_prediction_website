@@ -4,5 +4,148 @@
   "year": 2024,
   "venue": "Nature Genetics",
   "doi": "10.1038/s41588-023-01642-1",
-  "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/11229440"
+  "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/11229440",
+  "authors": [
+    {
+      "name": "Gareth Baynam",
+      "orcidId": "0000-0003-4920-9553",
+      "openAlexId": "https://openalex.org/A5089939981",
+      "position": 1
+    },
+    {
+      "name": "Daria Julkowska",
+      "orcidId": "0000-0002-7886-9529",
+      "openAlexId": "https://openalex.org/A5028172563",
+      "position": 2
+    },
+    {
+      "name": "Sarah Bowdin",
+      "orcidId": "0000-0001-8477-2670",
+      "openAlexId": "https://openalex.org/A5083807425",
+      "position": 3
+    },
+    {
+      "name": "Azure Hermes",
+      "orcidId": "0000-0001-9142-2580",
+      "openAlexId": "https://openalex.org/A5067740929",
+      "position": 4
+    },
+    {
+      "name": "Christopher R. McMaster",
+      "orcidId": "0000-0003-0822-5776",
+      "openAlexId": "https://openalex.org/A5045631153",
+      "position": 5
+    },
+    {
+      "name": "Elissa Prichep",
+      "openAlexId": "https://openalex.org/A5075646774",
+      "position": 6
+    },
+    {
+      "name": "Étienne Richer",
+      "orcidId": "0000-0002-5814-5777",
+      "openAlexId": "https://openalex.org/A5086236800",
+      "position": 7
+    },
+    {
+      "name": "Francois H. van der Westhuizen",
+      "orcidId": "0000-0002-7879-1776",
+      "openAlexId": "https://openalex.org/A5043877858",
+      "position": 8
+    },
+    {
+      "name": "Gabriela M. Repetto",
+      "orcidId": "0000-0003-0120-5684",
+      "openAlexId": "https://openalex.org/A5050039587",
+      "position": 9
+    },
+    {
+      "name": "Helen Malherbe",
+      "orcidId": "0000-0002-9566-6248",
+      "openAlexId": "https://openalex.org/A5007252496",
+      "position": 10
+    },
+    {
+      "name": "Juergen Reichardt",
+      "orcidId": "0000-0001-6458-2773",
+      "openAlexId": "https://openalex.org/A5048990711",
+      "position": 11
+    },
+    {
+      "name": "Laura Arbour",
+      "orcidId": "0000-0002-9589-0880",
+      "openAlexId": "https://openalex.org/A5056248728",
+      "position": 12
+    },
+    {
+      "name": "Māui Hudson",
+      "orcidId": "0000-0003-3880-4015",
+      "openAlexId": "https://openalex.org/A5018449054",
+      "position": 13
+    },
+    {
+      "name": "Kelly du Plessis",
+      "openAlexId": "https://openalex.org/A5049387927",
+      "position": 14
+    },
+    {
+      "name": "Melissa Haendel",
+      "orcidId": "0000-0001-9114-8737",
+      "openAlexId": "https://openalex.org/A5064320417",
+      "position": 15
+    },
+    {
+      "name": "Phillip Wilcox",
+      "openAlexId": "https://openalex.org/A5073337272",
+      "position": 16
+    },
+    {
+      "name": "Sally Ann Lynch",
+      "orcidId": "0000-0003-3540-1333",
+      "openAlexId": "https://openalex.org/A5082143264",
+      "position": 17
+    },
+    {
+      "name": "Shamir Rind",
+      "openAlexId": "https://openalex.org/A5045318890",
+      "position": 18
+    },
+    {
+      "name": "Simon Easteal",
+      "openAlexId": "https://openalex.org/A5089288323",
+      "position": 19
+    },
+    {
+      "name": "Xavier Estivill",
+      "orcidId": "0000-0002-0723-2256",
+      "openAlexId": "https://openalex.org/A5031153935",
+      "position": 20
+    },
+    {
+      "name": "Nadine R. Caron",
+      "openAlexId": "https://openalex.org/A5056196322",
+      "position": 21
+    },
+    {
+      "name": "Meck Chongo",
+      "openAlexId": "https://openalex.org/A5027368264",
+      "position": 22
+    },
+    {
+      "name": "Yarlalu Thomas",
+      "openAlexId": "https://openalex.org/A5079699606",
+      "position": 23
+    },
+    {
+      "name": "Mary Catherine V. Letinturier",
+      "orcidId": "0000-0003-4387-6312",
+      "openAlexId": "https://openalex.org/A5092567566",
+      "position": 24
+    },
+    {
+      "name": "Barend Christiaan Vorster",
+      "openAlexId": "https://openalex.org/A5027659841",
+      "position": 25
+    }
+  ]
 }

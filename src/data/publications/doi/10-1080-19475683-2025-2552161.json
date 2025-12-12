@@ -4,5 +4,102 @@
   "year": 2025,
   "venue": "Annals of GIS",
   "doi": "10.1080/19475683.2025.2552161",
-  "openAccessUrl": "https://doi.org/10.1080/19475683.2025.2552161"
+  "openAccessUrl": "https://doi.org/10.1080/19475683.2025.2552161",
+  "authors": [
+    {
+      "name": "Zhenlong Li",
+      "orcidId": "0000-0002-8938-5466",
+      "openAlexId": "https://openalex.org/A5073915674",
+      "position": 1
+    },
+    {
+      "name": "Huan Ning",
+      "orcidId": "0000-0003-3698-3240",
+      "openAlexId": "https://openalex.org/A5048472635",
+      "position": 2
+    },
+    {
+      "name": "Song Gao",
+      "orcidId": "0000-0003-4359-6302",
+      "openAlexId": "https://openalex.org/A5101938899",
+      "position": 3
+    },
+    {
+      "name": "Krzysztof Janowicz",
+      "openAlexId": "https://openalex.org/A5110930512",
+      "position": 4
+    },
+    {
+      "name": "Wenwen Li",
+      "orcidId": "0000-0003-2237-9499",
+      "openAlexId": "https://openalex.org/A5100338179",
+      "position": 5
+    },
+    {
+      "name": "Samantha T. Arundel",
+      "orcidId": "0000-0002-4863-0138",
+      "openAlexId": "https://openalex.org/A5070313758",
+      "position": 6
+    },
+    {
+      "name": "Chaowei Yang",
+      "orcidId": "0000-0001-7768-4066",
+      "openAlexId": "https://openalex.org/A5048422487",
+      "position": 7
+    },
+    {
+      "name": "Budhendra Bhaduri",
+      "orcidId": "0000-0003-1555-1377",
+      "openAlexId": "https://openalex.org/A5104505028",
+      "position": 8
+    },
+    {
+      "name": "Shaowen Wang",
+      "orcidId": "0009-0005-9912-6475",
+      "openAlexId": "https://openalex.org/A5068455358",
+      "position": 9
+    },
+    {
+      "name": "Zhu Axing",
+      "orcidId": "0000-0001-6531-5976",
+      "openAlexId": "https://openalex.org/A5103068295",
+      "position": 10
+    },
+    {
+      "name": "Mark Gahegan",
+      "orcidId": "0000-0001-7209-8156",
+      "openAlexId": "https://openalex.org/A5069438601",
+      "position": 11
+    },
+    {
+      "name": "Shashi Shekhar",
+      "orcidId": "0000-0002-3191-3879",
+      "openAlexId": "https://openalex.org/A5102940260",
+      "position": 12
+    },
+    {
+      "name": "Xinyue Ye",
+      "orcidId": "0000-0001-8838-9476",
+      "openAlexId": "https://openalex.org/A5088393129",
+      "position": 13
+    },
+    {
+      "name": "Grant McKenzie",
+      "orcidId": "0000-0003-3247-2777",
+      "openAlexId": "https://openalex.org/A5067070198",
+      "position": 14
+    },
+    {
+      "name": "Guido Cervone",
+      "orcidId": "0000-0002-6509-0735",
+      "openAlexId": "https://openalex.org/A5011362394",
+      "position": 15
+    },
+    {
+      "name": "Michael E. Hodgson",
+      "orcidId": "0000-0002-1800-5833",
+      "openAlexId": "https://openalex.org/A5071778860",
+      "position": 16
+    }
+  ]
 }

@@ -4,5 +4,240 @@
   "year": 2022,
   "venue": "Science",
   "doi": "10.1126/science.abk0853",
-  "openAccessUrl": "https://research.rug.nl/en/publications/2fa29876-9603-441d-b308-cb65bea4ee9f"
+  "openAccessUrl": "https://research.rug.nl/en/publications/2fa29876-9603-441d-b308-cb65bea4ee9f",
+  "authors": [
+    {
+      "name": "Timothée Bonnet",
+      "orcidId": "0000-0001-7186-5288",
+      "openAlexId": "https://openalex.org/A5045105200",
+      "position": 1
+    },
+    {
+      "name": "Michael B. Morrissey",
+      "orcidId": "0000-0001-6209-0177",
+      "openAlexId": "https://openalex.org/A5026052208",
+      "position": 2
+    },
+    {
+      "name": "Pierre de Villemereuil",
+      "orcidId": "0000-0002-8791-6104",
+      "openAlexId": "https://openalex.org/A5005209578",
+      "position": 3
+    },
+    {
+      "name": "Susan C. Alberts",
+      "openAlexId": "https://openalex.org/A5007247836",
+      "position": 4
+    },
+    {
+      "name": "Peter Arcese",
+      "openAlexId": "https://openalex.org/A5067452386",
+      "position": 5
+    },
+    {
+      "name": "Liam D. Bailey",
+      "orcidId": "0000-0002-8226-9454",
+      "openAlexId": "https://openalex.org/A5002814936",
+      "position": 6
+    },
+    {
+      "name": "Stan Boutin",
+      "openAlexId": "https://openalex.org/A5090240700",
+      "position": 7
+    },
+    {
+      "name": "Patricia Brekke",
+      "orcidId": "0000-0001-6298-3194",
+      "openAlexId": "https://openalex.org/A5010185199",
+      "position": 8
+    },
+    {
+      "name": "Lauren J. N. Brent",
+      "orcidId": "0000-0002-1202-1939",
+      "openAlexId": "https://openalex.org/A5005475843",
+      "position": 9
+    },
+    {
+      "name": "Glauco Camenisch",
+      "openAlexId": "https://openalex.org/A5073759077",
+      "position": 10
+    },
+    {
+      "name": "Anne Charmantier",
+      "orcidId": "0000-0002-0691-2647",
+      "openAlexId": "https://openalex.org/A5000375110",
+      "position": 11
+    },
+    {
+      "name": "Tim Clutton‐Brock",
+      "orcidId": "0000-0001-8110-8969",
+      "openAlexId": "https://openalex.org/A5062187486",
+      "position": 12
+    },
+    {
+      "name": "Andrew Cockburn",
+      "orcidId": "0000-0002-8531-3350",
+      "openAlexId": "https://openalex.org/A5002033837",
+      "position": 13
+    },
+    {
+      "name": "David W. Coltman",
+      "orcidId": "0000-0002-1268-2307",
+      "openAlexId": "https://openalex.org/A5045705073",
+      "position": 14
+    },
+    {
+      "name": "Alexandre Courtiol",
+      "orcidId": "0000-0003-0637-2959",
+      "openAlexId": "https://openalex.org/A5020254776",
+      "position": 15
+    },
+    {
+      "name": "Eve Davidian",
+      "orcidId": "0000-0001-9437-0720",
+      "openAlexId": "https://openalex.org/A5091392199",
+      "position": 16
+    },
+    {
+      "name": "Simon Evans",
+      "orcidId": "0000-0001-5812-4039",
+      "openAlexId": "https://openalex.org/A5003871871",
+      "position": 17
+    },
+    {
+      "name": "John G. Ewen",
+      "orcidId": "0000-0001-6402-1378",
+      "openAlexId": "https://openalex.org/A5014012971",
+      "position": 18
+    },
+    {
+      "name": "Marco Festa‐Bianchet",
+      "orcidId": "0000-0002-2352-3379",
+      "openAlexId": "https://openalex.org/A5040983009",
+      "position": 19
+    },
+    {
+      "name": "Christophe de Franceschi",
+      "orcidId": "0000-0001-7129-4489",
+      "openAlexId": "https://openalex.org/A5019016669",
+      "position": 20
+    },
+    {
+      "name": "Lars Gustafsson",
+      "orcidId": "0000-0001-6566-2863",
+      "openAlexId": "https://openalex.org/A5080456600",
+      "position": 21
+    },
+    {
+      "name": "Oliver P. Höner",
+      "orcidId": "0000-0002-0658-3417",
+      "openAlexId": "https://openalex.org/A5066748630",
+      "position": 22
+    },
+    {
+      "name": "Thomas M. Houslay",
+      "orcidId": "0000-0001-5592-9034",
+      "openAlexId": "https://openalex.org/A5022667948",
+      "position": 23
+    },
+    {
+      "name": "Lukas F. Keller",
+      "orcidId": "0000-0002-0149-0174",
+      "openAlexId": "https://openalex.org/A5073324355",
+      "position": 24
+    },
+    {
+      "name": "Marta B. Manser",
+      "orcidId": "0000-0001-8787-5667",
+      "openAlexId": "https://openalex.org/A5027752669",
+      "position": 25
+    },
+    {
+      "name": "Andrew G. McAdam",
+      "orcidId": "0000-0001-7323-2572",
+      "openAlexId": "https://openalex.org/A5045112431",
+      "position": 26
+    },
+    {
+      "name": "Emily M. McLean",
+      "openAlexId": "https://openalex.org/A5029402102",
+      "position": 27
+    },
+    {
+      "name": "Pirmin Nietlisbach",
+      "orcidId": "0000-0002-6224-2246",
+      "openAlexId": "https://openalex.org/A5024343962",
+      "position": 28
+    },
+    {
+      "name": "Helen L. Osmond",
+      "openAlexId": "https://openalex.org/A5057126208",
+      "position": 29
+    },
+    {
+      "name": "Josephine M. Pemberton",
+      "orcidId": "0000-0002-0075-1504",
+      "openAlexId": "https://openalex.org/A5042121734",
+      "position": 30
+    },
+    {
+      "name": "Erik Postma",
+      "orcidId": "0000-0003-0856-1294",
+      "openAlexId": "https://openalex.org/A5075222381",
+      "position": 31
+    },
+    {
+      "name": "Jane M. Reid",
+      "orcidId": "0000-0002-5007-7343",
+      "openAlexId": "https://openalex.org/A5029567322",
+      "position": 32
+    },
+    {
+      "name": "Alexis Rutschmann",
+      "orcidId": "0000-0002-3654-5606",
+      "openAlexId": "https://openalex.org/A5091169410",
+      "position": 33
+    },
+    {
+      "name": "Anna W. Santure",
+      "orcidId": "0000-0001-8965-1042",
+      "openAlexId": "https://openalex.org/A5079336422",
+      "position": 34
+    },
+    {
+      "name": "Ben C. Sheldon",
+      "orcidId": "0000-0002-5240-7828",
+      "openAlexId": "https://openalex.org/A5009802656",
+      "position": 35
+    },
+    {
+      "name": "Jon Slate",
+      "orcidId": "0000-0003-3356-5123",
+      "openAlexId": "https://openalex.org/A5002256941",
+      "position": 36
+    },
+    {
+      "name": "Céline Teplitsky",
+      "openAlexId": "https://openalex.org/A5008428501",
+      "position": 37
+    },
+    {
+      "name": "Marcel E. Visser",
+      "orcidId": "0000-0002-1456-1939",
+      "openAlexId": "https://openalex.org/A5032307503",
+      "position": 38
+    },
+    {
+      "name": "Bettina Wachter",
+      "orcidId": "0000-0002-0414-2298",
+      "openAlexId": "https://openalex.org/A5072259439",
+      "position": 39
+    },
+    {
+      "name": "Loeske E. B. Kruuk",
+      "orcidId": "0000-0001-8588-1123",
+      "openAlexId": "https://openalex.org/A5034616536",
+      "position": 40
+    }
+  ]
 }

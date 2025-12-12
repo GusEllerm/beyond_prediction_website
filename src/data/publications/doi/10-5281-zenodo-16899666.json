@@ -4,5 +4,22 @@
   "year": 2025,
   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
   "doi": "10.5281/zenodo.16899666",
-  "openAccessUrl": "https://doi.org/10.5281/zenodo.16899666"
+  "openAccessUrl": "https://doi.org/10.5281/zenodo.16899666",
+  "authors": [
+    {
+      "name": "Ellerm, Augustus",
+      "openAlexId": null,
+      "position": 1
+    },
+    {
+      "name": "Adams, Benjamin",
+      "openAlexId": "https://openalex.org/A2754110200",
+      "position": 2
+    },
+    {
+      "name": "Gahegan Mark",
+      "openAlexId": "https://openalex.org/A2224206007",
+      "position": 3
+    }
+  ]
 }

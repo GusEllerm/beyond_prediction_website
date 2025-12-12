@@ -4,5 +4,41 @@
   "year": 2023,
   "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
   "doi": "10.1111/brv.12958",
-  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12958"
+  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12958",
+  "authors": [
+    {
+      "name": "Robert J. Rolls",
+      "openAlexId": "https://openalex.org/A5017137554",
+      "position": 1
+    },
+    {
+      "name": "David C. Deane",
+      "openAlexId": "https://openalex.org/A5008952758",
+      "position": 2
+    },
+    {
+      "name": "Sarah E. Johnson",
+      "orcidId": "0000-0001-6623-0982",
+      "openAlexId": "https://openalex.org/A5102891772",
+      "position": 3
+    },
+    {
+      "name": "Jani Heino",
+      "orcidId": "0000-0003-1235-6613",
+      "openAlexId": "https://openalex.org/A5080715665",
+      "position": 4
+    },
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 5
+    },
+    {
+      "name": "Kari E. Ellingsen",
+      "orcidId": "0000-0002-2321-8278",
+      "openAlexId": "https://openalex.org/A5064767338",
+      "position": 6
+    }
+  ]
 }

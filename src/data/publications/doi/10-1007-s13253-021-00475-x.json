@@ -4,5 +4,25 @@
   "year": 2021,
   "venue": "Journal of Agricultural Biological and Environmental Statistics",
   "doi": "10.1007/s13253-021-00475-x",
-  "openAccessUrl": "https://doi.org/10.1007/s13253-021-00475-x"
+  "openAccessUrl": "https://doi.org/10.1007/s13253-021-00475-x",
+  "authors": [
+    {
+      "name": "Nurudeen A. Adegoke",
+      "orcidId": "0000-0001-7592-5460",
+      "openAlexId": "https://openalex.org/A5054091828",
+      "position": 1
+    },
+    {
+      "name": "Andrew J. Punnett",
+      "orcidId": "0000-0002-6733-4123",
+      "openAlexId": "https://openalex.org/A5029189832",
+      "position": 2
+    },
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 3
+    }
+  ]
 }

@@ -4,5 +4,43 @@
   "year": 2025,
   "venue": "PLoS Computational Biology",
   "doi": "10.1371/journal.pcbi.1012789",
-  "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1012789"
+  "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1012789",
+  "authors": [
+    {
+      "name": "Lars Berling",
+      "orcidId": "0000-0002-1303-0669",
+      "openAlexId": "https://openalex.org/A5091919866",
+      "position": 1
+    },
+    {
+      "name": "Jonathan Klawitter",
+      "orcidId": "0000-0001-8917-5269",
+      "openAlexId": "https://openalex.org/A5077181010",
+      "position": 2
+    },
+    {
+      "name": "Remco Bouckaert",
+      "orcidId": "0000-0001-6765-3813",
+      "openAlexId": "https://openalex.org/A5027519870",
+      "position": 3
+    },
+    {
+      "name": "Dong Xie",
+      "orcidId": "0000-0003-0878-3380",
+      "openAlexId": "https://openalex.org/A5002673153",
+      "position": 4
+    },
+    {
+      "name": "Alexei J. Drummond",
+      "orcidId": "0000-0003-4454-2576",
+      "openAlexId": "https://openalex.org/A5079724732",
+      "position": 5
+    },
+    {
+      "name": "Alexei J. Drummond",
+      "orcidId": "0000-0003-4454-2576",
+      "openAlexId": "https://openalex.org/A5079724732",
+      "position": 6
+    }
+  ]
 }

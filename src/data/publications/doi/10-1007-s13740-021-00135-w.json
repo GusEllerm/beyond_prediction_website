@@ -4,5 +4,24 @@
   "year": 2021,
   "venue": "Journal on Data Semantics",
   "doi": "10.1007/s13740-021-00135-w",
-  "openAccessUrl": "https://doi.org/10.1007/s13740-021-00135-w"
+  "openAccessUrl": "https://doi.org/10.1007/s13740-021-00135-w",
+  "authors": [
+    {
+      "name": "Henning Köehler",
+      "openAlexId": "https://openalex.org/A5006183138",
+      "position": 1
+    },
+    {
+      "name": "Van Lam Le",
+      "orcidId": "0000-0002-4250-3349",
+      "openAlexId": "https://openalex.org/A5111028361",
+      "position": 2
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 3
+    }
+  ]
 }

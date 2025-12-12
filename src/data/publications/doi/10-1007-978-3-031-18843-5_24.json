@@ -4,5 +4,24 @@
   "year": 2022,
   "venue": "Lecture notes in computer science",
   "doi": "10.1007/978-3-031-18843-5_24",
-  "openAccessUrl": "https://doi.org/10.1007/978-3-031-18843-5_24"
+  "openAccessUrl": "https://doi.org/10.1007/978-3-031-18843-5_24",
+  "authors": [
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 1
+    },
+    {
+      "name": "Henri Prade",
+      "openAlexId": "https://openalex.org/A5109067387",
+      "position": 2
+    },
+    {
+      "name": "Gilles Richard",
+      "orcidId": "0000-0001-7062-6314",
+      "openAlexId": "https://openalex.org/A5043954025",
+      "position": 3
+    }
+  ]
 }

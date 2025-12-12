@@ -8,7 +8,20 @@
       "title": "Return of the huia? Why Māori worldviews must be part of the ‘de-extinction’ debate",
       "year": 2025,
       "doi": "https://doi.org/10.64628/aa.p7mvd7xpx",
-      "openAccessUrl": "https://doi.org/10.64628/aa.p7mvd7xpx"
+      "openAccessUrl": "https://doi.org/10.64628/aa.p7mvd7xpx",
+      "authors": [
+        {
+          "name": "Nic Rawlence",
+          "openAlexId": "https://openalex.org/A5119366100",
+          "position": 1
+        },
+        {
+          "name": "Pearce Wilcox",
+          "orcidId": "0000-0001-8485-6962",
+          "openAlexId": "https://openalex.org/A5063687930",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4408773180",
@@ -16,7 +29,133 @@
       "year": 2025,
       "venue": "Journal of the Royal Society of New Zealand",
       "doi": "https://doi.org/10.1080/03036758.2025.2469626",
-      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/03036758.2025.2469626?needAccess=true"
+      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/03036758.2025.2469626?needAccess=true",
+      "authors": [
+        {
+          "name": "Claire E. Rye",
+          "orcidId": "0000-0003-4630-7836",
+          "openAlexId": "https://openalex.org/A5030095417",
+          "position": 1
+        },
+        {
+          "name": "Huti Puketapu-Watson",
+          "openAlexId": "https://openalex.org/A5116768828",
+          "position": 2
+        },
+        {
+          "name": "Helen Wihongi",
+          "orcidId": "0000-0001-6801-6955",
+          "openAlexId": "https://openalex.org/A5007553116",
+          "position": 3
+        },
+        {
+          "name": "Ben Te Aika",
+          "openAlexId": "https://openalex.org/A5020233935",
+          "position": 4
+        },
+        {
+          "name": "Donia Macartney‐Coxson",
+          "openAlexId": "https://openalex.org/A5003630938",
+          "position": 5
+        },
+        {
+          "name": "Joep de Ligt",
+          "openAlexId": "https://openalex.org/A5072525850",
+          "position": 6
+        },
+        {
+          "name": "Cristin G. Print",
+          "orcidId": "0000-0001-8345-7812",
+          "openAlexId": "https://openalex.org/A5064023142",
+          "position": 7
+        },
+        {
+          "name": "Polona Le Quesne Stabej",
+          "orcidId": "0000-0002-9436-5857",
+          "openAlexId": "https://openalex.org/A5042334309",
+          "position": 8
+        },
+        {
+          "name": "Peter Tsai",
+          "orcidId": "0000-0002-9930-9029",
+          "openAlexId": "https://openalex.org/A5084128770",
+          "position": 9
+        },
+        {
+          "name": "Ben Curran",
+          "orcidId": "0000-0002-4048-7744",
+          "openAlexId": "https://openalex.org/A5090575909",
+          "position": 10
+        },
+        {
+          "name": "Nick S. Jones",
+          "openAlexId": "https://openalex.org/A5086511892",
+          "position": 11
+        },
+        {
+          "name": "Jun Ho Huh",
+          "orcidId": "0000-0003-2007-4018",
+          "openAlexId": "https://openalex.org/A5084089956",
+          "position": 12
+        },
+        {
+          "name": "E. Owen Perkins",
+          "openAlexId": "https://openalex.org/A5109638558",
+          "position": 13
+        },
+        {
+          "name": "Matt Pestle",
+          "openAlexId": "https://openalex.org/A5116768827",
+          "position": 14
+        },
+        {
+          "name": "Kun Zhao",
+          "orcidId": "0000-0002-4479-1102",
+          "openAlexId": "https://openalex.org/A5011517981",
+          "position": 15
+        },
+        {
+          "name": "Yuriy Halytskyy",
+          "openAlexId": "https://openalex.org/A5097009186",
+          "position": 16
+        },
+        {
+          "name": "Stephen P. Robertson",
+          "orcidId": "0000-0002-5181-7809",
+          "openAlexId": "https://openalex.org/A5022062950",
+          "position": 17
+        },
+        {
+          "name": "Benjamin J. Halliday",
+          "orcidId": "0000-0002-7330-7797",
+          "openAlexId": "https://openalex.org/A5048171895",
+          "position": 18
+        },
+        {
+          "name": "Elizabeth Goodin",
+          "orcidId": "0000-0002-5082-8231",
+          "openAlexId": "https://openalex.org/A5008032532",
+          "position": 19
+        },
+        {
+          "name": "David Markie",
+          "orcidId": "0000-0001-5452-9194",
+          "openAlexId": "https://openalex.org/A5075427129",
+          "position": 20
+        },
+        {
+          "name": "Andrew Lamont",
+          "orcidId": "0000-0002-9580-5316",
+          "openAlexId": "https://openalex.org/A5058155841",
+          "position": 21
+        },
+        {
+          "name": "Pearce Wilcox",
+          "orcidId": "0000-0001-8485-6962",
+          "openAlexId": "https://openalex.org/A5063687930",
+          "position": 22
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4403514997",
@@ -24,14 +163,116 @@
       "year": 2024,
       "venue": "Diabetologia",
       "doi": "https://doi.org/10.1007/s00125-024-06287-1",
-      "openAccessUrl": "https://doi.org/10.1007/s00125-024-06287-1"
+      "openAccessUrl": "https://doi.org/10.1007/s00125-024-06287-1",
+      "authors": [
+        {
+          "name": "Qian Wang",
+          "orcidId": "0000-0001-7432-8613",
+          "openAlexId": "https://openalex.org/A5016511225",
+          "position": 1
+        },
+        {
+          "name": "Megan Leask",
+          "orcidId": "0000-0003-3199-5277",
+          "openAlexId": "https://openalex.org/A5069893482",
+          "position": 2
+        },
+        {
+          "name": "Kate Lee",
+          "openAlexId": "https://openalex.org/A5116386821",
+          "position": 3
+        },
+        {
+          "name": "Jagdish K. Jaiswal",
+          "orcidId": "0009-0005-1296-5779",
+          "openAlexId": "https://openalex.org/A5109720872",
+          "position": 4
+        },
+        {
+          "name": "Prasanna Kallingappa",
+          "orcidId": "0000-0002-2834-6148",
+          "openAlexId": "https://openalex.org/A5015743765",
+          "position": 5
+        },
+        {
+          "name": "Waruni C. Dissanayake",
+          "orcidId": "0000-0002-0477-9619",
+          "openAlexId": "https://openalex.org/A5060181415",
+          "position": 6
+        },
+        {
+          "name": "Chris Puli’uvea",
+          "openAlexId": "https://openalex.org/A5114314385",
+          "position": 7
+        },
+        {
+          "name": "Christine A. O’Sullivan",
+          "orcidId": "0009-0001-5254-6078",
+          "openAlexId": "https://openalex.org/A5110518316",
+          "position": 8
+        },
+        {
+          "name": "Huti Watson",
+          "orcidId": "0009-0007-5055-6081",
+          "openAlexId": "https://openalex.org/A5084212029",
+          "position": 9
+        },
+        {
+          "name": "Pearce Wilcox",
+          "orcidId": "0000-0001-8485-6962",
+          "openAlexId": "https://openalex.org/A5063687930",
+          "position": 10
+        },
+        {
+          "name": "Rinki Murphy",
+          "orcidId": "0000-0002-0043-2423",
+          "openAlexId": "https://openalex.org/A5026838445",
+          "position": 11
+        },
+        {
+          "name": "Troy L. Merry",
+          "openAlexId": "https://openalex.org/A5059485160",
+          "position": 12
+        },
+        {
+          "name": "Peter R. Shepherd",
+          "orcidId": "0000-0001-9742-5811",
+          "openAlexId": "https://openalex.org/A5005007188",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4396500081",
       "title": "Safety and Tolerability of SGLT-2 Inhibitors Following Lung Transplantation",
       "year": 2024,
       "doi": "https://doi.org/10.1164/ajrccm-conference.2024.209.1_meetingabstracts.a3724",
-      "openAccessUrl": "https://doi.org/10.1164/ajrccm-conference.2024.209.1_meetingabstracts.a3724"
+      "openAccessUrl": "https://doi.org/10.1164/ajrccm-conference.2024.209.1_meetingabstracts.a3724",
+      "authors": [
+        {
+          "name": "Pearce Wilcox",
+          "orcidId": "0000-0001-8485-6962",
+          "openAlexId": "https://openalex.org/A5063687930",
+          "position": 1
+        },
+        {
+          "name": "Krysta Walter",
+          "orcidId": "0000-0003-1621-8031",
+          "openAlexId": "https://openalex.org/A5028620673",
+          "position": 2
+        },
+        {
+          "name": "Jonathan P. Troost",
+          "orcidId": "0000-0002-1183-8330",
+          "openAlexId": "https://openalex.org/A5075114526",
+          "position": 3
+        },
+        {
+          "name": "Elizabeth A. Belloli",
+          "openAlexId": "https://openalex.org/A5110552786",
+          "position": 4
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,67 @@
       "year": 2025,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2025.11.25.690378",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/11/27/2025.11.25.690378.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/11/27/2025.11.25.690378.full.pdf",
+      "authors": [
+        {
+          "name": "João M. Alves",
+          "orcidId": "0000-0002-9599-5463",
+          "openAlexId": "https://openalex.org/A5057885028",
+          "position": 1
+        },
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A5005881998",
+          "position": 2
+        },
+        {
+          "name": "Sonia Prado‐Lòpez",
+          "orcidId": "0000-0003-0918-7919",
+          "openAlexId": "https://openalex.org/A5075333906",
+          "position": 3
+        },
+        {
+          "name": "Nuria Estévez‐Gómez",
+          "orcidId": "0000-0002-7281-3137",
+          "openAlexId": "https://openalex.org/A5004843716",
+          "position": 4
+        },
+        {
+          "name": "Juana Alonso",
+          "openAlexId": "https://openalex.org/A5104085263",
+          "position": 5
+        },
+        {
+          "name": "Laura Tomás‐Gallardo",
+          "orcidId": "0000-0001-9661-0521",
+          "openAlexId": "https://openalex.org/A5075920807",
+          "position": 6
+        },
+        {
+          "name": "Antoine Zwaans",
+          "orcidId": "0000-0001-9175-8738",
+          "openAlexId": "https://openalex.org/A5032191795",
+          "position": 7
+        },
+        {
+          "name": "Tanja Stadler",
+          "openAlexId": "https://openalex.org/A5055449742",
+          "position": 8
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 9
+        },
+        {
+          "name": "David Posada",
+          "orcidId": "0000-0003-1407-3406",
+          "openAlexId": "https://openalex.org/A5042649313",
+          "position": 10
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W7106257087",
@@ -17,7 +77,33 @@
       "year": 2025,
       "venue": "Molecular Biology and Evolution",
       "doi": "https://doi.org/10.1093/molbev/msaf297",
-      "openAccessUrl": "https://doi.org/10.1093/molbev/msaf297"
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msaf297",
+      "authors": [
+        {
+          "name": "Yuan Xu",
+          "orcidId": "0000-0001-5173-6892",
+          "openAlexId": "https://openalex.org/A2100452037",
+          "position": 1
+        },
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A2488900523",
+          "position": 2
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0001-5610-0607",
+          "openAlexId": "https://openalex.org/A2099142597",
+          "position": 3
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A2126914035",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4416554369",
@@ -25,7 +111,27 @@
       "year": 2025,
       "venue": "Molecular Biology and Evolution",
       "doi": "https://doi.org/10.1093/molbev/msaf297",
-      "openAccessUrl": "https://doi.org/10.1093/molbev/msaf297"
+      "openAccessUrl": "https://doi.org/10.1093/molbev/msaf297",
+      "authors": [
+        {
+          "name": "Yuan Xu",
+          "orcidId": "0009-0008-4199-0094",
+          "openAlexId": "https://openalex.org/A5100937518",
+          "position": 1
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 2
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393807855",
@@ -33,7 +139,62 @@
       "year": 2025,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.8249915",
-      "openAccessUrl": "https://doi.org/10.5281/zenodo.8249915"
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.8249915",
+      "authors": [
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-5186-8377",
+          "openAlexId": "https://openalex.org/A5103244939",
+          "position": 1
+        },
+        {
+          "name": "Philippe Lemey",
+          "orcidId": "0000-0003-2826-5353",
+          "openAlexId": "https://openalex.org/A5039280845",
+          "position": 2
+        },
+        {
+          "name": "Michael Dunn",
+          "orcidId": "0000-0001-5349-5252",
+          "openAlexId": "https://openalex.org/A5005846751",
+          "position": 3
+        },
+        {
+          "name": "Alexander V. Alekseyenko",
+          "orcidId": "0000-0002-5748-2085",
+          "openAlexId": "https://openalex.org/A5014960492",
+          "position": 4
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 5
+        },
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A5076786881",
+          "position": 6
+        },
+        {
+          "name": "Marc A. Suchard",
+          "openAlexId": "https://openalex.org/A5039905606",
+          "position": 7
+        },
+        {
+          "name": "Quentin D. Atkinson",
+          "orcidId": "0000-0002-8499-7535",
+          "openAlexId": "https://openalex.org/A5042208432",
+          "position": 8
+        },
+        {
+          "name": "Simon J. Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A5006986289",
+          "position": 9
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W7105286506",
@@ -41,7 +202,27 @@
       "year": 2025,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.17583742",
-      "openAccessUrl": "https://doi.org/10.5281/zenodo.17583742"
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.17583742",
+      "authors": [
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A2129817285",
+          "position": 1
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A2126914035",
+          "position": 2
+        },
+        {
+          "name": "Simon J Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A2143255832",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393843796",
@@ -49,7 +230,27 @@
       "year": 2025,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.8250067",
-      "openAccessUrl": "https://doi.org/10.5281/zenodo.8250067"
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.8250067",
+      "authors": [
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A5076786881",
+          "position": 1
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 2
+        },
+        {
+          "name": "Simon J. Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A5006986289",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4412093882",
@@ -57,7 +258,73 @@
       "year": 2025,
       "venue": "Nature Methods",
       "doi": "https://doi.org/10.1038/s41592-025-02751-x",
-      "openAccessUrl": "https://www.nature.com/articles/s41592-025-02751-x.pdf"
+      "openAccessUrl": "https://www.nature.com/articles/s41592-025-02751-x.pdf",
+      "authors": [
+        {
+          "name": "Guy Baele",
+          "orcidId": "0000-0002-1915-7732",
+          "openAlexId": "https://openalex.org/A5056792309",
+          "position": 1
+        },
+        {
+          "name": "Xiang Ji",
+          "orcidId": "0000-0002-7243-0865",
+          "openAlexId": "https://openalex.org/A5080281520",
+          "position": 2
+        },
+        {
+          "name": "Gabriel W. Hassler",
+          "orcidId": "0000-0001-6951-5254",
+          "openAlexId": "https://openalex.org/A5047150573",
+          "position": 3
+        },
+        {
+          "name": "John T. McCrone",
+          "orcidId": "0000-0002-9846-8917",
+          "openAlexId": "https://openalex.org/A5015297229",
+          "position": 4
+        },
+        {
+          "name": "Yucai Shao",
+          "orcidId": "0009-0005-8703-7651",
+          "openAlexId": "https://openalex.org/A5101835480",
+          "position": 5
+        },
+        {
+          "name": "Zhenyu Zhang",
+          "orcidId": "0000-0002-2176-2253",
+          "openAlexId": "https://openalex.org/A5100389519",
+          "position": 6
+        },
+        {
+          "name": "Andrew J. Holbrook",
+          "openAlexId": "https://openalex.org/A5039106878",
+          "position": 7
+        },
+        {
+          "name": "Philippe Lemey",
+          "orcidId": "0000-0003-2826-5353",
+          "openAlexId": "https://openalex.org/A5039280845",
+          "position": 8
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 9
+        },
+        {
+          "name": "Andrew Rambaut",
+          "orcidId": "0000-0003-4337-3707",
+          "openAlexId": "https://openalex.org/A5083534383",
+          "position": 10
+        },
+        {
+          "name": "Marc A. Suchard",
+          "openAlexId": "https://openalex.org/A5039905606",
+          "position": 11
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4407884208",
@@ -65,7 +332,32 @@
       "year": 2025,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2025.02.22.639697",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/02/24/2025.02.22.639697.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/02/24/2025.02.22.639697.full.pdf",
+      "authors": [
+        {
+          "name": "yuan xu",
+          "openAlexId": "https://openalex.org/A5114136026",
+          "position": 1
+        },
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A5005881998",
+          "position": 2
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 3
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4407402889",
@@ -73,7 +365,45 @@
       "year": 2025,
       "venue": "PLoS Computational Biology",
       "doi": "https://doi.org/10.1371/journal.pcbi.1012789",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1012789"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1012789",
+      "authors": [
+        {
+          "name": "Lars Berling",
+          "orcidId": "0000-0002-1303-0669",
+          "openAlexId": "https://openalex.org/A5091919866",
+          "position": 1
+        },
+        {
+          "name": "Jonathan Klawitter",
+          "orcidId": "0000-0001-8917-5269",
+          "openAlexId": "https://openalex.org/A5077181010",
+          "position": 2
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 3
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 4
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 5
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404153154",
@@ -81,7 +411,33 @@
       "year": 2024,
       "venue": "Systematic Biology",
       "doi": "https://doi.org/10.1093/sysbio/syae064",
-      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syae064/60471274/syae064.pdf"
+      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syae064/60471274/syae064.pdf",
+      "authors": [
+        {
+          "name": "Fábio K. Mendes",
+          "orcidId": "0000-0001-6204-7208",
+          "openAlexId": "https://openalex.org/A5059396953",
+          "position": 1
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 2
+        },
+        {
+          "name": "Luiz Max Carvalho",
+          "orcidId": "0000-0001-5736-5578",
+          "openAlexId": "https://openalex.org/A5048468015",
+          "position": 3
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402911717",
@@ -89,7 +445,27 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.09.25.615070",
-      "openAccessUrl": "https://doi.org/10.1101/2024.09.25.615070"
+      "openAccessUrl": "https://doi.org/10.1101/2024.09.25.615070",
+      "authors": [
+        {
+          "name": "Jonathan Klawitter",
+          "orcidId": "0000-0001-8917-5269",
+          "openAlexId": "https://openalex.org/A5077181010",
+          "position": 1
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 2
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4392200673",
@@ -97,7 +473,45 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.02.20.581316",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.581316.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.581316.full.pdf",
+      "authors": [
+        {
+          "name": "Lars Berling",
+          "orcidId": "0000-0002-1303-0669",
+          "openAlexId": "https://openalex.org/A5091919866",
+          "position": 1
+        },
+        {
+          "name": "Jonathan Klawitter",
+          "orcidId": "0000-0001-8917-5269",
+          "openAlexId": "https://openalex.org/A5077181010",
+          "position": 2
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 3
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 4
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 5
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4391743534",
@@ -105,7 +519,33 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.02.11.579856",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/12/2024.02.11.579856.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/12/2024.02.11.579856.full.pdf",
+      "authors": [
+        {
+          "name": "Fábio K. Mendes",
+          "orcidId": "0000-0001-6204-7208",
+          "openAlexId": "https://openalex.org/A5059396953",
+          "position": 1
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 2
+        },
+        {
+          "name": "Luiz Max Carvalho",
+          "orcidId": "0000-0001-5736-5578",
+          "openAlexId": "https://openalex.org/A5048468015",
+          "position": 3
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393756195",
@@ -113,7 +553,62 @@
       "year": 2023,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.10149518",
-      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149518"
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149518",
+      "authors": [
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-5186-8377",
+          "openAlexId": "https://openalex.org/A5103244939",
+          "position": 1
+        },
+        {
+          "name": "Philippe Lemey",
+          "orcidId": "0000-0003-2826-5353",
+          "openAlexId": "https://openalex.org/A5039280845",
+          "position": 2
+        },
+        {
+          "name": "Michael Dunn",
+          "orcidId": "0000-0001-5349-5252",
+          "openAlexId": "https://openalex.org/A5005846751",
+          "position": 3
+        },
+        {
+          "name": "Alexander V. Alekseyenko",
+          "orcidId": "0000-0002-5748-2085",
+          "openAlexId": "https://openalex.org/A5014960492",
+          "position": 4
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 5
+        },
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A5076786881",
+          "position": 6
+        },
+        {
+          "name": "Marc A. Suchard",
+          "openAlexId": "https://openalex.org/A5039905606",
+          "position": 7
+        },
+        {
+          "name": "Quentin D. Atkinson",
+          "orcidId": "0000-0002-8499-7535",
+          "openAlexId": "https://openalex.org/A5042208432",
+          "position": 8
+        },
+        {
+          "name": "Simon J. Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A5006986289",
+          "position": 9
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393543409",
@@ -121,7 +616,27 @@
       "year": 2023,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.10149668",
-      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149668"
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149668",
+      "authors": [
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A5076786881",
+          "position": 1
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 2
+        },
+        {
+          "name": "Simon J. Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A5006986289",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393827120",
@@ -129,7 +644,27 @@
       "year": 2023,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.10149635",
-      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149635"
+      "openAccessUrl": "https://doi.org/10.5281/zenodo.10149635",
+      "authors": [
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A5076786881",
+          "position": 1
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 2
+        },
+        {
+          "name": "Simon J. Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A5006986289",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4389606897",
@@ -137,7 +672,27 @@
       "year": 2023,
       "venue": "Systematic Biology",
       "doi": "https://doi.org/10.1093/sysbio/syad067",
-      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syad067/54348933/syad067.pdf"
+      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syad067/54348933/syad067.pdf",
+      "authors": [
+        {
+          "name": "Rong Zhang",
+          "orcidId": "0000-0002-8493-6556",
+          "openAlexId": "https://openalex.org/A5014081827",
+          "position": 1
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 2
+        },
+        {
+          "name": "Fábio K. Mendes",
+          "orcidId": "0000-0001-6204-7208",
+          "openAlexId": "https://openalex.org/A5059396953",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393698943",
@@ -145,7 +700,62 @@
       "year": 2023,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.8249916",
-      "openAccessUrl": "https://zenodo.org/record/8249916"
+      "openAccessUrl": "https://zenodo.org/record/8249916",
+      "authors": [
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-5186-8377",
+          "openAlexId": "https://openalex.org/A5103244939",
+          "position": 1
+        },
+        {
+          "name": "Philippe Lemey",
+          "orcidId": "0000-0003-2826-5353",
+          "openAlexId": "https://openalex.org/A5039280845",
+          "position": 2
+        },
+        {
+          "name": "Michael Dunn",
+          "orcidId": "0000-0001-5349-5252",
+          "openAlexId": "https://openalex.org/A5005846751",
+          "position": 3
+        },
+        {
+          "name": "Alexander V. Alekseyenko",
+          "orcidId": "0000-0002-5748-2085",
+          "openAlexId": "https://openalex.org/A5014960492",
+          "position": 4
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 5
+        },
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A5076786881",
+          "position": 6
+        },
+        {
+          "name": "Marc A. Suchard",
+          "openAlexId": "https://openalex.org/A5039905606",
+          "position": 7
+        },
+        {
+          "name": "Quentin D. Atkinson",
+          "orcidId": "0000-0002-8499-7535",
+          "openAlexId": "https://openalex.org/A5042208432",
+          "position": 8
+        },
+        {
+          "name": "Simon J. Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A5006986289",
+          "position": 9
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393700491",
@@ -153,7 +763,27 @@
       "year": 2023,
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "doi": "https://doi.org/10.5281/zenodo.8250068",
-      "openAccessUrl": "https://zenodo.org/record/8250068"
+      "openAccessUrl": "https://zenodo.org/record/8250068",
+      "authors": [
+        {
+          "name": "Russell D. Gray",
+          "orcidId": "0000-0002-9858-0191",
+          "openAlexId": "https://openalex.org/A5076786881",
+          "position": 1
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 2
+        },
+        {
+          "name": "Simon J. Greenhill",
+          "orcidId": "0000-0001-7832-6156",
+          "openAlexId": "https://openalex.org/A5006986289",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4384663383",
@@ -161,7 +791,33 @@
       "year": 2023,
       "venue": "PLoS Computational Biology",
       "doi": "https://doi.org/10.1371/journal.pcbi.1011226",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1011226"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1011226",
+      "authors": [
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 1
+        },
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A5005881998",
+          "position": 2
+        },
+        {
+          "name": "Fábio K. Mendes",
+          "orcidId": "0000-0001-6204-7208",
+          "openAlexId": "https://openalex.org/A5059396953",
+          "position": 3
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4384155205",
@@ -169,7 +825,134 @@
       "year": 2023,
       "venue": "Communications Medicine",
       "doi": "https://doi.org/10.1038/s43856-023-00328-3",
-      "openAccessUrl": "https://www.nature.com/articles/s43856-023-00328-3.pdf"
+      "openAccessUrl": "https://www.nature.com/articles/s43856-023-00328-3.pdf",
+      "authors": [
+        {
+          "name": "Cinthy L. Jiménez-Silva",
+          "orcidId": "0000-0003-4247-1014",
+          "openAlexId": "https://openalex.org/A5002135218",
+          "position": 1
+        },
+        {
+          "name": "Ricardo Rivero",
+          "orcidId": "0000-0003-2284-3335",
+          "openAlexId": "https://openalex.org/A5031246268",
+          "position": 2
+        },
+        {
+          "name": "Jordan Douglas",
+          "orcidId": "0000-0003-0371-9961",
+          "openAlexId": "https://openalex.org/A5052240308",
+          "position": 3
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 4
+        },
+        {
+          "name": "Christian Julián Villabona‐Arenas",
+          "orcidId": "0000-0001-9928-3968",
+          "openAlexId": "https://openalex.org/A5081984235",
+          "position": 5
+        },
+        {
+          "name": "Katherine E. Atkins",
+          "orcidId": "0000-0001-5250-0558",
+          "openAlexId": "https://openalex.org/A5058270622",
+          "position": 6
+        },
+        {
+          "name": "Bertha Gastelbondo",
+          "orcidId": "0000-0002-6852-9758",
+          "openAlexId": "https://openalex.org/A5083351186",
+          "position": 7
+        },
+        {
+          "name": "Alfonso Calderón",
+          "orcidId": "0000-0001-6503-8323",
+          "openAlexId": "https://openalex.org/A5050309215",
+          "position": 8
+        },
+        {
+          "name": "Camilo Guzmán",
+          "orcidId": "0000-0001-5616-1071",
+          "openAlexId": "https://openalex.org/A5102925604",
+          "position": 9
+        },
+        {
+          "name": "Daniel Echeverri-De la Hoz",
+          "orcidId": "0000-0002-7953-2661",
+          "openAlexId": "https://openalex.org/A5036327677",
+          "position": 10
+        },
+        {
+          "name": "Marina Muñoz",
+          "orcidId": "0000-0002-4216-6928",
+          "openAlexId": "https://openalex.org/A5005129605",
+          "position": 11
+        },
+        {
+          "name": "Nathalia Ballesteros",
+          "orcidId": "0000-0002-8388-0132",
+          "openAlexId": "https://openalex.org/A5062566976",
+          "position": 12
+        },
+        {
+          "name": "Sergio Castañeda",
+          "orcidId": "0000-0001-8720-9664",
+          "openAlexId": "https://openalex.org/A5089385997",
+          "position": 13
+        },
+        {
+          "name": "Luz Helena Patiño",
+          "orcidId": "0000-0002-8667-8896",
+          "openAlexId": "https://openalex.org/A5023897269",
+          "position": 14
+        },
+        {
+          "name": "Angie Ramírez",
+          "orcidId": "0000-0001-8111-2722",
+          "openAlexId": "https://openalex.org/A5051103996",
+          "position": 15
+        },
+        {
+          "name": "Nicolás Luna",
+          "orcidId": "0000-0001-6225-1401",
+          "openAlexId": "https://openalex.org/A5071152317",
+          "position": 16
+        },
+        {
+          "name": "Alberto Paniz‐Mondolfi",
+          "orcidId": "0000-0003-1259-1736",
+          "openAlexId": "https://openalex.org/A5009311148",
+          "position": 17
+        },
+        {
+          "name": "Héctor Serrano‐Coll",
+          "openAlexId": "https://openalex.org/A5027833953",
+          "position": 18
+        },
+        {
+          "name": "Juan David Ramírez",
+          "orcidId": "0000-0002-1344-9312",
+          "openAlexId": "https://openalex.org/A5002588069",
+          "position": 19
+        },
+        {
+          "name": "Salim Mattár",
+          "orcidId": "0000-0003-0526-4630",
+          "openAlexId": "https://openalex.org/A5054975053",
+          "position": 20
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 21
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4308827897",
@@ -177,7 +960,48 @@
       "year": 2022,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2211.05220",
-      "openAccessUrl": "https://arxiv.org/pdf/2211.05220"
+      "openAccessUrl": "https://arxiv.org/pdf/2211.05220",
+      "authors": [
+        {
+          "name": "Christiaan Swanepoel",
+          "openAlexId": "https://openalex.org/A5112927853",
+          "position": 1
+        },
+        {
+          "name": "Mathieu Fourment",
+          "orcidId": "0000-0001-8153-9822",
+          "openAlexId": "https://openalex.org/A5070262421",
+          "position": 2
+        },
+        {
+          "name": "Xiang Ji",
+          "orcidId": "0000-0002-7234-6460",
+          "openAlexId": "https://openalex.org/A5100718017",
+          "position": 3
+        },
+        {
+          "name": "Hassan Nasif",
+          "openAlexId": "https://openalex.org/A5055983801",
+          "position": 4
+        },
+        {
+          "name": "Marc A. Suchard",
+          "openAlexId": "https://openalex.org/A5039905606",
+          "position": 5
+        },
+        {
+          "name": "F. A. Matsen",
+          "orcidId": "0000-0003-0607-6025",
+          "openAlexId": "https://openalex.org/A5084752404",
+          "position": 6
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4291288513",
@@ -185,7 +1009,33 @@
       "year": 2022,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2022.08.08.503246",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/08/14/2022.08.08.503246.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/08/14/2022.08.08.503246.full.pdf",
+      "authors": [
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 1
+        },
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A5005881998",
+          "position": 2
+        },
+        {
+          "name": "Fábio K. Mendes",
+          "orcidId": "0000-0001-6204-7208",
+          "openAlexId": "https://openalex.org/A5059396953",
+          "position": 3
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4285390994",
@@ -193,7 +1043,134 @@
       "year": 2022,
       "venue": "Research Square (Research Square)",
       "doi": "https://doi.org/10.21203/rs.3.rs-1786224/v1",
-      "openAccessUrl": "https://www.researchsquare.com/article/rs-1786224/latest.pdf"
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-1786224/latest.pdf",
+      "authors": [
+        {
+          "name": "Cinthy L. Jiménez-Silva",
+          "orcidId": "0000-0003-4247-1014",
+          "openAlexId": "https://openalex.org/A5002135218",
+          "position": 1
+        },
+        {
+          "name": "Ricardo Rivero",
+          "orcidId": "0000-0003-2284-3335",
+          "openAlexId": "https://openalex.org/A5031246268",
+          "position": 2
+        },
+        {
+          "name": "Jordan Douglas",
+          "orcidId": "0000-0003-0371-9961",
+          "openAlexId": "https://openalex.org/A5052240308",
+          "position": 3
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 4
+        },
+        {
+          "name": "Christian Julián Villabona‐Arenas",
+          "orcidId": "0000-0001-9928-3968",
+          "openAlexId": "https://openalex.org/A5081984235",
+          "position": 5
+        },
+        {
+          "name": "Katherine E. Atkins",
+          "orcidId": "0000-0001-5250-0558",
+          "openAlexId": "https://openalex.org/A5058270622",
+          "position": 6
+        },
+        {
+          "name": "Bertha Gastelbondo",
+          "orcidId": "0000-0002-6852-9758",
+          "openAlexId": "https://openalex.org/A5083351186",
+          "position": 7
+        },
+        {
+          "name": "Alfonso Calderón",
+          "orcidId": "0000-0001-6503-8323",
+          "openAlexId": "https://openalex.org/A5050309215",
+          "position": 8
+        },
+        {
+          "name": "Camilo Guzmán",
+          "orcidId": "0000-0001-5616-1071",
+          "openAlexId": "https://openalex.org/A5102925604",
+          "position": 9
+        },
+        {
+          "name": "Daniel Echeverri-De la Hoz",
+          "orcidId": "0000-0002-7953-2661",
+          "openAlexId": "https://openalex.org/A5036327677",
+          "position": 10
+        },
+        {
+          "name": "Marina Muñoz",
+          "orcidId": "0000-0002-4216-6928",
+          "openAlexId": "https://openalex.org/A5005129605",
+          "position": 11
+        },
+        {
+          "name": "Nathalia Ballesteros",
+          "orcidId": "0000-0002-8388-0132",
+          "openAlexId": "https://openalex.org/A5062566976",
+          "position": 12
+        },
+        {
+          "name": "Sergio Castañeda",
+          "orcidId": "0000-0001-8720-9664",
+          "openAlexId": "https://openalex.org/A5089385997",
+          "position": 13
+        },
+        {
+          "name": "Luz Helena Patiño",
+          "orcidId": "0000-0002-8667-8896",
+          "openAlexId": "https://openalex.org/A5023897269",
+          "position": 14
+        },
+        {
+          "name": "Angie Ramírez",
+          "orcidId": "0000-0001-8111-2722",
+          "openAlexId": "https://openalex.org/A5051103996",
+          "position": 15
+        },
+        {
+          "name": "Nicolás Luna",
+          "orcidId": "0000-0001-6225-1401",
+          "openAlexId": "https://openalex.org/A5071152317",
+          "position": 16
+        },
+        {
+          "name": "Alberto Paniz‐Mondolfi",
+          "orcidId": "0000-0003-1259-1736",
+          "openAlexId": "https://openalex.org/A5009311148",
+          "position": 17
+        },
+        {
+          "name": "Héctor Serrano‐Coll",
+          "openAlexId": "https://openalex.org/A5027833953",
+          "position": 18
+        },
+        {
+          "name": "Juan David Ramírez",
+          "orcidId": "0000-0002-1344-9312",
+          "openAlexId": "https://openalex.org/A5002588069",
+          "position": 19
+        },
+        {
+          "name": "Salim Mattár",
+          "orcidId": "0000-0003-0526-4630",
+          "openAlexId": "https://openalex.org/A5054975053",
+          "position": 20
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 21
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4283322370",
@@ -201,7 +1178,39 @@
       "year": 2022,
       "venue": "Molecular Biology and Evolution",
       "doi": "https://doi.org/10.1093/molbev/msac143",
-      "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf"
+      "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf",
+      "authors": [
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A5005881998",
+          "position": 1
+        },
+        {
+          "name": "Jiří C. Moravec",
+          "orcidId": "0000-0002-3651-1924",
+          "openAlexId": "https://openalex.org/A5024808613",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        },
+        {
+          "name": "David Welch",
+          "orcidId": "0000-0002-7066-2830",
+          "openAlexId": "https://openalex.org/A5051299223",
+          "position": 4
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4283275971",
@@ -209,7 +1218,133 @@
       "year": 2022,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2022.06.20.22275744",
-      "openAccessUrl": "https://www.medrxiv.org/content/medrxiv/early/2022/06/21/2022.06.20.22275744.full.pdf"
+      "openAccessUrl": "https://www.medrxiv.org/content/medrxiv/early/2022/06/21/2022.06.20.22275744.full.pdf",
+      "authors": [
+        {
+          "name": "Cinthy L. Jiménez-Silva",
+          "orcidId": "0000-0003-4247-1014",
+          "openAlexId": "https://openalex.org/A5002135218",
+          "position": 1
+        },
+        {
+          "name": "Ricardo Rivero",
+          "orcidId": "0000-0003-2284-3335",
+          "openAlexId": "https://openalex.org/A5031246268",
+          "position": 2
+        },
+        {
+          "name": "Jordan Douglas",
+          "orcidId": "0000-0003-0371-9961",
+          "openAlexId": "https://openalex.org/A5052240308",
+          "position": 3
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-5186-8377",
+          "openAlexId": "https://openalex.org/A5103244939",
+          "position": 4
+        },
+        {
+          "name": "Julian Villabona-Arenas",
+          "openAlexId": "https://openalex.org/A5112842117",
+          "position": 5
+        },
+        {
+          "name": "Katherine E. Atkins",
+          "orcidId": "0000-0001-5250-0558",
+          "openAlexId": "https://openalex.org/A5058270622",
+          "position": 6
+        },
+        {
+          "name": "Bertha Gastelbondo",
+          "orcidId": "0000-0002-6852-9758",
+          "openAlexId": "https://openalex.org/A5083351186",
+          "position": 7
+        },
+        {
+          "name": "Alfonso Calderón",
+          "orcidId": "0000-0001-6503-8323",
+          "openAlexId": "https://openalex.org/A5050309215",
+          "position": 8
+        },
+        {
+          "name": "Camilo Guzmán",
+          "orcidId": "0000-0001-5616-1071",
+          "openAlexId": "https://openalex.org/A5102925604",
+          "position": 9
+        },
+        {
+          "name": "Daniel Echeverri-De la Hoz",
+          "orcidId": "0000-0002-7953-2661",
+          "openAlexId": "https://openalex.org/A5036327677",
+          "position": 10
+        },
+        {
+          "name": "Marina Muñoz",
+          "orcidId": "0000-0002-4216-6928",
+          "openAlexId": "https://openalex.org/A5005129605",
+          "position": 11
+        },
+        {
+          "name": "Nathalia Ballesteros",
+          "orcidId": "0000-0002-8388-0132",
+          "openAlexId": "https://openalex.org/A5062566976",
+          "position": 12
+        },
+        {
+          "name": "Sergio Castañeda",
+          "orcidId": "0000-0001-8720-9664",
+          "openAlexId": "https://openalex.org/A5089385997",
+          "position": 13
+        },
+        {
+          "name": "Luz Helena Patiño",
+          "orcidId": "0000-0002-8667-8896",
+          "openAlexId": "https://openalex.org/A5023897269",
+          "position": 14
+        },
+        {
+          "name": "Angie Ramírez",
+          "orcidId": "0000-0001-8111-2722",
+          "openAlexId": "https://openalex.org/A5051103996",
+          "position": 15
+        },
+        {
+          "name": "Nicolás Luna",
+          "orcidId": "0000-0001-6225-1401",
+          "openAlexId": "https://openalex.org/A5071152317",
+          "position": 16
+        },
+        {
+          "name": "Alberto Paniz‐Mondolfi",
+          "orcidId": "0000-0003-1259-1736",
+          "openAlexId": "https://openalex.org/A5009311148",
+          "position": 17
+        },
+        {
+          "name": "Héctor Serrano‐Coll",
+          "openAlexId": "https://openalex.org/A5027833953",
+          "position": 18
+        },
+        {
+          "name": "Juan David Ramírez",
+          "orcidId": "0000-0002-1344-9312",
+          "openAlexId": "https://openalex.org/A5002588069",
+          "position": 19
+        },
+        {
+          "name": "Salim Mattár",
+          "orcidId": "0000-0003-0526-4630",
+          "openAlexId": "https://openalex.org/A5054975053",
+          "position": 20
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 21
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3214211704",
@@ -217,12 +1352,55 @@
       "year": 2021,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2111.08140",
-      "openAccessUrl": "https://arxiv.org/pdf/2111.08140"
+      "openAccessUrl": "https://arxiv.org/pdf/2111.08140",
+      "authors": [
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 1
+        },
+        {
+          "name": "Alex Popinga",
+          "orcidId": "0000-0002-0152-5728",
+          "openAlexId": "https://openalex.org/A5028793032",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2808485750",
       "title": "Joint inference of species histories and gene flow",
-      "year": 2021
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Nicola F. Mueller",
+          "openAlexId": "https://openalex.org/A5109434110",
+          "position": 1
+        },
+        {
+          "name": "Huw A. Ogilvie",
+          "orcidId": "0000-0003-1589-6885",
+          "openAlexId": "https://openalex.org/A5010915538",
+          "position": 2
+        },
+        {
+          "name": "Chi Zhang",
+          "openAlexId": "https://openalex.org/A5100458219",
+          "position": 3
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 4
+        },
+        {
+          "name": "Tanja Stadler",
+          "openAlexId": "https://openalex.org/A5055449742",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3182152841",
@@ -230,7 +1408,49 @@
       "year": 2021,
       "venue": "Systematic Biology",
       "doi": "https://doi.org/10.1093/sysbio/syab054",
-      "openAccessUrl": "https://academic.oup.com/sysbio/article-pdf/71/1/208/41794194/syab054.pdf"
+      "openAccessUrl": "https://academic.oup.com/sysbio/article-pdf/71/1/208/41794194/syab054.pdf",
+      "authors": [
+        {
+          "name": "Huw A. Ogilvie",
+          "orcidId": "0000-0003-1589-6885",
+          "openAlexId": "https://openalex.org/A5010915538",
+          "position": 1
+        },
+        {
+          "name": "Fábio K. Mendes",
+          "orcidId": "0000-0001-6204-7208",
+          "openAlexId": "https://openalex.org/A5059396953",
+          "position": 2
+        },
+        {
+          "name": "Timothy G. Vaughan",
+          "openAlexId": "https://openalex.org/A5088841943",
+          "position": 3
+        },
+        {
+          "name": "Nicholas J. Matzke",
+          "orcidId": "0000-0002-8698-7656",
+          "openAlexId": "https://openalex.org/A5057189098",
+          "position": 4
+        },
+        {
+          "name": "Tanja Stadler",
+          "openAlexId": "https://openalex.org/A5055449742",
+          "position": 5
+        },
+        {
+          "name": "David Welch",
+          "orcidId": "0000-0002-7066-2830",
+          "openAlexId": "https://openalex.org/A5051299223",
+          "position": 6
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3169356543",
@@ -238,7 +1458,90 @@
       "year": 2021,
       "venue": "Virus Evolution",
       "doi": "https://doi.org/10.1093/ve/veab052",
-      "openAccessUrl": "https://academic.oup.com/ve/article-pdf/7/2/veab052/50058354/veab052.pdf"
+      "openAccessUrl": "https://academic.oup.com/ve/article-pdf/7/2/veab052/50058354/veab052.pdf",
+      "authors": [
+        {
+          "name": "Jordan Douglas",
+          "orcidId": "0000-0003-0371-9961",
+          "openAlexId": "https://openalex.org/A5052240308",
+          "position": 1
+        },
+        {
+          "name": "Fábio K. Mendes",
+          "orcidId": "0000-0001-6204-7208",
+          "openAlexId": "https://openalex.org/A5059396953",
+          "position": 2
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 3
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 4
+        },
+        {
+          "name": "Cinthy L. Jiménez-Silva",
+          "orcidId": "0000-0003-4247-1014",
+          "openAlexId": "https://openalex.org/A5002135218",
+          "position": 5
+        },
+        {
+          "name": "Christiaan Swanepoel",
+          "openAlexId": "https://openalex.org/A5059858882",
+          "position": 6
+        },
+        {
+          "name": "Joep de Ligt",
+          "openAlexId": "https://openalex.org/A5072525850",
+          "position": 7
+        },
+        {
+          "name": "Xiaoyun Ren",
+          "orcidId": "0000-0002-5163-9715",
+          "openAlexId": "https://openalex.org/A5086325375",
+          "position": 8
+        },
+        {
+          "name": "Matt Storey",
+          "openAlexId": "https://openalex.org/A5067253965",
+          "position": 9
+        },
+        {
+          "name": "James Hadfield",
+          "orcidId": "0000-0002-4118-6468",
+          "openAlexId": "https://openalex.org/A5001836904",
+          "position": 10
+        },
+        {
+          "name": "Colin R Simpson",
+          "orcidId": "0000-0002-5194-8083",
+          "openAlexId": "https://openalex.org/A5031640821",
+          "position": 11
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 12
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 13
+        },
+        {
+          "name": "David Welch",
+          "orcidId": "0000-0002-7066-2830",
+          "openAlexId": "https://openalex.org/A5051299223",
+          "position": 14
+        }
+      ]
     }
   ]
 }

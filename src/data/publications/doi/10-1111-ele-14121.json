@@ -4,5 +4,31 @@
   "year": 2022,
   "venue": "Ecology Letters",
   "doi": "10.1111/ele.14121",
-  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14121"
+  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14121",
+  "authors": [
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 1
+    },
+    {
+      "name": "Daniel C. I. Walsh",
+      "orcidId": "0000-0003-2921-4478",
+      "openAlexId": "https://openalex.org/A5102839865",
+      "position": 2
+    },
+    {
+      "name": "W. L. Sweatman",
+      "orcidId": "0000-0002-6540-5020",
+      "openAlexId": "https://openalex.org/A5009943686",
+      "position": 3
+    },
+    {
+      "name": "Andrew J. Punnett",
+      "orcidId": "0000-0002-6733-4123",
+      "openAlexId": "https://openalex.org/A5029189832",
+      "position": 4
+    }
+  ]
 }

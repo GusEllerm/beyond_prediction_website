@@ -4,5 +4,29 @@
   "year": 2022,
   "venue": "IEEE Transactions on Knowledge and Data Engineering",
   "doi": "10.1109/tkde.2022.3192842",
-  "openAccessUrl": "https://doi.org/10.1109/tkde.2022.3192842"
+  "openAccessUrl": "https://doi.org/10.1109/tkde.2022.3192842",
+  "authors": [
+    {
+      "name": "Miika Hannula",
+      "orcidId": "0000-0002-9637-6664",
+      "openAlexId": "https://openalex.org/A5031183978",
+      "position": 1
+    },
+    {
+      "name": "Zhuoxing Zhang",
+      "openAlexId": "https://openalex.org/A5091624476",
+      "position": 2
+    },
+    {
+      "name": "Bor-Kuan Song",
+      "openAlexId": "https://openalex.org/A5056477690",
+      "position": 3
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 4
+    }
+  ]
 }

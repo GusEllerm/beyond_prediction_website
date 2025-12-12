@@ -4,5 +4,49 @@
   "year": 2024,
   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
   "doi": "10.1609/aaai.v38i10.29021",
-  "openAccessUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/29021/29937"
+  "openAccessUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/29021/29937",
+  "authors": [
+    {
+      "name": "Yang Chen",
+      "orcidId": "0000-0002-9516-8134",
+      "openAlexId": "https://openalex.org/A5100350462",
+      "position": 1
+    },
+    {
+      "name": "Xiao Lin",
+      "orcidId": "0009-0009-1723-6574",
+      "openAlexId": "https://openalex.org/A5103911259",
+      "position": 2
+    },
+    {
+      "name": "Bo Yan",
+      "orcidId": "0000-0002-4248-7203",
+      "openAlexId": "https://openalex.org/A5077311323",
+      "position": 3
+    },
+    {
+      "name": "Libo Zhang",
+      "orcidId": "0000-0001-8450-0958",
+      "openAlexId": "https://openalex.org/A5100337161",
+      "position": 4
+    },
+    {
+      "name": "Jiamou Liu",
+      "orcidId": "0000-0002-0824-0899",
+      "openAlexId": "https://openalex.org/A5083914998",
+      "position": 5
+    },
+    {
+      "name": "Neşet Tan",
+      "orcidId": "0000-0001-6201-7295",
+      "openAlexId": "https://openalex.org/A5062975742",
+      "position": 6
+    },
+    {
+      "name": "Michael Witbrock",
+      "orcidId": "0000-0002-7554-0971",
+      "openAlexId": "https://openalex.org/A5057995059",
+      "position": 7
+    }
+  ]
 }

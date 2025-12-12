@@ -4,5 +4,40 @@
   "year": 2024,
   "venue": "Proceedings of the AAAI Symposium Series",
   "doi": "10.1609/aaaiss.v3i1.31209",
-  "openAccessUrl": "https://doi.org/10.1609/aaaiss.v3i1.31209"
+  "openAccessUrl": "https://doi.org/10.1609/aaaiss.v3i1.31209",
+  "authors": [
+    {
+      "name": "Neşet Tan",
+      "orcidId": "0000-0001-6201-7295",
+      "openAlexId": "https://openalex.org/A5062975742",
+      "position": 1
+    },
+    {
+      "name": "Niket Tandon",
+      "openAlexId": "https://openalex.org/A5052882677",
+      "position": 2
+    },
+    {
+      "name": "David Wadden",
+      "openAlexId": "https://openalex.org/A5037862554",
+      "position": 3
+    },
+    {
+      "name": "Oyvind Tafjord",
+      "openAlexId": "https://openalex.org/A5071250061",
+      "position": 4
+    },
+    {
+      "name": "Mark Gahegan",
+      "orcidId": "0000-0001-7209-8156",
+      "openAlexId": "https://openalex.org/A5069438601",
+      "position": 5
+    },
+    {
+      "name": "Michael Witbrock",
+      "orcidId": "0000-0002-7554-0971",
+      "openAlexId": "https://openalex.org/A5057995059",
+      "position": 6
+    }
+  ]
 }

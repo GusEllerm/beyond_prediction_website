@@ -4,5 +4,12 @@
   "year": 2023,
   "venue": "Leibniz-Zentrum für Informatik (Schloss Dagstuhl)",
   "doi": "10.4230/lipics.giscience.2023.32",
-  "openAccessUrl": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.32"
+  "openAccessUrl": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.32",
+  "authors": [
+    {
+      "name": "Gahegan Mark",
+      "openAlexId": "https://openalex.org/A2224206007",
+      "position": 1
+    }
+  ]
 }

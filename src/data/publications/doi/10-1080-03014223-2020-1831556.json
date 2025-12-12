@@ -4,5 +4,37 @@
   "year": 2020,
   "venue": "New Zealand Journal of Zoology",
   "doi": "10.1080/03014223.2020.1831556",
-  "openAccessUrl": "https://doi.org/10.1080/03014223.2020.1831556"
+  "openAccessUrl": "https://doi.org/10.1080/03014223.2020.1831556",
+  "authors": [
+    {
+      "name": "Bernard J. Phiri",
+      "orcidId": "0000-0003-1768-6048",
+      "openAlexId": "https://openalex.org/A5075140930",
+      "position": 1
+    },
+    {
+      "name": "David T. S. Hayman",
+      "orcidId": "0000-0003-0087-3015",
+      "openAlexId": "https://openalex.org/A5015096904",
+      "position": 2
+    },
+    {
+      "name": "Patrick J. Biggs",
+      "orcidId": "0000-0002-0285-4101",
+      "openAlexId": "https://openalex.org/A5071138818",
+      "position": 3
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 4
+    },
+    {
+      "name": "Juan C. García–R",
+      "orcidId": "0000-0002-6665-9671",
+      "openAlexId": "https://openalex.org/A5042491259",
+      "position": 5
+    }
+  ]
 }

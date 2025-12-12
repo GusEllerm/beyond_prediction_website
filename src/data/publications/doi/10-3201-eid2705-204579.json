@@ -4,5 +4,129 @@
   "year": 2021,
   "venue": "Emerging infectious diseases",
   "doi": "10.3201/eid2705.204579",
-  "openAccessUrl": "https://wwwnc.cdc.gov/eid/article/27/5/pdfs/20-4579.pdf"
+  "openAccessUrl": "https://wwwnc.cdc.gov/eid/article/27/5/pdfs/20-4579.pdf",
+  "authors": [
+    {
+      "name": "Jemma L. Geoghegan",
+      "orcidId": "0000-0003-0970-0153",
+      "openAlexId": "https://openalex.org/A5027424821",
+      "position": 1
+    },
+    {
+      "name": "Jordan Douglas",
+      "orcidId": "0000-0003-0371-9961",
+      "openAlexId": "https://openalex.org/A5052240308",
+      "position": 2
+    },
+    {
+      "name": "Xiaoyun Ren",
+      "orcidId": "0000-0002-5163-9715",
+      "openAlexId": "https://openalex.org/A5086325375",
+      "position": 3
+    },
+    {
+      "name": "Matthew Storey",
+      "openAlexId": "https://openalex.org/A5107859849",
+      "position": 4
+    },
+    {
+      "name": "James Hadfield",
+      "orcidId": "0000-0002-4118-6468",
+      "openAlexId": "https://openalex.org/A5001836904",
+      "position": 5
+    },
+    {
+      "name": "Olin Silander",
+      "orcidId": "0000-0003-4105-8316",
+      "openAlexId": "https://openalex.org/A5052508586",
+      "position": 6
+    },
+    {
+      "name": "Nikki E. Freed",
+      "orcidId": "0000-0003-0921-5617",
+      "openAlexId": "https://openalex.org/A5063782623",
+      "position": 7
+    },
+    {
+      "name": "Lauren Jelley",
+      "orcidId": "0000-0001-5993-6266",
+      "openAlexId": "https://openalex.org/A5042071863",
+      "position": 8
+    },
+    {
+      "name": "Sarah Jefferies",
+      "orcidId": "0000-0001-7660-4466",
+      "openAlexId": "https://openalex.org/A5015927579",
+      "position": 9
+    },
+    {
+      "name": "Jillian Sherwood",
+      "openAlexId": "https://openalex.org/A5031558557",
+      "position": 10
+    },
+    {
+      "name": "Shevaun Paine",
+      "orcidId": "0000-0002-0961-0281",
+      "openAlexId": "https://openalex.org/A5061827081",
+      "position": 11
+    },
+    {
+      "name": "Q. Sue Huang",
+      "orcidId": "0000-0002-3923-5195",
+      "openAlexId": "https://openalex.org/A5004246755",
+      "position": 12
+    },
+    {
+      "name": "Andrew Sporle",
+      "openAlexId": "https://openalex.org/A5027724575",
+      "position": 13
+    },
+    {
+      "name": "Michael G. Baker",
+      "orcidId": "0000-0002-1865-1536",
+      "openAlexId": "https://openalex.org/A5036319260",
+      "position": 14
+    },
+    {
+      "name": "David R. Murdoch",
+      "orcidId": "0000-0003-0070-8001",
+      "openAlexId": "https://openalex.org/A5058492181",
+      "position": 15
+    },
+    {
+      "name": "Alexei J. Drummond",
+      "orcidId": "0000-0003-4454-2576",
+      "openAlexId": "https://openalex.org/A5079724732",
+      "position": 16
+    },
+    {
+      "name": "David Welch",
+      "orcidId": "0000-0002-7066-2830",
+      "openAlexId": "https://openalex.org/A5051299223",
+      "position": 17
+    },
+    {
+      "name": "Colin R Simpson",
+      "orcidId": "0000-0002-5194-8083",
+      "openAlexId": "https://openalex.org/A5031640821",
+      "position": 18
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 19
+    },
+    {
+      "name": "Edward C. Holmes",
+      "orcidId": "0000-0001-9596-3552",
+      "openAlexId": "https://openalex.org/A5085736091",
+      "position": 20
+    },
+    {
+      "name": "Joep de Ligt",
+      "openAlexId": "https://openalex.org/A5072525850",
+      "position": 21
+    }
+  ]
 }

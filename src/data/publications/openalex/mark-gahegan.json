@@ -9,7 +9,104 @@
       "year": 2025,
       "venue": "Annals of GIS",
       "doi": "https://doi.org/10.1080/19475683.2025.2552161",
-      "openAccessUrl": "https://doi.org/10.1080/19475683.2025.2552161"
+      "openAccessUrl": "https://doi.org/10.1080/19475683.2025.2552161",
+      "authors": [
+        {
+          "name": "Zhenlong Li",
+          "orcidId": "0000-0002-8938-5466",
+          "openAlexId": "https://openalex.org/A5073915674",
+          "position": 1
+        },
+        {
+          "name": "Huan Ning",
+          "orcidId": "0000-0003-3698-3240",
+          "openAlexId": "https://openalex.org/A5048472635",
+          "position": 2
+        },
+        {
+          "name": "Song Gao",
+          "orcidId": "0000-0003-4359-6302",
+          "openAlexId": "https://openalex.org/A5101938899",
+          "position": 3
+        },
+        {
+          "name": "Krzysztof Janowicz",
+          "openAlexId": "https://openalex.org/A5110930512",
+          "position": 4
+        },
+        {
+          "name": "Wenwen Li",
+          "orcidId": "0000-0003-2237-9499",
+          "openAlexId": "https://openalex.org/A5100338179",
+          "position": 5
+        },
+        {
+          "name": "Samantha T. Arundel",
+          "orcidId": "0000-0002-4863-0138",
+          "openAlexId": "https://openalex.org/A5070313758",
+          "position": 6
+        },
+        {
+          "name": "Chaowei Yang",
+          "orcidId": "0000-0001-7768-4066",
+          "openAlexId": "https://openalex.org/A5048422487",
+          "position": 7
+        },
+        {
+          "name": "Budhendra Bhaduri",
+          "orcidId": "0000-0003-1555-1377",
+          "openAlexId": "https://openalex.org/A5104505028",
+          "position": 8
+        },
+        {
+          "name": "Shaowen Wang",
+          "orcidId": "0009-0005-9912-6475",
+          "openAlexId": "https://openalex.org/A5068455358",
+          "position": 9
+        },
+        {
+          "name": "Zhu Axing",
+          "orcidId": "0000-0001-6531-5976",
+          "openAlexId": "https://openalex.org/A5103068295",
+          "position": 10
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 11
+        },
+        {
+          "name": "Shashi Shekhar",
+          "orcidId": "0000-0002-3191-3879",
+          "openAlexId": "https://openalex.org/A5102940260",
+          "position": 12
+        },
+        {
+          "name": "Xinyue Ye",
+          "orcidId": "0000-0001-8838-9476",
+          "openAlexId": "https://openalex.org/A5088393129",
+          "position": 13
+        },
+        {
+          "name": "Grant McKenzie",
+          "orcidId": "0000-0003-3247-2777",
+          "openAlexId": "https://openalex.org/A5067070198",
+          "position": 14
+        },
+        {
+          "name": "Guido Cervone",
+          "orcidId": "0000-0002-6509-0735",
+          "openAlexId": "https://openalex.org/A5011362394",
+          "position": 15
+        },
+        {
+          "name": "Michael E. Hodgson",
+          "orcidId": "0000-0002-1800-5833",
+          "openAlexId": "https://openalex.org/A5071778860",
+          "position": 16
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4403063759",
@@ -17,7 +114,15 @@
       "year": 2024,
       "venue": "Innovations in GIS",
       "doi": "https://doi.org/10.1201/9781003572800-7",
-      "openAccessUrl": "https://doi.org/10.1201/9781003572800-7"
+      "openAccessUrl": "https://doi.org/10.1201/9781003572800-7",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4398184796",
@@ -25,14 +130,68 @@
       "year": 2024,
       "venue": "Proceedings of the AAAI Symposium Series",
       "doi": "https://doi.org/10.1609/aaaiss.v3i1.31209",
-      "openAccessUrl": "https://doi.org/10.1609/aaaiss.v3i1.31209"
+      "openAccessUrl": "https://doi.org/10.1609/aaaiss.v3i1.31209",
+      "authors": [
+        {
+          "name": "Neşet Tan",
+          "orcidId": "0000-0001-6201-7295",
+          "openAlexId": "https://openalex.org/A5062975742",
+          "position": 1
+        },
+        {
+          "name": "Niket Tandon",
+          "openAlexId": "https://openalex.org/A5052882677",
+          "position": 2
+        },
+        {
+          "name": "David Wadden",
+          "openAlexId": "https://openalex.org/A5037862554",
+          "position": 3
+        },
+        {
+          "name": "Oyvind Tafjord",
+          "openAlexId": "https://openalex.org/A5071250061",
+          "position": 4
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 5
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4387005217",
       "title": "LivePublication: The Science Workflow Creates and Updates the Publication",
       "year": 2023,
       "doi": "https://doi.org/10.1109/e-science58273.2023.10254857",
-      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857"
+      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4327487081",
@@ -40,21 +199,138 @@
       "year": 2023,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2303.07585",
-      "openAccessUrl": "https://arxiv.org/pdf/2303.07585"
+      "openAccessUrl": "https://arxiv.org/pdf/2303.07585",
+      "authors": [
+        {
+          "name": "Neşet Tan",
+          "orcidId": "0000-0001-6201-7295",
+          "openAlexId": "https://openalex.org/A5062975742",
+          "position": 1
+        },
+        {
+          "name": "Alex Yuxuan Peng",
+          "orcidId": "0000-0002-9922-5781",
+          "openAlexId": "https://openalex.org/A5049443230",
+          "position": 2
+        },
+        {
+          "name": "Joshua Bensemann",
+          "orcidId": "0000-0002-1301-4861",
+          "openAlexId": "https://openalex.org/A5034490691",
+          "position": 3
+        },
+        {
+          "name": "Qiming Bao",
+          "orcidId": "0000-0002-1000-7383",
+          "openAlexId": "https://openalex.org/A5009635346",
+          "position": 4
+        },
+        {
+          "name": "Tim Hartill",
+          "openAlexId": "https://openalex.org/A5069468400",
+          "position": 5
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 6
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4386566686",
       "title": "Multi2Claim: Generating Scientific Claims from Multi-Choice Questions for Scientific Fact-Checking",
       "year": 2023,
       "doi": "https://doi.org/10.18653/v1/2023.eacl-main.194",
-      "openAccessUrl": "https://aclanthology.org/2023.eacl-main.194.pdf"
+      "openAccessUrl": "https://aclanthology.org/2023.eacl-main.194.pdf",
+      "authors": [
+        {
+          "name": "Neşet Tan",
+          "orcidId": "0000-0001-6201-7295",
+          "openAlexId": "https://openalex.org/A5062975742",
+          "position": 1
+        },
+        {
+          "name": "Trung B. Nguyen",
+          "orcidId": "0000-0002-1990-8647",
+          "openAlexId": "https://openalex.org/A5004982887",
+          "position": 2
+        },
+        {
+          "name": "Josh Bensemann",
+          "openAlexId": "https://openalex.org/A5092831413",
+          "position": 3
+        },
+        {
+          "name": "Alex Yuxuan Peng",
+          "orcidId": "0000-0002-9922-5781",
+          "openAlexId": "https://openalex.org/A5049443230",
+          "position": 4
+        },
+        {
+          "name": "Qiming Bao",
+          "orcidId": "0000-0002-1000-7383",
+          "openAlexId": "https://openalex.org/A5009635346",
+          "position": 5
+        },
+        {
+          "name": "Yang Chen",
+          "orcidId": "0000-0003-0147-3443",
+          "openAlexId": "https://openalex.org/A5063568442",
+          "position": 6
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 7
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4312933824",
       "title": "Enabling LivePublication",
       "year": 2022,
       "doi": "https://doi.org/10.1109/escience55777.2022.00067",
-      "openAccessUrl": "https://zenodo.org/record/7145478"
+      "openAccessUrl": "https://zenodo.org/record/7145478",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 3
+        },
+        {
+          "name": "Lukas Trombach",
+          "orcidId": "0000-0001-5316-9967",
+          "openAlexId": "https://openalex.org/A5001114303",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4283693600",
@@ -62,7 +338,37 @@
       "year": 2022,
       "venue": "BMC Bioinformatics",
       "doi": "https://doi.org/10.1186/s12859-022-04798-5",
-      "openAccessUrl": "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-022-04798-5"
+      "openAccessUrl": "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-022-04798-5",
+      "authors": [
+        {
+          "name": "Jidong Zhang",
+          "orcidId": "0000-0002-7934-7079",
+          "openAlexId": "https://openalex.org/A5100718378",
+          "position": 1
+        },
+        {
+          "name": "Бо Лю",
+          "openAlexId": "https://openalex.org/A5115587783",
+          "position": 2
+        },
+        {
+          "name": "Zhihan Wang",
+          "openAlexId": "https://openalex.org/A5101865878",
+          "position": 3
+        },
+        {
+          "name": "Klaus Lehnert",
+          "orcidId": "0000-0003-4598-4966",
+          "openAlexId": "https://openalex.org/A5044308504",
+          "position": 4
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4220709212",
@@ -70,7 +376,37 @@
       "year": 2022,
       "venue": "Research Square (Research Square)",
       "doi": "https://doi.org/10.21203/rs.3.rs-1483700/v1",
-      "openAccessUrl": "https://www.researchsquare.com/article/rs-1483700/latest.pdf"
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-1483700/latest.pdf",
+      "authors": [
+        {
+          "name": "Jidong Zhang",
+          "orcidId": "0000-0002-7934-7079",
+          "openAlexId": "https://openalex.org/A5100718378",
+          "position": 1
+        },
+        {
+          "name": "Бо Лю",
+          "openAlexId": "https://openalex.org/A5115587783",
+          "position": 2
+        },
+        {
+          "name": "Zhihan Wang",
+          "openAlexId": "https://openalex.org/A5101865878",
+          "position": 3
+        },
+        {
+          "name": "Klaus Lehnert",
+          "orcidId": "0000-0003-4598-4966",
+          "openAlexId": "https://openalex.org/A5044308504",
+          "position": 4
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3212623172",
@@ -78,7 +414,36 @@
       "year": 2021,
       "venue": "Sensors",
       "doi": "https://doi.org/10.3390/s21217352",
-      "openAccessUrl": "https://www.mdpi.com/1424-8220/21/21/7352/pdf?version=1636099628"
+      "openAccessUrl": "https://www.mdpi.com/1424-8220/21/21/7352/pdf?version=1636099628",
+      "authors": [
+        {
+          "name": "Bo Liu",
+          "openAlexId": "https://openalex.org/A5100461634",
+          "position": 1
+        },
+        {
+          "name": "Bin Yang",
+          "openAlexId": "https://openalex.org/A5100778642",
+          "position": 2
+        },
+        {
+          "name": "Sina Masoud-Ansari",
+          "openAlexId": "https://openalex.org/A5070672270",
+          "position": 3
+        },
+        {
+          "name": "Huina Wang",
+          "orcidId": "0000-0003-2447-0712",
+          "openAlexId": "https://openalex.org/A5028458322",
+          "position": 4
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3137767406",
@@ -86,7 +451,43 @@
       "year": 2021,
       "venue": "Concurrency and Computation Practice and Experience",
       "doi": "https://doi.org/10.1002/cpe.6188",
-      "openAccessUrl": "https://doi.org/10.1002/cpe.6188"
+      "openAccessUrl": "https://doi.org/10.1002/cpe.6188",
+      "authors": [
+        {
+          "name": "Bo Liu",
+          "openAlexId": "https://openalex.org/A5100461634",
+          "position": 1
+        },
+        {
+          "name": "Yelong Zhao",
+          "orcidId": "0000-0001-5479-6014",
+          "openAlexId": "https://openalex.org/A5000722943",
+          "position": 2
+        },
+        {
+          "name": "Bin Yang",
+          "openAlexId": "https://openalex.org/A5100778642",
+          "position": 3
+        },
+        {
+          "name": "Shuangtao Zhao",
+          "orcidId": "0000-0002-8624-7834",
+          "openAlexId": "https://openalex.org/A5054870054",
+          "position": 4
+        },
+        {
+          "name": "Rentao Gu",
+          "orcidId": "0000-0003-3183-2857",
+          "openAlexId": "https://openalex.org/A5091039444",
+          "position": 5
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3114485876",
@@ -94,7 +495,21 @@
       "year": 2020,
       "venue": "Journal of Spatial Information Science",
       "doi": "https://doi.org/10.5311/josis.2020.21.728",
-      "openAccessUrl": "https://josis.org/index.php/josis/article/download/137/138"
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/137/138",
+      "authors": [
+        {
+          "name": "Antoni Moore",
+          "orcidId": "0000-0001-7738-2308",
+          "openAlexId": "https://openalex.org/A5060257655",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2719788650",
@@ -102,7 +517,21 @@
       "year": 2020,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2010.09139",
-      "openAccessUrl": "https://arxiv.org/pdf/2010.09139"
+      "openAccessUrl": "https://arxiv.org/pdf/2010.09139",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4287637678",
@@ -110,7 +539,21 @@
       "year": 2020,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2010.09139",
-      "openAccessUrl": "https://arxiv.org/pdf/2010.09139"
+      "openAccessUrl": "https://arxiv.org/pdf/2010.09139",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3088838024",
@@ -118,7 +561,15 @@
       "year": 2020,
       "venue": "Geographic Information Science & Technology Body of Knowledge",
       "doi": "https://doi.org/10.22224/gistbok/2020.3.8",
-      "openAccessUrl": "http://www.dcc.ac.uk/sites/default/files/documents/Scientific%20Metadata_2011_Final.pdf"
+      "openAccessUrl": "http://www.dcc.ac.uk/sites/default/files/documents/Scientific%20Metadata_2011_Final.pdf",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3032167546",
@@ -126,13 +577,47 @@
       "year": 2020,
       "venue": "Transactions in GIS",
       "doi": "https://doi.org/10.1111/tgis.12660",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tgis.12660"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tgis.12660",
+      "authors": [
+        {
+          "name": "David O’Sullivan",
+          "orcidId": "0000-0001-8078-3241",
+          "openAlexId": "https://openalex.org/A5013584102",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        },
+        {
+          "name": "Daniel Exeter",
+          "orcidId": "0000-0003-1061-5925",
+          "openAlexId": "https://openalex.org/A5055846959",
+          "position": 3
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3006739766",
       "title": "Spatial Data Science Needs Explanations! (And Not Just Predictions)",
       "year": 2020,
-      "openAccessUrl": "http://hdl.handle.net/2292/49899"
+      "openAccessUrl": "http://hdl.handle.net/2292/49899",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2998044043",
@@ -140,7 +625,20 @@
       "year": 2020,
       "venue": "Transactions in GIS",
       "doi": "https://doi.org/10.1111/tgis.12602",
-      "openAccessUrl": "https://doi.org/10.1111/tgis.12602"
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12602",
+      "authors": [
+        {
+          "name": "Prashant Gupta",
+          "openAlexId": "https://openalex.org/A5020604401",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3044748527",
@@ -148,7 +646,27 @@
       "year": 2020,
       "venue": "University of Canterbury Research Repository (University of Canterbury)",
       "doi": "https://doi.org/10.18713/jimis-120620-6-2",
-      "openAccessUrl": "https://hdl.handle.net/10092/101034"
+      "openAccessUrl": "https://hdl.handle.net/10092/101034",
+      "authors": [
+        {
+          "name": "Christophe Claramunt",
+          "orcidId": "0000-0002-5586-1997",
+          "openAlexId": "https://openalex.org/A5027849780",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2971980344",
@@ -156,14 +674,63 @@
       "year": 2019,
       "venue": "International Journal of Geographical Information Systems",
       "doi": "https://doi.org/10.1080/13658816.2019.1652304",
-      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2019.1652304?needAccess=true"
+      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2019.1652304?needAccess=true",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2922826946",
       "title": "Centre for eResearch Annual Report 2018",
       "year": 2019,
       "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
-      "doi": "https://doi.org/10.17608/k6.auckland.7700042.v3"
+      "doi": "https://doi.org/10.17608/k6.auckland.7700042.v3",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        },
+        {
+          "name": "Jenny Lee Roper",
+          "openAlexId": "https://openalex.org/A5108262528",
+          "position": 2
+        },
+        {
+          "name": "Marcus Gustafsson",
+          "orcidId": "0000-0002-6722-3220",
+          "openAlexId": "https://openalex.org/A5047118565",
+          "position": 3
+        },
+        {
+          "name": "Yvette Wharton",
+          "openAlexId": "https://openalex.org/A5043656079",
+          "position": 4
+        },
+        {
+          "name": "Cameron McLean",
+          "orcidId": "0000-0002-9836-3824",
+          "openAlexId": "https://openalex.org/A5019797748",
+          "position": 5
+        },
+        {
+          "name": "Martin Feller",
+          "openAlexId": "https://openalex.org/A5076894759",
+          "position": 6
+        },
+        {
+          "name": "Nick Young",
+          "orcidId": "0000-0002-9246-6822",
+          "openAlexId": "https://openalex.org/A5103250174",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3024528107",
@@ -171,7 +738,15 @@
       "year": 2019,
       "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
       "doi": "https://doi.org/10.17608/k6.auckland.9870911.v2",
-      "openAccessUrl": "https://figshare.com/articles/Our_GIS_is_still_too_small/9870911"
+      "openAccessUrl": "https://figshare.com/articles/Our_GIS_is_still_too_small/9870911",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3043793142",
@@ -179,27 +754,81 @@
       "year": 2019,
       "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
       "doi": "https://doi.org/10.17608/k6.auckland.9870089.v2",
-      "openAccessUrl": "https://figshare.com/articles/Reproducible_Geocomputation_an_open_or_shut_case_/9870089"
+      "openAccessUrl": "https://figshare.com/articles/Reproducible_Geocomputation_an_open_or_shut_case_/9870089",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3037892630",
       "title": "Our GIS is (still) too small",
       "year": 2019,
       "doi": "https://doi.org/10.17608/k6.auckland.9870911.v1",
-      "openAccessUrl": "https://doi.org/10.17608/k6.auckland.9870911.v1"
+      "openAccessUrl": "https://doi.org/10.17608/k6.auckland.9870911.v1",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3014820022",
       "title": "On the use of artificial neural networks for the prediction of shoreline evolution",
       "year": 2018,
       "venue": "AGUFM",
-      "openAccessUrl": "http://ui.adsabs.harvard.edu/abs/2018AGUFMEP43B..08C/abstract"
+      "openAccessUrl": "http://ui.adsabs.harvard.edu/abs/2018AGUFMEP43B..08C/abstract",
+      "authors": [
+        {
+          "name": "Giovanni Coco",
+          "orcidId": "0000-0001-7435-1602",
+          "openAlexId": "https://openalex.org/A5043686349",
+          "position": 1
+        },
+        {
+          "name": "Sina Masoud-Ansari",
+          "openAlexId": "https://openalex.org/A5070672270",
+          "position": 2
+        },
+        {
+          "name": "J. K. Montaño Muñoz",
+          "openAlexId": "https://openalex.org/A5041855552",
+          "position": 3
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2950162037",
       "title": "`Deep' Semantics in the Geosciences: semantic building blocks for a complete geoscience infrastructure",
       "year": 2018,
-      "openAccessUrl": "http://hdl.handle.net/2292/40600"
+      "openAccessUrl": "http://hdl.handle.net/2292/40600",
+      "authors": [
+        {
+          "name": "Brandon Whitehead",
+          "orcidId": "0000-0002-0337-8610",
+          "openAlexId": "https://openalex.org/A5011112960",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2796182221",
@@ -207,14 +836,196 @@
       "year": 2018,
       "venue": "International Journal of Behavioral Nutrition and Physical Activity",
       "doi": "https://doi.org/10.1186/s12966-018-0648-6",
-      "openAccessUrl": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-018-0648-6"
+      "openAccessUrl": "https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-018-0648-6",
+      "authors": [
+        {
+          "name": "Stefanie Vandevijvere",
+          "orcidId": "0000-0003-3225-7524",
+          "openAlexId": "https://openalex.org/A5075268023",
+          "position": 1
+        },
+        {
+          "name": "Nick Young",
+          "orcidId": "0000-0002-5261-4042",
+          "openAlexId": "https://openalex.org/A5039582576",
+          "position": 2
+        },
+        {
+          "name": "Sally Mackay",
+          "orcidId": "0000-0002-4135-6738",
+          "openAlexId": "https://openalex.org/A5050820548",
+          "position": 3
+        },
+        {
+          "name": "Boyd Swinburn",
+          "openAlexId": "https://openalex.org/A5036717925",
+          "position": 4
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2969824784",
       "title": "University of Auckland Centre for eResearch Annual Report 2016",
       "year": 2018,
       "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
-      "doi": "https://doi.org/10.17608/k6.auckland.4534256.v2"
+      "doi": "https://doi.org/10.17608/k6.auckland.4534256.v2",
+      "authors": [
+        {
+          "name": "Jenny Lee Roper",
+          "openAlexId": "https://openalex.org/A5108262528",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        },
+        {
+          "name": "Marcus Gustafsson",
+          "orcidId": "0000-0002-6722-3220",
+          "openAlexId": "https://openalex.org/A5047118565",
+          "position": 3
+        },
+        {
+          "name": "Anne Gaskett",
+          "openAlexId": "https://openalex.org/A5014533269",
+          "position": 4
+        },
+        {
+          "name": "Ivan Campos",
+          "openAlexId": "https://openalex.org/A5077802050",
+          "position": 5
+        },
+        {
+          "name": "William Lee",
+          "orcidId": "0000-0002-0650-1442",
+          "openAlexId": "https://openalex.org/A5100698479",
+          "position": 6
+        },
+        {
+          "name": "Louis Ranjard",
+          "openAlexId": "https://openalex.org/A5060266813",
+          "position": 7
+        },
+        {
+          "name": "Halvar Hosar",
+          "openAlexId": "https://openalex.org/A5007002625",
+          "position": 8
+        },
+        {
+          "name": "Allan Badley",
+          "openAlexId": "https://openalex.org/A5087369061",
+          "position": 9
+        },
+        {
+          "name": "Donna Rose Addis",
+          "orcidId": "0000-0002-6231-1491",
+          "openAlexId": "https://openalex.org/A5036854891",
+          "position": 10
+        },
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0001-9955-5361",
+          "openAlexId": "https://openalex.org/A5014260231",
+          "position": 11
+        },
+        {
+          "name": "Matthew R. Moore",
+          "orcidId": "0000-0003-0730-8027",
+          "openAlexId": "https://openalex.org/A5036528994",
+          "position": 12
+        },
+        {
+          "name": "Nicholas J. Rattenbury",
+          "openAlexId": "https://openalex.org/A5073219984",
+          "position": 13
+        },
+        {
+          "name": "I. A. Bond",
+          "orcidId": "0000-0002-8131-8891",
+          "openAlexId": "https://openalex.org/A5067611955",
+          "position": 14
+        },
+        {
+          "name": "Rob Burrowes",
+          "openAlexId": "https://openalex.org/A5009976882",
+          "position": 15
+        },
+        {
+          "name": "Brendon Bradley",
+          "openAlexId": "https://openalex.org/A5069603361",
+          "position": 16
+        },
+        {
+          "name": "Nick Young",
+          "orcidId": "0000-0002-9246-6822",
+          "openAlexId": "https://openalex.org/A5103250174",
+          "position": 17
+        },
+        {
+          "name": "Damon Salesa",
+          "openAlexId": "https://openalex.org/A5074611672",
+          "position": 18
+        },
+        {
+          "name": "James Sneyd",
+          "orcidId": "0000-0001-7305-2862",
+          "openAlexId": "https://openalex.org/A5079587534",
+          "position": 19
+        },
+        {
+          "name": "John Rugis",
+          "openAlexId": "https://openalex.org/A5060859992",
+          "position": 20
+        },
+        {
+          "name": "Chris Scott",
+          "openAlexId": "https://openalex.org/A5063920367",
+          "position": 21
+        },
+        {
+          "name": "Cliona Ní Mhurchú",
+          "orcidId": "0000-0002-1144-9167",
+          "openAlexId": "https://openalex.org/A5049757171",
+          "position": 22
+        },
+        {
+          "name": "Sina Masoud-Ansari",
+          "openAlexId": "https://openalex.org/A5070672270",
+          "position": 23
+        },
+        {
+          "name": "Stefanie Vandevijvere",
+          "orcidId": "0000-0003-3225-7524",
+          "openAlexId": "https://openalex.org/A5075268023",
+          "position": 24
+        },
+        {
+          "name": "James P. Diprose",
+          "orcidId": "0000-0002-5094-3571",
+          "openAlexId": "https://openalex.org/A5070201494",
+          "position": 25
+        },
+        {
+          "name": "Richard Hosking",
+          "orcidId": "0000-0001-8288-5241",
+          "openAlexId": "https://openalex.org/A5071633579",
+          "position": 26
+        },
+        {
+          "name": "Sally Mackay",
+          "orcidId": "0000-0002-4135-6738",
+          "openAlexId": "https://openalex.org/A5050820548",
+          "position": 27
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2898493809",
@@ -222,7 +1033,15 @@
       "year": 2017,
       "venue": "Canadian Geographies / Géographies canadiennes",
       "doi": "https://doi.org/10.1111/cag.12434",
-      "openAccessUrl": "https://doi.org/10.1111/cag.12434"
+      "openAccessUrl": "https://doi.org/10.1111/cag.12434",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2627028264",
@@ -230,7 +1049,79 @@
       "year": 2017,
       "venue": "Environment and Planning B Urban Analytics and City Science",
       "doi": "https://doi.org/10.1177/2399808317710132",
-      "openAccessUrl": "https://journals.sagepub.com/doi/pdf/10.1177/2399808317710132"
+      "openAccessUrl": "https://journals.sagepub.com/doi/pdf/10.1177/2399808317710132",
+      "authors": [
+        {
+          "name": "Richard Harris",
+          "orcidId": "0000-0001-7943-9005",
+          "openAlexId": "https://openalex.org/A5002757843",
+          "position": 1
+        },
+        {
+          "name": "David O’Sullivan",
+          "orcidId": "0000-0001-8078-3241",
+          "openAlexId": "https://openalex.org/A5013584102",
+          "position": 2
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 3
+        },
+        {
+          "name": "Martin Charlton",
+          "openAlexId": "https://openalex.org/A5076679931",
+          "position": 4
+        },
+        {
+          "name": "Alexis Comber",
+          "orcidId": "0000-0002-3652-7846",
+          "openAlexId": "https://openalex.org/A5012361423",
+          "position": 5
+        },
+        {
+          "name": "Paul Longley",
+          "orcidId": "0000-0002-4727-6384",
+          "openAlexId": "https://openalex.org/A5089476688",
+          "position": 6
+        },
+        {
+          "name": "Chris Brunsdon",
+          "orcidId": "0000-0003-4254-1780",
+          "openAlexId": "https://openalex.org/A5082892178",
+          "position": 7
+        },
+        {
+          "name": "Nick Malleson",
+          "orcidId": "0000-0002-6977-0615",
+          "openAlexId": "https://openalex.org/A5064999614",
+          "position": 8
+        },
+        {
+          "name": "Alison Heppenstall",
+          "orcidId": "0000-0002-0663-3437",
+          "openAlexId": "https://openalex.org/A5026994877",
+          "position": 9
+        },
+        {
+          "name": "Alex Singleton",
+          "orcidId": "0000-0002-2338-2334",
+          "openAlexId": "https://openalex.org/A5039202251",
+          "position": 10
+        },
+        {
+          "name": "Daniel Arribas‐Bel",
+          "orcidId": "0000-0002-6274-1619",
+          "openAlexId": "https://openalex.org/A5070895919",
+          "position": 11
+        },
+        {
+          "name": "Andy Evans",
+          "openAlexId": "https://openalex.org/A5020717891",
+          "position": 12
+        }
+      ]
     }
   ]
 }

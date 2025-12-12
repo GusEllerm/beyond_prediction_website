@@ -4,5 +4,36 @@
   "year": 2021,
   "venue": "Molecular Ecology",
   "doi": "10.1111/mec.16068",
-  "openAccessUrl": "https://doi.org/10.1111/mec.16068"
+  "openAccessUrl": "https://doi.org/10.1111/mec.16068",
+  "authors": [
+    {
+      "name": "Laura Duntsch",
+      "openAlexId": "https://openalex.org/A5044929185",
+      "position": 1
+    },
+    {
+      "name": "Annabel Whibley",
+      "orcidId": "0000-0003-1878-7705",
+      "openAlexId": "https://openalex.org/A5032940167",
+      "position": 2
+    },
+    {
+      "name": "Patricia Brekke",
+      "orcidId": "0000-0001-6298-3194",
+      "openAlexId": "https://openalex.org/A5010185199",
+      "position": 3
+    },
+    {
+      "name": "John G. Ewen",
+      "orcidId": "0000-0001-6402-1378",
+      "openAlexId": "https://openalex.org/A5014012971",
+      "position": 4
+    },
+    {
+      "name": "Anna W. Santure",
+      "orcidId": "0000-0001-8965-1042",
+      "openAlexId": "https://openalex.org/A5079336422",
+      "position": 5
+    }
+  ]
 }

@@ -4,5 +4,13 @@
   "year": 2022,
   "venue": "Lecture notes in computer science",
   "doi": "10.1007/978-3-031-17995-2_25",
-  "openAccessUrl": "https://doi.org/10.1007/978-3-031-17995-2_25"
+  "openAccessUrl": "https://doi.org/10.1007/978-3-031-17995-2_25",
+  "authors": [
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 1
+    }
+  ]
 }

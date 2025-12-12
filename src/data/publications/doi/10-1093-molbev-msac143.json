@@ -4,5 +4,37 @@
   "year": 2022,
   "venue": "Molecular Biology and Evolution",
   "doi": "10.1093/molbev/msac143",
-  "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf"
+  "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf",
+  "authors": [
+    {
+      "name": "Kylie Chen",
+      "orcidId": "0000-0002-4536-4057",
+      "openAlexId": "https://openalex.org/A5005881998",
+      "position": 1
+    },
+    {
+      "name": "Jiří C. Moravec",
+      "orcidId": "0000-0002-3651-1924",
+      "openAlexId": "https://openalex.org/A5024808613",
+      "position": 2
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 3
+    },
+    {
+      "name": "David Welch",
+      "orcidId": "0000-0002-7066-2830",
+      "openAlexId": "https://openalex.org/A5051299223",
+      "position": 4
+    },
+    {
+      "name": "Alexei J. Drummond",
+      "orcidId": "0000-0003-4454-2576",
+      "openAlexId": "https://openalex.org/A5079724732",
+      "position": 5
+    }
+  ]
 }

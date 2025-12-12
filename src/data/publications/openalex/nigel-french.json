@@ -9,14 +9,245 @@
       "year": 2025,
       "venue": "Microbial Genomics",
       "doi": "https://doi.org/10.1099/mgen.0.001525",
-      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001525"
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001525",
+      "authors": [
+        {
+          "name": "Hugo Strydom",
+          "orcidId": "0000-0003-3886-9599",
+          "openAlexId": "https://openalex.org/A5031591306",
+          "position": 1
+        },
+        {
+          "name": "Jackie Wright",
+          "orcidId": "0000-0001-6462-4769",
+          "openAlexId": "https://openalex.org/A5009490214",
+          "position": 2
+        },
+        {
+          "name": "Collette Bromhead",
+          "orcidId": "0000-0002-2890-2191",
+          "openAlexId": "https://openalex.org/A5059199805",
+          "position": 3
+        },
+        {
+          "name": "David Welch",
+          "orcidId": "0000-0002-7066-2830",
+          "openAlexId": "https://openalex.org/A5051299223",
+          "position": 4
+        },
+        {
+          "name": "Ernest Williams",
+          "orcidId": "0000-0001-8727-4968",
+          "openAlexId": "https://openalex.org/A5103078435",
+          "position": 5
+        },
+        {
+          "name": "Kerry Mulqueen",
+          "orcidId": "0000-0002-7843-1009",
+          "openAlexId": "https://openalex.org/A5061988016",
+          "position": 6
+        },
+        {
+          "name": "Joep de Ligt",
+          "openAlexId": "https://openalex.org/A5072525850",
+          "position": 7
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 8
+        },
+        {
+          "name": "Shevaun Paine",
+          "orcidId": "0000-0002-0961-0281",
+          "openAlexId": "https://openalex.org/A5061827081",
+          "position": 9
+        },
+        {
+          "name": "Sarah Jefferies",
+          "orcidId": "0000-0001-7660-4466",
+          "openAlexId": "https://openalex.org/A5015927579",
+          "position": 10
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 11
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4413941094",
       "title": "A decade of genomic surveillance tracks the disappearance and reintroduction of seasonal influenza virus in Aotearoa New Zealand",
       "year": 2025,
       "doi": "https://doi.org/10.21203/rs.3.rs-7503135/v1",
-      "openAccessUrl": "https://www.researchsquare.com/article/rs-7503135/latest.pdf"
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-7503135/latest.pdf",
+      "authors": [
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 1
+        },
+        {
+          "name": "Lauren Jelley",
+          "orcidId": "0000-0001-5993-6266",
+          "openAlexId": "https://openalex.org/A5042071863",
+          "position": 2
+        },
+        {
+          "name": "Jordan Douglas",
+          "orcidId": "0000-0003-0371-9961",
+          "openAlexId": "https://openalex.org/A5052240308",
+          "position": 3
+        },
+        {
+          "name": "M. Allais",
+          "openAlexId": "https://openalex.org/A5111260118",
+          "position": 4
+        },
+        {
+          "name": "Jing Wang",
+          "orcidId": "0000-0002-7002-2374",
+          "openAlexId": "https://openalex.org/A5017932211",
+          "position": 5
+        },
+        {
+          "name": "Meaghan O’Neill",
+          "openAlexId": "https://openalex.org/A5015508289",
+          "position": 6
+        },
+        {
+          "name": "Srushti Utekar",
+          "openAlexId": "https://openalex.org/A5047164969",
+          "position": 7
+        },
+        {
+          "name": "Timothy J. Wood",
+          "openAlexId": "https://openalex.org/A5001258549",
+          "position": 8
+        },
+        {
+          "name": "Ruth Seeds",
+          "openAlexId": "https://openalex.org/A5083294518",
+          "position": 9
+        },
+        {
+          "name": "Chor Ee Tan",
+          "orcidId": "0000-0002-8573-5780",
+          "openAlexId": "https://openalex.org/A5002026570",
+          "position": 10
+        },
+        {
+          "name": "Nayyereh Aminisani",
+          "orcidId": "0000-0001-9947-2064",
+          "openAlexId": "https://openalex.org/A5019778550",
+          "position": 11
+        },
+        {
+          "name": "Tineke Jennings",
+          "openAlexId": "https://openalex.org/A5035947795",
+          "position": 12
+        },
+        {
+          "name": "Alisdair McNeil",
+          "openAlexId": "https://openalex.org/A5016782314",
+          "position": 13
+        },
+        {
+          "name": "Sarah Jefferies",
+          "orcidId": "0000-0001-7660-4466",
+          "openAlexId": "https://openalex.org/A5015927579",
+          "position": 14
+        },
+        {
+          "name": "Nikki Turner",
+          "orcidId": "0000-0001-8760-5245",
+          "openAlexId": "https://openalex.org/A5036141549",
+          "position": 15
+        },
+        {
+          "name": "Peter McIntyre",
+          "orcidId": "0000-0001-9506-5998",
+          "openAlexId": "https://openalex.org/A5101706081",
+          "position": 16
+        },
+        {
+          "name": "Anthony Dowell",
+          "openAlexId": "https://openalex.org/A5011586205",
+          "position": 17
+        },
+        {
+          "name": "Adrian Trenholme",
+          "orcidId": "0000-0003-1517-8103",
+          "openAlexId": "https://openalex.org/A5047498171",
+          "position": 18
+        },
+        {
+          "name": "Cass Brynes",
+          "openAlexId": "https://openalex.org/A5017409336",
+          "position": 19
+        },
+        {
+          "name": "The SHIVERS investigation team NA",
+          "openAlexId": "https://openalex.org/A5119522874",
+          "position": 20
+        },
+        {
+          "name": "James Hadfield",
+          "orcidId": "0000-0002-4118-6468",
+          "openAlexId": "https://openalex.org/A5001836904",
+          "position": 21
+        },
+        {
+          "name": "Andrew Sporle",
+          "openAlexId": "https://openalex.org/A5027724575",
+          "position": 22
+        },
+        {
+          "name": "Michael G. Baker",
+          "orcidId": "0000-0002-1865-1536",
+          "openAlexId": "https://openalex.org/A5036319260",
+          "position": 23
+        },
+        {
+          "name": "Paul G. Thomas",
+          "orcidId": "0000-0001-7955-0256",
+          "openAlexId": "https://openalex.org/A5005724506",
+          "position": 24
+        },
+        {
+          "name": "Joep de Ligt",
+          "openAlexId": "https://openalex.org/A5072525850",
+          "position": 25
+        },
+        {
+          "name": "Richard J. Webby",
+          "orcidId": "0000-0002-4397-7132",
+          "openAlexId": "https://openalex.org/A5005839226",
+          "position": 26
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 27
+        },
+        {
+          "name": "David J. Winter",
+          "orcidId": "0000-0002-6165-0029",
+          "openAlexId": "https://openalex.org/A5064841091",
+          "position": 28
+        },
+        {
+          "name": "Q. Sue Huang",
+          "orcidId": "0000-0002-3923-5195",
+          "openAlexId": "https://openalex.org/A5004246755",
+          "position": 29
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4413783574",
@@ -24,7 +255,65 @@
       "year": 2025,
       "venue": "Applied and Environmental Microbiology",
       "doi": "https://doi.org/10.1128/aem.01206-25",
-      "openAccessUrl": "https://doi.org/10.1128/aem.01206-25"
+      "openAccessUrl": "https://doi.org/10.1128/aem.01206-25",
+      "authors": [
+        {
+          "name": "Joanne M. Kingsbury",
+          "orcidId": "0000-0002-5939-7255",
+          "openAlexId": "https://openalex.org/A5058817821",
+          "position": 1
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 2
+        },
+        {
+          "name": "Anne C. Midwinter",
+          "orcidId": "0000-0001-5731-3233",
+          "openAlexId": "https://openalex.org/A5026814647",
+          "position": 3
+        },
+        {
+          "name": "R. E. Lucas",
+          "openAlexId": "https://openalex.org/A5108994484",
+          "position": 4
+        },
+        {
+          "name": "Maree Callander",
+          "openAlexId": "https://openalex.org/A5062495578",
+          "position": 5
+        },
+        {
+          "name": "Caroline Hird",
+          "openAlexId": "https://openalex.org/A5056645651",
+          "position": 6
+        },
+        {
+          "name": "S. Smith",
+          "orcidId": "0000-0002-8944-3769",
+          "openAlexId": "https://openalex.org/A5102875002",
+          "position": 7
+        },
+        {
+          "name": "Kerry Mulqueen",
+          "orcidId": "0000-0002-7843-1009",
+          "openAlexId": "https://openalex.org/A5061988016",
+          "position": 8
+        },
+        {
+          "name": "Roy Biggs",
+          "openAlexId": "https://openalex.org/A5012973784",
+          "position": 9
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 10
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4412653460",
@@ -32,7 +321,142 @@
       "year": 2025,
       "venue": "Microbial Genomics",
       "doi": "https://doi.org/10.1099/mgen.0.001452",
-      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001452"
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001452",
+      "authors": [
+        {
+          "name": "Rhys T. White",
+          "openAlexId": "https://openalex.org/A5020306115",
+          "position": 1
+        },
+        {
+          "name": "Sarah Bakker",
+          "orcidId": "0000-0003-2700-2316",
+          "openAlexId": "https://openalex.org/A5038157206",
+          "position": 2
+        },
+        {
+          "name": "Max Bloomfield",
+          "orcidId": "0000-0002-3920-7151",
+          "openAlexId": "https://openalex.org/A5020922264",
+          "position": 3
+        },
+        {
+          "name": "Megan Burton",
+          "orcidId": "0000-0002-7643-1814",
+          "openAlexId": "https://openalex.org/A5068786109",
+          "position": 4
+        },
+        {
+          "name": "Juliet Elvy",
+          "orcidId": "0009-0001-4482-6758",
+          "openAlexId": "https://openalex.org/A5119177570",
+          "position": 5
+        },
+        {
+          "name": "Alexandra Eustace",
+          "orcidId": "0009-0002-6487-4017",
+          "openAlexId": "https://openalex.org/A5102713951",
+          "position": 6
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 7
+        },
+        {
+          "name": "Jenny Grant",
+          "openAlexId": "https://openalex.org/A5088891951",
+          "position": 8
+        },
+        {
+          "name": "Sabrina S. Greening",
+          "orcidId": "0000-0003-4091-9022",
+          "openAlexId": "https://openalex.org/A5037289957",
+          "position": 9
+        },
+        {
+          "name": "Alex Grinberg",
+          "orcidId": "0000-0003-3692-9711",
+          "openAlexId": "https://openalex.org/A5078893201",
+          "position": 10
+        },
+        {
+          "name": "Chad Harland",
+          "orcidId": "0000-0002-6268-0107",
+          "openAlexId": "https://openalex.org/A5060884496",
+          "position": 11
+        },
+        {
+          "name": "Samantha Hutton",
+          "openAlexId": "https://openalex.org/A5061877369",
+          "position": 12
+        },
+        {
+          "name": "Ali Karkaba",
+          "orcidId": "0000-0002-1321-2753",
+          "openAlexId": "https://openalex.org/A5089764642",
+          "position": 13
+        },
+        {
+          "name": "Jesse Martin",
+          "openAlexId": "https://openalex.org/A5008129598",
+          "position": 14
+        },
+        {
+          "name": "Brya G. Matthews",
+          "orcidId": "0000-0002-4145-4696",
+          "openAlexId": "https://openalex.org/A5084762454",
+          "position": 15
+        },
+        {
+          "name": "Hilary Miller",
+          "orcidId": "0009-0009-5318-8151",
+          "openAlexId": "https://openalex.org/A5075908065",
+          "position": 16
+        },
+        {
+          "name": "Christina Straub",
+          "orcidId": "0000-0002-1047-1362",
+          "openAlexId": "https://openalex.org/A5063149028",
+          "position": 17
+        },
+        {
+          "name": "Claire Tarring",
+          "orcidId": "0009-0005-4698-6308",
+          "openAlexId": "https://openalex.org/A5066783728",
+          "position": 18
+        },
+        {
+          "name": "William M. Taylor",
+          "orcidId": "0000-0002-2629-5578",
+          "openAlexId": "https://openalex.org/A5065514864",
+          "position": 19
+        },
+        {
+          "name": "James E. Ussher",
+          "orcidId": "0000-0001-9222-7680",
+          "openAlexId": "https://openalex.org/A5114377050",
+          "position": 20
+        },
+        {
+          "name": "Charles Velasco",
+          "openAlexId": "https://openalex.org/A5104176393",
+          "position": 21
+        },
+        {
+          "name": "Emma M. Voss",
+          "orcidId": "0009-0001-3930-5165",
+          "openAlexId": "https://openalex.org/A5113279674",
+          "position": 22
+        },
+        {
+          "name": "Kristin Dyet",
+          "orcidId": "0000-0003-2508-6843",
+          "openAlexId": "https://openalex.org/A5004046142",
+          "position": 23
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411793508",
@@ -40,7 +464,85 @@
       "year": 2025,
       "venue": "The Neuroradiology Journal",
       "doi": "https://doi.org/10.1177/19714009251345109",
-      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12209233"
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12209233",
+      "authors": [
+        {
+          "name": "Rahim Ismail",
+          "openAlexId": "https://openalex.org/A5082853631",
+          "position": 1
+        },
+        {
+          "name": "Denes Szekeres",
+          "orcidId": "0000-0002-6684-3591",
+          "openAlexId": "https://openalex.org/A5084470340",
+          "position": 2
+        },
+        {
+          "name": "Alex Schick",
+          "orcidId": "0000-0003-3015-9138",
+          "openAlexId": "https://openalex.org/A5017819492",
+          "position": 3
+        },
+        {
+          "name": "Muhammad Jalal",
+          "openAlexId": "https://openalex.org/A5029277270",
+          "position": 4
+        },
+        {
+          "name": "Timothy Hoang",
+          "orcidId": "0000-0002-3012-3461",
+          "openAlexId": "https://openalex.org/A5066766989",
+          "position": 5
+        },
+        {
+          "name": "Aman P. Singh",
+          "orcidId": "0000-0002-1886-2624",
+          "openAlexId": "https://openalex.org/A5101837308",
+          "position": 6
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 7
+        },
+        {
+          "name": "Logan Worley",
+          "orcidId": "0000-0003-3767-4108",
+          "openAlexId": "https://openalex.org/A5102826940",
+          "position": 8
+        },
+        {
+          "name": "Casey Paton",
+          "orcidId": "0000-0002-9365-1421",
+          "openAlexId": "https://openalex.org/A5074707504",
+          "position": 9
+        },
+        {
+          "name": "Mark Manganaro",
+          "orcidId": "0000-0001-8540-0107",
+          "openAlexId": "https://openalex.org/A5054881001",
+          "position": 10
+        },
+        {
+          "name": "Derrek Schartz",
+          "orcidId": "0000-0002-3247-0854",
+          "openAlexId": "https://openalex.org/A5073451932",
+          "position": 11
+        },
+        {
+          "name": "Derek D. George",
+          "orcidId": "0000-0002-1298-4735",
+          "openAlexId": "https://openalex.org/A5027784662",
+          "position": 12
+        },
+        {
+          "name": "Alex Kessler",
+          "orcidId": "0000-0001-9768-1065",
+          "openAlexId": "https://openalex.org/A5011259026",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411516547",
@@ -48,7 +550,120 @@
       "year": 2025,
       "venue": "Humanities and Social Sciences Communications",
       "doi": "https://doi.org/10.1057/s41599-025-05077-3",
-      "openAccessUrl": "https://www.nature.com/articles/s41599-025-05077-3.pdf"
+      "openAccessUrl": "https://www.nature.com/articles/s41599-025-05077-3.pdf",
+      "authors": [
+        {
+          "name": "Kim M. Pepin",
+          "orcidId": "0000-0002-9931-8312",
+          "openAlexId": "https://openalex.org/A5029546585",
+          "position": 1
+        },
+        {
+          "name": "Keith M. Carlisle",
+          "orcidId": "0000-0002-5205-1294",
+          "openAlexId": "https://openalex.org/A5089492072",
+          "position": 2
+        },
+        {
+          "name": "Richard B. Chipman",
+          "openAlexId": "https://openalex.org/A5066943427",
+          "position": 3
+        },
+        {
+          "name": "Dana Cole",
+          "openAlexId": "https://openalex.org/A5060900332",
+          "position": 4
+        },
+        {
+          "name": "Dean P. Anderson",
+          "orcidId": "0000-0001-7029-3636",
+          "openAlexId": "https://openalex.org/A5011630875",
+          "position": 5
+        },
+        {
+          "name": "Michael G. Baker",
+          "orcidId": "0000-0002-1865-1536",
+          "openAlexId": "https://openalex.org/A5036319260",
+          "position": 6
+        },
+        {
+          "name": "Jackie Benschop",
+          "orcidId": "0000-0002-7814-4341",
+          "openAlexId": "https://openalex.org/A5089017342",
+          "position": 7
+        },
+        {
+          "name": "Michael Bunce",
+          "orcidId": "0000-0002-0302-4206",
+          "openAlexId": "https://openalex.org/A5085536018",
+          "position": 8
+        },
+        {
+          "name": "Rachelle N. Binny",
+          "orcidId": "0000-0002-3433-0417",
+          "openAlexId": "https://openalex.org/A5083272177",
+          "position": 9
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 10
+        },
+        {
+          "name": "Suzie Greenhalgh",
+          "orcidId": "0000-0002-4972-5059",
+          "openAlexId": "https://openalex.org/A5082821806",
+          "position": 11
+        },
+        {
+          "name": "Dion O’Neale",
+          "orcidId": "0000-0002-3827-3480",
+          "openAlexId": "https://openalex.org/A5017900727",
+          "position": 12
+        },
+        {
+          "name": "S McDougall",
+          "orcidId": "0000-0002-9865-0532",
+          "openAlexId": "https://openalex.org/A5040151744",
+          "position": 13
+        },
+        {
+          "name": "Fraser Morgan",
+          "orcidId": "0000-0002-7964-3361",
+          "openAlexId": "https://openalex.org/A5065407129",
+          "position": 14
+        },
+        {
+          "name": "Petra Muellner",
+          "openAlexId": "https://openalex.org/A5113518079",
+          "position": 15
+        },
+        {
+          "name": "Emil Murphy",
+          "orcidId": "0000-0002-5338-8382",
+          "openAlexId": "https://openalex.org/A5063593028",
+          "position": 16
+        },
+        {
+          "name": "Michael J. Plank",
+          "orcidId": "0000-0002-7539-3465",
+          "openAlexId": "https://openalex.org/A5079232149",
+          "position": 17
+        },
+        {
+          "name": "Daniel M. Tompkins",
+          "orcidId": "0000-0003-3209-8084",
+          "openAlexId": "https://openalex.org/A5064232860",
+          "position": 18
+        },
+        {
+          "name": "David T. S. Hayman",
+          "orcidId": "0000-0003-0087-3015",
+          "openAlexId": "https://openalex.org/A5015096904",
+          "position": 19
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4408956595",
@@ -56,7 +671,90 @@
       "year": 2025,
       "venue": "Journal of Wildlife Diseases",
       "doi": "https://doi.org/10.7589/jwd-d-24-00115",
-      "openAccessUrl": "https://doi.org/10.7589/jwd-d-24-00115"
+      "openAccessUrl": "https://doi.org/10.7589/jwd-d-24-00115",
+      "authors": [
+        {
+          "name": "Janet A. Taylor",
+          "orcidId": "0000-0002-0542-5046",
+          "openAlexId": "https://openalex.org/A5050178260",
+          "position": 1
+        },
+        {
+          "name": "Vivian Lee",
+          "orcidId": "0000-0001-5802-8899",
+          "openAlexId": "https://openalex.org/A5100731835",
+          "position": 2
+        },
+        {
+          "name": "Tracey Dearlove",
+          "openAlexId": "https://openalex.org/A5116841547",
+          "position": 3
+        },
+        {
+          "name": "Megan Jolly",
+          "orcidId": "0000-0002-5286-0833",
+          "openAlexId": "https://openalex.org/A5113880588",
+          "position": 4
+        },
+        {
+          "name": "Janelle R. Wierenga",
+          "orcidId": "0000-0002-4474-9289",
+          "openAlexId": "https://openalex.org/A5113903293",
+          "position": 5
+        },
+        {
+          "name": "Jeremy Dubrulle",
+          "openAlexId": "https://openalex.org/A5064332686",
+          "position": 6
+        },
+        {
+          "name": "James Hodgkinson‐Bean",
+          "orcidId": "0000-0001-9583-8794",
+          "openAlexId": "https://openalex.org/A5066657268",
+          "position": 7
+        },
+        {
+          "name": "Stuart Hunter",
+          "openAlexId": "https://openalex.org/A5062782765",
+          "position": 8
+        },
+        {
+          "name": "Brett D. Gartrell",
+          "orcidId": "0000-0002-8062-9313",
+          "openAlexId": "https://openalex.org/A5025840368",
+          "position": 9
+        },
+        {
+          "name": "Kerri Morgan",
+          "orcidId": "0000-0002-7263-8340",
+          "openAlexId": "https://openalex.org/A5025441020",
+          "position": 10
+        },
+        {
+          "name": "Kate McInnes",
+          "orcidId": "0000-0001-6993-9348",
+          "openAlexId": "https://openalex.org/A5080889813",
+          "position": 11
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 12
+        },
+        {
+          "name": "Edward C. Holmes",
+          "orcidId": "0000-0001-9596-3552",
+          "openAlexId": "https://openalex.org/A5085736091",
+          "position": 13
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410190750",
@@ -64,7 +762,55 @@
       "year": 2025,
       "venue": "Public Health",
       "doi": "https://doi.org/10.1016/j.puhe.2025.105732",
-      "openAccessUrl": "https://doi.org/10.1016/j.puhe.2025.105732"
+      "openAccessUrl": "https://doi.org/10.1016/j.puhe.2025.105732",
+      "authors": [
+        {
+          "name": "Sarah Jefferies",
+          "orcidId": "0000-0001-7660-4466",
+          "openAlexId": "https://openalex.org/A5015927579",
+          "position": 1
+        },
+        {
+          "name": "Charlotte Gilkison",
+          "openAlexId": "https://openalex.org/A5015256477",
+          "position": 2
+        },
+        {
+          "name": "Putu Duff",
+          "orcidId": "0000-0003-2027-8862",
+          "openAlexId": "https://openalex.org/A5103032572",
+          "position": 3
+        },
+        {
+          "name": "Corina Grey",
+          "orcidId": "0000-0003-1751-1934",
+          "openAlexId": "https://openalex.org/A5062155838",
+          "position": 4
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 5
+        },
+        {
+          "name": "Harriette Carr",
+          "openAlexId": "https://openalex.org/A5000424986",
+          "position": 6
+        },
+        {
+          "name": "Patricia Priest",
+          "orcidId": "0000-0003-2311-6236",
+          "openAlexId": "https://openalex.org/A5088233726",
+          "position": 7
+        },
+        {
+          "name": "Sue Crengle",
+          "orcidId": "0000-0001-9367-1492",
+          "openAlexId": "https://openalex.org/A5066494288",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410052144",
@@ -72,7 +818,85 @@
       "year": 2025,
       "venue": "Gut Pathogens",
       "doi": "https://doi.org/10.1186/s13099-025-00691-7",
-      "openAccessUrl": "https://gutpathogens.biomedcentral.com/counter/pdf/10.1186/s13099-025-00691-7"
+      "openAccessUrl": "https://gutpathogens.biomedcentral.com/counter/pdf/10.1186/s13099-025-00691-7",
+      "authors": [
+        {
+          "name": "Nitya Singh",
+          "orcidId": "0000-0003-1090-3046",
+          "openAlexId": "https://openalex.org/A5059450527",
+          "position": 1
+        },
+        {
+          "name": "Cecilie Thystrup",
+          "orcidId": "0009-0007-8566-6491",
+          "openAlexId": "https://openalex.org/A5027073369",
+          "position": 2
+        },
+        {
+          "name": "Bahar Mummed",
+          "orcidId": "0000-0003-0297-6616",
+          "openAlexId": "https://openalex.org/A5055222478",
+          "position": 3
+        },
+        {
+          "name": "Menuka Bhandari",
+          "orcidId": "0009-0004-0630-0837",
+          "openAlexId": "https://openalex.org/A5101818495",
+          "position": 4
+        },
+        {
+          "name": "Gireesh Rajashekara",
+          "orcidId": "0000-0003-2443-6733",
+          "openAlexId": "https://openalex.org/A5007063838",
+          "position": 5
+        },
+        {
+          "name": "Tine Hald",
+          "orcidId": "0000-0002-1115-9792",
+          "openAlexId": "https://openalex.org/A5069744000",
+          "position": 6
+        },
+        {
+          "name": "Mark Manary",
+          "orcidId": "0000-0003-2733-9568",
+          "openAlexId": "https://openalex.org/A5084796844",
+          "position": 7
+        },
+        {
+          "name": "Sarah McKune",
+          "orcidId": "0000-0002-3646-5921",
+          "openAlexId": "https://openalex.org/A5022283012",
+          "position": 8
+        },
+        {
+          "name": "Jemal Yusuf Hassen",
+          "openAlexId": "https://openalex.org/A5111307572",
+          "position": 9
+        },
+        {
+          "name": "Helen Smith",
+          "openAlexId": "https://openalex.org/A5025212622",
+          "position": 10
+        },
+        {
+          "name": "Jonathan C. Marshall",
+          "orcidId": "0000-0003-0758-9658",
+          "openAlexId": "https://openalex.org/A5074224187",
+          "position": 11
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 12
+        },
+        {
+          "name": "Arie H. Havelaar",
+          "orcidId": "0000-0002-6456-5460",
+          "openAlexId": "https://openalex.org/A5042994689",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4409605651",
@@ -80,7 +904,85 @@
       "year": 2025,
       "venue": "Molecular Ecology",
       "doi": "https://doi.org/10.1111/mec.17761",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17761"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17761",
+      "authors": [
+        {
+          "name": "Rebecca K. French",
+          "orcidId": "0000-0002-5452-6994",
+          "openAlexId": "https://openalex.org/A5027616068",
+          "position": 1
+        },
+        {
+          "name": "Stephanie J. Waller",
+          "orcidId": "0000-0003-0618-9556",
+          "openAlexId": "https://openalex.org/A5053124094",
+          "position": 2
+        },
+        {
+          "name": "Janelle R. Wierenga",
+          "orcidId": "0000-0002-4474-9289",
+          "openAlexId": "https://openalex.org/A5113903293",
+          "position": 3
+        },
+        {
+          "name": "Rebecca M. Grimwood",
+          "orcidId": "0000-0002-7529-9823",
+          "openAlexId": "https://openalex.org/A5024788837",
+          "position": 4
+        },
+        {
+          "name": "James Hodgkinson‐Bean",
+          "orcidId": "0000-0001-9583-8794",
+          "openAlexId": "https://openalex.org/A5066657268",
+          "position": 5
+        },
+        {
+          "name": "Andrew Digby",
+          "orcidId": "0000-0002-1870-8811",
+          "openAlexId": "https://openalex.org/A5088919135",
+          "position": 6
+        },
+        {
+          "name": "Lydia Uddstrom",
+          "openAlexId": "https://openalex.org/A5042536326",
+          "position": 7
+        },
+        {
+          "name": "Daryl Eason",
+          "openAlexId": "https://openalex.org/A5040553394",
+          "position": 8
+        },
+        {
+          "name": "Lisa S. Argilla",
+          "orcidId": "0000-0002-2614-5000",
+          "openAlexId": "https://openalex.org/A5086421351",
+          "position": 9
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 10
+        },
+        {
+          "name": "Adrian L. Cookson",
+          "orcidId": "0000-0002-8197-3386",
+          "openAlexId": "https://openalex.org/A5085865945",
+          "position": 11
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 12
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4408555609",
@@ -88,7 +990,83 @@
       "year": 2025,
       "venue": "The Lancet Regional Health - Western Pacific",
       "doi": "https://doi.org/10.1016/j.lanwpc.2025.101525",
-      "openAccessUrl": "https://doi.org/10.1016/j.lanwpc.2025.101525"
+      "openAccessUrl": "https://doi.org/10.1016/j.lanwpc.2025.101525",
+      "authors": [
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 1
+        },
+        {
+          "name": "Hazel Maxwell",
+          "orcidId": "0000-0003-0610-4698",
+          "openAlexId": "https://openalex.org/A5066772030",
+          "position": 2
+        },
+        {
+          "name": "Michael G. Baker",
+          "orcidId": "0000-0002-1865-1536",
+          "openAlexId": "https://openalex.org/A5036319260",
+          "position": 3
+        },
+        {
+          "name": "Fiona Callaghan",
+          "openAlexId": "https://openalex.org/A5116673923",
+          "position": 4
+        },
+        {
+          "name": "Kristin Dyet",
+          "orcidId": "0000-0003-2508-6843",
+          "openAlexId": "https://openalex.org/A5004046142",
+          "position": 5
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 6
+        },
+        {
+          "name": "David T. S. Hayman",
+          "orcidId": "0000-0003-0087-3015",
+          "openAlexId": "https://openalex.org/A5015096904",
+          "position": 7
+        },
+        {
+          "name": "Q. Sue Huang",
+          "orcidId": "0000-0002-3923-5195",
+          "openAlexId": "https://openalex.org/A5004246755",
+          "position": 8
+        },
+        {
+          "name": "Amanda Kvalsvig",
+          "openAlexId": "https://openalex.org/A5102715610",
+          "position": 9
+        },
+        {
+          "name": "Eric Russell",
+          "openAlexId": "https://openalex.org/A5066361188",
+          "position": 10
+        },
+        {
+          "name": "Pippa Scott",
+          "orcidId": "0000-0003-0849-1812",
+          "openAlexId": "https://openalex.org/A5041045556",
+          "position": 11
+        },
+        {
+          "name": "Theodore J. Thompson",
+          "openAlexId": "https://openalex.org/A5021298428",
+          "position": 12
+        },
+        {
+          "name": "Michael J. Plank",
+          "orcidId": "0000-0002-7539-3465",
+          "openAlexId": "https://openalex.org/A5079232149",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4406923784",
@@ -96,7 +1074,56 @@
       "year": 2025,
       "venue": "Journal of Infection",
       "doi": "https://doi.org/10.1016/j.jinf.2025.106427",
-      "openAccessUrl": "https://doi.org/10.1016/j.jinf.2025.106427"
+      "openAccessUrl": "https://doi.org/10.1016/j.jinf.2025.106427",
+      "authors": [
+        {
+          "name": "Paul Ogbuigwe",
+          "orcidId": "0000-0002-0553-3207",
+          "openAlexId": "https://openalex.org/A5018982743",
+          "position": 1
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 2
+        },
+        {
+          "name": "Juan C. García–R",
+          "orcidId": "0000-0002-6665-9671",
+          "openAlexId": "https://openalex.org/A5042491259",
+          "position": 3
+        },
+        {
+          "name": "Matthew A. Knox",
+          "orcidId": "0000-0001-6764-6568",
+          "openAlexId": "https://openalex.org/A5000704377",
+          "position": 4
+        },
+        {
+          "name": "Anthony Pita",
+          "orcidId": "0000-0003-4597-7918",
+          "openAlexId": "https://openalex.org/A5091159703",
+          "position": 5
+        },
+        {
+          "name": "Niluka Velathanthir",
+          "openAlexId": "https://openalex.org/A5116066143",
+          "position": 6
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 7
+        },
+        {
+          "name": "David T. S. Hayman",
+          "orcidId": "0000-0003-0087-3015",
+          "openAlexId": "https://openalex.org/A5015096904",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4406127608",
@@ -104,14 +1131,224 @@
       "year": 2025,
       "venue": "Frontiers in Public Health",
       "doi": "https://doi.org/10.3389/fpubh.2024.1467462",
-      "openAccessUrl": "https://doi.org/10.3389/fpubh.2024.1467462"
+      "openAccessUrl": "https://doi.org/10.3389/fpubh.2024.1467462",
+      "authors": [
+        {
+          "name": "Dehao Chen",
+          "orcidId": "0000-0003-4482-0329",
+          "openAlexId": "https://openalex.org/A5052656899",
+          "position": 1
+        },
+        {
+          "name": "Sarah McKune",
+          "orcidId": "0000-0002-3646-5921",
+          "openAlexId": "https://openalex.org/A5022283012",
+          "position": 2
+        },
+        {
+          "name": "Yang Yang",
+          "orcidId": "0000-0002-8092-1736",
+          "openAlexId": "https://openalex.org/A5100397674",
+          "position": 3
+        },
+        {
+          "name": "Usmane Ibsa Aliyi",
+          "orcidId": "0000-0001-9846-2032",
+          "openAlexId": "https://openalex.org/A5004589997",
+          "position": 4
+        },
+        {
+          "name": "Ibsa Abdusemed Ahmed",
+          "openAlexId": "https://openalex.org/A5027411559",
+          "position": 5
+        },
+        {
+          "name": "Jafer Kedir Amin",
+          "orcidId": "0000-0001-7596-9324",
+          "openAlexId": "https://openalex.org/A5103152889",
+          "position": 6
+        },
+        {
+          "name": "Abdulmuen Mohammed Ibrahim",
+          "orcidId": "0000-0003-4510-5191",
+          "openAlexId": "https://openalex.org/A5088520650",
+          "position": 7
+        },
+        {
+          "name": "Abadir Jemal Seran",
+          "openAlexId": "https://openalex.org/A5092150433",
+          "position": 8
+        },
+        {
+          "name": "Nurmohammad Shaik",
+          "openAlexId": "https://openalex.org/A5113223749",
+          "position": 9
+        },
+        {
+          "name": "Amanda Ojeda",
+          "orcidId": "0000-0002-5059-0008",
+          "openAlexId": "https://openalex.org/A5067457523",
+          "position": 10
+        },
+        {
+          "name": "Bahar Mummed",
+          "orcidId": "0000-0003-0297-6616",
+          "openAlexId": "https://openalex.org/A5055222478",
+          "position": 11
+        },
+        {
+          "name": "Löıc Deblais",
+          "orcidId": "0000-0002-6290-3956",
+          "openAlexId": "https://openalex.org/A5010080622",
+          "position": 12
+        },
+        {
+          "name": "Belisa Usmael Ahmedo",
+          "openAlexId": "https://openalex.org/A5027991157",
+          "position": 13
+        },
+        {
+          "name": "Kedir Abdi Hassen",
+          "openAlexId": "https://openalex.org/A5086408804",
+          "position": 14
+        },
+        {
+          "name": "Mussie Bhrane",
+          "openAlexId": "https://openalex.org/A5111208340",
+          "position": 15
+        },
+        {
+          "name": "Xiaolong Li",
+          "orcidId": "0000-0002-8396-2912",
+          "openAlexId": "https://openalex.org/A5101904889",
+          "position": 16
+        },
+        {
+          "name": "Nitya Singh",
+          "orcidId": "0000-0003-1090-3046",
+          "openAlexId": "https://openalex.org/A5059450527",
+          "position": 17
+        },
+        {
+          "name": "Kedir Teji Roba",
+          "openAlexId": "https://openalex.org/A5108131817",
+          "position": 18
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 19
+        },
+        {
+          "name": "Gireesh Rajashekara",
+          "orcidId": "0000-0003-2443-6733",
+          "openAlexId": "https://openalex.org/A5007063838",
+          "position": 20
+        },
+        {
+          "name": "Mark Manary",
+          "orcidId": "0000-0003-2733-9568",
+          "openAlexId": "https://openalex.org/A5084796844",
+          "position": 21
+        },
+        {
+          "name": "Jemal Yusuf Hassen",
+          "openAlexId": "https://openalex.org/A5111307572",
+          "position": 22
+        },
+        {
+          "name": "Arie H. Havelaar",
+          "orcidId": "0000-0002-6456-5460",
+          "openAlexId": "https://openalex.org/A5042994689",
+          "position": 23
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4405984869",
       "title": "Transmission pathways of Campylobacter jejuni between humans and livestock in rural Ethiopia are highly complex and interdependent",
       "year": 2025,
       "doi": "https://doi.org/10.21203/rs.3.rs-5735672/v1",
-      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-5735672/v1"
+      "openAccessUrl": "https://doi.org/10.21203/rs.3.rs-5735672/v1",
+      "authors": [
+        {
+          "name": "Nitya Singh",
+          "orcidId": "0000-0003-1090-3046",
+          "openAlexId": "https://openalex.org/A5059450527",
+          "position": 1
+        },
+        {
+          "name": "Cecilie Thystrup",
+          "orcidId": "0009-0007-8566-6491",
+          "openAlexId": "https://openalex.org/A5027073369",
+          "position": 2
+        },
+        {
+          "name": "Bahar Mummed",
+          "orcidId": "0000-0003-0297-6616",
+          "openAlexId": "https://openalex.org/A5055222478",
+          "position": 3
+        },
+        {
+          "name": "Menuka Bhandari",
+          "orcidId": "0009-0004-0630-0837",
+          "openAlexId": "https://openalex.org/A5101818495",
+          "position": 4
+        },
+        {
+          "name": "Gireesh Rajashekara",
+          "orcidId": "0000-0003-2443-6733",
+          "openAlexId": "https://openalex.org/A5007063838",
+          "position": 5
+        },
+        {
+          "name": "Tine Hald",
+          "orcidId": "0000-0002-1115-9792",
+          "openAlexId": "https://openalex.org/A5069744000",
+          "position": 6
+        },
+        {
+          "name": "Mark Manary",
+          "orcidId": "0000-0003-2733-9568",
+          "openAlexId": "https://openalex.org/A5084796844",
+          "position": 7
+        },
+        {
+          "name": "Sarah McKune",
+          "orcidId": "0000-0002-3646-5921",
+          "openAlexId": "https://openalex.org/A5022283012",
+          "position": 8
+        },
+        {
+          "name": "Jemal Yusuf Hassen",
+          "openAlexId": "https://openalex.org/A5111307572",
+          "position": 9
+        },
+        {
+          "name": "Helen Smith",
+          "openAlexId": "https://openalex.org/A5025212622",
+          "position": 10
+        },
+        {
+          "name": "Jonathan C. Marshall",
+          "orcidId": "0000-0003-0758-9658",
+          "openAlexId": "https://openalex.org/A5074224187",
+          "position": 11
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 12
+        },
+        {
+          "name": "Arie H. Havelaar",
+          "orcidId": "0000-0002-6456-5460",
+          "openAlexId": "https://openalex.org/A5042994689",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4405028469",
@@ -119,14 +1356,136 @@
       "year": 2024,
       "venue": "Microbial Genomics",
       "doi": "https://doi.org/10.1099/mgen.0.001318",
-      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001318"
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001318",
+      "authors": [
+        {
+          "name": "Christina Straub",
+          "orcidId": "0000-0002-1047-1362",
+          "openAlexId": "https://openalex.org/A5063149028",
+          "position": 1
+        },
+        {
+          "name": "William Taylor",
+          "orcidId": "0000-0002-9305-1629",
+          "openAlexId": "https://openalex.org/A5103114156",
+          "position": 2
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 3
+        },
+        {
+          "name": "David R. Murdoch",
+          "orcidId": "0000-0003-0070-8001",
+          "openAlexId": "https://openalex.org/A5058492181",
+          "position": 4
+        },
+        {
+          "name": "Patricia Priest",
+          "orcidId": "0000-0003-2311-6236",
+          "openAlexId": "https://openalex.org/A5088233726",
+          "position": 5
+        },
+        {
+          "name": "Trevor P. Anderson",
+          "orcidId": "0000-0002-2454-4876",
+          "openAlexId": "https://openalex.org/A5007163211",
+          "position": 6
+        },
+        {
+          "name": "Pippa Scott",
+          "orcidId": "0000-0003-0849-1812",
+          "openAlexId": "https://openalex.org/A5041045556",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404536951",
       "title": "Evidence for a role of extraintestinal pathogenic Escherichia coli, Enterococcus faecalis and Streptococcus gallolyticus in the aetiology of exudative cloacitis in the critically endangered kākāpō (Strigops habroptilus)",
       "year": 2024,
       "doi": "https://doi.org/10.22541/au.173211005.58187819/v1",
-      "openAccessUrl": "https://doi.org/10.22541/au.173211005.58187819/v1"
+      "openAccessUrl": "https://doi.org/10.22541/au.173211005.58187819/v1",
+      "authors": [
+        {
+          "name": "Rebecca K. French",
+          "orcidId": "0000-0002-5452-6994",
+          "openAlexId": "https://openalex.org/A5027616068",
+          "position": 1
+        },
+        {
+          "name": "Stephanie J. Waller",
+          "orcidId": "0000-0003-0618-9556",
+          "openAlexId": "https://openalex.org/A5053124094",
+          "position": 2
+        },
+        {
+          "name": "Janelle R. Wierenga",
+          "orcidId": "0000-0002-4474-9289",
+          "openAlexId": "https://openalex.org/A5113903293",
+          "position": 3
+        },
+        {
+          "name": "Rebecca M. Grimwood",
+          "orcidId": "0000-0002-7529-9823",
+          "openAlexId": "https://openalex.org/A5024788837",
+          "position": 4
+        },
+        {
+          "name": "James Hodgkinson‐Bean",
+          "orcidId": "0000-0001-9583-8794",
+          "openAlexId": "https://openalex.org/A5066657268",
+          "position": 5
+        },
+        {
+          "name": "Andrew Digby",
+          "orcidId": "0000-0002-1870-8811",
+          "openAlexId": "https://openalex.org/A5088919135",
+          "position": 6
+        },
+        {
+          "name": "Lydia Uddstrom",
+          "openAlexId": "https://openalex.org/A5042536326",
+          "position": 7
+        },
+        {
+          "name": "Daryl Eason",
+          "openAlexId": "https://openalex.org/A5040553394",
+          "position": 8
+        },
+        {
+          "name": "Lisa S. Argilla",
+          "orcidId": "0000-0002-2614-5000",
+          "openAlexId": "https://openalex.org/A5086421351",
+          "position": 9
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 10
+        },
+        {
+          "name": "Adrian L. Cookson",
+          "orcidId": "0000-0002-8197-3386",
+          "openAlexId": "https://openalex.org/A5085865945",
+          "position": 11
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 12
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404489259",
@@ -134,7 +1493,38 @@
       "year": 2024,
       "venue": "PeerJ Computer Science",
       "doi": "https://doi.org/10.7717/peerj-cs.2445",
-      "openAccessUrl": "https://doi.org/10.7717/peerj-cs.2445"
+      "openAccessUrl": "https://doi.org/10.7717/peerj-cs.2445",
+      "authors": [
+        {
+          "name": "Helen Smith",
+          "openAlexId": "https://openalex.org/A5025212622",
+          "position": 1
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 2
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 3
+        },
+        {
+          "name": "Adam N. H. Smith",
+          "orcidId": "0000-0003-0059-6206",
+          "openAlexId": "https://openalex.org/A5102003481",
+          "position": 4
+        },
+        {
+          "name": "Jonathan C. Marshall",
+          "orcidId": "0000-0003-0758-9658",
+          "openAlexId": "https://openalex.org/A5074224187",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404230159",
@@ -142,7 +1532,165 @@
       "year": 2024,
       "venue": "Nature Communications",
       "doi": "https://doi.org/10.1038/s41467-024-53998-5",
-      "openAccessUrl": "https://www.nature.com/articles/s41467-024-53998-5.pdf"
+      "openAccessUrl": "https://www.nature.com/articles/s41467-024-53998-5.pdf",
+      "authors": [
+        {
+          "name": "Lauren Jelley",
+          "orcidId": "0000-0001-5993-6266",
+          "openAlexId": "https://openalex.org/A5042071863",
+          "position": 1
+        },
+        {
+          "name": "Jordan Douglas",
+          "orcidId": "0000-0003-0371-9961",
+          "openAlexId": "https://openalex.org/A5052240308",
+          "position": 2
+        },
+        {
+          "name": "Meaghan O’Neill",
+          "openAlexId": "https://openalex.org/A5015508289",
+          "position": 3
+        },
+        {
+          "name": "Klarysse Berquist",
+          "openAlexId": "https://openalex.org/A5022710186",
+          "position": 4
+        },
+        {
+          "name": "A. C. M. Claasen",
+          "openAlexId": "https://openalex.org/A5025962902",
+          "position": 5
+        },
+        {
+          "name": "Jing Wang",
+          "orcidId": "0000-0002-7002-2374",
+          "openAlexId": "https://openalex.org/A5017932211",
+          "position": 6
+        },
+        {
+          "name": "Srushti Utekar",
+          "openAlexId": "https://openalex.org/A5047164969",
+          "position": 7
+        },
+        {
+          "name": "Helen Johnston",
+          "orcidId": "0000-0002-7862-5858",
+          "openAlexId": "https://openalex.org/A5045868816",
+          "position": 8
+        },
+        {
+          "name": "Judy Bocacao",
+          "openAlexId": "https://openalex.org/A5087321825",
+          "position": 9
+        },
+        {
+          "name": "M. Allais",
+          "openAlexId": "https://openalex.org/A5111260118",
+          "position": 10
+        },
+        {
+          "name": "Joep de Ligt",
+          "openAlexId": "https://openalex.org/A5072525850",
+          "position": 11
+        },
+        {
+          "name": "Chor Ee Tan",
+          "orcidId": "0000-0002-8573-5780",
+          "openAlexId": "https://openalex.org/A5002026570",
+          "position": 12
+        },
+        {
+          "name": "Ruth Seeds",
+          "openAlexId": "https://openalex.org/A5083294518",
+          "position": 13
+        },
+        {
+          "name": "Timothy J. Wood",
+          "openAlexId": "https://openalex.org/A5001258549",
+          "position": 14
+        },
+        {
+          "name": "Nayyereh Aminisani",
+          "orcidId": "0000-0001-9947-2064",
+          "openAlexId": "https://openalex.org/A5019778550",
+          "position": 15
+        },
+        {
+          "name": "Tineke Jennings",
+          "openAlexId": "https://openalex.org/A5035947795",
+          "position": 16
+        },
+        {
+          "name": "David Welch",
+          "openAlexId": "https://openalex.org/A5029441938",
+          "position": 17
+        },
+        {
+          "name": "Nikki Turner",
+          "orcidId": "0000-0001-8760-5245",
+          "openAlexId": "https://openalex.org/A5036141549",
+          "position": 18
+        },
+        {
+          "name": "Peter McIntyre",
+          "orcidId": "0000-0001-5808-7450",
+          "openAlexId": "https://openalex.org/A5005901241",
+          "position": 19
+        },
+        {
+          "name": "Tony Dowell",
+          "openAlexId": "https://openalex.org/A5039509277",
+          "position": 20
+        },
+        {
+          "name": "Adrian Trenholme",
+          "orcidId": "0000-0003-1517-8103",
+          "openAlexId": "https://openalex.org/A5047498171",
+          "position": 21
+        },
+        {
+          "name": "Catherine A. Byrnes",
+          "orcidId": "0000-0002-3032-3172",
+          "openAlexId": "https://openalex.org/A5073374688",
+          "position": 22
+        },
+        {
+          "name": "Paul G. Thomas",
+          "orcidId": "0000-0001-7955-0256",
+          "openAlexId": "https://openalex.org/A5005724506",
+          "position": 23
+        },
+        {
+          "name": "Richard J. Webby",
+          "orcidId": "0000-0002-4397-7132",
+          "openAlexId": "https://openalex.org/A5005839226",
+          "position": 24
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 25
+        },
+        {
+          "name": "Q. Sue Huang",
+          "orcidId": "0000-0002-3923-5195",
+          "openAlexId": "https://openalex.org/A5004246755",
+          "position": 26
+        },
+        {
+          "name": "David J. Winter",
+          "orcidId": "0000-0002-6165-0029",
+          "openAlexId": "https://openalex.org/A5064841091",
+          "position": 27
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 28
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404128410",
@@ -150,7 +1698,85 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.11.07.622535",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/07/2024.11.07.622535.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/07/2024.11.07.622535.full.pdf",
+      "authors": [
+        {
+          "name": "Rebecca K. French",
+          "orcidId": "0000-0002-5452-6994",
+          "openAlexId": "https://openalex.org/A5027616068",
+          "position": 1
+        },
+        {
+          "name": "Stephanie J. Waller",
+          "orcidId": "0000-0003-0618-9556",
+          "openAlexId": "https://openalex.org/A5053124094",
+          "position": 2
+        },
+        {
+          "name": "Janelle R. Wierenga",
+          "orcidId": "0000-0002-4474-9289",
+          "openAlexId": "https://openalex.org/A5113903293",
+          "position": 3
+        },
+        {
+          "name": "Rebecca M. Grimwood",
+          "orcidId": "0000-0002-7529-9823",
+          "openAlexId": "https://openalex.org/A5024788837",
+          "position": 4
+        },
+        {
+          "name": "James Hodgkinson‐Bean",
+          "orcidId": "0000-0001-9583-8794",
+          "openAlexId": "https://openalex.org/A5066657268",
+          "position": 5
+        },
+        {
+          "name": "Andrew Digby",
+          "orcidId": "0000-0002-1870-8811",
+          "openAlexId": "https://openalex.org/A5088919135",
+          "position": 6
+        },
+        {
+          "name": "Lydia Uddstrom",
+          "openAlexId": "https://openalex.org/A5042536326",
+          "position": 7
+        },
+        {
+          "name": "Daryl Eason",
+          "openAlexId": "https://openalex.org/A5040553394",
+          "position": 8
+        },
+        {
+          "name": "Lisa S. Argilla",
+          "orcidId": "0000-0002-2614-5000",
+          "openAlexId": "https://openalex.org/A5086421351",
+          "position": 9
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 10
+        },
+        {
+          "name": "Adrian L. Cookson",
+          "orcidId": "0000-0002-8197-3386",
+          "openAlexId": "https://openalex.org/A5085865945",
+          "position": 11
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 12
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 13
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404060840",
@@ -158,7 +1784,51 @@
       "year": 2024,
       "venue": "Microbial Genomics",
       "doi": "https://doi.org/10.1099/mgen.0.001319",
-      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001319"
+      "openAccessUrl": "https://doi.org/10.1099/mgen.0.001319",
+      "authors": [
+        {
+          "name": "Danielle M. Cribb",
+          "orcidId": "0000-0002-7200-1227",
+          "openAlexId": "https://openalex.org/A5022809489",
+          "position": 1
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 2
+        },
+        {
+          "name": "Angus McLure",
+          "orcidId": "0000-0003-2890-2703",
+          "openAlexId": "https://openalex.org/A5039822804",
+          "position": 3
+        },
+        {
+          "name": "Rhiannon L. Wallace",
+          "orcidId": "0000-0001-6978-7604",
+          "openAlexId": "https://openalex.org/A5083723750",
+          "position": 4
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 5
+        },
+        {
+          "name": "Kathryn Glass",
+          "orcidId": "0000-0001-5905-1310",
+          "openAlexId": "https://openalex.org/A5053264166",
+          "position": 6
+        },
+        {
+          "name": "Martyn Kirk",
+          "orcidId": "0000-0001-5432-5984",
+          "openAlexId": "https://openalex.org/A5068955276",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402828490",
@@ -166,7 +1836,165 @@
       "year": 2024,
       "venue": "Emerging infectious diseases",
       "doi": "https://doi.org/10.3201/eid3010.231399",
-      "openAccessUrl": "https://doi.org/10.3201/eid3010.231399"
+      "openAccessUrl": "https://doi.org/10.3201/eid3010.231399",
+      "authors": [
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 1
+        },
+        {
+          "name": "Kate M. Thomas",
+          "orcidId": "0000-0002-1589-8314",
+          "openAlexId": "https://openalex.org/A5033469220",
+          "position": 2
+        },
+        {
+          "name": "Nelson Amani",
+          "openAlexId": "https://openalex.org/A5026841999",
+          "position": 3
+        },
+        {
+          "name": "Jackie Benschop",
+          "orcidId": "0000-0002-7814-4341",
+          "openAlexId": "https://openalex.org/A5089017342",
+          "position": 4
+        },
+        {
+          "name": "Godfrey Bigogo",
+          "openAlexId": "https://openalex.org/A5037723243",
+          "position": 5
+        },
+        {
+          "name": "Sarah Cleaveland",
+          "orcidId": "0000-0002-0456-0959",
+          "openAlexId": "https://openalex.org/A5087532242",
+          "position": 6
+        },
+        {
+          "name": "Fayaz Ahmed",
+          "openAlexId": "https://openalex.org/A5101149099",
+          "position": 7
+        },
+        {
+          "name": "Ephrasia Hugho",
+          "orcidId": "0000-0002-6154-3346",
+          "openAlexId": "https://openalex.org/A5034360341",
+          "position": 8
+        },
+        {
+          "name": "Esron D. Karimuribo",
+          "orcidId": "0000-0002-5517-1769",
+          "openAlexId": "https://openalex.org/A5082724201",
+          "position": 9
+        },
+        {
+          "name": "Elizabeth Kasagama",
+          "orcidId": "0000-0002-9900-4153",
+          "openAlexId": "https://openalex.org/A5013299791",
+          "position": 10
+        },
+        {
+          "name": "Ruth Maganga",
+          "orcidId": "0000-0002-3007-7266",
+          "openAlexId": "https://openalex.org/A5065035533",
+          "position": 11
+        },
+        {
+          "name": "Matayo Melubo",
+          "openAlexId": "https://openalex.org/A5084507375",
+          "position": 12
+        },
+        {
+          "name": "Anne C. Midwinter",
+          "orcidId": "0000-0001-5731-3233",
+          "openAlexId": "https://openalex.org/A5026814647",
+          "position": 13
+        },
+        {
+          "name": "Blandina T. Mmbaga",
+          "orcidId": "0000-0002-5550-1916",
+          "openAlexId": "https://openalex.org/A5089767596",
+          "position": 14
+        },
+        {
+          "name": "Victor Mosha",
+          "orcidId": "0000-0003-3268-7428",
+          "openAlexId": "https://openalex.org/A5003283773",
+          "position": 15
+        },
+        {
+          "name": "Fadhili Mshana",
+          "openAlexId": "https://openalex.org/A5111318080",
+          "position": 16
+        },
+        {
+          "name": "Peninah Munyua",
+          "orcidId": "0000-0003-1950-8616",
+          "openAlexId": "https://openalex.org/A5031631443",
+          "position": 17
+        },
+        {
+          "name": "John B. Ochieng",
+          "orcidId": "0000-0002-5301-4559",
+          "openAlexId": "https://openalex.org/A5050947018",
+          "position": 18
+        },
+        {
+          "name": "Lynn Rogers",
+          "orcidId": "0000-0001-7585-7795",
+          "openAlexId": "https://openalex.org/A5041576535",
+          "position": 19
+        },
+        {
+          "name": "Emmanuel Sindiyo",
+          "orcidId": "0000-0002-7197-9135",
+          "openAlexId": "https://openalex.org/A5080213808",
+          "position": 20
+        },
+        {
+          "name": "Emmanuel S. Swai",
+          "orcidId": "0000-0001-6273-7946",
+          "openAlexId": "https://openalex.org/A5011448575",
+          "position": 21
+        },
+        {
+          "name": "Jennifer R. Verani",
+          "orcidId": "0000-0001-5267-1883",
+          "openAlexId": "https://openalex.org/A5087653992",
+          "position": 22
+        },
+        {
+          "name": "Marc‐Alain Widdowson",
+          "orcidId": "0000-0002-0682-6933",
+          "openAlexId": "https://openalex.org/A5045971751",
+          "position": 23
+        },
+        {
+          "name": "David A. Wilkinson",
+          "orcidId": "0000-0002-9986-6212",
+          "openAlexId": "https://openalex.org/A5101820260",
+          "position": 24
+        },
+        {
+          "name": "Rudovick Kazwala",
+          "orcidId": "0000-0003-3918-1323",
+          "openAlexId": "https://openalex.org/A5008745182",
+          "position": 25
+        },
+        {
+          "name": "John A. Crump",
+          "openAlexId": "https://openalex.org/A5026459900",
+          "position": 26
+        },
+        {
+          "name": "Ruth N. Zadoks",
+          "orcidId": "0000-0002-1164-8000",
+          "openAlexId": "https://openalex.org/A5041819836",
+          "position": 27
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402214987",
@@ -174,7 +2002,48 @@
       "year": 2024,
       "venue": "New Zealand Medical Journal",
       "doi": "https://doi.org/10.26635/6965.6573",
-      "openAccessUrl": "https://doi.org/10.26635/6965.6573"
+      "openAccessUrl": "https://doi.org/10.26635/6965.6573",
+      "authors": [
+        {
+          "name": "James Mbinta",
+          "orcidId": "0000-0003-1985-6303",
+          "openAlexId": "https://openalex.org/A5017938018",
+          "position": 1
+        },
+        {
+          "name": "Andrew Sporle",
+          "openAlexId": "https://openalex.org/A5027724575",
+          "position": 2
+        },
+        {
+          "name": "Jan Sheppard",
+          "openAlexId": "https://openalex.org/A5113366640",
+          "position": 3
+        },
+        {
+          "name": "Aliitasi Su’a-Tavila",
+          "openAlexId": "https://openalex.org/A5106985496",
+          "position": 4
+        },
+        {
+          "name": "Binh P. Nguyen",
+          "orcidId": "0000-0001-6203-6664",
+          "openAlexId": "https://openalex.org/A5091142923",
+          "position": 5
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 6
+        },
+        {
+          "name": "Colin R Simpson",
+          "orcidId": "0000-0002-5194-8083",
+          "openAlexId": "https://openalex.org/A5031640821",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4400610738",
@@ -182,7 +2051,50 @@
       "year": 2024,
       "venue": "European Journal of Wildlife Research",
       "doi": "https://doi.org/10.1007/s10344-024-01827-x",
-      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10344-024-01827-x.pdf"
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10344-024-01827-x.pdf",
+      "authors": [
+        {
+          "name": "Jorge Tobajas",
+          "orcidId": "0000-0002-8329-8265",
+          "openAlexId": "https://openalex.org/A5073178488",
+          "position": 1
+        },
+        {
+          "name": "Kyle S. Richardson",
+          "openAlexId": "https://openalex.org/A5012058759",
+          "position": 2
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 3
+        },
+        {
+          "name": "Bryce M. Buddle",
+          "orcidId": "0000-0001-6197-6689",
+          "openAlexId": "https://openalex.org/A5000575764",
+          "position": 4
+        },
+        {
+          "name": "Chris Jewell",
+          "orcidId": "0000-0002-7902-2178",
+          "openAlexId": "https://openalex.org/A5071700332",
+          "position": 5
+        },
+        {
+          "name": "Daniel M. Tompkins",
+          "orcidId": "0000-0003-3209-8084",
+          "openAlexId": "https://openalex.org/A5064232860",
+          "position": 6
+        },
+        {
+          "name": "Carlos Rouco",
+          "orcidId": "0000-0003-1026-3253",
+          "openAlexId": "https://openalex.org/A5081702692",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4398770176",
@@ -190,7 +2102,33 @@
       "year": 2024,
       "venue": "Nature Reviews Microbiology",
       "doi": "https://doi.org/10.1038/s41579-024-01051-z",
-      "openAccessUrl": "https://doi.org/10.1038/s41579-024-01051-z"
+      "openAccessUrl": "https://doi.org/10.1038/s41579-024-01051-z",
+      "authors": [
+        {
+          "name": "Alison E. Mather",
+          "orcidId": "0000-0001-6513-3515",
+          "openAlexId": "https://openalex.org/A5091088985",
+          "position": 1
+        },
+        {
+          "name": "Matthew W. Gilmour",
+          "orcidId": "0000-0002-6005-3628",
+          "openAlexId": "https://openalex.org/A5085129450",
+          "position": 2
+        },
+        {
+          "name": "S. W. J. Reid",
+          "orcidId": "0000-0002-6872-9071",
+          "openAlexId": "https://openalex.org/A5068789266",
+          "position": 3
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4398200215",
@@ -198,7 +2136,139 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.05.21.24307707",
-      "openAccessUrl": "https://www.medrxiv.org/content/medrxiv/early/2024/05/22/2024.05.21.24307707.full.pdf"
+      "openAccessUrl": "https://www.medrxiv.org/content/medrxiv/early/2024/05/22/2024.05.21.24307707.full.pdf",
+      "authors": [
+        {
+          "name": "Dehao Chen",
+          "openAlexId": "https://openalex.org/A5074350356",
+          "position": 1
+        },
+        {
+          "name": "Sarah McKune",
+          "orcidId": "0000-0002-3646-5921",
+          "openAlexId": "https://openalex.org/A5022283012",
+          "position": 2
+        },
+        {
+          "name": "Yang Yang",
+          "orcidId": "0000-0002-8092-1736",
+          "openAlexId": "https://openalex.org/A5100397674",
+          "position": 3
+        },
+        {
+          "name": "Usmane Ibsa Aliyi",
+          "orcidId": "0000-0001-9846-2032",
+          "openAlexId": "https://openalex.org/A5004589997",
+          "position": 4
+        },
+        {
+          "name": "Ibsa Abdusemed Ahmed",
+          "openAlexId": "https://openalex.org/A5027411559",
+          "position": 5
+        },
+        {
+          "name": "Jafer Kedir Amin",
+          "orcidId": "0000-0001-7596-9324",
+          "openAlexId": "https://openalex.org/A5103152889",
+          "position": 6
+        },
+        {
+          "name": "Abdulmuen Mohammed Ibrahim",
+          "orcidId": "0000-0003-4510-5191",
+          "openAlexId": "https://openalex.org/A5088520650",
+          "position": 7
+        },
+        {
+          "name": "Abadir Jemal Seran",
+          "openAlexId": "https://openalex.org/A5092150433",
+          "position": 8
+        },
+        {
+          "name": "Nurmohammad Shaik",
+          "openAlexId": "https://openalex.org/A5113223749",
+          "position": 9
+        },
+        {
+          "name": "Amanda Ojeda",
+          "orcidId": "0000-0002-5059-0008",
+          "openAlexId": "https://openalex.org/A5067457523",
+          "position": 10
+        },
+        {
+          "name": "Bahar Mummed",
+          "orcidId": "0000-0003-0297-6616",
+          "openAlexId": "https://openalex.org/A5055222478",
+          "position": 11
+        },
+        {
+          "name": "Löıc Deblais",
+          "orcidId": "0000-0002-6290-3956",
+          "openAlexId": "https://openalex.org/A5010080622",
+          "position": 12
+        },
+        {
+          "name": "Belisa Usmael Ahmedo",
+          "openAlexId": "https://openalex.org/A5027991157",
+          "position": 13
+        },
+        {
+          "name": "Kedir Abdi Hassen",
+          "openAlexId": "https://openalex.org/A5086408804",
+          "position": 14
+        },
+        {
+          "name": "Mussie Bhrane",
+          "openAlexId": "https://openalex.org/A5111208340",
+          "position": 15
+        },
+        {
+          "name": "Xiaolong Li",
+          "orcidId": "0000-0002-8396-2912",
+          "openAlexId": "https://openalex.org/A5101904889",
+          "position": 16
+        },
+        {
+          "name": "Nitya Singh",
+          "orcidId": "0000-0003-1090-3046",
+          "openAlexId": "https://openalex.org/A5059450527",
+          "position": 17
+        },
+        {
+          "name": "Kedir Teji Roba",
+          "orcidId": "0000-0001-6227-9594",
+          "openAlexId": "https://openalex.org/A5015111963",
+          "position": 18
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 19
+        },
+        {
+          "name": "Gireesh Rajashekara",
+          "orcidId": "0000-0003-2443-6733",
+          "openAlexId": "https://openalex.org/A5007063838",
+          "position": 20
+        },
+        {
+          "name": "Mark Manary",
+          "orcidId": "0000-0003-2733-9568",
+          "openAlexId": "https://openalex.org/A5084796844",
+          "position": 21
+        },
+        {
+          "name": "Jemal Yusuf Hassen",
+          "openAlexId": "https://openalex.org/A5111307572",
+          "position": 22
+        },
+        {
+          "name": "Arie H. Havelaar",
+          "orcidId": "0000-0002-6456-5460",
+          "openAlexId": "https://openalex.org/A5042994689",
+          "position": 23
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4395031407",
@@ -206,7 +2276,91 @@
       "year": 2024,
       "venue": "One Health",
       "doi": "https://doi.org/10.1016/j.onehlt.2024.100740",
-      "openAccessUrl": "https://doi.org/10.1016/j.onehlt.2024.100740"
+      "openAccessUrl": "https://doi.org/10.1016/j.onehlt.2024.100740",
+      "authors": [
+        {
+          "name": "Kim M. Pepin",
+          "orcidId": "0000-0002-9931-8312",
+          "openAlexId": "https://openalex.org/A5029546585",
+          "position": 1
+        },
+        {
+          "name": "Keith M. Carlisle",
+          "orcidId": "0000-0002-5205-1294",
+          "openAlexId": "https://openalex.org/A5089492072",
+          "position": 2
+        },
+        {
+          "name": "Dean P. Anderson",
+          "orcidId": "0000-0001-7029-3636",
+          "openAlexId": "https://openalex.org/A5011630875",
+          "position": 3
+        },
+        {
+          "name": "Michael G. Baker",
+          "orcidId": "0000-0002-1865-1536",
+          "openAlexId": "https://openalex.org/A5036319260",
+          "position": 4
+        },
+        {
+          "name": "Richard B. Chipman",
+          "openAlexId": "https://openalex.org/A5066943427",
+          "position": 5
+        },
+        {
+          "name": "Jackie Benschop",
+          "orcidId": "0000-0002-7814-4341",
+          "openAlexId": "https://openalex.org/A5089017342",
+          "position": 6
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 7
+        },
+        {
+          "name": "Suzie Greenhalgh",
+          "orcidId": "0000-0002-4972-5059",
+          "openAlexId": "https://openalex.org/A5082821806",
+          "position": 8
+        },
+        {
+          "name": "S McDougall",
+          "orcidId": "0000-0002-9865-0532",
+          "openAlexId": "https://openalex.org/A5040151744",
+          "position": 9
+        },
+        {
+          "name": "Petra Muellner",
+          "openAlexId": "https://openalex.org/A5113518079",
+          "position": 10
+        },
+        {
+          "name": "Emil Murphy",
+          "orcidId": "0000-0002-5338-8382",
+          "openAlexId": "https://openalex.org/A5063593028",
+          "position": 11
+        },
+        {
+          "name": "Dion O’Neale",
+          "orcidId": "0000-0002-3827-3480",
+          "openAlexId": "https://openalex.org/A5017900727",
+          "position": 12
+        },
+        {
+          "name": "Michael J. Plank",
+          "orcidId": "0000-0002-7539-3465",
+          "openAlexId": "https://openalex.org/A5079232149",
+          "position": 13
+        },
+        {
+          "name": "David T. S. Hayman",
+          "orcidId": "0000-0003-0087-3015",
+          "openAlexId": "https://openalex.org/A5015096904",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4394684642",
@@ -214,7 +2368,38 @@
       "year": 2024,
       "venue": "Data Mining and Knowledge Discovery",
       "doi": "https://doi.org/10.1007/s10618-024-01019-w",
-      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10618-024-01019-w.pdf"
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10618-024-01019-w.pdf",
+      "authors": [
+        {
+          "name": "Helen Smith",
+          "openAlexId": "https://openalex.org/A5025212622",
+          "position": 1
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 2
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 3
+        },
+        {
+          "name": "Adam N. H. Smith",
+          "orcidId": "0000-0003-0059-6206",
+          "openAlexId": "https://openalex.org/A5102003481",
+          "position": 4
+        },
+        {
+          "name": "Jonathan C. Marshall",
+          "orcidId": "0000-0003-0758-9658",
+          "openAlexId": "https://openalex.org/A5074224187",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4392948688",
@@ -222,14 +2407,211 @@
       "year": 2024,
       "venue": "Research Square (Research Square)",
       "doi": "https://doi.org/10.21203/rs.3.rs-4000380/v1",
-      "openAccessUrl": "https://www.researchsquare.com/article/rs-4000380/latest.pdf"
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-4000380/latest.pdf",
+      "authors": [
+        {
+          "name": "Kim M. Pepin",
+          "orcidId": "0000-0002-9931-8312",
+          "openAlexId": "https://openalex.org/A5029546585",
+          "position": 1
+        },
+        {
+          "name": "Keith M. Carlisle",
+          "orcidId": "0000-0002-5205-1294",
+          "openAlexId": "https://openalex.org/A5089492072",
+          "position": 2
+        },
+        {
+          "name": "Dean P. Anderson",
+          "orcidId": "0000-0001-7029-3636",
+          "openAlexId": "https://openalex.org/A5011630875",
+          "position": 3
+        },
+        {
+          "name": "Michael G. Baker",
+          "orcidId": "0000-0002-1865-1536",
+          "openAlexId": "https://openalex.org/A5036319260",
+          "position": 4
+        },
+        {
+          "name": "Richard B. Chipman",
+          "openAlexId": "https://openalex.org/A5066943427",
+          "position": 5
+        },
+        {
+          "name": "Jackie Benschop",
+          "orcidId": "0000-0002-7814-4341",
+          "openAlexId": "https://openalex.org/A5089017342",
+          "position": 6
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 7
+        },
+        {
+          "name": "Suzie Greenhalgh",
+          "orcidId": "0000-0002-4972-5059",
+          "openAlexId": "https://openalex.org/A5082821806",
+          "position": 8
+        },
+        {
+          "name": "S McDougall",
+          "orcidId": "0000-0002-9865-0532",
+          "openAlexId": "https://openalex.org/A5040151744",
+          "position": 9
+        },
+        {
+          "name": "Petra Muellner",
+          "openAlexId": "https://openalex.org/A5113518079",
+          "position": 10
+        },
+        {
+          "name": "Emil Murphy",
+          "orcidId": "0000-0002-5338-8382",
+          "openAlexId": "https://openalex.org/A5063593028",
+          "position": 11
+        },
+        {
+          "name": "Dion O’Neale",
+          "orcidId": "0000-0002-3827-3480",
+          "openAlexId": "https://openalex.org/A5017900727",
+          "position": 12
+        },
+        {
+          "name": "Michael J. Plank",
+          "orcidId": "0000-0002-7539-3465",
+          "openAlexId": "https://openalex.org/A5079232149",
+          "position": 13
+        },
+        {
+          "name": "David T. S. Hayman",
+          "orcidId": "0000-0003-0087-3015",
+          "openAlexId": "https://openalex.org/A5015096904",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4392594207",
       "title": "Effective use of models in intelligence-to-decision workflows within and across One Health sectors",
       "year": 2024,
       "doi": "https://doi.org/10.21203/rs.3.rs-3917726/v1",
-      "openAccessUrl": "https://www.researchsquare.com/article/rs-3917726/latest.pdf"
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-3917726/latest.pdf",
+      "authors": [
+        {
+          "name": "Kim M. Pepin",
+          "orcidId": "0000-0002-9931-8312",
+          "openAlexId": "https://openalex.org/A5029546585",
+          "position": 1
+        },
+        {
+          "name": "Keith M. Carlisle",
+          "orcidId": "0000-0002-5205-1294",
+          "openAlexId": "https://openalex.org/A5089492072",
+          "position": 2
+        },
+        {
+          "name": "Richard B. Chipman",
+          "openAlexId": "https://openalex.org/A5066943427",
+          "position": 3
+        },
+        {
+          "name": "Dana Cole",
+          "openAlexId": "https://openalex.org/A5060900332",
+          "position": 4
+        },
+        {
+          "name": "Dean P. Anderson",
+          "orcidId": "0000-0001-7029-3636",
+          "openAlexId": "https://openalex.org/A5011630875",
+          "position": 5
+        },
+        {
+          "name": "Michael G. Baker",
+          "orcidId": "0000-0002-1865-1536",
+          "openAlexId": "https://openalex.org/A5036319260",
+          "position": 6
+        },
+        {
+          "name": "Jackie Benschop",
+          "orcidId": "0000-0002-7814-4341",
+          "openAlexId": "https://openalex.org/A5089017342",
+          "position": 7
+        },
+        {
+          "name": "Michael Bunce",
+          "orcidId": "0000-0002-0302-4206",
+          "openAlexId": "https://openalex.org/A5085536018",
+          "position": 8
+        },
+        {
+          "name": "Rachelle N. Binny",
+          "orcidId": "0000-0002-3433-0417",
+          "openAlexId": "https://openalex.org/A5083272177",
+          "position": 9
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 10
+        },
+        {
+          "name": "Suzie Greenhalgh",
+          "orcidId": "0000-0002-4972-5059",
+          "openAlexId": "https://openalex.org/A5082821806",
+          "position": 11
+        },
+        {
+          "name": "Dion O’Neale",
+          "orcidId": "0000-0002-3827-3480",
+          "openAlexId": "https://openalex.org/A5017900727",
+          "position": 12
+        },
+        {
+          "name": "S McDougall",
+          "orcidId": "0000-0002-9865-0532",
+          "openAlexId": "https://openalex.org/A5040151744",
+          "position": 13
+        },
+        {
+          "name": "Fraser Morgan",
+          "orcidId": "0000-0002-7964-3361",
+          "openAlexId": "https://openalex.org/A5065407129",
+          "position": 14
+        },
+        {
+          "name": "Petra Muellner",
+          "openAlexId": "https://openalex.org/A5113518079",
+          "position": 15
+        },
+        {
+          "name": "Emil Murphy",
+          "orcidId": "0000-0002-5338-8382",
+          "openAlexId": "https://openalex.org/A5063593028",
+          "position": 16
+        },
+        {
+          "name": "Michael J. Plank",
+          "orcidId": "0000-0002-7539-3465",
+          "openAlexId": "https://openalex.org/A5079232149",
+          "position": 17
+        },
+        {
+          "name": "Daniel M. Tompkins",
+          "orcidId": "0000-0003-3209-8084",
+          "openAlexId": "https://openalex.org/A5064232860",
+          "position": 18
+        },
+        {
+          "name": "David T. S. Hayman",
+          "orcidId": "0000-0003-0087-3015",
+          "openAlexId": "https://openalex.org/A5015096904",
+          "position": 19
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4390971229",
@@ -237,7 +2619,95 @@
       "year": 2024,
       "venue": "PLoS Computational Biology",
       "doi": "https://doi.org/10.1371/journal.pcbi.1011714",
-      "openAccessUrl": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011714&type=printable"
+      "openAccessUrl": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011714&type=printable",
+      "authors": [
+        {
+          "name": "Giovanni Lo Iacono",
+          "orcidId": "0000-0002-6150-2843",
+          "openAlexId": "https://openalex.org/A5080574578",
+          "position": 1
+        },
+        {
+          "name": "A. J. C. Cook",
+          "orcidId": "0000-0002-3444-9493",
+          "openAlexId": "https://openalex.org/A5014325028",
+          "position": 2
+        },
+        {
+          "name": "Gianne Derks",
+          "orcidId": "0000-0002-2437-1813",
+          "openAlexId": "https://openalex.org/A5016743303",
+          "position": 3
+        },
+        {
+          "name": "Lora E. Fleming",
+          "openAlexId": "https://openalex.org/A5103216845",
+          "position": 4
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 5
+        },
+        {
+          "name": "Emma L. Gillingham",
+          "orcidId": "0000-0002-0080-8590",
+          "openAlexId": "https://openalex.org/A5017956894",
+          "position": 6
+        },
+        {
+          "name": "Laura C. Gonzalez Villeta",
+          "orcidId": "0000-0003-4150-9375",
+          "openAlexId": "https://openalex.org/A5090447345",
+          "position": 7
+        },
+        {
+          "name": "Clare Heaviside",
+          "openAlexId": "https://openalex.org/A5058746623",
+          "position": 8
+        },
+        {
+          "name": "Roberto M. La Ragione",
+          "openAlexId": "https://openalex.org/A5056667622",
+          "position": 9
+        },
+        {
+          "name": "Giovanni Leonardi",
+          "orcidId": "0000-0001-7477-1762",
+          "openAlexId": "https://openalex.org/A5016661663",
+          "position": 10
+        },
+        {
+          "name": "Christophe Sarran",
+          "orcidId": "0000-0003-0605-8839",
+          "openAlexId": "https://openalex.org/A5000571888",
+          "position": 11
+        },
+        {
+          "name": "Sotiris Vardoulakis",
+          "orcidId": "0000-0003-3944-7128",
+          "openAlexId": "https://openalex.org/A5068696629",
+          "position": 12
+        },
+        {
+          "name": "Francis Senyah",
+          "openAlexId": "https://openalex.org/A5044418494",
+          "position": 13
+        },
+        {
+          "name": "Arnoud H. M. van Vliet",
+          "orcidId": "0000-0003-0203-1305",
+          "openAlexId": "https://openalex.org/A5019638261",
+          "position": 14
+        },
+        {
+          "name": "Gordon Nichols",
+          "orcidId": "0000-0003-0773-9556",
+          "openAlexId": "https://openalex.org/A5017240327",
+          "position": 15
+        }
+      ]
     }
   ]
 }

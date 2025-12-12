@@ -4,5 +4,18 @@
   "year": 2023,
   "venue": "Lecture notes in computer science",
   "doi": "10.1007/978-3-031-49272-3_14",
-  "openAccessUrl": "https://doi.org/10.1007/978-3-031-49272-3_14"
+  "openAccessUrl": "https://doi.org/10.1007/978-3-031-49272-3_14",
+  "authors": [
+    {
+      "name": "Jonathan Klawitter",
+      "orcidId": "0000-0001-8917-5269",
+      "openAlexId": "https://openalex.org/A5077181010",
+      "position": 1
+    },
+    {
+      "name": "Johannes Zink",
+      "openAlexId": "https://openalex.org/A5042290109",
+      "position": 2
+    }
+  ]
 }

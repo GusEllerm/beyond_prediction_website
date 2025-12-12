@@ -9,7 +9,33 @@
       "year": 2025,
       "venue": "Journal of Computational Biology",
       "doi": "https://doi.org/10.1089/cmb.2024.0614",
-      "openAccessUrl": "https://doi.org/10.1089/cmb.2024.0614"
+      "openAccessUrl": "https://doi.org/10.1089/cmb.2024.0614",
+      "authors": [
+        {
+          "name": "Alexandra Gavryushkina",
+          "orcidId": "0000-0002-1885-1108",
+          "openAlexId": "https://openalex.org/A5040438451",
+          "position": 1
+        },
+        {
+          "name": "Holly R. Pinkney",
+          "orcidId": "0000-0001-7448-7622",
+          "openAlexId": "https://openalex.org/A5027086592",
+          "position": 2
+        },
+        {
+          "name": "Sarah D. Diermeier",
+          "orcidId": "0000-0002-6120-2744",
+          "openAlexId": "https://openalex.org/A5002306992",
+          "position": 3
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4407635864",
@@ -17,7 +43,27 @@
       "year": 2025,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2025.02.13.638022",
-      "openAccessUrl": "https://doi.org/10.1101/2025.02.13.638022"
+      "openAccessUrl": "https://doi.org/10.1101/2025.02.13.638022",
+      "authors": [
+        {
+          "name": "Kieran Collienne",
+          "orcidId": "0000-0002-3175-8522",
+          "openAlexId": "https://openalex.org/A5116294929",
+          "position": 1
+        },
+        {
+          "name": "Lilin Zhang",
+          "orcidId": "0000-0002-5374-5693",
+          "openAlexId": "https://openalex.org/A5114752651",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4403646467",
@@ -25,7 +71,32 @@
       "year": 2024,
       "venue": "Systematic Biology",
       "doi": "https://doi.org/10.1093/sysbio/syae058",
-      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syae058/59959220/syae058.pdf"
+      "openAccessUrl": "https://academic.oup.com/sysbio/advance-article-pdf/doi/10.1093/sysbio/syae058/59959220/syae058.pdf",
+      "authors": [
+        {
+          "name": "Kate Truman",
+          "orcidId": "0009-0005-4630-3853",
+          "openAlexId": "https://openalex.org/A5093913492",
+          "position": 1
+        },
+        {
+          "name": "Timothy G. Vaughan",
+          "openAlexId": "https://openalex.org/A5088841943",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        },
+        {
+          "name": "Alexandra Gavryushkina",
+          "orcidId": "0000-0002-1885-1108",
+          "openAlexId": "https://openalex.org/A5040438451",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402401545",
@@ -33,7 +104,27 @@
       "year": 2024,
       "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
       "doi": "https://doi.org/10.1109/tcbb.2024.3457875",
-      "openAccessUrl": "https://doi.org/10.1109/tcbb.2024.3457875"
+      "openAccessUrl": "https://doi.org/10.1109/tcbb.2024.3457875",
+      "authors": [
+        {
+          "name": "Lars Berling",
+          "orcidId": "0000-0002-1303-0669",
+          "openAlexId": "https://openalex.org/A5091919866",
+          "position": 1
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4401798515",
@@ -41,7 +132,27 @@
       "year": 2024,
       "venue": "Bioinformatics",
       "doi": "https://doi.org/10.1093/bioinformatics/btae514",
-      "openAccessUrl": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btae514/58902383/btae514.pdf"
+      "openAccessUrl": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btae514/58902383/btae514.pdf",
+      "authors": [
+        {
+          "name": "Lars Berling",
+          "orcidId": "0000-0002-1303-0669",
+          "openAlexId": "https://openalex.org/A5091919866",
+          "position": 1
+        },
+        {
+          "name": "Lena Collienne",
+          "orcidId": "0000-0003-4215-8263",
+          "openAlexId": "https://openalex.org/A5006811718",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4400748165",
@@ -49,7 +160,33 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.07.11.603166",
-      "openAccessUrl": "https://doi.org/10.1101/2024.07.11.603166"
+      "openAccessUrl": "https://doi.org/10.1101/2024.07.11.603166",
+      "authors": [
+        {
+          "name": "Alexandra Gavryushkina",
+          "orcidId": "0000-0002-1885-1108",
+          "openAlexId": "https://openalex.org/A5040438451",
+          "position": 1
+        },
+        {
+          "name": "Holly R. Pinkney",
+          "orcidId": "0000-0001-7448-7622",
+          "openAlexId": "https://openalex.org/A5027086592",
+          "position": 2
+        },
+        {
+          "name": "Sarah D. Diermeier",
+          "orcidId": "0000-0002-6120-2744",
+          "openAlexId": "https://openalex.org/A5002306992",
+          "position": 3
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4392200673",
@@ -57,7 +194,45 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.02.20.581316",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.581316.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.581316.full.pdf",
+      "authors": [
+        {
+          "name": "Lars Berling",
+          "orcidId": "0000-0002-1303-0669",
+          "openAlexId": "https://openalex.org/A5091919866",
+          "position": 1
+        },
+        {
+          "name": "Jonathan Klawitter",
+          "orcidId": "0000-0001-8917-5269",
+          "openAlexId": "https://openalex.org/A5077181010",
+          "position": 2
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 3
+        },
+        {
+          "name": "Dong Xie",
+          "orcidId": "0000-0003-0878-3380",
+          "openAlexId": "https://openalex.org/A5002673153",
+          "position": 4
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 5
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4391753018",
@@ -65,7 +240,32 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.02.08.579547",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/12/2024.02.08.579547.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/02/12/2024.02.08.579547.full.pdf",
+      "authors": [
+        {
+          "name": "Kate Truman",
+          "orcidId": "0009-0005-4630-3853",
+          "openAlexId": "https://openalex.org/A5093913492",
+          "position": 1
+        },
+        {
+          "name": "Timothy G. Vaughan",
+          "openAlexId": "https://openalex.org/A5088841943",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        },
+        {
+          "name": "Alexandra Gavryushkina",
+          "orcidId": "0000-0002-1885-1108",
+          "openAlexId": "https://openalex.org/A5040438451",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4391404075",
@@ -73,7 +273,26 @@
       "year": 2024,
       "venue": "Bulletin of Mathematical Biology",
       "doi": "https://doi.org/10.1007/s11538-023-01244-2",
-      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s11538-023-01244-2.pdf"
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s11538-023-01244-2.pdf",
+      "authors": [
+        {
+          "name": "Lena Collienne",
+          "orcidId": "0000-0003-4215-8263",
+          "openAlexId": "https://openalex.org/A5006811718",
+          "position": 1
+        },
+        {
+          "name": "Chris Whidden",
+          "openAlexId": "https://openalex.org/A5041594411",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4385800882",
@@ -81,7 +300,27 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.08.10.552869",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/08/16/2023.08.10.552869.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/08/16/2023.08.10.552869.full.pdf",
+      "authors": [
+        {
+          "name": "Lars Berling",
+          "orcidId": "0000-0002-1303-0669",
+          "openAlexId": "https://openalex.org/A5091919866",
+          "position": 1
+        },
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4377019116",
@@ -89,7 +328,26 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.05.16.541039",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/18/2023.05.16.541039.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/18/2023.05.16.541039.full.pdf",
+      "authors": [
+        {
+          "name": "Lena Collienne",
+          "orcidId": "0000-0003-4215-8263",
+          "openAlexId": "https://openalex.org/A5006811718",
+          "position": 1
+        },
+        {
+          "name": "Chris Whidden",
+          "openAlexId": "https://openalex.org/A5041594411",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4376118065",
@@ -97,7 +355,27 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.05.08.539790",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.08.539790.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.08.539790.full.pdf",
+      "authors": [
+        {
+          "name": "Lars Berling",
+          "orcidId": "0000-0002-1303-0669",
+          "openAlexId": "https://openalex.org/A5091919866",
+          "position": 1
+        },
+        {
+          "name": "Lena Collienne",
+          "orcidId": "0000-0003-4215-8263",
+          "openAlexId": "https://openalex.org/A5006811718",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4313270436",
@@ -105,7 +383,32 @@
       "year": 2022,
       "venue": "PLoS Computational Biology",
       "doi": "https://doi.org/10.1371/journal.pcbi.1010730",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1010730"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1010730",
+      "authors": [
+        {
+          "name": "Kieran Elmes",
+          "openAlexId": "https://openalex.org/A5023199094",
+          "position": 1
+        },
+        {
+          "name": "Astra Heywood",
+          "orcidId": "0000-0002-6953-7493",
+          "openAlexId": "https://openalex.org/A5041332324",
+          "position": 2
+        },
+        {
+          "name": "Zhiyi Huang",
+          "orcidId": "0000-0001-8561-2556",
+          "openAlexId": "https://openalex.org/A5090297023",
+          "position": 3
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4310948020",
@@ -113,7 +416,39 @@
       "year": 2022,
       "venue": "Journal of Computational Biology",
       "doi": "https://doi.org/10.1089/cmb.2022.0357",
-      "openAccessUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125402/pdf/cmb.2022.0357.pdf"
+      "openAccessUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125402/pdf/cmb.2022.0357.pdf",
+      "authors": [
+        {
+          "name": "Jiří C. Moravec",
+          "orcidId": "0000-0002-3651-1924",
+          "openAlexId": "https://openalex.org/A5024808613",
+          "position": 1
+        },
+        {
+          "name": "Robert Lanfear",
+          "orcidId": "0000-0002-1140-2596",
+          "openAlexId": "https://openalex.org/A5037983874",
+          "position": 2
+        },
+        {
+          "name": "David L. Spector",
+          "orcidId": "0000-0003-3614-4965",
+          "openAlexId": "https://openalex.org/A5079751903",
+          "position": 3
+        },
+        {
+          "name": "Sarah D. Diermeier",
+          "orcidId": "0000-0002-6120-2744",
+          "openAlexId": "https://openalex.org/A5002306992",
+          "position": 4
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4285011406",
@@ -121,7 +456,56 @@
       "year": 2022,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2022.07.07.499217",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/07/11/2022.07.07.499217.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/07/11/2022.07.07.499217.full.pdf",
+      "authors": [
+        {
+          "name": "Kieran Elmes",
+          "openAlexId": "https://openalex.org/A5023199094",
+          "position": 1
+        },
+        {
+          "name": "Diana Benavides‐Prado",
+          "orcidId": "0000-0003-1137-2822",
+          "openAlexId": "https://openalex.org/A5017390828",
+          "position": 2
+        },
+        {
+          "name": "Neşet Tan",
+          "orcidId": "0000-0001-6201-7295",
+          "openAlexId": "https://openalex.org/A5062975742",
+          "position": 3
+        },
+        {
+          "name": "Trung B. Nguyen",
+          "orcidId": "0000-0002-1990-8647",
+          "openAlexId": "https://openalex.org/A5004982887",
+          "position": 4
+        },
+        {
+          "name": "Nicholas A. Sumpter",
+          "orcidId": "0000-0002-0451-9024",
+          "openAlexId": "https://openalex.org/A5049923519",
+          "position": 5
+        },
+        {
+          "name": "Megan Leask",
+          "orcidId": "0000-0003-3199-5277",
+          "openAlexId": "https://openalex.org/A5069893482",
+          "position": 6
+        },
+        {
+          "name": "Michael Witbrock",
+          "orcidId": "0000-0002-7554-0971",
+          "openAlexId": "https://openalex.org/A5057995059",
+          "position": 7
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4283322370",
@@ -129,7 +513,39 @@
       "year": 2022,
       "venue": "Molecular Biology and Evolution",
       "doi": "https://doi.org/10.1093/molbev/msac143",
-      "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf"
+      "openAccessUrl": "https://academic.oup.com/mbe/article-pdf/39/8/msac143/45476472/msac143.pdf",
+      "authors": [
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A5005881998",
+          "position": 1
+        },
+        {
+          "name": "Jiří C. Moravec",
+          "orcidId": "0000-0002-3651-1924",
+          "openAlexId": "https://openalex.org/A5024808613",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        },
+        {
+          "name": "David Welch",
+          "orcidId": "0000-0002-7066-2830",
+          "openAlexId": "https://openalex.org/A5051299223",
+          "position": 4
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4229065791",
@@ -137,7 +553,27 @@
       "year": 2022,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2022.05.03.490538",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/05/2022.05.03.490538.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/05/2022.05.03.490538.full.pdf",
+      "authors": [
+        {
+          "name": "Remco Bouckaert",
+          "orcidId": "0000-0001-6765-3813",
+          "openAlexId": "https://openalex.org/A5027519870",
+          "position": 1
+        },
+        {
+          "name": "Lena Collienne",
+          "orcidId": "0000-0003-4215-8263",
+          "openAlexId": "https://openalex.org/A5006811718",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4225115425",
@@ -145,7 +581,93 @@
       "year": 2022,
       "venue": "PubMed",
       "doi": "https://doi.org/10.1101/mcs.a006182",
-      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/9059781"
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/9059781",
+      "authors": [
+        {
+          "name": "Ryan M. Powell",
+          "orcidId": "0000-0002-6270-9758",
+          "openAlexId": "https://openalex.org/A5036078978",
+          "position": 1
+        },
+        {
+          "name": "Sharon Pattison",
+          "orcidId": "0000-0003-2188-3423",
+          "openAlexId": "https://openalex.org/A5065893122",
+          "position": 2
+        },
+        {
+          "name": "Jiri C Moravec",
+          "openAlexId": "https://openalex.org/A5027173381",
+          "position": 3
+        },
+        {
+          "name": "Basharat Bhat",
+          "orcidId": "0000-0002-4148-1694",
+          "openAlexId": "https://openalex.org/A5009539742",
+          "position": 4
+        },
+        {
+          "name": "Nada Guirguis",
+          "openAlexId": "https://openalex.org/A5037454412",
+          "position": 5
+        },
+        {
+          "name": "David Markie",
+          "orcidId": "0000-0001-5452-9194",
+          "openAlexId": "https://openalex.org/A5075427129",
+          "position": 6
+        },
+        {
+          "name": "Gregory T. Jones",
+          "orcidId": "0000-0002-6950-4210",
+          "openAlexId": "https://openalex.org/A5005641485",
+          "position": 7
+        },
+        {
+          "name": "Jason Copedo",
+          "openAlexId": "https://openalex.org/A5063985883",
+          "position": 8
+        },
+        {
+          "name": "Cristin G. Print",
+          "orcidId": "0000-0001-8345-7812",
+          "openAlexId": "https://openalex.org/A5064023142",
+          "position": 9
+        },
+        {
+          "name": "Ian M. Morison",
+          "orcidId": "0000-0003-3616-0025",
+          "openAlexId": "https://openalex.org/A5061062215",
+          "position": 10
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 11
+        },
+        {
+          "name": "Bronwyn Gray",
+          "openAlexId": "https://openalex.org/A5014338553",
+          "position": 12
+        },
+        {
+          "name": "Lisa J Wyeth",
+          "openAlexId": "https://openalex.org/A5027502824",
+          "position": 13
+        },
+        {
+          "name": "Mike Eccles",
+          "openAlexId": "https://openalex.org/A5112648933",
+          "position": 14
+        },
+        {
+          "name": "Erin C. Macaulay",
+          "orcidId": "0000-0001-5308-1033",
+          "openAlexId": "https://openalex.org/A5085337986",
+          "position": 15
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4220756870",
@@ -153,28 +675,218 @@
       "year": 2022,
       "venue": "Genome biology",
       "doi": "https://doi.org/10.1186/s13059-022-02625-x",
-      "openAccessUrl": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02625-x"
+      "openAccessUrl": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02625-x",
+      "authors": [
+        {
+          "name": "Paul P. Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "openAlexId": "https://openalex.org/A5067459027",
+          "position": 1
+        },
+        {
+          "name": "J. M. Paterson",
+          "openAlexId": "https://openalex.org/A5057083465",
+          "position": 2
+        },
+        {
+          "name": "Stephanie McGimpsey",
+          "orcidId": "0000-0001-9127-2789",
+          "openAlexId": "https://openalex.org/A5051156900",
+          "position": 3
+        },
+        {
+          "name": "Fatemeh Ashari Ghomi",
+          "orcidId": "0000-0001-9786-4558",
+          "openAlexId": "https://openalex.org/A5009767888",
+          "position": 4
+        },
+        {
+          "name": "Sinan U. Umu",
+          "orcidId": "0000-0001-8081-7819",
+          "openAlexId": "https://openalex.org/A5017558790",
+          "position": 5
+        },
+        {
+          "name": "Aleksandra Pawlik",
+          "orcidId": "0000-0001-8418-6735",
+          "openAlexId": "https://openalex.org/A5048002342",
+          "position": 6
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 7
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4394373579",
       "title": "Additional file 3 of Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
       "year": 2022,
       "doi": "https://doi.org/10.6084/m9.figshare.19185739",
-      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185739"
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185739",
+      "authors": [
+        {
+          "name": "Paul P. Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "openAlexId": "https://openalex.org/A5067459027",
+          "position": 1
+        },
+        {
+          "name": "J. M. Paterson",
+          "openAlexId": "https://openalex.org/A5057083465",
+          "position": 2
+        },
+        {
+          "name": "Stephanie McGimpsey",
+          "orcidId": "0000-0001-9127-2789",
+          "openAlexId": "https://openalex.org/A5051156900",
+          "position": 3
+        },
+        {
+          "name": "Fatemeh Ashari Ghomi",
+          "orcidId": "0000-0001-9786-4558",
+          "openAlexId": "https://openalex.org/A5009767888",
+          "position": 4
+        },
+        {
+          "name": "Sinan U. Umu",
+          "orcidId": "0000-0001-8081-7819",
+          "openAlexId": "https://openalex.org/A5017558790",
+          "position": 5
+        },
+        {
+          "name": "Aleksandra Pawlik",
+          "orcidId": "0000-0001-8418-6735",
+          "openAlexId": "https://openalex.org/A5048002342",
+          "position": 6
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 7
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4394492584",
       "title": "Additional file 2 of Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
       "year": 2022,
       "doi": "https://doi.org/10.6084/m9.figshare.19185736",
-      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185736"
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.19185736",
+      "authors": [
+        {
+          "name": "Paul P. Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "openAlexId": "https://openalex.org/A5067459027",
+          "position": 1
+        },
+        {
+          "name": "J. M. Paterson",
+          "openAlexId": "https://openalex.org/A5057083465",
+          "position": 2
+        },
+        {
+          "name": "Stephanie McGimpsey",
+          "orcidId": "0000-0001-9127-2789",
+          "openAlexId": "https://openalex.org/A5051156900",
+          "position": 3
+        },
+        {
+          "name": "Fatemeh Ashari Ghomi",
+          "orcidId": "0000-0001-9786-4558",
+          "openAlexId": "https://openalex.org/A5009767888",
+          "position": 4
+        },
+        {
+          "name": "Sinan U. Umu",
+          "orcidId": "0000-0001-8081-7819",
+          "openAlexId": "https://openalex.org/A5017558790",
+          "position": 5
+        },
+        {
+          "name": "Aleksandra Pawlik",
+          "orcidId": "0000-0001-8418-6735",
+          "openAlexId": "https://openalex.org/A5048002342",
+          "position": 6
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 7
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4394176300",
       "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software -- PubMed XML files and scripts",
       "year": 2022,
       "doi": "https://doi.org/10.6084/m9.figshare.15121818",
-      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.15121818"
+      "openAccessUrl": "https://doi.org/10.6084/m9.figshare.15121818",
+      "authors": [
+        {
+          "name": "Paul P. Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "openAlexId": "https://openalex.org/A5067459027",
+          "position": 1
+        },
+        {
+          "name": "J. M. Paterson",
+          "openAlexId": "https://openalex.org/A5057083465",
+          "position": 2
+        },
+        {
+          "name": "Stephanie McGimpsey",
+          "orcidId": "0000-0001-9127-2789",
+          "openAlexId": "https://openalex.org/A5051156900",
+          "position": 3
+        },
+        {
+          "name": "Fatemeh Ashari Ghomi",
+          "orcidId": "0000-0001-9786-4558",
+          "openAlexId": "https://openalex.org/A5009767888",
+          "position": 4
+        },
+        {
+          "name": "Aleksandra Pawlik",
+          "orcidId": "0000-0001-8418-6735",
+          "openAlexId": "https://openalex.org/A5048002342",
+          "position": 5
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 6
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4200374710",
@@ -182,7 +894,32 @@
       "year": 2021,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2021.12.13.471844",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/08/31/2021.12.13.471844.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/08/31/2021.12.13.471844.full.pdf",
+      "authors": [
+        {
+          "name": "Kieran Elmes",
+          "openAlexId": "https://openalex.org/A5023199094",
+          "position": 1
+        },
+        {
+          "name": "Astra Heywood",
+          "orcidId": "0000-0002-6953-7493",
+          "openAlexId": "https://openalex.org/A5041332324",
+          "position": 2
+        },
+        {
+          "name": "Zhiyi Huang",
+          "orcidId": "0000-0001-8561-2556",
+          "openAlexId": "https://openalex.org/A5090297023",
+          "position": 3
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3210115145",
@@ -190,7 +927,38 @@
       "year": 2021,
       "venue": "Journal of Mathematical Biology",
       "doi": "https://doi.org/10.1007/s00285-021-01685-0",
-      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00285-021-01685-0.pdf"
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00285-021-01685-0.pdf",
+      "authors": [
+        {
+          "name": "Lena Collienne",
+          "orcidId": "0000-0003-4215-8263",
+          "openAlexId": "https://openalex.org/A5006811718",
+          "position": 1
+        },
+        {
+          "name": "Kieran Elmes",
+          "openAlexId": "https://openalex.org/A5023199094",
+          "position": 2
+        },
+        {
+          "name": "Mareike Fischer",
+          "orcidId": "0000-0002-9429-0859",
+          "openAlexId": "https://openalex.org/A5088362612",
+          "position": 3
+        },
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "openAlexId": "https://openalex.org/A5075139465",
+          "position": 4
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3182965360",
@@ -198,14 +966,59 @@
       "year": 2021,
       "venue": "PLoS ONE",
       "doi": "https://doi.org/10.1371/journal.pone.0254491",
-      "openAccessUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0254491&type=printable"
+      "openAccessUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0254491&type=printable",
+      "authors": [
+        {
+          "name": "Kieran Elmes",
+          "openAlexId": "https://openalex.org/A5023199094",
+          "position": 1
+        },
+        {
+          "name": "Fabian Schmich",
+          "orcidId": "0000-0003-1604-4406",
+          "openAlexId": "https://openalex.org/A5028827406",
+          "position": 2
+        },
+        {
+          "name": "Ewa Szczurek",
+          "orcidId": "0000-0002-1320-6695",
+          "openAlexId": "https://openalex.org/A5036326710",
+          "position": 3
+        },
+        {
+          "name": "Jeremy L. Jenkins",
+          "orcidId": "0000-0001-9795-0771",
+          "openAlexId": "https://openalex.org/A5009211876",
+          "position": 4
+        },
+        {
+          "name": "Niko Beerenwinkel",
+          "orcidId": "0000-0002-0573-6119",
+          "openAlexId": "https://openalex.org/A5035497488",
+          "position": 5
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3182303772",
       "title": "Peer Review #2 of \"Getting new algorithmic results by extending distance-hereditary graphs via split composition (v0.1)\"",
       "year": 2021,
       "doi": "https://doi.org/10.7287/peerj-cs.627v0.1/reviews/2",
-      "openAccessUrl": "https://peerj.com/articles/cs-627v0.2/submission"
+      "openAccessUrl": "https://peerj.com/articles/cs-627v0.2/submission",
+      "authors": [
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3136616654",
@@ -213,7 +1026,39 @@
       "year": 2021,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2021.03.17.435906",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/11/2021.03.17.435906.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/11/2021.03.17.435906.full.pdf",
+      "authors": [
+        {
+          "name": "Kylie Chen",
+          "orcidId": "0000-0002-4536-4057",
+          "openAlexId": "https://openalex.org/A5005881998",
+          "position": 1
+        },
+        {
+          "name": "Jiří C. Moravec",
+          "orcidId": "0000-0002-3651-1924",
+          "openAlexId": "https://openalex.org/A5024808613",
+          "position": 2
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 3
+        },
+        {
+          "name": "David Welch",
+          "orcidId": "0000-0002-7066-2830",
+          "openAlexId": "https://openalex.org/A5051299223",
+          "position": 4
+        },
+        {
+          "name": "Alexei J. Drummond",
+          "orcidId": "0000-0003-4454-2576",
+          "openAlexId": "https://openalex.org/A5079724732",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3128309744",
@@ -221,7 +1066,32 @@
       "year": 2021,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2021.01.28.428698",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2021/02/01/2021.01.28.428698.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2021/02/01/2021.01.28.428698.full.pdf",
+      "authors": [
+        {
+          "name": "Kieran Elmes",
+          "openAlexId": "https://openalex.org/A5023199094",
+          "position": 1
+        },
+        {
+          "name": "Astra Heywood",
+          "orcidId": "0000-0002-6953-7493",
+          "openAlexId": "https://openalex.org/A5041332324",
+          "position": 2
+        },
+        {
+          "name": "Zhiyi Huang",
+          "orcidId": "0000-0001-8561-2556",
+          "openAlexId": "https://openalex.org/A5090297023",
+          "position": 3
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3118901901",
@@ -229,7 +1099,39 @@
       "year": 2021,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2021.01.07.425804",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/02/07/2021.01.07.425804.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/02/07/2021.01.07.425804.full.pdf",
+      "authors": [
+        {
+          "name": "Jiří C. Moravec",
+          "orcidId": "0000-0002-3651-1924",
+          "openAlexId": "https://openalex.org/A5024808613",
+          "position": 1
+        },
+        {
+          "name": "Robert Lanfear",
+          "orcidId": "0000-0002-1140-2596",
+          "openAlexId": "https://openalex.org/A5037983874",
+          "position": 2
+        },
+        {
+          "name": "David L. Spector",
+          "orcidId": "0000-0003-3614-4965",
+          "openAlexId": "https://openalex.org/A5079751903",
+          "position": 3
+        },
+        {
+          "name": "Sarah D. Diermeier",
+          "orcidId": "0000-0002-6120-2744",
+          "openAlexId": "https://openalex.org/A5002306992",
+          "position": 4
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3118433720",
@@ -237,7 +1139,38 @@
       "year": 2021,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2101.02751",
-      "openAccessUrl": "https://arxiv.org/pdf/2101.02751"
+      "openAccessUrl": "https://arxiv.org/pdf/2101.02751",
+      "authors": [
+        {
+          "name": "Lena Collienne",
+          "orcidId": "0000-0003-4215-8263",
+          "openAlexId": "https://openalex.org/A5006811718",
+          "position": 1
+        },
+        {
+          "name": "Kieran Elmes",
+          "openAlexId": "https://openalex.org/A5023199094",
+          "position": 2
+        },
+        {
+          "name": "Mareike Fischer",
+          "orcidId": "0000-0002-9429-0859",
+          "openAlexId": "https://openalex.org/A5088362612",
+          "position": 3
+        },
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "openAlexId": "https://openalex.org/A5075139465",
+          "position": 4
+        },
+        {
+          "name": "Alex Gavryushkin",
+          "orcidId": "0000-0001-6299-8249",
+          "openAlexId": "https://openalex.org/A5086499703",
+          "position": 5
+        }
+      ]
     }
   ]
 }

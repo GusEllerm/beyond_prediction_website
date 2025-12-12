@@ -4,5 +4,36 @@
   "year": 2021,
   "venue": "Austral Ecology",
   "doi": "10.1111/aec.13061",
-  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13061"
+  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13061",
+  "authors": [
+    {
+      "name": "Stanislao Bevilacqua",
+      "orcidId": "0000-0002-6417-7134",
+      "openAlexId": "https://openalex.org/A5021779150",
+      "position": 1
+    },
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 2
+    },
+    {
+      "name": "Karl Inne Ugland",
+      "openAlexId": "https://openalex.org/A5114175449",
+      "position": 3
+    },
+    {
+      "name": "Paul J. Somerfield",
+      "orcidId": "0000-0002-7581-5621",
+      "openAlexId": "https://openalex.org/A5074866035",
+      "position": 4
+    },
+    {
+      "name": "Antonio Terlizzi",
+      "orcidId": "0000-0001-5968-4548",
+      "openAlexId": "https://openalex.org/A5053502985",
+      "position": 5
+    }
+  ]
 }

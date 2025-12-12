@@ -3,5 +3,30 @@
   "title": "Enabling LivePublication",
   "year": 2022,
   "doi": "10.1109/escience55777.2022.00067",
-  "openAccessUrl": "https://zenodo.org/record/7145478"
+  "openAccessUrl": "https://zenodo.org/record/7145478",
+  "authors": [
+    {
+      "name": "Augustus Ellerm",
+      "openAlexId": "https://openalex.org/A5070970714",
+      "position": 1
+    },
+    {
+      "name": "Benjamin Adams",
+      "orcidId": "0000-0002-1657-9809",
+      "openAlexId": "https://openalex.org/A5009482088",
+      "position": 2
+    },
+    {
+      "name": "Mark Gahegan",
+      "orcidId": "0000-0001-7209-8156",
+      "openAlexId": "https://openalex.org/A5069438601",
+      "position": 3
+    },
+    {
+      "name": "Lukas Trombach",
+      "orcidId": "0000-0001-5316-9967",
+      "openAlexId": "https://openalex.org/A5001114303",
+      "position": 4
+    }
+  ]
 }

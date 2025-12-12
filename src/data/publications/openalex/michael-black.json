@@ -9,7 +9,37 @@
       "year": 2025,
       "venue": "Scientific Reports",
       "doi": "https://doi.org/10.1038/s41598-025-24719-9",
-      "openAccessUrl": "https://doi.org/10.1038/s41598-025-24719-9"
+      "openAccessUrl": "https://doi.org/10.1038/s41598-025-24719-9",
+      "authors": [
+        {
+          "name": "Kit Moloney-Geany",
+          "openAlexId": "https://openalex.org/A5041473696",
+          "position": 1
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A2137628074",
+          "position": 2
+        },
+        {
+          "name": "Robert C. Day",
+          "orcidId": "0000-0002-0043-5149",
+          "openAlexId": "https://openalex.org/A2101499382",
+          "position": 3
+        },
+        {
+          "name": "Parry Guilford",
+          "orcidId": "0000-0002-7256-9576",
+          "openAlexId": "https://openalex.org/A2244027910",
+          "position": 4
+        },
+        {
+          "name": "Michael J. Dunnet",
+          "openAlexId": null,
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4416407306",
@@ -17,7 +47,37 @@
       "year": 2025,
       "venue": "Scientific Reports",
       "doi": "https://doi.org/10.1038/s41598-025-24719-9",
-      "openAccessUrl": "https://doi.org/10.1038/s41598-025-24719-9"
+      "openAccessUrl": "https://doi.org/10.1038/s41598-025-24719-9",
+      "authors": [
+        {
+          "name": "Kit Moloney-Geany",
+          "openAlexId": "https://openalex.org/A5041473696",
+          "position": 1
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 2
+        },
+        {
+          "name": "Robert C. Day",
+          "orcidId": "0000-0002-0043-5149",
+          "openAlexId": "https://openalex.org/A5039965367",
+          "position": 3
+        },
+        {
+          "name": "Parry Guilford",
+          "orcidId": "0000-0002-7256-9576",
+          "openAlexId": "https://openalex.org/A5012739492",
+          "position": 4
+        },
+        {
+          "name": "M. J. Dunnet",
+          "openAlexId": "https://openalex.org/A5021412321",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414353099",
@@ -25,7 +85,38 @@
       "year": 2025,
       "venue": "Frontiers in Genetics",
       "doi": "https://doi.org/10.3389/fgene.2025.1679660",
-      "openAccessUrl": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1679660/pdf"
+      "openAccessUrl": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1679660/pdf",
+      "authors": [
+        {
+          "name": "Denis M. Nyaga",
+          "orcidId": "0000-0001-6240-4017",
+          "openAlexId": "https://openalex.org/A5068027799",
+          "position": 1
+        },
+        {
+          "name": "Roan E. Zaied",
+          "orcidId": "0000-0001-5981-9940",
+          "openAlexId": "https://openalex.org/A5007492900",
+          "position": 2
+        },
+        {
+          "name": "Olin Silander",
+          "orcidId": "0000-0003-4105-8316",
+          "openAlexId": "https://openalex.org/A5052508586",
+          "position": 3
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 4
+        },
+        {
+          "name": "Justin M. O’Sullivan",
+          "openAlexId": "https://openalex.org/A5087630383",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411205819",
@@ -33,7 +124,38 @@
       "year": 2025,
       "venue": "RNA",
       "doi": "https://doi.org/10.1261/rna.080416.125",
-      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125"
+      "openAccessUrl": "https://doi.org/10.1261/rna.080416.125",
+      "authors": [
+        {
+          "name": "D J Champion",
+          "openAlexId": "https://openalex.org/A5104302844",
+          "position": 1
+        },
+        {
+          "name": "Ting‐Hsuan Chen",
+          "orcidId": "0000-0003-4517-7750",
+          "openAlexId": "https://openalex.org/A5026969046",
+          "position": 2
+        },
+        {
+          "name": "Susan Thomson",
+          "orcidId": "0000-0001-7127-9414",
+          "openAlexId": "https://openalex.org/A5001911502",
+          "position": 3
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 4
+        },
+        {
+          "name": "Paul P. Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "openAlexId": "https://openalex.org/A5067459027",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411273738",
@@ -41,7 +163,32 @@
       "year": 2025,
       "venue": "Journal of Biological Chemistry",
       "doi": "https://doi.org/10.1016/j.jbc.2025.109883",
-      "openAccessUrl": "https://www.jbc.org/action/showPdf?pii=S0021925825017326"
+      "openAccessUrl": "https://www.jbc.org/action/showPdf?pii=S0021925825017326",
+      "authors": [
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 1
+        },
+        {
+          "name": "Geraldy L. S. Liman",
+          "orcidId": "0009-0001-4053-6008",
+          "openAlexId": "https://openalex.org/A5078549865",
+          "position": 2
+        },
+        {
+          "name": "Kelly M. Zatopek",
+          "orcidId": "0000-0002-0787-8495",
+          "openAlexId": "https://openalex.org/A5021800492",
+          "position": 3
+        },
+        {
+          "name": "Thomas Santangelo",
+          "openAlexId": "https://openalex.org/A5056612549",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4409980943",
@@ -49,7 +196,103 @@
       "year": 2025,
       "venue": "Cytotherapy",
       "doi": "https://doi.org/10.1016/j.jcyt.2025.03.179",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcyt.2025.03.179"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcyt.2025.03.179",
+      "authors": [
+        {
+          "name": "Mathew Barlow",
+          "orcidId": "0000-0002-7612-3811",
+          "openAlexId": "https://openalex.org/A5026097982",
+          "position": 1
+        },
+        {
+          "name": "Lina Moses",
+          "openAlexId": "https://openalex.org/A5010071986",
+          "position": 2
+        },
+        {
+          "name": "Nan Zhang",
+          "orcidId": "0000-0001-7667-0615",
+          "openAlexId": "https://openalex.org/A5100331228",
+          "position": 3
+        },
+        {
+          "name": "Steven L. Highfill",
+          "orcidId": "0000-0003-0135-0961",
+          "openAlexId": "https://openalex.org/A5005504613",
+          "position": 4
+        },
+        {
+          "name": "D. Stroncek",
+          "openAlexId": "https://openalex.org/A5055879138",
+          "position": 5
+        },
+        {
+          "name": "Robert Somerville",
+          "orcidId": "0000-0002-3093-2533",
+          "openAlexId": "https://openalex.org/A5111468600",
+          "position": 6
+        },
+        {
+          "name": "P. Jin",
+          "openAlexId": "https://openalex.org/A5109722409",
+          "position": 7
+        },
+        {
+          "name": "Hoan Nguyen",
+          "orcidId": "0000-0002-3276-5863",
+          "openAlexId": "https://openalex.org/A5101428378",
+          "position": 8
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 9
+        },
+        {
+          "name": "H. Díaz",
+          "openAlexId": "https://openalex.org/A5110105818",
+          "position": 10
+        },
+        {
+          "name": "Yunjeong Kim",
+          "orcidId": "0000-0002-2977-4400",
+          "openAlexId": "https://openalex.org/A5100452437",
+          "position": 11
+        },
+        {
+          "name": "Congshan Jiang",
+          "orcidId": "0000-0002-7457-6243",
+          "openAlexId": "https://openalex.org/A5081324733",
+          "position": 12
+        },
+        {
+          "name": "Aimée Gaubert",
+          "openAlexId": "https://openalex.org/A5085349073",
+          "position": 13
+        },
+        {
+          "name": "Sibaji Sarkar",
+          "orcidId": "0000-0002-2204-3031",
+          "openAlexId": "https://openalex.org/A5039560128",
+          "position": 14
+        },
+        {
+          "name": "Zulmarie Franco",
+          "openAlexId": "https://openalex.org/A5000654839",
+          "position": 15
+        },
+        {
+          "name": "Kathryn R. Martin",
+          "openAlexId": "https://openalex.org/A5041447963",
+          "position": 16
+        },
+        {
+          "name": "Steven E. Underwood",
+          "openAlexId": "https://openalex.org/A5113444511",
+          "position": 17
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4397013939",
@@ -57,7 +300,38 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.05.16.594598",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/05/16/2024.05.16.594598.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/05/16/2024.05.16.594598.full.pdf",
+      "authors": [
+        {
+          "name": "D J Champion",
+          "openAlexId": "https://openalex.org/A5104302844",
+          "position": 1
+        },
+        {
+          "name": "Ting‐Hsuan Chen",
+          "orcidId": "0000-0003-4517-7750",
+          "openAlexId": "https://openalex.org/A5026969046",
+          "position": 2
+        },
+        {
+          "name": "Susan Thomson",
+          "orcidId": "0000-0001-7127-9414",
+          "openAlexId": "https://openalex.org/A5001911502",
+          "position": 3
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 4
+        },
+        {
+          "name": "Paul P. Gardner",
+          "orcidId": "0000-0002-7808-1213",
+          "openAlexId": "https://openalex.org/A5067459027",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393094032",
@@ -65,7 +339,76 @@
       "year": 2024,
       "venue": "Cancer Research",
       "doi": "https://doi.org/10.1158/1538-7445.am2024-5379",
-      "openAccessUrl": "https://doi.org/10.1158/1538-7445.am2024-5379"
+      "openAccessUrl": "https://doi.org/10.1158/1538-7445.am2024-5379",
+      "authors": [
+        {
+          "name": "Samantha C. Schwager",
+          "orcidId": "0000-0001-7927-3156",
+          "openAlexId": "https://openalex.org/A5051119646",
+          "position": 1
+        },
+        {
+          "name": "Eugene Park",
+          "orcidId": "0000-0002-2617-7571",
+          "openAlexId": "https://openalex.org/A5032158404",
+          "position": 2
+        },
+        {
+          "name": "Anne van Abbema",
+          "openAlexId": "https://openalex.org/A5019858460",
+          "position": 3
+        },
+        {
+          "name": "Yihong Guan",
+          "orcidId": "0000-0001-8002-5141",
+          "openAlexId": "https://openalex.org/A5007563117",
+          "position": 4
+        },
+        {
+          "name": "Connor Rosen",
+          "orcidId": "0000-0003-2442-3676",
+          "openAlexId": "https://openalex.org/A5016756327",
+          "position": 5
+        },
+        {
+          "name": "Sean Cho",
+          "openAlexId": "https://openalex.org/A5055178499",
+          "position": 6
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 7
+        },
+        {
+          "name": "Inna Kurilyak",
+          "openAlexId": "https://openalex.org/A5094224331",
+          "position": 8
+        },
+        {
+          "name": "Jenna L. Jeffrey",
+          "orcidId": "0000-0001-9249-5984",
+          "openAlexId": "https://openalex.org/A5084888956",
+          "position": 9
+        },
+        {
+          "name": "Juan José Fung",
+          "openAlexId": "https://openalex.org/A5110640361",
+          "position": 10
+        },
+        {
+          "name": "Susan L. Paprcka",
+          "orcidId": "0000-0001-6627-8257",
+          "openAlexId": "https://openalex.org/A5090835648",
+          "position": 11
+        },
+        {
+          "name": "Ester Fernández‐Salas",
+          "openAlexId": "https://openalex.org/A5033551724",
+          "position": 12
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4392348463",
@@ -73,7 +416,51 @@
       "year": 2024,
       "venue": "Theoretical and Applied Genetics",
       "doi": "https://doi.org/10.1007/s00122-024-04568-2",
-      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00122-024-04568-2.pdf"
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00122-024-04568-2.pdf",
+      "authors": [
+        {
+          "name": "Timothy P. Bilton",
+          "orcidId": "0000-0001-5945-3766",
+          "openAlexId": "https://openalex.org/A5030499285",
+          "position": 1
+        },
+        {
+          "name": "Sanjeev Sharma",
+          "orcidId": "0000-0002-3273-0708",
+          "openAlexId": "https://openalex.org/A5100365785",
+          "position": 2
+        },
+        {
+          "name": "Matthew Schofield",
+          "orcidId": "0000-0003-1481-2766",
+          "openAlexId": "https://openalex.org/A5033690997",
+          "position": 3
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 4
+        },
+        {
+          "name": "Jeanne M. E. Jacobs",
+          "orcidId": "0000-0002-1047-1039",
+          "openAlexId": "https://openalex.org/A5075409476",
+          "position": 5
+        },
+        {
+          "name": "Glenn J. Bryan",
+          "orcidId": "0000-0002-7752-5740",
+          "openAlexId": "https://openalex.org/A5073869684",
+          "position": 6
+        },
+        {
+          "name": "K. G. Dodds",
+          "orcidId": "0000-0002-9347-6379",
+          "openAlexId": "https://openalex.org/A5058921217",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4389936246",
@@ -81,7 +468,110 @@
       "year": 2023,
       "venue": "Nature Communications",
       "doi": "https://doi.org/10.1038/s41467-023-44126-w",
-      "openAccessUrl": "https://www.nature.com/articles/s41467-023-44126-w.pdf"
+      "openAccessUrl": "https://www.nature.com/articles/s41467-023-44126-w.pdf",
+      "authors": [
+        {
+          "name": "Michelle Maurin",
+          "orcidId": "0009-0005-4777-2504",
+          "openAlexId": "https://openalex.org/A5049941609",
+          "position": 1
+        },
+        {
+          "name": "Mohammadreza Ranjouri",
+          "openAlexId": "https://openalex.org/A5011148841",
+          "position": 2
+        },
+        {
+          "name": "Cristina Megino‐Luque",
+          "orcidId": "0000-0002-4774-6745",
+          "openAlexId": "https://openalex.org/A5061408129",
+          "position": 3
+        },
+        {
+          "name": "Justin Y. Newberg",
+          "orcidId": "0000-0002-3764-4956",
+          "openAlexId": "https://openalex.org/A5026835151",
+          "position": 4
+        },
+        {
+          "name": "Dongliang Du",
+          "orcidId": "0000-0002-0881-7563",
+          "openAlexId": "https://openalex.org/A5079355016",
+          "position": 5
+        },
+        {
+          "name": "Katelyn Martin",
+          "openAlexId": "https://openalex.org/A5046503186",
+          "position": 6
+        },
+        {
+          "name": "Robert E. Miner",
+          "openAlexId": "https://openalex.org/A5104216160",
+          "position": 7
+        },
+        {
+          "name": "Mollie S. Prater",
+          "orcidId": "0009-0008-2604-5182",
+          "openAlexId": "https://openalex.org/A5092816032",
+          "position": 8
+        },
+        {
+          "name": "Dave Keng Boon Wee",
+          "openAlexId": "https://openalex.org/A5109405275",
+          "position": 9
+        },
+        {
+          "name": "Barbara A. Centeno",
+          "openAlexId": "https://openalex.org/A5007883302",
+          "position": 10
+        },
+        {
+          "name": "Shondra M. Pruett‐Miller",
+          "openAlexId": "https://openalex.org/A5018214540",
+          "position": 11
+        },
+        {
+          "name": "Paul A. Stewart",
+          "openAlexId": "https://openalex.org/A5087467089",
+          "position": 12
+        },
+        {
+          "name": "Jason B. Fleming",
+          "orcidId": "0000-0002-8796-5627",
+          "openAlexId": "https://openalex.org/A5037694904",
+          "position": 13
+        },
+        {
+          "name": "Xiaoqing Yu",
+          "orcidId": "0000-0003-4585-9372",
+          "openAlexId": "https://openalex.org/A5078872209",
+          "position": 14
+        },
+        {
+          "name": "Jose Javier Bravo‐Cordero",
+          "orcidId": "0000-0001-9481-1231",
+          "openAlexId": "https://openalex.org/A5066286527",
+          "position": 15
+        },
+        {
+          "name": "Ernesto Guccione",
+          "orcidId": "0000-0001-7764-5307",
+          "openAlexId": "https://openalex.org/A5072332593",
+          "position": 16
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 17
+        },
+        {
+          "name": "Karen M. Mann",
+          "orcidId": "0000-0002-7161-4523",
+          "openAlexId": "https://openalex.org/A5068461186",
+          "position": 18
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4388768650",
@@ -89,7 +579,27 @@
       "year": 2023,
       "venue": "Cancer Medicine",
       "doi": "https://doi.org/10.1002/cam4.6711",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cam4.6711"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cam4.6711",
+      "authors": [
+        {
+          "name": "Conor McGuinness",
+          "orcidId": "0009-0006-7936-1491",
+          "openAlexId": "https://openalex.org/A5030502823",
+          "position": 1
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 2
+        },
+        {
+          "name": "Anita K. Dunbier",
+          "orcidId": "0000-0003-4621-7419",
+          "openAlexId": "https://openalex.org/A5059731799",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4386757641",
@@ -97,7 +607,54 @@
       "year": 2023,
       "venue": "Molecular Ecology Resources",
       "doi": "https://doi.org/10.1111/1755-0998.13866",
-      "openAccessUrl": "https://doi.org/10.1111/1755-0998.13866"
+      "openAccessUrl": "https://doi.org/10.1111/1755-0998.13866",
+      "authors": [
+        {
+          "name": "Ben Te Aika",
+          "openAlexId": "https://openalex.org/A5020233935",
+          "position": 1
+        },
+        {
+          "name": "Libby Liggins",
+          "orcidId": "0000-0003-1143-2346",
+          "openAlexId": "https://openalex.org/A5025163431",
+          "position": 2
+        },
+        {
+          "name": "Claire E. Rye",
+          "orcidId": "0000-0003-4630-7836",
+          "openAlexId": "https://openalex.org/A5030095417",
+          "position": 3
+        },
+        {
+          "name": "E. Owen Perkins",
+          "openAlexId": "https://openalex.org/A5109638558",
+          "position": 4
+        },
+        {
+          "name": "Jun Ho Huh",
+          "orcidId": "0000-0003-2007-4018",
+          "openAlexId": "https://openalex.org/A5084089956",
+          "position": 5
+        },
+        {
+          "name": "Rüdiger Bräuning",
+          "orcidId": "0000-0001-5068-9166",
+          "openAlexId": "https://openalex.org/A5030305018",
+          "position": 6
+        },
+        {
+          "name": "Tracey Godfery",
+          "openAlexId": "https://openalex.org/A5092875451",
+          "position": 7
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4385727346",
@@ -105,7 +662,65 @@
       "year": 2023,
       "venue": "Frontiers in Genetics",
       "doi": "https://doi.org/10.3389/fgene.2023.1225248",
-      "openAccessUrl": "https://doi.org/10.3389/fgene.2023.1225248"
+      "openAccessUrl": "https://doi.org/10.3389/fgene.2023.1225248",
+      "authors": [
+        {
+          "name": "Zuyu Yang",
+          "openAlexId": "https://openalex.org/A5076117125",
+          "position": 1
+        },
+        {
+          "name": "Andrea Guarracino",
+          "openAlexId": "https://openalex.org/A5028113588",
+          "position": 2
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 3
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 4
+        },
+        {
+          "name": "Fathima Nuzla Ismail",
+          "orcidId": "0000-0002-0716-1478",
+          "openAlexId": "https://openalex.org/A5016605220",
+          "position": 5
+        },
+        {
+          "name": "Jana Wold",
+          "orcidId": "0000-0001-8095-4282",
+          "openAlexId": "https://openalex.org/A5014752093",
+          "position": 6
+        },
+        {
+          "name": "Tony R. Merriman",
+          "orcidId": "0000-0003-0844-8726",
+          "openAlexId": "https://openalex.org/A5008504111",
+          "position": 7
+        },
+        {
+          "name": "Pjotr Prins",
+          "orcidId": "0000-0002-8021-9162",
+          "openAlexId": "https://openalex.org/A5028085028",
+          "position": 8
+        },
+        {
+          "name": "Erik Garrison",
+          "openAlexId": "https://openalex.org/A5008992371",
+          "position": 9
+        },
+        {
+          "name": "Joep de Ligt",
+          "openAlexId": "https://openalex.org/A5072525850",
+          "position": 10
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4385379270",
@@ -113,7 +728,27 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.07.27.550611",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/07/29/2023.07.27.550611.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/07/29/2023.07.27.550611.full.pdf",
+      "authors": [
+        {
+          "name": "Conor McGuinness",
+          "orcidId": "0009-0006-7936-1491",
+          "openAlexId": "https://openalex.org/A5030502823",
+          "position": 1
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 2
+        },
+        {
+          "name": "Anita K. Dunbier",
+          "orcidId": "0000-0003-4621-7419",
+          "openAlexId": "https://openalex.org/A5059731799",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4383532727",
@@ -121,7 +756,56 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.07.06.547928",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/07/07/2023.07.06.547928.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/07/07/2023.07.06.547928.full.pdf",
+      "authors": [
+        {
+          "name": "Hamish D. McMillan",
+          "orcidId": "0000-0002-1384-8567",
+          "openAlexId": "https://openalex.org/A5088437843",
+          "position": 1
+        },
+        {
+          "name": "Evangelia K. Papachristou",
+          "orcidId": "0000-0002-5835-2055",
+          "openAlexId": "https://openalex.org/A5043665920",
+          "position": 2
+        },
+        {
+          "name": "Jody Hazlett",
+          "openAlexId": "https://openalex.org/A5055782737",
+          "position": 3
+        },
+        {
+          "name": "Soleilmane Omarjee",
+          "orcidId": "0000-0001-8686-7286",
+          "openAlexId": "https://openalex.org/A5040315019",
+          "position": 4
+        },
+        {
+          "name": "Jason S. Carroll",
+          "orcidId": "0000-0003-3643-0080",
+          "openAlexId": "https://openalex.org/A5084427699",
+          "position": 5
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 6
+        },
+        {
+          "name": "Peter D. Mace",
+          "orcidId": "0000-0003-2175-9537",
+          "openAlexId": "https://openalex.org/A5026934240",
+          "position": 7
+        },
+        {
+          "name": "Anita K. Dunbier",
+          "orcidId": "0000-0003-4621-7419",
+          "openAlexId": "https://openalex.org/A5059731799",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4376111026",
@@ -129,105 +813,1137 @@
       "year": 2023,
       "venue": "Cytotherapy",
       "doi": "https://doi.org/10.1016/s1465-3249(23)00571-6",
-      "openAccessUrl": "https://doi.org/10.1016/s1465-3249(23)00571-6"
+      "openAccessUrl": "https://doi.org/10.1016/s1465-3249(23)00571-6",
+      "authors": [
+        {
+          "name": "Zulmarie Franco",
+          "openAlexId": "https://openalex.org/A5000654839",
+          "position": 1
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 2
+        },
+        {
+          "name": "Jianjian Jin",
+          "openAlexId": "https://openalex.org/A5056596617",
+          "position": 3
+        },
+        {
+          "name": "Li Zhang",
+          "orcidId": "0000-0002-3617-2627",
+          "openAlexId": "https://openalex.org/A5100425554",
+          "position": 4
+        },
+        {
+          "name": "Stacey L. Doran",
+          "orcidId": "0000-0003-3922-3773",
+          "openAlexId": "https://openalex.org/A5080551882",
+          "position": 5
+        },
+        {
+          "name": "Federica Maldarelli",
+          "orcidId": "0000-0002-5270-2675",
+          "openAlexId": "https://openalex.org/A5006254750",
+          "position": 6
+        },
+        {
+          "name": "Ramya Ramaswami",
+          "orcidId": "0000-0001-5709-4675",
+          "openAlexId": "https://openalex.org/A5080620533",
+          "position": 7
+        },
+        {
+          "name": "Kathryn Lurain",
+          "orcidId": "0000-0002-5794-7292",
+          "openAlexId": "https://openalex.org/A5017573383",
+          "position": 8
+        },
+        {
+          "name": "Yihua Cai",
+          "orcidId": "0000-0002-3693-9533",
+          "openAlexId": "https://openalex.org/A5101582952",
+          "position": 9
+        },
+        {
+          "name": "Michaela Prochazkova",
+          "openAlexId": "https://openalex.org/A5112075948",
+          "position": 10
+        },
+        {
+          "name": "Tatyana Fuksenko",
+          "openAlexId": "https://openalex.org/A5071318833",
+          "position": 11
+        },
+        {
+          "name": "Christian S. Hinrichs",
+          "orcidId": "0000-0001-5597-2841",
+          "openAlexId": "https://openalex.org/A5066468457",
+          "position": 12
+        },
+        {
+          "name": "David F. Stroncek",
+          "orcidId": "0000-0001-5867-3265",
+          "openAlexId": "https://openalex.org/A5072166479",
+          "position": 13
+        },
+        {
+          "name": "Steven L. Highfill",
+          "orcidId": "0000-0003-0135-0961",
+          "openAlexId": "https://openalex.org/A5005504613",
+          "position": 14
+        },
+        {
+          "name": "James L. Gulley",
+          "orcidId": "0000-0002-6569-2912",
+          "openAlexId": "https://openalex.org/A5070669850",
+          "position": 15
+        },
+        {
+          "name": "Scott M. Norberg",
+          "orcidId": "0000-0001-5232-2448",
+          "openAlexId": "https://openalex.org/A5030536741",
+          "position": 16
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362525040",
       "title": "Data from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
       "year": 2023,
       "doi": "https://doi.org/10.1158/2326-6066.c.6550291",
-      "openAccessUrl": "https://doi.org/10.1158/2326-6066.c.6550291"
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.c.6550291",
+      "authors": [
+        {
+          "name": "Jennifer Eom",
+          "orcidId": "0000-0002-2002-0194",
+          "openAlexId": "https://openalex.org/A5043764273",
+          "position": 1
+        },
+        {
+          "name": "Saem Mul Park",
+          "orcidId": "0000-0002-0999-0245",
+          "openAlexId": "https://openalex.org/A5027020738",
+          "position": 2
+        },
+        {
+          "name": "Vaughan Feisst",
+          "orcidId": "0000-0002-3455-1201",
+          "openAlexId": "https://openalex.org/A5044589609",
+          "position": 3
+        },
+        {
+          "name": "Chun‐Jen J. Chen",
+          "openAlexId": "https://openalex.org/A5012608451",
+          "position": 4
+        },
+        {
+          "name": "Joanna E. Mathy",
+          "orcidId": "0000-0002-5907-9257",
+          "openAlexId": "https://openalex.org/A5002669597",
+          "position": 5
+        },
+        {
+          "name": "Julie D. McIntosh",
+          "openAlexId": "https://openalex.org/A5063423795",
+          "position": 6
+        },
+        {
+          "name": "Catherine E. Angel",
+          "orcidId": "0000-0003-1737-8539",
+          "openAlexId": "https://openalex.org/A5021856789",
+          "position": 7
+        },
+        {
+          "name": "Adam Bartlett",
+          "orcidId": "0000-0002-7532-9316",
+          "openAlexId": "https://openalex.org/A5058797577",
+          "position": 8
+        },
+        {
+          "name": "Richard J. Martin",
+          "orcidId": "0000-0003-2478-5239",
+          "openAlexId": "https://openalex.org/A5101628367",
+          "position": 9
+        },
+        {
+          "name": "Jon A. Mathy",
+          "openAlexId": "https://openalex.org/A5112905679",
+          "position": 10
+        },
+        {
+          "name": "Jonathan Cebon",
+          "openAlexId": "https://openalex.org/A5031661938",
+          "position": 11
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 12
+        },
+        {
+          "name": "Anna E. S. Brooks",
+          "orcidId": "0000-0003-3551-6982",
+          "openAlexId": "https://openalex.org/A5068901580",
+          "position": 13
+        },
+        {
+          "name": "P. Rod Dunbar",
+          "orcidId": "0000-0001-9626-2600",
+          "openAlexId": "https://openalex.org/A5022058325",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362540609",
       "title": "Supplementary Figures and Tables from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
       "year": 2023,
       "doi": "https://doi.org/10.1158/2326-6066.22543495.v1",
-      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22543495.v1"
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22543495.v1",
+      "authors": [
+        {
+          "name": "Jennifer Eom",
+          "orcidId": "0000-0002-2002-0194",
+          "openAlexId": "https://openalex.org/A5043764273",
+          "position": 1
+        },
+        {
+          "name": "Saem Mul Park",
+          "orcidId": "0000-0002-0999-0245",
+          "openAlexId": "https://openalex.org/A5027020738",
+          "position": 2
+        },
+        {
+          "name": "Vaughan Feisst",
+          "orcidId": "0000-0002-3455-1201",
+          "openAlexId": "https://openalex.org/A5044589609",
+          "position": 3
+        },
+        {
+          "name": "Chun‐Jen J. Chen",
+          "openAlexId": "https://openalex.org/A5012608451",
+          "position": 4
+        },
+        {
+          "name": "Joanna E. Mathy",
+          "orcidId": "0000-0002-5907-9257",
+          "openAlexId": "https://openalex.org/A5002669597",
+          "position": 5
+        },
+        {
+          "name": "Julie D. McIntosh",
+          "openAlexId": "https://openalex.org/A5063423795",
+          "position": 6
+        },
+        {
+          "name": "Catherine E. Angel",
+          "orcidId": "0000-0003-1737-8539",
+          "openAlexId": "https://openalex.org/A5021856789",
+          "position": 7
+        },
+        {
+          "name": "Adam Bartlett",
+          "orcidId": "0000-0002-7532-9316",
+          "openAlexId": "https://openalex.org/A5058797577",
+          "position": 8
+        },
+        {
+          "name": "Richard J. Martin",
+          "orcidId": "0000-0003-2422-1847",
+          "openAlexId": "https://openalex.org/A5033749081",
+          "position": 9
+        },
+        {
+          "name": "Jon A. Mathy",
+          "openAlexId": "https://openalex.org/A5112905679",
+          "position": 10
+        },
+        {
+          "name": "Jonathan Cebon",
+          "openAlexId": "https://openalex.org/A5031661938",
+          "position": 11
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 12
+        },
+        {
+          "name": "Anna E. S. Brooks",
+          "orcidId": "0000-0003-3551-6982",
+          "openAlexId": "https://openalex.org/A5068901580",
+          "position": 13
+        },
+        {
+          "name": "P. Rod Dunbar",
+          "orcidId": "0000-0001-9626-2600",
+          "openAlexId": "https://openalex.org/A5022058325",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362546846",
       "title": "Data from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
       "year": 2023,
       "doi": "https://doi.org/10.1158/2326-6066.c.6550291.v1",
-      "openAccessUrl": "https://doi.org/10.1158/2326-6066.c.6550291.v1"
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.c.6550291.v1",
+      "authors": [
+        {
+          "name": "Jennifer Eom",
+          "orcidId": "0000-0002-2002-0194",
+          "openAlexId": "https://openalex.org/A5043764273",
+          "position": 1
+        },
+        {
+          "name": "Saem Mul Park",
+          "orcidId": "0000-0002-0999-0245",
+          "openAlexId": "https://openalex.org/A5027020738",
+          "position": 2
+        },
+        {
+          "name": "Vaughan Feisst",
+          "orcidId": "0000-0002-3455-1201",
+          "openAlexId": "https://openalex.org/A5044589609",
+          "position": 3
+        },
+        {
+          "name": "Chun‐Jen J. Chen",
+          "openAlexId": "https://openalex.org/A5012608451",
+          "position": 4
+        },
+        {
+          "name": "Joanna E. Mathy",
+          "orcidId": "0000-0002-5907-9257",
+          "openAlexId": "https://openalex.org/A5002669597",
+          "position": 5
+        },
+        {
+          "name": "Julie D. McIntosh",
+          "openAlexId": "https://openalex.org/A5063423795",
+          "position": 6
+        },
+        {
+          "name": "Catherine E. Angel",
+          "orcidId": "0000-0003-1737-8539",
+          "openAlexId": "https://openalex.org/A5021856789",
+          "position": 7
+        },
+        {
+          "name": "Adam Bartlett",
+          "orcidId": "0000-0002-7532-9316",
+          "openAlexId": "https://openalex.org/A5058797577",
+          "position": 8
+        },
+        {
+          "name": "Richard J. Martin",
+          "orcidId": "0000-0003-2478-5239",
+          "openAlexId": "https://openalex.org/A5101628367",
+          "position": 9
+        },
+        {
+          "name": "Jon A. Mathy",
+          "openAlexId": "https://openalex.org/A5112905679",
+          "position": 10
+        },
+        {
+          "name": "Jonathan Cebon",
+          "openAlexId": "https://openalex.org/A5031661938",
+          "position": 11
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 12
+        },
+        {
+          "name": "Anna E. S. Brooks",
+          "orcidId": "0000-0003-3551-6982",
+          "openAlexId": "https://openalex.org/A5068901580",
+          "position": 13
+        },
+        {
+          "name": "P. Rod Dunbar",
+          "orcidId": "0000-0001-9626-2600",
+          "openAlexId": "https://openalex.org/A5022058325",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362532420",
       "title": "Supplementary Figures and Tables from Distinctive Subpopulations of Stromal Cells Are Present in Human Lymph Nodes Infiltrated with Melanoma",
       "year": 2023,
       "doi": "https://doi.org/10.1158/2326-6066.22543495",
-      "openAccessUrl": "https://aacr.figshare.com/ndownloader/files/40006903"
+      "openAccessUrl": "https://aacr.figshare.com/ndownloader/files/40006903",
+      "authors": [
+        {
+          "name": "Jennifer Eom",
+          "orcidId": "0000-0002-2002-0194",
+          "openAlexId": "https://openalex.org/A5043764273",
+          "position": 1
+        },
+        {
+          "name": "Saem Mul Park",
+          "orcidId": "0000-0002-0999-0245",
+          "openAlexId": "https://openalex.org/A5027020738",
+          "position": 2
+        },
+        {
+          "name": "Vaughan Feisst",
+          "orcidId": "0000-0002-3455-1201",
+          "openAlexId": "https://openalex.org/A5044589609",
+          "position": 3
+        },
+        {
+          "name": "Chun‐Jen J. Chen",
+          "openAlexId": "https://openalex.org/A5012608451",
+          "position": 4
+        },
+        {
+          "name": "Joanna E. Mathy",
+          "orcidId": "0000-0002-5907-9257",
+          "openAlexId": "https://openalex.org/A5002669597",
+          "position": 5
+        },
+        {
+          "name": "Julie D. McIntosh",
+          "openAlexId": "https://openalex.org/A5063423795",
+          "position": 6
+        },
+        {
+          "name": "Catherine E. Angel",
+          "orcidId": "0000-0003-1737-8539",
+          "openAlexId": "https://openalex.org/A5021856789",
+          "position": 7
+        },
+        {
+          "name": "Adam Bartlett",
+          "orcidId": "0000-0002-7532-9316",
+          "openAlexId": "https://openalex.org/A5058797577",
+          "position": 8
+        },
+        {
+          "name": "Richard J. Martin",
+          "orcidId": "0000-0003-2422-1847",
+          "openAlexId": "https://openalex.org/A5033749081",
+          "position": 9
+        },
+        {
+          "name": "Jon A. Mathy",
+          "openAlexId": "https://openalex.org/A5112905679",
+          "position": 10
+        },
+        {
+          "name": "Jonathan Cebon",
+          "openAlexId": "https://openalex.org/A5031661938",
+          "position": 11
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 12
+        },
+        {
+          "name": "Anna E. S. Brooks",
+          "orcidId": "0000-0003-3551-6982",
+          "openAlexId": "https://openalex.org/A5068901580",
+          "position": 13
+        },
+        {
+          "name": "P. Rod Dunbar",
+          "orcidId": "0000-0001-9626-2600",
+          "openAlexId": "https://openalex.org/A5022058325",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362539569",
       "title": "Supplementary Figure S5 from Immunogenic Subtypes of Breast Cancer Delineated by Gene Classifiers of Immune Responsiveness",
       "year": 2023,
       "doi": "https://doi.org/10.1158/2326-6066.22537586.v1",
-      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22537586.v1"
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22537586.v1",
+      "authors": [
+        {
+          "name": "Lance D. Miller",
+          "orcidId": "0000-0003-3799-2528",
+          "openAlexId": "https://openalex.org/A5024804165",
+          "position": 1
+        },
+        {
+          "name": "Jeff A. Chou",
+          "openAlexId": "https://openalex.org/A5060232310",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Cristin G. Print",
+          "orcidId": "0000-0001-8345-7812",
+          "openAlexId": "https://openalex.org/A5064023142",
+          "position": 4
+        },
+        {
+          "name": "Julia Chifman",
+          "orcidId": "0000-0002-7520-0627",
+          "openAlexId": "https://openalex.org/A5034225463",
+          "position": 5
+        },
+        {
+          "name": "Angela Alistar",
+          "orcidId": "0009-0009-0473-7513",
+          "openAlexId": "https://openalex.org/A5023523894",
+          "position": 6
+        },
+        {
+          "name": "Thomas Choudary Putti",
+          "orcidId": "0000-0001-8791-7257",
+          "openAlexId": "https://openalex.org/A5002985052",
+          "position": 7
+        },
+        {
+          "name": "Xiaobo Zhou",
+          "orcidId": "0000-0001-7191-6495",
+          "openAlexId": "https://openalex.org/A5040883232",
+          "position": 8
+        },
+        {
+          "name": "Davide Bedognetti",
+          "openAlexId": "https://openalex.org/A5071591293",
+          "position": 9
+        },
+        {
+          "name": "Wouter Hendrickx",
+          "orcidId": "0000-0002-7649-5092",
+          "openAlexId": "https://openalex.org/A5039036917",
+          "position": 10
+        },
+        {
+          "name": "Ashok Pullikuth",
+          "orcidId": "0000-0002-0041-3310",
+          "openAlexId": "https://openalex.org/A5042491524",
+          "position": 11
+        },
+        {
+          "name": "Jonathan Rennhack",
+          "openAlexId": "https://openalex.org/A5055520629",
+          "position": 12
+        },
+        {
+          "name": "Eran R. Andrechek",
+          "orcidId": "0000-0002-8680-3423",
+          "openAlexId": "https://openalex.org/A5090347439",
+          "position": 13
+        },
+        {
+          "name": "Sandra Demaria",
+          "orcidId": "0000-0003-4426-0499",
+          "openAlexId": "https://openalex.org/A5052554629",
+          "position": 14
+        },
+        {
+          "name": "Ena Wang",
+          "orcidId": "0000-0001-6606-6510",
+          "openAlexId": "https://openalex.org/A5049816096",
+          "position": 15
+        },
+        {
+          "name": "Francesco M. Marincola",
+          "openAlexId": "https://openalex.org/A5059941996",
+          "position": 16
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362610878",
       "title": "Pyrosequencing Assay positions from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1541-7786.22511835",
-      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511835"
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511835",
+      "authors": [
+        {
+          "name": "Eric A. Ariazi",
+          "openAlexId": "https://openalex.org/A5053893712",
+          "position": 1
+        },
+        {
+          "name": "John Taylor",
+          "orcidId": "0000-0002-2518-5799",
+          "openAlexId": "https://openalex.org/A5079305389",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Émmanuelle Nicolas",
+          "orcidId": "0000-0002-0368-3519",
+          "openAlexId": "https://openalex.org/A5055625894",
+          "position": 4
+        },
+        {
+          "name": "Michael Slifker",
+          "orcidId": "0000-0002-9718-5966",
+          "openAlexId": "https://openalex.org/A5027615447",
+          "position": 5
+        },
+        {
+          "name": "Diana J. Azzam",
+          "orcidId": "0000-0002-2605-8855",
+          "openAlexId": "https://openalex.org/A5086842158",
+          "position": 6
+        },
+        {
+          "name": "Jeff Boyd",
+          "orcidId": "0000-0002-3517-7637",
+          "openAlexId": "https://openalex.org/A5008927601",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362479155",
       "title": "Supplementary Figure 2 from Cyclin E2 Overexpression Is Associated with Endocrine Resistance but not Insensitivity to CDK2 Inhibition in Human Breast Cancer Cells",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1535-7163.22496370.v1",
-      "openAccessUrl": "https://doi.org/10.1158/1535-7163.22496370.v1"
+      "openAccessUrl": "https://doi.org/10.1158/1535-7163.22496370.v1",
+      "authors": [
+        {
+          "name": "C. Elizabeth Caldon",
+          "openAlexId": "https://openalex.org/A5018714307",
+          "position": 1
+        },
+        {
+          "name": "C. Marcelo Sergio",
+          "orcidId": "0000-0002-5426-0583",
+          "openAlexId": "https://openalex.org/A5049710826",
+          "position": 2
+        },
+        {
+          "name": "Jian Kang",
+          "orcidId": "0000-0001-8995-5636",
+          "openAlexId": "https://openalex.org/A5100447381",
+          "position": 3
+        },
+        {
+          "name": "Anita Muthukaruppan",
+          "openAlexId": "https://openalex.org/A5020330950",
+          "position": 4
+        },
+        {
+          "name": "Marijke N. Boersma",
+          "openAlexId": "https://openalex.org/A5057160141",
+          "position": 5
+        },
+        {
+          "name": "Andrew Stone",
+          "openAlexId": "https://openalex.org/A5103937255",
+          "position": 6
+        },
+        {
+          "name": "Jane Barraclough",
+          "openAlexId": "https://openalex.org/A5074300293",
+          "position": 7
+        },
+        {
+          "name": "Christine S. Lee",
+          "openAlexId": "https://openalex.org/A5048203748",
+          "position": 8
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 9
+        },
+        {
+          "name": "Lance D. Miller",
+          "openAlexId": "https://openalex.org/A5012821794",
+          "position": 10
+        },
+        {
+          "name": "Julia M.W. Gee",
+          "orcidId": "0000-0001-6483-2015",
+          "openAlexId": "https://openalex.org/A5012364827",
+          "position": 11
+        },
+        {
+          "name": "Rob I. Nicholson",
+          "openAlexId": "https://openalex.org/A5112863661",
+          "position": 12
+        },
+        {
+          "name": "Robert L. Sutherland",
+          "openAlexId": "https://openalex.org/A5110319158",
+          "position": 13
+        },
+        {
+          "name": "Cristin G. Print",
+          "orcidId": "0000-0001-8345-7812",
+          "openAlexId": "https://openalex.org/A5064023142",
+          "position": 14
+        },
+        {
+          "name": "Elizabeth A. Musgrove",
+          "openAlexId": "https://openalex.org/A5067798845",
+          "position": 15
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362485851",
       "title": "Pyrosequencing Assay positions from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1541-7786.22511835.v1",
-      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511835.v1"
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511835.v1",
+      "authors": [
+        {
+          "name": "Eric A. Ariazi",
+          "openAlexId": "https://openalex.org/A5053893712",
+          "position": 1
+        },
+        {
+          "name": "John Taylor",
+          "orcidId": "0000-0002-2518-5799",
+          "openAlexId": "https://openalex.org/A5079305389",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Émmanuelle Nicolas",
+          "orcidId": "0000-0002-0368-3519",
+          "openAlexId": "https://openalex.org/A5055625894",
+          "position": 4
+        },
+        {
+          "name": "Michael Slifker",
+          "orcidId": "0000-0002-9718-5966",
+          "openAlexId": "https://openalex.org/A5027615447",
+          "position": 5
+        },
+        {
+          "name": "Diana J. Azzam",
+          "orcidId": "0000-0002-2605-8855",
+          "openAlexId": "https://openalex.org/A5086842158",
+          "position": 6
+        },
+        {
+          "name": "Jeff Boyd",
+          "orcidId": "0000-0002-3517-7637",
+          "openAlexId": "https://openalex.org/A5008927601",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362539702",
       "title": "Supplementary Figure S4 from Immunogenic Subtypes of Breast Cancer Delineated by Gene Classifiers of Immune Responsiveness",
       "year": 2023,
       "doi": "https://doi.org/10.1158/2326-6066.22537589.v1",
-      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22537589.v1"
+      "openAccessUrl": "https://doi.org/10.1158/2326-6066.22537589.v1",
+      "authors": [
+        {
+          "name": "Lance D. Miller",
+          "orcidId": "0000-0003-3799-2528",
+          "openAlexId": "https://openalex.org/A5024804165",
+          "position": 1
+        },
+        {
+          "name": "Jeff A. Chou",
+          "openAlexId": "https://openalex.org/A5060232310",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Cristin G. Print",
+          "orcidId": "0000-0001-8345-7812",
+          "openAlexId": "https://openalex.org/A5064023142",
+          "position": 4
+        },
+        {
+          "name": "Julia Chifman",
+          "orcidId": "0000-0002-7520-0627",
+          "openAlexId": "https://openalex.org/A5034225463",
+          "position": 5
+        },
+        {
+          "name": "Angela Alistar",
+          "orcidId": "0009-0009-0473-7513",
+          "openAlexId": "https://openalex.org/A5023523894",
+          "position": 6
+        },
+        {
+          "name": "Thomas Choudary Putti",
+          "orcidId": "0000-0001-8791-7257",
+          "openAlexId": "https://openalex.org/A5002985052",
+          "position": 7
+        },
+        {
+          "name": "Xiaobo Zhou",
+          "orcidId": "0000-0001-7191-6495",
+          "openAlexId": "https://openalex.org/A5040883232",
+          "position": 8
+        },
+        {
+          "name": "Davide Bedognetti",
+          "openAlexId": "https://openalex.org/A5071591293",
+          "position": 9
+        },
+        {
+          "name": "Wouter Hendrickx",
+          "orcidId": "0000-0002-7649-5092",
+          "openAlexId": "https://openalex.org/A5039036917",
+          "position": 10
+        },
+        {
+          "name": "Ashok Pullikuth",
+          "orcidId": "0000-0002-0041-3310",
+          "openAlexId": "https://openalex.org/A5042491524",
+          "position": 11
+        },
+        {
+          "name": "Jonathan Rennhack",
+          "openAlexId": "https://openalex.org/A5055520629",
+          "position": 12
+        },
+        {
+          "name": "Eran R. Andrechek",
+          "orcidId": "0000-0002-8680-3423",
+          "openAlexId": "https://openalex.org/A5090347439",
+          "position": 13
+        },
+        {
+          "name": "Sandra Demaria",
+          "orcidId": "0000-0003-4426-0499",
+          "openAlexId": "https://openalex.org/A5052554629",
+          "position": 14
+        },
+        {
+          "name": "Ena Wang",
+          "orcidId": "0000-0001-6606-6510",
+          "openAlexId": "https://openalex.org/A5049816096",
+          "position": 15
+        },
+        {
+          "name": "Francesco M. Marincola",
+          "openAlexId": "https://openalex.org/A5059941996",
+          "position": 16
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362479180",
       "title": "Supplementary Figure 3 from Cyclin E2 Overexpression Is Associated with Endocrine Resistance but not Insensitivity to CDK2 Inhibition in Human Breast Cancer Cells",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1535-7163.22496367",
-      "openAccessUrl": "https://doi.org/10.1158/1535-7163.22496367"
+      "openAccessUrl": "https://doi.org/10.1158/1535-7163.22496367",
+      "authors": [
+        {
+          "name": "C. Elizabeth Caldon",
+          "openAlexId": "https://openalex.org/A5018714307",
+          "position": 1
+        },
+        {
+          "name": "C. Marcelo Sergio",
+          "orcidId": "0000-0002-5426-0583",
+          "openAlexId": "https://openalex.org/A5049710826",
+          "position": 2
+        },
+        {
+          "name": "Jian Kang",
+          "openAlexId": "https://openalex.org/A5113898192",
+          "position": 3
+        },
+        {
+          "name": "Anita Muthukaruppan",
+          "openAlexId": "https://openalex.org/A5020330950",
+          "position": 4
+        },
+        {
+          "name": "Marijke N. Boersma",
+          "openAlexId": "https://openalex.org/A5057160141",
+          "position": 5
+        },
+        {
+          "name": "Andrew Stone",
+          "openAlexId": "https://openalex.org/A5103937255",
+          "position": 6
+        },
+        {
+          "name": "Jane Barraclough",
+          "openAlexId": "https://openalex.org/A5074300293",
+          "position": 7
+        },
+        {
+          "name": "Christine S. Lee",
+          "openAlexId": "https://openalex.org/A5048203748",
+          "position": 8
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 9
+        },
+        {
+          "name": "Lance D. Miller",
+          "orcidId": "0000-0003-3799-2528",
+          "openAlexId": "https://openalex.org/A5024804165",
+          "position": 10
+        },
+        {
+          "name": "Julia M.W. Gee",
+          "orcidId": "0000-0001-6483-2015",
+          "openAlexId": "https://openalex.org/A5012364827",
+          "position": 11
+        },
+        {
+          "name": "Rob I. Nicholson",
+          "openAlexId": "https://openalex.org/A5112863661",
+          "position": 12
+        },
+        {
+          "name": "Robert L. Sutherland",
+          "openAlexId": "https://openalex.org/A5110319158",
+          "position": 13
+        },
+        {
+          "name": "Cristin G. Print",
+          "orcidId": "0000-0001-8345-7812",
+          "openAlexId": "https://openalex.org/A5064023142",
+          "position": 14
+        },
+        {
+          "name": "Elizabeth A. Musgrove",
+          "openAlexId": "https://openalex.org/A5067798845",
+          "position": 15
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362610697",
       "title": "Supplemental Excel File 3 from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1541-7786.22511820",
-      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511820"
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511820",
+      "authors": [
+        {
+          "name": "Eric A. Ariazi",
+          "openAlexId": "https://openalex.org/A5053893712",
+          "position": 1
+        },
+        {
+          "name": "John Taylor",
+          "orcidId": "0000-0002-2518-5799",
+          "openAlexId": "https://openalex.org/A5079305389",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Émmanuelle Nicolas",
+          "orcidId": "0000-0002-0368-3519",
+          "openAlexId": "https://openalex.org/A5055625894",
+          "position": 4
+        },
+        {
+          "name": "Michael Slifker",
+          "orcidId": "0000-0002-9718-5966",
+          "openAlexId": "https://openalex.org/A5027615447",
+          "position": 5
+        },
+        {
+          "name": "Diana J. Azzam",
+          "orcidId": "0000-0002-2605-8855",
+          "openAlexId": "https://openalex.org/A5086842158",
+          "position": 6
+        },
+        {
+          "name": "Jeff Boyd",
+          "orcidId": "0000-0002-3517-7637",
+          "openAlexId": "https://openalex.org/A5008927601",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362535879",
       "title": "Supplemental Excel File 6 from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1541-7786.22511808.v1",
-      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511808.v1"
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511808.v1",
+      "authors": [
+        {
+          "name": "Eric A. Ariazi",
+          "openAlexId": "https://openalex.org/A5053893712",
+          "position": 1
+        },
+        {
+          "name": "John Taylor",
+          "orcidId": "0000-0002-2518-5799",
+          "openAlexId": "https://openalex.org/A5079305389",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Émmanuelle Nicolas",
+          "orcidId": "0000-0002-0368-3519",
+          "openAlexId": "https://openalex.org/A5055625894",
+          "position": 4
+        },
+        {
+          "name": "Michael Slifker",
+          "orcidId": "0000-0002-9718-5966",
+          "openAlexId": "https://openalex.org/A5027615447",
+          "position": 5
+        },
+        {
+          "name": "Diana J. Azzam",
+          "orcidId": "0000-0002-2605-8855",
+          "openAlexId": "https://openalex.org/A5086842158",
+          "position": 6
+        },
+        {
+          "name": "Jeff Boyd",
+          "orcidId": "0000-0002-3517-7637",
+          "openAlexId": "https://openalex.org/A5008927601",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362535807",
       "title": "Supplemental Material and Methods from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1541-7786.22511793.v1",
-      "openAccessUrl": "https://aacr.figshare.com/articles/journal_contribution/Supplemental_Material_and_Methods_from_A_New_Role_for_ER_Silencing_via_DNA_Methylation_of_Basal_Stem_Cell_and_EMT_Genes/22511793/1/files/39973773.pdf"
+      "openAccessUrl": "https://aacr.figshare.com/articles/journal_contribution/Supplemental_Material_and_Methods_from_A_New_Role_for_ER_Silencing_via_DNA_Methylation_of_Basal_Stem_Cell_and_EMT_Genes/22511793/1/files/39973773.pdf",
+      "authors": [
+        {
+          "name": "Eric A. Ariazi",
+          "openAlexId": "https://openalex.org/A5053893712",
+          "position": 1
+        },
+        {
+          "name": "John Taylor",
+          "orcidId": "0000-0002-2518-5799",
+          "openAlexId": "https://openalex.org/A5079305389",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Émmanuelle Nicolas",
+          "orcidId": "0000-0002-0368-3519",
+          "openAlexId": "https://openalex.org/A5055625894",
+          "position": 4
+        },
+        {
+          "name": "Michael Slifker",
+          "orcidId": "0000-0002-9718-5966",
+          "openAlexId": "https://openalex.org/A5027615447",
+          "position": 5
+        },
+        {
+          "name": "Diana J. Azzam",
+          "orcidId": "0000-0002-2605-8855",
+          "openAlexId": "https://openalex.org/A5086842158",
+          "position": 6
+        },
+        {
+          "name": "Jeff Boyd",
+          "orcidId": "0000-0002-3517-7637",
+          "openAlexId": "https://openalex.org/A5008927601",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4362535871",
       "title": "Supplemental Excel File 2 from A New Role for ERα: Silencing via DNA Methylation of Basal, Stem Cell, and EMT Genes",
       "year": 2023,
       "doi": "https://doi.org/10.1158/1541-7786.22511823.v1",
-      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511823.v1"
+      "openAccessUrl": "https://doi.org/10.1158/1541-7786.22511823.v1",
+      "authors": [
+        {
+          "name": "Eric A. Ariazi",
+          "openAlexId": "https://openalex.org/A5053893712",
+          "position": 1
+        },
+        {
+          "name": "John Taylor",
+          "orcidId": "0000-0002-2518-5799",
+          "openAlexId": "https://openalex.org/A5079305389",
+          "position": 2
+        },
+        {
+          "name": "Michael A. Black",
+          "orcidId": "0000-0003-1174-6054",
+          "openAlexId": "https://openalex.org/A5063087649",
+          "position": 3
+        },
+        {
+          "name": "Émmanuelle Nicolas",
+          "orcidId": "0000-0002-0368-3519",
+          "openAlexId": "https://openalex.org/A5055625894",
+          "position": 4
+        },
+        {
+          "name": "Michael Slifker",
+          "orcidId": "0000-0002-9718-5966",
+          "openAlexId": "https://openalex.org/A5027615447",
+          "position": 5
+        },
+        {
+          "name": "Diana J. Azzam",
+          "orcidId": "0000-0002-2605-8855",
+          "openAlexId": "https://openalex.org/A5086842158",
+          "position": 6
+        },
+        {
+          "name": "Jeff Boyd",
+          "orcidId": "0000-0002-3517-7637",
+          "openAlexId": "https://openalex.org/A5008927601",
+          "position": 7
+        }
+      ]
     }
   ]
 }

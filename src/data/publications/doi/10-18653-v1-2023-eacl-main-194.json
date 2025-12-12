@@ -3,5 +3,54 @@
   "title": "Multi2Claim: Generating Scientific Claims from Multi-Choice Questions for Scientific Fact-Checking",
   "year": 2023,
   "doi": "10.18653/v1/2023.eacl-main.194",
-  "openAccessUrl": "https://aclanthology.org/2023.eacl-main.194.pdf"
+  "openAccessUrl": "https://aclanthology.org/2023.eacl-main.194.pdf",
+  "authors": [
+    {
+      "name": "Neşet Tan",
+      "orcidId": "0000-0001-6201-7295",
+      "openAlexId": "https://openalex.org/A5062975742",
+      "position": 1
+    },
+    {
+      "name": "Trung B. Nguyen",
+      "orcidId": "0000-0002-1990-8647",
+      "openAlexId": "https://openalex.org/A5004982887",
+      "position": 2
+    },
+    {
+      "name": "Josh Bensemann",
+      "openAlexId": "https://openalex.org/A5092831413",
+      "position": 3
+    },
+    {
+      "name": "Alex Yuxuan Peng",
+      "orcidId": "0000-0002-9922-5781",
+      "openAlexId": "https://openalex.org/A5049443230",
+      "position": 4
+    },
+    {
+      "name": "Qiming Bao",
+      "orcidId": "0000-0002-1000-7383",
+      "openAlexId": "https://openalex.org/A5009635346",
+      "position": 5
+    },
+    {
+      "name": "Yang Chen",
+      "orcidId": "0000-0003-0147-3443",
+      "openAlexId": "https://openalex.org/A5063568442",
+      "position": 6
+    },
+    {
+      "name": "Mark Gahegan",
+      "orcidId": "0000-0001-7209-8156",
+      "openAlexId": "https://openalex.org/A5069438601",
+      "position": 7
+    },
+    {
+      "name": "Michael Witbrock",
+      "orcidId": "0000-0002-7554-0971",
+      "openAlexId": "https://openalex.org/A5057995059",
+      "position": 8
+    }
+  ]
 }

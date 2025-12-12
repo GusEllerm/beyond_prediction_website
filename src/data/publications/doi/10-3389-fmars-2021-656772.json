@@ -4,5 +4,42 @@
   "year": 2021,
   "venue": "Frontiers in Marine Science",
   "doi": "10.3389/fmars.2021.656772",
-  "openAccessUrl": "https://www.frontiersin.org/articles/10.3389/fmars.2021.656772/pdf"
+  "openAccessUrl": "https://www.frontiersin.org/articles/10.3389/fmars.2021.656772/pdf",
+  "authors": [
+    {
+      "name": "Piotr Bałazy",
+      "orcidId": "0000-0002-1126-3151",
+      "openAlexId": "https://openalex.org/A5069045723",
+      "position": 1
+    },
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 2
+    },
+    {
+      "name": "Maciej Chełchowski",
+      "orcidId": "0000-0002-5742-1960",
+      "openAlexId": "https://openalex.org/A5016472533",
+      "position": 3
+    },
+    {
+      "name": "Maria Włodarska‐Kowalczuk",
+      "orcidId": "0000-0002-2757-1108",
+      "openAlexId": "https://openalex.org/A5030389112",
+      "position": 4
+    },
+    {
+      "name": "Piotr Kukliński",
+      "openAlexId": "https://openalex.org/A5076680772",
+      "position": 5
+    },
+    {
+      "name": "Jørgen Berge",
+      "orcidId": "0000-0003-0900-5679",
+      "openAlexId": "https://openalex.org/A5061308845",
+      "position": 6
+    }
+  ]
 }

@@ -4,5 +4,49 @@
   "year": 2025,
   "venue": "Molecular Ecology Resources",
   "doi": "10.1111/1755-0998.70024",
-  "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550488"
+  "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550488",
+  "authors": [
+    {
+      "name": "Hui Zhen Tan",
+      "orcidId": "0000-0002-6750-7506",
+      "openAlexId": "https://openalex.org/A5060954713",
+      "position": 1
+    },
+    {
+      "name": "Katarina C. Stuart",
+      "orcidId": "0000-0002-0386-4600",
+      "openAlexId": "https://openalex.org/A5008114624",
+      "position": 2
+    },
+    {
+      "name": "Tram Vi",
+      "orcidId": "0000-0002-4319-5544",
+      "openAlexId": "https://openalex.org/A5070543327",
+      "position": 3
+    },
+    {
+      "name": "Annabel Whibley",
+      "orcidId": "0000-0003-1878-7705",
+      "openAlexId": "https://openalex.org/A5032940167",
+      "position": 4
+    },
+    {
+      "name": "Sarah F. Bailey",
+      "orcidId": "0009-0006-0131-1638",
+      "openAlexId": "https://openalex.org/A5073718870",
+      "position": 5
+    },
+    {
+      "name": "Patricia Brekke",
+      "orcidId": "0000-0001-6298-3194",
+      "openAlexId": "https://openalex.org/A5010185199",
+      "position": 6
+    },
+    {
+      "name": "Anna W. Santure",
+      "orcidId": "0000-0001-8965-1042",
+      "openAlexId": "https://openalex.org/A5079336422",
+      "position": 7
+    }
+  ]
 }

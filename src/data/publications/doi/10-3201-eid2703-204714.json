@@ -4,5 +4,151 @@
   "year": 2021,
   "venue": "Emerging infectious diseases",
   "doi": "10.3201/eid2703.204714",
-  "openAccessUrl": "https://wwwnc.cdc.gov/eid/article/27/3/pdfs/20-4714.pdf"
+  "openAccessUrl": "https://wwwnc.cdc.gov/eid/article/27/3/pdfs/20-4714.pdf",
+  "authors": [
+    {
+      "name": "Tara Swadi",
+      "openAlexId": "https://openalex.org/A5075951944",
+      "position": 1
+    },
+    {
+      "name": "Jemma L. Geoghegan",
+      "orcidId": "0000-0003-0970-0153",
+      "openAlexId": "https://openalex.org/A5027424821",
+      "position": 2
+    },
+    {
+      "name": "Tom Devine",
+      "orcidId": "0000-0003-4966-6156",
+      "openAlexId": "https://openalex.org/A5045423184",
+      "position": 3
+    },
+    {
+      "name": "Caroline McElnay",
+      "openAlexId": "https://openalex.org/A5038367841",
+      "position": 4
+    },
+    {
+      "name": "Jillian Sherwood",
+      "openAlexId": "https://openalex.org/A5031558557",
+      "position": 5
+    },
+    {
+      "name": "Phil Shoemack",
+      "orcidId": "0000-0001-5879-6345",
+      "openAlexId": "https://openalex.org/A5063025680",
+      "position": 6
+    },
+    {
+      "name": "Xiaoyun Ren",
+      "orcidId": "0000-0002-5163-9715",
+      "openAlexId": "https://openalex.org/A5086325375",
+      "position": 7
+    },
+    {
+      "name": "Matt Storey",
+      "openAlexId": "https://openalex.org/A5067253965",
+      "position": 8
+    },
+    {
+      "name": "Sarah Jefferies",
+      "orcidId": "0000-0001-7660-4466",
+      "openAlexId": "https://openalex.org/A5015927579",
+      "position": 9
+    },
+    {
+      "name": "Erasmus Smit",
+      "openAlexId": "https://openalex.org/A5079816611",
+      "position": 10
+    },
+    {
+      "name": "James Hadfield",
+      "orcidId": "0000-0002-4118-6468",
+      "openAlexId": "https://openalex.org/A5001836904",
+      "position": 11
+    },
+    {
+      "name": "Aoife Kenny",
+      "openAlexId": "https://openalex.org/A5048128234",
+      "position": 12
+    },
+    {
+      "name": "Lauren Jelley",
+      "orcidId": "0000-0001-5993-6266",
+      "openAlexId": "https://openalex.org/A5042071863",
+      "position": 13
+    },
+    {
+      "name": "Andrew Sporle",
+      "openAlexId": "https://openalex.org/A5027724575",
+      "position": 14
+    },
+    {
+      "name": "Andrea McNeill",
+      "openAlexId": "https://openalex.org/A5056613413",
+      "position": 15
+    },
+    {
+      "name": "G. Edwin Reynolds",
+      "openAlexId": "https://openalex.org/A5074590941",
+      "position": 16
+    },
+    {
+      "name": "Kip Mouldey",
+      "openAlexId": "https://openalex.org/A5040214089",
+      "position": 17
+    },
+    {
+      "name": "Lindsay Lowe",
+      "openAlexId": "https://openalex.org/A5112590433",
+      "position": 18
+    },
+    {
+      "name": "Gerard J.B. Sonder",
+      "orcidId": "0000-0003-1349-4225",
+      "openAlexId": "https://openalex.org/A5042314376",
+      "position": 19
+    },
+    {
+      "name": "Alexei J. Drummond",
+      "orcidId": "0000-0003-4454-2576",
+      "openAlexId": "https://openalex.org/A5079724732",
+      "position": 20
+    },
+    {
+      "name": "Q. Sue Huang",
+      "orcidId": "0000-0002-3923-5195",
+      "openAlexId": "https://openalex.org/A5004246755",
+      "position": 21
+    },
+    {
+      "name": "David Welch",
+      "orcidId": "0000-0002-7066-2830",
+      "openAlexId": "https://openalex.org/A5051299223",
+      "position": 22
+    },
+    {
+      "name": "Edward C. Holmes",
+      "orcidId": "0000-0001-9596-3552",
+      "openAlexId": "https://openalex.org/A5085736091",
+      "position": 23
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 24
+    },
+    {
+      "name": "Colin R Simpson",
+      "orcidId": "0000-0002-5194-8083",
+      "openAlexId": "https://openalex.org/A5031640821",
+      "position": 25
+    },
+    {
+      "name": "Joep de Ligt",
+      "openAlexId": "https://openalex.org/A5072525850",
+      "position": 26
+    }
+  ]
 }

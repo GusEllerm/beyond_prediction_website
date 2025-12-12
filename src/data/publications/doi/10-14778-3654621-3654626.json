@@ -4,5 +4,18 @@
   "year": 2024,
   "venue": "Proceedings of the VLDB Endowment",
   "doi": "10.14778/3654621.3654626",
-  "openAccessUrl": "https://doi.org/10.14778/3654621.3654626"
+  "openAccessUrl": "https://doi.org/10.14778/3654621.3654626",
+  "authors": [
+    {
+      "name": "Zhuoxing Zhang",
+      "openAlexId": "https://openalex.org/A5091624476",
+      "position": 1
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 2
+    }
+  ]
 }

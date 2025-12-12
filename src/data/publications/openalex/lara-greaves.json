@@ -9,14 +9,47 @@
       "year": 2025,
       "venue": "Ethnopolitics",
       "doi": "https://doi.org/10.1080/17449057.2025.2585644",
-      "openAccessUrl": "https://doi.org/10.1080/17449057.2025.2585644"
+      "openAccessUrl": "https://doi.org/10.1080/17449057.2025.2585644",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4413481205",
       "title": "Scrapping the national census raises data sovereignty and surveillance fears for Māori",
       "year": 2025,
       "doi": "https://doi.org/10.64628/aa.t95wmncxc",
-      "openAccessUrl": "https://doi.org/10.64628/aa.t95wmncxc"
+      "openAccessUrl": "https://doi.org/10.64628/aa.t95wmncxc",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Kiri West",
+          "orcidId": "0000-0002-1974-7193",
+          "openAlexId": "https://openalex.org/A5079451562",
+          "position": 2
+        },
+        {
+          "name": "Larissa Renfrew",
+          "orcidId": "0000-0002-8646-8637",
+          "openAlexId": "https://openalex.org/A5059259758",
+          "position": 3
+        },
+        {
+          "name": "Ella Pēpi Tarapa-Dewes",
+          "openAlexId": "https://openalex.org/A5116202541",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4408999243",
@@ -24,7 +57,30 @@
       "year": 2025,
       "venue": "The Journal of Race Ethnicity and Politics",
       "doi": "https://doi.org/10.1017/rep.2025.18",
-      "openAccessUrl": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DBD58036E4B6A17D495496616CC4C4B0/S2056608525000182a.pdf/div-class-title-indigenous-representational-choices-results-from-a-large-qualitative-survey-on-m-ori-electoral-roll-choice-div.pdf"
+      "openAccessUrl": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DBD58036E4B6A17D495496616CC4C4B0/S2056608525000182a.pdf/div-class-title-indigenous-representational-choices-results-from-a-large-qualitative-survey-on-m-ori-electoral-roll-choice-div.pdf",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Rebecca Hini",
+          "openAlexId": "https://openalex.org/A5116855726",
+          "position": 2
+        },
+        {
+          "name": "Hannah R. Overbye",
+          "openAlexId": "https://openalex.org/A5116855727",
+          "position": 3
+        },
+        {
+          "name": "Kaylee Grace Brink",
+          "openAlexId": "https://openalex.org/A5092589111",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402656018",
@@ -32,14 +88,35 @@
       "year": 2024,
       "venue": "Culture Health & Sexuality",
       "doi": "https://doi.org/10.1080/13691058.2024.2399291",
-      "openAccessUrl": "https://doi.org/10.1080/13691058.2024.2399291"
+      "openAccessUrl": "https://doi.org/10.1080/13691058.2024.2399291",
+      "authors": [
+        {
+          "name": "Emma Benvie-Watson",
+          "openAlexId": "https://openalex.org/A5107506517",
+          "position": 1
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4413539924",
       "title": "Outdated and imprecise: why it’s time we retired the term ‘race relations’",
       "year": 2024,
       "doi": "https://doi.org/10.64628/aa.7uqr3dsrj",
-      "openAccessUrl": "https://doi.org/10.64628/aa.7uqr3dsrj"
+      "openAccessUrl": "https://doi.org/10.64628/aa.7uqr3dsrj",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4399932184",
@@ -47,7 +124,27 @@
       "year": 2024,
       "venue": "ANU Press eBooks",
       "doi": "https://doi.org/10.22459/tfm.2024.07",
-      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.07"
+      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.07",
+      "authors": [
+        {
+          "name": "Jennifer Curtin",
+          "orcidId": "0000-0001-9786-5868",
+          "openAlexId": "https://openalex.org/A5071048474",
+          "position": 1
+        },
+        {
+          "name": "V. K. G. Woodman",
+          "orcidId": "0000-0001-5091-4335",
+          "openAlexId": "https://openalex.org/A5007277476",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4399932687",
@@ -55,7 +152,27 @@
       "year": 2024,
       "venue": "ANU Press eBooks",
       "doi": "https://doi.org/10.22459/tfm.2024.10",
-      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.10"
+      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.10",
+      "authors": [
+        {
+          "name": "Jack Vowles",
+          "orcidId": "0000-0002-1954-7466",
+          "openAlexId": "https://openalex.org/A5018579820",
+          "position": 1
+        },
+        {
+          "name": "Jennifer Curtin",
+          "orcidId": "0000-0001-9786-5868",
+          "openAlexId": "https://openalex.org/A5071048474",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4399932952",
@@ -63,7 +180,26 @@
       "year": 2024,
       "venue": "ANU Press eBooks",
       "doi": "https://doi.org/10.22459/tfm.2024.05",
-      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.05"
+      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.05",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Ella Morgan",
+          "openAlexId": "https://openalex.org/A5099427094",
+          "position": 2
+        },
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4399932408",
@@ -71,7 +207,27 @@
       "year": 2024,
       "venue": "ANU Press eBooks",
       "doi": "https://doi.org/10.22459/tfm.2024.01",
-      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.01"
+      "openAccessUrl": "http://doi.org/10.22459/tfm.2024.01",
+      "authors": [
+        {
+          "name": "Jennifer Curtin",
+          "orcidId": "0000-0001-9786-5868",
+          "openAlexId": "https://openalex.org/A5071048474",
+          "position": 1
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 2
+        },
+        {
+          "name": "Jack Vowles",
+          "orcidId": "0000-0002-1954-7466",
+          "openAlexId": "https://openalex.org/A5018579820",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4397043127",
@@ -79,14 +235,76 @@
       "year": 2024,
       "venue": "EXPLORE",
       "doi": "https://doi.org/10.1016/j.explore.2024.05.005",
-      "openAccessUrl": "https://doi.org/10.1016/j.explore.2024.05.005"
+      "openAccessUrl": "https://doi.org/10.1016/j.explore.2024.05.005",
+      "authors": [
+        {
+          "name": "Te Maringi Mai o Hawaiiki",
+          "openAlexId": "https://openalex.org/A5093703778",
+          "position": 1
+        },
+        {
+          "name": "Jade Le Grice",
+          "orcidId": "0000-0002-8366-5299",
+          "openAlexId": "https://openalex.org/A5011391931",
+          "position": 2
+        },
+        {
+          "name": "Logan Hamley",
+          "orcidId": "0000-0002-3313-9311",
+          "openAlexId": "https://openalex.org/A5030939932",
+          "position": 3
+        },
+        {
+          "name": "Cinnamon Lindsay Latimer",
+          "orcidId": "0000-0002-9521-3783",
+          "openAlexId": "https://openalex.org/A5057203121",
+          "position": 4
+        },
+        {
+          "name": "Shiloh Groot",
+          "orcidId": "0000-0003-4416-0674",
+          "openAlexId": "https://openalex.org/A5021939973",
+          "position": 5
+        },
+        {
+          "name": "Ashlea Gillon",
+          "orcidId": "0000-0001-5567-6305",
+          "openAlexId": "https://openalex.org/A5088982318",
+          "position": 6
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 7
+        },
+        {
+          "name": "Terryann Clark",
+          "orcidId": "0000-0001-5499-5080",
+          "openAlexId": "https://openalex.org/A5007824068",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393070133",
       "title": "Indigenous Research Methods and Online Surveys: Designing an Online Survey to Give Voice to Māori Electoral Choices",
       "year": 2024,
       "doi": "https://doi.org/10.4135/9781529688566",
-      "openAccessUrl": "https://doi.org/10.4135/9781529688566"
+      "openAccessUrl": "https://doi.org/10.4135/9781529688566",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Matthew Waymouth",
+          "openAlexId": "https://openalex.org/A5094218436",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3107970250",
@@ -94,7 +312,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "Richard Shaw",
+          "orcidId": "0000-0002-5081-2766",
+          "openAlexId": "https://openalex.org/A5014782232",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410366777",
@@ -102,7 +346,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691-25",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691-25"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691-25",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "Richard Shaw",
+          "orcidId": "0000-0002-5081-2766",
+          "openAlexId": "https://openalex.org/A5014782232",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410367836",
@@ -110,7 +380,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691-i",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691-i"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691-i",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "Richard Shaw",
+          "orcidId": "0000-0002-5081-2766",
+          "openAlexId": "https://openalex.org/A5014782232",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410366116",
@@ -118,7 +414,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691-497",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691-497"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691-497",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "Richard Shaw",
+          "orcidId": "0000-0002-5081-2766",
+          "openAlexId": "https://openalex.org/A5014782232",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410367180",
@@ -126,7 +448,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691-417",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691-417"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691-417",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "Richard Shaw",
+          "orcidId": "0000-0002-7906-6066",
+          "openAlexId": "https://openalex.org/A5045205791",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410366154",
@@ -134,7 +482,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691-427",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691-427"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691-427",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "Richard Shaw",
+          "orcidId": "0000-0002-5081-2766",
+          "openAlexId": "https://openalex.org/A5014782232",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410367733",
@@ -142,7 +516,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691-425",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691-425"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691-425",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "R. Daniel Shaw",
+          "orcidId": "0000-0002-7881-4229",
+          "openAlexId": "https://openalex.org/A5058836120",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4410366760",
@@ -150,7 +550,33 @@
       "year": 2024,
       "venue": "Rowman & Littlefield Publishers eBooks",
       "doi": "https://doi.org/10.5771/9781538184691-1",
-      "openAccessUrl": "https://doi.org/10.5771/9781538184691-1"
+      "openAccessUrl": "https://doi.org/10.5771/9781538184691-1",
+      "authors": [
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 1
+        },
+        {
+          "name": "Richard Shaw",
+          "orcidId": "0000-0002-5081-2766",
+          "openAlexId": "https://openalex.org/A5014782232",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Claire Timperley",
+          "orcidId": "0000-0003-4725-2558",
+          "openAlexId": "https://openalex.org/A5010035381",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4389731504",
@@ -158,14 +584,63 @@
       "year": 2023,
       "venue": "The Journal of Sex Research",
       "doi": "https://doi.org/10.1080/00224499.2023.2289517",
-      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/00224499.2023.2289517?needAccess=true"
+      "openAccessUrl": "https://www.tandfonline.com/doi/pdf/10.1080/00224499.2023.2289517?needAccess=true",
+      "authors": [
+        {
+          "name": "Kieren J. Lilly",
+          "orcidId": "0000-0003-1826-9254",
+          "openAlexId": "https://openalex.org/A5003144459",
+          "position": 1
+        },
+        {
+          "name": "Nicole Satherley",
+          "openAlexId": "https://openalex.org/A5002763586",
+          "position": 2
+        },
+        {
+          "name": "Chris G. Sibley",
+          "orcidId": "0000-0002-4064-8800",
+          "openAlexId": "https://openalex.org/A5083523038",
+          "position": 3
+        },
+        {
+          "name": "Fiona Kate Barlow",
+          "orcidId": "0000-0001-9533-1256",
+          "openAlexId": "https://openalex.org/A5037225650",
+          "position": 4
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4413498470",
       "title": "How to read the political polls: 10 things you need to know ahead of the NZ election",
       "year": 2023,
       "doi": "https://doi.org/10.64628/aa.vmdpff3fy",
-      "openAccessUrl": "https://doi.org/10.64628/aa.vmdpff3fy"
+      "openAccessUrl": "https://doi.org/10.64628/aa.vmdpff3fy",
+      "authors": [
+        {
+          "name": "Nicole Satherley",
+          "openAlexId": "https://openalex.org/A5002763586",
+          "position": 1
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 2
+        },
+        {
+          "name": "Andrew Sporle",
+          "openAlexId": "https://openalex.org/A5027724575",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4380785768",
@@ -173,7 +648,33 @@
       "year": 2023,
       "venue": "Social Science & Medicine",
       "doi": "https://doi.org/10.1016/j.socscimed.2023.116028",
-      "openAccessUrl": "https://doi.org/10.1016/j.socscimed.2023.116028"
+      "openAccessUrl": "https://doi.org/10.1016/j.socscimed.2023.116028",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Cinnamon Lindsay Latimer",
+          "orcidId": "0000-0002-9521-3783",
+          "openAlexId": "https://openalex.org/A5057203121",
+          "position": 2
+        },
+        {
+          "name": "Eileen Li",
+          "orcidId": "0000-0001-8251-4942",
+          "openAlexId": "https://openalex.org/A5033598859",
+          "position": 3
+        },
+        {
+          "name": "Logan Hamley",
+          "orcidId": "0000-0002-3313-9311",
+          "openAlexId": "https://openalex.org/A5030939932",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4378624987",
@@ -181,14 +682,58 @@
       "year": 2023,
       "venue": "Journal of Survey Statistics and Methodology",
       "doi": "https://doi.org/10.1093/jssam/smad014",
-      "openAccessUrl": "https://academic.oup.com/jssam/advance-article-pdf/doi/10.1093/jssam/smad014/50461105/smad014.pdf"
+      "openAccessUrl": "https://academic.oup.com/jssam/advance-article-pdf/doi/10.1093/jssam/smad014/50461105/smad014.pdf",
+      "authors": [
+        {
+          "name": "Chloe Howard",
+          "orcidId": "0000-0001-9043-9735",
+          "openAlexId": "https://openalex.org/A5081869063",
+          "position": 1
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 2
+        },
+        {
+          "name": "Danny Osborne",
+          "orcidId": "0000-0002-8513-4125",
+          "openAlexId": "https://openalex.org/A5001623605",
+          "position": 3
+        },
+        {
+          "name": "Chris G. Sibley",
+          "orcidId": "0000-0002-4064-8800",
+          "openAlexId": "https://openalex.org/A5083523038",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4375864611",
       "title": "Understanding public opinion polling in New Zealand",
       "year": 2023,
       "doi": "https://doi.org/10.31219/osf.io/pjzfb",
-      "openAccessUrl": "https://osf.io/pjzfb/download"
+      "openAccessUrl": "https://osf.io/pjzfb/download",
+      "authors": [
+        {
+          "name": "Nicole Satherley",
+          "openAlexId": "https://openalex.org/A5002763586",
+          "position": 1
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 2
+        },
+        {
+          "name": "Andrew Sporle",
+          "openAlexId": "https://openalex.org/A5027724575",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4368368850",
@@ -196,14 +741,66 @@
       "year": 2023,
       "venue": "Representation",
       "doi": "https://doi.org/10.1080/00344893.2023.2207172",
-      "openAccessUrl": "https://doi.org/10.1080/00344893.2023.2207172"
+      "openAccessUrl": "https://doi.org/10.1080/00344893.2023.2207172",
+      "authors": [
+        {
+          "name": "Hong Li",
+          "orcidId": "0000-0002-3620-5548",
+          "openAlexId": "https://openalex.org/A5100339381",
+          "position": 1
+        },
+        {
+          "name": "Yanshu Huang",
+          "orcidId": "0000-0003-2120-6609",
+          "openAlexId": "https://openalex.org/A5040496518",
+          "position": 2
+        },
+        {
+          "name": "Chris G. Sibley",
+          "orcidId": "0000-0002-4064-8800",
+          "openAlexId": "https://openalex.org/A5083523038",
+          "position": 3
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4366782166",
       "title": "Sexual orientation moderates the effect of gender on body satisfaction: Results from a national probability sample",
       "year": 2023,
       "doi": "https://doi.org/10.31234/osf.io/9jfct",
-      "openAccessUrl": "https://osf.io/9jfct/download"
+      "openAccessUrl": "https://osf.io/9jfct/download",
+      "authors": [
+        {
+          "name": "Maria Carmela Basabas",
+          "orcidId": "0000-0003-3126-0473",
+          "openAlexId": "https://openalex.org/A5026102305",
+          "position": 1
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 2
+        },
+        {
+          "name": "Fiona Kate Barlow",
+          "orcidId": "0000-0001-9533-1256",
+          "openAlexId": "https://openalex.org/A5037225650",
+          "position": 3
+        },
+        {
+          "name": "Chris G. Sibley",
+          "orcidId": "0000-0002-4064-8800",
+          "openAlexId": "https://openalex.org/A5083523038",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4324131096",
@@ -211,7 +808,21 @@
       "year": 2023,
       "venue": "Politics & Gender",
       "doi": "https://doi.org/10.1017/s1743923x22000575",
-      "openAccessUrl": "https://doi.org/10.1017/s1743923x22000575"
+      "openAccessUrl": "https://doi.org/10.1017/s1743923x22000575",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Jennifer Curtin",
+          "orcidId": "0000-0001-9786-5868",
+          "openAlexId": "https://openalex.org/A5071048474",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4317373336",
@@ -219,7 +830,54 @@
       "year": 2023,
       "venue": "Journal of the Royal Society of New Zealand",
       "doi": "https://doi.org/10.1080/03036758.2022.2154368",
-      "openAccessUrl": "https://doi.org/10.1080/03036758.2022.2154368"
+      "openAccessUrl": "https://doi.org/10.1080/03036758.2022.2154368",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Cinnamon Lindsay Latimer",
+          "orcidId": "0000-0002-9521-3783",
+          "openAlexId": "https://openalex.org/A5057203121",
+          "position": 2
+        },
+        {
+          "name": "Emerald Muriwai",
+          "openAlexId": "https://openalex.org/A5001334905",
+          "position": 3
+        },
+        {
+          "name": "Charlotte Moore",
+          "openAlexId": "https://openalex.org/A5108192251",
+          "position": 4
+        },
+        {
+          "name": "Eileen Li",
+          "orcidId": "0000-0001-8251-4942",
+          "openAlexId": "https://openalex.org/A5033598859",
+          "position": 5
+        },
+        {
+          "name": "Andrew Sporle",
+          "openAlexId": "https://openalex.org/A5027724575",
+          "position": 6
+        },
+        {
+          "name": "Terryann Clark",
+          "orcidId": "0000-0001-5499-5080",
+          "openAlexId": "https://openalex.org/A5007824068",
+          "position": 7
+        },
+        {
+          "name": "Barry Milne",
+          "orcidId": "0000-0002-0318-1201",
+          "openAlexId": "https://openalex.org/A5073121159",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4319841061",
@@ -227,7 +885,39 @@
       "year": 2023,
       "venue": "Kōtuitui New Zealand Journal of Social Sciences Online",
       "doi": "https://doi.org/10.1080/1177083x.2022.2156356",
-      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2156356"
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2156356",
+      "authors": [
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 1
+        },
+        {
+          "name": "Janine Hayward",
+          "orcidId": "0000-0003-0444-4533",
+          "openAlexId": "https://openalex.org/A5042389464",
+          "position": 2
+        },
+        {
+          "name": "Daniel J. Barnett",
+          "orcidId": "0000-0003-1382-6197",
+          "openAlexId": "https://openalex.org/A5000494528",
+          "position": 3
+        },
+        {
+          "name": "Sue Crengle",
+          "orcidId": "0000-0001-9367-1492",
+          "openAlexId": "https://openalex.org/A5066494288",
+          "position": 4
+        },
+        {
+          "name": "Terryann Clark",
+          "orcidId": "0000-0001-5499-5080",
+          "openAlexId": "https://openalex.org/A5007824068",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4311791850",
@@ -235,7 +925,44 @@
       "year": 2022,
       "venue": "Frontiers in Psychology",
       "doi": "https://doi.org/10.3389/fpsyg.2022.1041957",
-      "openAccessUrl": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1041957/pdf"
+      "openAccessUrl": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1041957/pdf",
+      "authors": [
+        {
+          "name": "Nicole Satherley",
+          "openAlexId": "https://openalex.org/A5002763586",
+          "position": 1
+        },
+        {
+          "name": "Elena Zubielevitch",
+          "orcidId": "0000-0002-5751-3152",
+          "openAlexId": "https://openalex.org/A5039233681",
+          "position": 2
+        },
+        {
+          "name": "Lara M. Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "openAlexId": "https://openalex.org/A5007795454",
+          "position": 3
+        },
+        {
+          "name": "Fiona Kate Barlow",
+          "orcidId": "0000-0001-9533-1256",
+          "openAlexId": "https://openalex.org/A5037225650",
+          "position": 4
+        },
+        {
+          "name": "Danny Osborne",
+          "orcidId": "0000-0002-8513-4125",
+          "openAlexId": "https://openalex.org/A5001623605",
+          "position": 5
+        },
+        {
+          "name": "Chris G. Sibley",
+          "orcidId": "0000-0002-4064-8800",
+          "openAlexId": "https://openalex.org/A5083523038",
+          "position": 6
+        }
+      ]
     }
   ]
 }

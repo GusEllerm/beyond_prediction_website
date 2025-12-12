@@ -4,5 +4,58 @@
   "year": 2024,
   "venue": "Communications Biology",
   "doi": "10.1038/s42003-024-05896-1",
-  "openAccessUrl": "https://www.nature.com/articles/s42003-024-05896-1.pdf"
+  "openAccessUrl": "https://www.nature.com/articles/s42003-024-05896-1.pdf",
+  "authors": [
+    {
+      "name": "Amanda Clark",
+      "openAlexId": "https://openalex.org/A5108927136",
+      "position": 1
+    },
+    {
+      "name": "Phillip Wilcox",
+      "openAlexId": "https://openalex.org/A5073337272",
+      "position": 2
+    },
+    {
+      "name": "Sandy Morrison",
+      "openAlexId": "https://openalex.org/A5075237506",
+      "position": 3
+    },
+    {
+      "name": "Debashish Munshi",
+      "orcidId": "0000-0002-7032-3468",
+      "openAlexId": "https://openalex.org/A5050338409",
+      "position": 4
+    },
+    {
+      "name": "Priya Kurian",
+      "orcidId": "0000-0002-8138-4602",
+      "openAlexId": "https://openalex.org/A5079675384",
+      "position": 5
+    },
+    {
+      "name": "Jason Paul Mika",
+      "orcidId": "0000-0002-7614-8349",
+      "openAlexId": "https://openalex.org/A5055822723",
+      "position": 6
+    },
+    {
+      "name": "David Chagné",
+      "orcidId": "0000-0003-4018-0694",
+      "openAlexId": "https://openalex.org/A5060557259",
+      "position": 7
+    },
+    {
+      "name": "Andrew C. Allan",
+      "orcidId": "0000-0003-1944-7067",
+      "openAlexId": "https://openalex.org/A5061519421",
+      "position": 8
+    },
+    {
+      "name": "Māui Hudson",
+      "orcidId": "0000-0003-3880-4015",
+      "openAlexId": "https://openalex.org/A5018449054",
+      "position": 9
+    }
+  ]
 }

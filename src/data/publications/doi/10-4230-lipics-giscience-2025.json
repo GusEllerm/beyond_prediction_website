@@ -4,5 +4,32 @@
   "year": 2025,
   "venue": "Dagstuhl Research Online Publication Server",
   "doi": "10.4230/lipics.giscience.2025",
-  "openAccessUrl": "https://doi.org/10.4230/lipics.giscience.2025"
+  "openAccessUrl": "https://doi.org/10.4230/lipics.giscience.2025",
+  "authors": [
+    {
+      "name": "Sila-Nowicka, Katarzyna",
+      "openAlexId": null,
+      "position": 1
+    },
+    {
+      "name": "Moore, Antoni",
+      "openAlexId": null,
+      "position": 2
+    },
+    {
+      "name": "O'Sullivan David",
+      "openAlexId": "https://openalex.org/A4305963894",
+      "position": 3
+    },
+    {
+      "name": "Adams, Benjamin",
+      "openAlexId": "https://openalex.org/A2754110200",
+      "position": 4
+    },
+    {
+      "name": "Gahegan Mark",
+      "openAlexId": "https://openalex.org/A2224206007",
+      "position": 5
+    }
+  ]
 }

@@ -4,5 +4,88 @@
   "year": 2021,
   "venue": "The Lancet Regional Health - Western Pacific",
   "doi": "10.1016/j.lanwpc.2021.100256",
-  "openAccessUrl": "http://www.thelancet.com/article/S2666606521001656/pdf"
+  "openAccessUrl": "http://www.thelancet.com/article/S2666606521001656/pdf",
+  "authors": [
+    {
+      "name": "Trung B. Nguyen",
+      "orcidId": "0000-0002-1990-8647",
+      "openAlexId": "https://openalex.org/A5004982887",
+      "position": 1
+    },
+    {
+      "name": "Mehnaz Adnan",
+      "orcidId": "0000-0002-4810-0452",
+      "openAlexId": "https://openalex.org/A5046049593",
+      "position": 2
+    },
+    {
+      "name": "Binh P. Nguyen",
+      "orcidId": "0000-0001-6203-6664",
+      "openAlexId": "https://openalex.org/A5091142923",
+      "position": 3
+    },
+    {
+      "name": "Joep de Ligt",
+      "openAlexId": "https://openalex.org/A5072525850",
+      "position": 4
+    },
+    {
+      "name": "Jemma L. Geoghegan",
+      "orcidId": "0000-0003-0970-0153",
+      "openAlexId": "https://openalex.org/A5027424821",
+      "position": 5
+    },
+    {
+      "name": "Richard A. Dean",
+      "orcidId": "0000-0003-0000-5357",
+      "openAlexId": "https://openalex.org/A5043846225",
+      "position": 6
+    },
+    {
+      "name": "Sarah Jefferies",
+      "orcidId": "0000-0001-7660-4466",
+      "openAlexId": "https://openalex.org/A5015927579",
+      "position": 7
+    },
+    {
+      "name": "Michael G. Baker",
+      "orcidId": "0000-0002-1865-1536",
+      "openAlexId": "https://openalex.org/A5036319260",
+      "position": 8
+    },
+    {
+      "name": "Winston K.G. Seah",
+      "openAlexId": "https://openalex.org/A5111999856",
+      "position": 9
+    },
+    {
+      "name": "Andrew Sporle",
+      "openAlexId": "https://openalex.org/A5027724575",
+      "position": 10
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 11
+    },
+    {
+      "name": "David R. Murdoch",
+      "orcidId": "0000-0003-0070-8001",
+      "openAlexId": "https://openalex.org/A5058492181",
+      "position": 12
+    },
+    {
+      "name": "David Welch",
+      "orcidId": "0000-0002-7066-2830",
+      "openAlexId": "https://openalex.org/A5051299223",
+      "position": 13
+    },
+    {
+      "name": "Colin R Simpson",
+      "orcidId": "0000-0002-5194-8083",
+      "openAlexId": "https://openalex.org/A5031640821",
+      "position": 14
+    }
+  ]
 }

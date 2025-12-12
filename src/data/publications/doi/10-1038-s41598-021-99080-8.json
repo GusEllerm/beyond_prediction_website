@@ -4,5 +4,61 @@
   "year": 2021,
   "venue": "Scientific Reports",
   "doi": "10.1038/s41598-021-99080-8",
-  "openAccessUrl": "https://www.nature.com/articles/s41598-021-99080-8.pdf"
+  "openAccessUrl": "https://www.nature.com/articles/s41598-021-99080-8.pdf",
+  "authors": [
+    {
+      "name": "Pippa Scott",
+      "orcidId": "0000-0003-0849-1812",
+      "openAlexId": "https://openalex.org/A5041045556",
+      "position": 1
+    },
+    {
+      "name": "Ji Zhang",
+      "orcidId": "0000-0003-2582-2978",
+      "openAlexId": "https://openalex.org/A5100329279",
+      "position": 2
+    },
+    {
+      "name": "Trevor P. Anderson",
+      "orcidId": "0000-0002-2454-4876",
+      "openAlexId": "https://openalex.org/A5007163211",
+      "position": 3
+    },
+    {
+      "name": "Patricia Priest",
+      "orcidId": "0000-0003-2311-6236",
+      "openAlexId": "https://openalex.org/A5088233726",
+      "position": 4
+    },
+    {
+      "name": "Stephen T. Chambers",
+      "orcidId": "0000-0002-0698-3285",
+      "openAlexId": "https://openalex.org/A5018448295",
+      "position": 5
+    },
+    {
+      "name": "Helen Smith",
+      "orcidId": "0000-0003-4308-9335",
+      "openAlexId": "https://openalex.org/A5080185074",
+      "position": 6
+    },
+    {
+      "name": "David R. Murdoch",
+      "orcidId": "0000-0003-0070-8001",
+      "openAlexId": "https://openalex.org/A5058492181",
+      "position": 7
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 8
+    },
+    {
+      "name": "Patrick J. Biggs",
+      "orcidId": "0000-0002-0285-4101",
+      "openAlexId": "https://openalex.org/A5071138818",
+      "position": 9
+    }
+  ]
 }

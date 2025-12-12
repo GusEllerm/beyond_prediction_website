@@ -9,7 +9,14 @@
       "year": 2025,
       "venue": "Australian & New Zealand Journal of Statistics",
       "doi": "10.1111/anzs.70001",
-      "openAccessUrl": "https://doi.org/10.1111/anzs.70001"
+      "openAccessUrl": "https://doi.org/10.1111/anzs.70001",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/156712681",
@@ -17,7 +24,14 @@
       "year": 2024,
       "venue": "Proceedings of the National Academy of Sciences",
       "doi": "10.1073/pnas.2307525121",
-      "openAccessUrl": "https://doi.org/10.1073/pnas.2307525121"
+      "openAccessUrl": "https://doi.org/10.1073/pnas.2307525121",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/147307966",
@@ -25,7 +39,14 @@
       "year": 2024,
       "venue": "Journal of Avian Biology",
       "doi": "10.1111/jav.03117",
-      "openAccessUrl": "https://doi.org/10.1111/jav.03117"
+      "openAccessUrl": "https://doi.org/10.1111/jav.03117",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/137577609",
@@ -33,7 +54,14 @@
       "year": 2023,
       "venue": "Fertility and Sterility",
       "doi": "10.1016/j.fertnstert.2023.05.161",
-      "openAccessUrl": "https://doi.org/10.1016/j.fertnstert.2023.05.161"
+      "openAccessUrl": "https://doi.org/10.1016/j.fertnstert.2023.05.161",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/133362490",
@@ -41,7 +69,14 @@
       "year": 2023,
       "venue": "Biological Reviews",
       "doi": "10.1111/brv.12958",
-      "openAccessUrl": "https://doi.org/10.1111/brv.12958"
+      "openAccessUrl": "https://doi.org/10.1111/brv.12958",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/121238909",
@@ -49,7 +84,14 @@
       "year": 2022,
       "venue": "Ecology Letters",
       "doi": "10.1111/ele.14121",
-      "openAccessUrl": "https://doi.org/10.1111/ele.14121"
+      "openAccessUrl": "https://doi.org/10.1111/ele.14121",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/98128304",
@@ -57,7 +99,14 @@
       "year": 2021,
       "venue": "Austral Ecology",
       "doi": "10.1111/aec.13078",
-      "openAccessUrl": "https://doi.org/10.1111/aec.13078"
+      "openAccessUrl": "https://doi.org/10.1111/aec.13078",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/98926680",
@@ -65,7 +114,14 @@
       "year": 2021,
       "venue": "Austral Ecology",
       "doi": "10.1111/aec.13089",
-      "openAccessUrl": "https://doi.org/10.1111/aec.13089"
+      "openAccessUrl": "https://doi.org/10.1111/aec.13089",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/94507944",
@@ -73,7 +129,14 @@
       "year": 2021,
       "venue": "Austral Ecology",
       "doi": "10.1111/aec.13061",
-      "openAccessUrl": "https://doi.org/10.1111/aec.13061"
+      "openAccessUrl": "https://doi.org/10.1111/aec.13061",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062667",
@@ -81,7 +144,14 @@
       "year": 2021,
       "venue": "Austral Ecology",
       "doi": "10.1111/aec.13061",
-      "openAccessUrl": "https://doi.org/10.1111/aec.13061"
+      "openAccessUrl": "https://doi.org/10.1111/aec.13061",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/96701910",
@@ -89,7 +159,14 @@
       "year": 2021,
       "venue": "Ecology and Evolution",
       "doi": "10.1002/ece3.7871",
-      "openAccessUrl": "https://doi.org/10.1002/ece3.7871"
+      "openAccessUrl": "https://doi.org/10.1002/ece3.7871",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062676",
@@ -97,7 +174,14 @@
       "year": 2021,
       "venue": "Journal of Statistical Computation and Simulation",
       "doi": "10.1080/00949655.2020.1806279",
-      "openAccessUrl": "https://doi.org/10.1080/00949655.2020.1806279"
+      "openAccessUrl": "https://doi.org/10.1080/00949655.2020.1806279",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062743",
@@ -105,7 +189,14 @@
       "year": 2021,
       "venue": "Ecology",
       "doi": "10.1002/ecy.3237",
-      "openAccessUrl": "https://doi.org/10.1002/ecy.3237"
+      "openAccessUrl": "https://doi.org/10.1002/ecy.3237",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/65987843",
@@ -113,7 +204,14 @@
       "year": 2020,
       "venue": "Journal of Animal Ecology",
       "doi": "10.1111/1365-2656.13131",
-      "openAccessUrl": "https://doi.org/10.1111/1365-2656.13131"
+      "openAccessUrl": "https://doi.org/10.1111/1365-2656.13131",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062757",
@@ -121,7 +219,14 @@
       "year": 2020,
       "venue": "Journal of Animal Ecology",
       "doi": "10.1111/1365-2656.13131",
-      "openAccessUrl": "https://doi.org/10.1111/1365-2656.13131"
+      "openAccessUrl": "https://doi.org/10.1111/1365-2656.13131",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062686",
@@ -129,7 +234,14 @@
       "year": 2020,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps13447",
-      "openAccessUrl": "https://doi.org/10.3354/meps13447"
+      "openAccessUrl": "https://doi.org/10.3354/meps13447",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062665",
@@ -137,7 +249,14 @@
       "year": 2020,
       "venue": "Ecography",
       "doi": "10.1111/ecog.04836",
-      "openAccessUrl": "https://doi.org/10.1111/ecog.04836"
+      "openAccessUrl": "https://doi.org/10.1111/ecog.04836",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062729",
@@ -145,7 +264,14 @@
       "year": 2020,
       "venue": "Global Change Biology",
       "doi": "10.1111/gcb.15027",
-      "openAccessUrl": "https://doi.org/10.1111/gcb.15027"
+      "openAccessUrl": "https://doi.org/10.1111/gcb.15027",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/62114036",
@@ -153,7 +279,14 @@
       "year": 2019,
       "venue": "Ecology and Evolution",
       "doi": "10.1002/ece3.4948",
-      "openAccessUrl": "https://doi.org/10.1002/ece3.4948"
+      "openAccessUrl": "https://doi.org/10.1002/ece3.4948",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062683",
@@ -161,7 +294,14 @@
       "year": 2019,
       "venue": "Ecology and Evolution",
       "doi": "10.1002/ece3.4948",
-      "openAccessUrl": "https://doi.org/10.1002/ece3.4948"
+      "openAccessUrl": "https://doi.org/10.1002/ece3.4948",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062761",
@@ -169,7 +309,14 @@
       "year": 2019,
       "venue": "IEEE Access",
       "doi": "10.1109/ACCESS.2019.2891988",
-      "openAccessUrl": "https://doi.org/10.1109/ACCESS.2019.2891988"
+      "openAccessUrl": "https://doi.org/10.1109/ACCESS.2019.2891988",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062715",
@@ -177,7 +324,14 @@
       "year": 2019,
       "venue": "Global Ecology and Biogeography",
       "doi": "10.1111/geb.12986",
-      "openAccessUrl": "https://doi.org/10.1111/geb.12986"
+      "openAccessUrl": "https://doi.org/10.1111/geb.12986",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062682",
@@ -185,7 +339,14 @@
       "year": 2019,
       "venue": "IEEE Access",
       "doi": "10.1109/ACCESS.2019.2926533",
-      "openAccessUrl": "https://doi.org/10.1109/ACCESS.2019.2926533"
+      "openAccessUrl": "https://doi.org/10.1109/ACCESS.2019.2926533",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062707",
@@ -193,7 +354,14 @@
       "year": 2018,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0202197",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0202197"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0202197",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062717",
@@ -201,7 +369,14 @@
       "year": 2018,
       "venue": "Computers and Industrial Engineering",
       "doi": "10.1016/j.cie.2018.02.008",
-      "openAccessUrl": "https://doi.org/10.1016/j.cie.2018.02.008"
+      "openAccessUrl": "https://doi.org/10.1016/j.cie.2018.02.008",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062668",
@@ -209,7 +384,14 @@
       "year": 2018,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps12505",
-      "openAccessUrl": "https://doi.org/10.3354/meps12505"
+      "openAccessUrl": "https://doi.org/10.3354/meps12505",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062670",
@@ -217,7 +399,14 @@
       "year": 2018,
       "venue": "Marine Policy",
       "doi": "10.1016/j.marpol.2018.02.018",
-      "openAccessUrl": "https://doi.org/10.1016/j.marpol.2018.02.018"
+      "openAccessUrl": "https://doi.org/10.1016/j.marpol.2018.02.018",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062767",
@@ -225,7 +414,14 @@
       "year": 2017,
       "venue": "Ecography",
       "doi": "10.1111/ecog.02821",
-      "openAccessUrl": "https://doi.org/10.1111/ecog.02821"
+      "openAccessUrl": "https://doi.org/10.1111/ecog.02821",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062701",
@@ -233,7 +429,14 @@
       "year": 2017,
       "venue": "Scientific Reports",
       "doi": "10.1038/s41598-017-08427-7",
-      "openAccessUrl": "https://doi.org/10.1038/s41598-017-08427-7"
+      "openAccessUrl": "https://doi.org/10.1038/s41598-017-08427-7",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062768",
@@ -241,7 +444,14 @@
       "year": 2017,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0171540",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0171540"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0171540",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062703",
@@ -249,7 +459,14 @@
       "year": 2017,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0183669",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0183669"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0183669",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062706",
@@ -257,7 +474,14 @@
       "year": 2017,
       "venue": "Australian and New Zealand Journal of Statistics",
       "doi": "10.1111/anzs.12176",
-      "openAccessUrl": "https://doi.org/10.1111/anzs.12176"
+      "openAccessUrl": "https://doi.org/10.1111/anzs.12176",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062685",
@@ -265,7 +489,14 @@
       "year": 2016,
       "venue": "Ecology and Evolution",
       "doi": "10.1002/ece3.2406",
-      "openAccessUrl": "https://doi.org/10.1002/ece3.2406"
+      "openAccessUrl": "https://doi.org/10.1002/ece3.2406",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062747",
@@ -273,7 +504,14 @@
       "year": 2016,
       "venue": "Microbial Ecology",
       "doi": "10.1007/s00248-015-0721-5",
-      "openAccessUrl": "https://doi.org/10.1007/s00248-015-0721-5"
+      "openAccessUrl": "https://doi.org/10.1007/s00248-015-0721-5",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062753",
@@ -281,7 +519,14 @@
       "year": 2015,
       "venue": "Ecology Letters",
       "doi": "10.1111/ele.12385",
-      "openAccessUrl": "https://doi.org/10.1111/ele.12385"
+      "openAccessUrl": "https://doi.org/10.1111/ele.12385",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062712",
@@ -289,7 +534,14 @@
       "year": 2015,
       "venue": "Zoological Journal of the Linnean Society",
       "doi": "10.1111/zoj.12239",
-      "openAccessUrl": "https://doi.org/10.1111/zoj.12239"
+      "openAccessUrl": "https://doi.org/10.1111/zoj.12239",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062772",
@@ -297,7 +549,14 @@
       "year": 2015,
       "venue": "Journal of Animal Ecology",
       "doi": "10.1111/1365-2656.12396",
-      "openAccessUrl": "https://doi.org/10.1111/1365-2656.12396"
+      "openAccessUrl": "https://doi.org/10.1111/1365-2656.12396",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062741",
@@ -305,7 +564,14 @@
       "year": 2014,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps10653",
-      "openAccessUrl": "https://doi.org/10.3354/meps10653"
+      "openAccessUrl": "https://doi.org/10.3354/meps10653",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062735",
@@ -313,7 +579,14 @@
       "year": 2014,
       "venue": "Journal of Biogeography",
       "doi": "10.1111/jbi.12359",
-      "openAccessUrl": "https://doi.org/10.1111/jbi.12359"
+      "openAccessUrl": "https://doi.org/10.1111/jbi.12359",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062677",
@@ -321,7 +594,14 @@
       "year": 2014,
       "venue": "Diversity and Distributions",
       "doi": "10.1111/ddi.12168",
-      "openAccessUrl": "https://doi.org/10.1111/ddi.12168"
+      "openAccessUrl": "https://doi.org/10.1111/ddi.12168",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062661",
@@ -329,7 +609,14 @@
       "year": 2013,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0057918",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0057918"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0057918",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062689",
@@ -337,7 +624,14 @@
       "year": 2013,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/j.jembe.2013.05.028",
-      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2013.05.028"
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2013.05.028",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062697",
@@ -345,7 +639,14 @@
       "year": 2013,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps10341",
-      "openAccessUrl": "https://doi.org/10.3354/meps10341"
+      "openAccessUrl": "https://doi.org/10.3354/meps10341",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062660",
@@ -353,7 +654,14 @@
       "year": 2013,
       "venue": "Ecological Monographs",
       "doi": "10.1890/12-2010.1",
-      "openAccessUrl": "https://doi.org/10.1890/12-2010.1"
+      "openAccessUrl": "https://doi.org/10.1890/12-2010.1",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062734",
@@ -361,7 +669,14 @@
       "year": 2013,
       "venue": "Global Ecology and Biogeography",
       "doi": "10.1111/j.1466-8238.2012.00780.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1466-8238.2012.00780.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1466-8238.2012.00780.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062673",
@@ -369,7 +684,14 @@
       "year": 2012,
       "venue": "Journal of Biogeography",
       "doi": "10.1111/j.1365-2699.2011.02564.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1365-2699.2011.02564.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2699.2011.02564.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062664",
@@ -377,7 +699,14 @@
       "year": 2012,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0048522",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0048522"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0048522",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062681",
@@ -385,7 +714,14 @@
       "year": 2012,
       "venue": "Ecology",
       "doi": "10.1890/12-0460.1",
-      "openAccessUrl": "https://doi.org/10.1890/12-0460.1"
+      "openAccessUrl": "https://doi.org/10.1890/12-0460.1",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062754",
@@ -393,7 +729,14 @@
       "year": 2012,
       "venue": "Antarctic Science",
       "doi": "10.1017/S0954102012000491",
-      "openAccessUrl": "https://doi.org/10.1017/S0954102012000491"
+      "openAccessUrl": "https://doi.org/10.1017/S0954102012000491",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062684",
@@ -401,7 +744,14 @@
       "year": 2012,
       "venue": "Science",
       "doi": "10.1126/science.1218697",
-      "openAccessUrl": "https://doi.org/10.1126/science.1218697"
+      "openAccessUrl": "https://doi.org/10.1126/science.1218697",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062710",
@@ -409,7 +759,14 @@
       "year": 2012,
       "venue": "Ecology Letters",
       "doi": "10.1111/j.1461-0248.2012.01797.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2012.01797.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2012.01797.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062728",
@@ -417,7 +774,14 @@
       "year": 2011,
       "venue": "Environmental Pollution",
       "doi": "10.1016/j.envpol.2010.09.012",
-      "openAccessUrl": "https://doi.org/10.1016/j.envpol.2010.09.012"
+      "openAccessUrl": "https://doi.org/10.1016/j.envpol.2010.09.012",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062722",
@@ -425,7 +789,14 @@
       "year": 2011,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/j.jembe.2010.10.029",
-      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2010.10.029"
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2010.10.029",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062725",
@@ -433,7 +804,14 @@
       "year": 2011,
       "venue": "Science",
       "doi": "10.1126/science.1208584",
-      "openAccessUrl": "https://doi.org/10.1126/science.1208584"
+      "openAccessUrl": "https://doi.org/10.1126/science.1208584",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062714",
@@ -441,7 +819,14 @@
       "year": 2011,
       "venue": "Environmental Pollution",
       "doi": "10.1016/j.envpol.2010.11.018",
-      "openAccessUrl": "https://doi.org/10.1016/j.envpol.2010.11.018"
+      "openAccessUrl": "https://doi.org/10.1016/j.envpol.2010.11.018",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062718",
@@ -449,7 +834,14 @@
       "year": 2011,
       "venue": "Scientific Reports",
       "doi": "10.1038/srep00131",
-      "openAccessUrl": "https://doi.org/10.1038/srep00131"
+      "openAccessUrl": "https://doi.org/10.1038/srep00131",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062759",
@@ -457,7 +849,14 @@
       "year": 2011,
       "venue": "Ecography",
       "doi": "10.1111/j.1600-0587.2010.06546.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1600-0587.2010.06546.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1600-0587.2010.06546.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062700",
@@ -465,7 +864,14 @@
       "year": 2011,
       "venue": "Ecology",
       "doi": "10.1890/11-0029.1",
-      "openAccessUrl": "https://doi.org/10.1890/11-0029.1"
+      "openAccessUrl": "https://doi.org/10.1890/11-0029.1",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062720",
@@ -473,7 +879,14 @@
       "year": 2011,
       "venue": "Ecology Letters",
       "doi": "10.1111/j.1461-0248.2010.01552.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2010.01552.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2010.01552.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062694",
@@ -481,7 +894,14 @@
       "year": 2011,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps08977",
-      "openAccessUrl": "https://doi.org/10.3354/meps08977"
+      "openAccessUrl": "https://doi.org/10.3354/meps08977",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062693",
@@ -489,7 +909,14 @@
       "year": 2010,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps08457",
-      "openAccessUrl": "https://doi.org/10.3354/meps08457"
+      "openAccessUrl": "https://doi.org/10.3354/meps08457",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062736",
@@ -497,7 +924,14 @@
       "year": 2010,
       "venue": "Chemical Senses",
       "doi": "10.1093/chemse/bjq021",
-      "openAccessUrl": "https://doi.org/10.1093/chemse/bjq021"
+      "openAccessUrl": "https://doi.org/10.1093/chemse/bjq021",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062755",
@@ -505,7 +939,14 @@
       "year": 2010,
       "venue": "PLoS ONE",
       "doi": "10.1371/journal.pone.0010653",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0010653"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0010653",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062758",
@@ -513,7 +954,14 @@
       "year": 2009,
       "venue": "Diversity and Distributions",
       "doi": "10.1111/j.1472-4642.2008.00551.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1472-4642.2008.00551.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1472-4642.2008.00551.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062770",
@@ -521,7 +969,14 @@
       "year": 2009,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps08009",
-      "openAccessUrl": "https://doi.org/10.3354/meps08009"
+      "openAccessUrl": "https://doi.org/10.3354/meps08009",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062687",
@@ -529,7 +984,14 @@
       "year": 2009,
       "venue": "Environmental Science and Technology",
       "doi": "10.1021/es802175k",
-      "openAccessUrl": "https://doi.org/10.1021/es802175k"
+      "openAccessUrl": "https://doi.org/10.1021/es802175k",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062679",
@@ -537,7 +999,14 @@
       "year": 2009,
       "venue": "Ecology Letters",
       "doi": "10.1111/j.1461-0248.2009.01353.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2009.01353.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2009.01353.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062675",
@@ -545,7 +1014,14 @@
       "year": 2008,
       "venue": "Tree Physiology",
       "doi": "10.1093/treephys/28.10.1525",
-      "openAccessUrl": "https://doi.org/10.1093/treephys/28.10.1525"
+      "openAccessUrl": "https://doi.org/10.1093/treephys/28.10.1525",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062732",
@@ -553,7 +1029,14 @@
       "year": 2008,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/j.jembe.2008.07.006",
-      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2008.07.006"
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2008.07.006",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062733",
@@ -561,13 +1044,27 @@
       "year": 2008,
       "venue": "FEMS Microbiology Ecology",
       "doi": "10.1111/j.1574-6941.2008.00548.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1574-6941.2008.00548.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1574-6941.2008.00548.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062658",
       "title": "A multi-scale impact assessment of effects of northwestern adriatic gas fields on marine macrobenthos - Biodivadr",
       "year": 2007,
-      "venue": "Offshore Mediterranean Conference and Exhibition 2007, OMC 2007"
+      "venue": "Offshore Mediterranean Conference and Exhibition 2007, OMC 2007",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062775",
@@ -575,13 +1072,27 @@
       "year": 2007,
       "venue": "Australian and New Zealand Journal of Statistics",
       "doi": "10.1111/j.1467-842X.2007.00491.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1467-842X.2007.00491.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-842X.2007.00491.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062659",
       "title": "Morphometric measures as a moderate predictor of gender in the white-browed babbler Pomatostomus superciliosus gilgandra",
       "year": 2007,
-      "venue": "Corella"
+      "venue": "Corella",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062699",
@@ -589,7 +1100,14 @@
       "year": 2007,
       "venue": "Marine Biology",
       "doi": "10.1007/s00227-007-0767-0",
-      "openAccessUrl": "https://doi.org/10.1007/s00227-007-0767-0"
+      "openAccessUrl": "https://doi.org/10.1007/s00227-007-0767-0",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062748",
@@ -597,7 +1115,14 @@
       "year": 2007,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps332025",
-      "openAccessUrl": "https://doi.org/10.3354/meps332025"
+      "openAccessUrl": "https://doi.org/10.3354/meps332025",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062740",
@@ -605,7 +1130,14 @@
       "year": 2007,
       "venue": "Ecology Letters",
       "doi": "10.1111/j.1461-0248.2007.01094.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2007.01094.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2007.01094.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062762",
@@ -613,7 +1145,14 @@
       "year": 2007,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps340017",
-      "openAccessUrl": "https://doi.org/10.3354/meps340017"
+      "openAccessUrl": "https://doi.org/10.3354/meps340017",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062691",
@@ -621,7 +1160,14 @@
       "year": 2007,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps341015",
-      "openAccessUrl": "https://doi.org/10.3354/meps341015"
+      "openAccessUrl": "https://doi.org/10.3354/meps341015",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062678",
@@ -629,7 +1175,14 @@
       "year": 2007,
       "venue": "Marine Biology",
       "doi": "10.1007/s00227-007-0798-6",
-      "openAccessUrl": "https://doi.org/10.1007/s00227-007-0798-6"
+      "openAccessUrl": "https://doi.org/10.1007/s00227-007-0798-6",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062711",
@@ -637,7 +1190,14 @@
       "year": 2006,
       "venue": "Biometrics",
       "doi": "10.1111/j.1541-0420.2005.00440.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1541-0420.2005.00440.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1541-0420.2005.00440.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062666",
@@ -645,7 +1205,14 @@
       "year": 2006,
       "venue": "Marine Biology",
       "doi": "10.1007/s00227-005-0237-5",
-      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0237-5"
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0237-5",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062671",
@@ -653,7 +1220,14 @@
       "year": 2006,
       "venue": "Oecologia",
       "doi": "10.1007/s00442-005-0237-7",
-      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0237-7"
+      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0237-7",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062695",
@@ -661,7 +1235,14 @@
       "year": 2006,
       "venue": "Marine Biology",
       "doi": "10.1007/s00227-005-0238-4",
-      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0238-4"
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0238-4",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062704",
@@ -669,7 +1250,14 @@
       "year": 2006,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/j.jembe.2006.02.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2006.02.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2006.02.001",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062751",
@@ -677,7 +1265,14 @@
       "year": 2006,
       "venue": "Oecologia",
       "doi": "10.1007/s00442-005-0148-7",
-      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0148-7"
+      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0148-7",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062708",
@@ -685,7 +1280,14 @@
       "year": 2006,
       "venue": "Ecology Letters",
       "doi": "10.1111/j.1461-0248.2006.00926.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2006.00926.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1461-0248.2006.00926.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062662",
@@ -693,7 +1295,14 @@
       "year": 2005,
       "venue": "Marine Biology",
       "doi": "10.1007/s00227-005-0090-6",
-      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0090-6"
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0090-6",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062723",
@@ -701,7 +1310,14 @@
       "year": 2005,
       "venue": "Ecological Applications",
       "doi": "10.1890/04-0732",
-      "openAccessUrl": "https://doi.org/10.1890/04-0732"
+      "openAccessUrl": "https://doi.org/10.1890/04-0732",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062731",
@@ -709,7 +1325,14 @@
       "year": 2005,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/j.jembe.2004.12.023",
-      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2004.12.023"
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2004.12.023",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062705",
@@ -717,7 +1340,14 @@
       "year": 2005,
       "venue": "Ecology",
       "doi": "10.1890/04-1071",
-      "openAccessUrl": "https://doi.org/10.1890/04-1071"
+      "openAccessUrl": "https://doi.org/10.1890/04-1071",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062739",
@@ -725,7 +1355,14 @@
       "year": 2005,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps289027",
-      "openAccessUrl": "https://doi.org/10.3354/meps289027"
+      "openAccessUrl": "https://doi.org/10.3354/meps289027",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062738",
@@ -733,7 +1370,14 @@
       "year": 2005,
       "venue": "Oecologia",
       "doi": "10.1007/s00442-005-0195-0",
-      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0195-0"
+      "openAccessUrl": "https://doi.org/10.1007/s00442-005-0195-0",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062709",
@@ -741,7 +1385,14 @@
       "year": 2005,
       "venue": "Marine Biology",
       "doi": "10.1007/s00227-005-0080-8",
-      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0080-8"
+      "openAccessUrl": "https://doi.org/10.1007/s00227-005-0080-8",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062749",
@@ -749,7 +1400,14 @@
       "year": 2005,
       "venue": "Ecology",
       "doi": "10.1890/04-0234",
-      "openAccessUrl": "https://doi.org/10.1890/04-0234"
+      "openAccessUrl": "https://doi.org/10.1890/04-0234",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062688",
@@ -757,7 +1415,14 @@
       "year": 2005,
       "venue": "Journal of Animal Ecology",
       "doi": "10.1111/j.1365-2656.2005.00959.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1365-2656.2005.00959.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-2656.2005.00959.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062692",
@@ -765,7 +1430,14 @@
       "year": 2004,
       "venue": "Molecular Ecology",
       "doi": "10.1111/j.1365-294X.2004.02244.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1365-294X.2004.02244.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1365-294X.2004.02244.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062669",
@@ -773,7 +1445,14 @@
       "year": 2004,
       "venue": "Ecological Applications",
       "doi": "10.1890/03-5379",
-      "openAccessUrl": "https://doi.org/10.1890/03-5379"
+      "openAccessUrl": "https://doi.org/10.1890/03-5379",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062746",
@@ -781,7 +1460,14 @@
       "year": 2004,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps272033",
-      "openAccessUrl": "https://doi.org/10.3354/meps272033"
+      "openAccessUrl": "https://doi.org/10.3354/meps272033",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062774",
@@ -789,7 +1475,14 @@
       "year": 2004,
       "venue": "Fisheries Research",
       "doi": "10.1016/j.fishres.2004.08.016",
-      "openAccessUrl": "https://doi.org/10.1016/j.fishres.2004.08.016"
+      "openAccessUrl": "https://doi.org/10.1016/j.fishres.2004.08.016",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062737",
@@ -797,7 +1490,14 @@
       "year": 2004,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/j.jembe.2003.12.011",
-      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2003.12.011"
+      "openAccessUrl": "https://doi.org/10.1016/j.jembe.2003.12.011",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062744",
@@ -805,7 +1505,14 @@
       "year": 2004,
       "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
       "doi": "10.1139/F04-051",
-      "openAccessUrl": "https://doi.org/10.1139/F04-051"
+      "openAccessUrl": "https://doi.org/10.1139/F04-051",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062766",
@@ -813,7 +1520,14 @@
       "year": 2003,
       "venue": "Ecology",
       "doi": "10.1890/0012-9658(2003)084[0511:CAOPCA]2.0.CO;2",
-      "openAccessUrl": "https://doi.org/10.1890/0012-9658(2003)084[0511:CAOPCA]2.0.CO;2"
+      "openAccessUrl": "https://doi.org/10.1890/0012-9658(2003)084[0511:CAOPCA]2.0.CO;2",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062680",
@@ -821,7 +1535,14 @@
       "year": 2003,
       "venue": "Australian and New Zealand Journal of Statistics",
       "doi": "10.1111/1467-842X.00285",
-      "openAccessUrl": "https://doi.org/10.1111/1467-842X.00285"
+      "openAccessUrl": "https://doi.org/10.1111/1467-842X.00285",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062724",
@@ -829,7 +1550,14 @@
       "year": 2003,
       "venue": "Journal of Statistical Computation and Simulation",
       "doi": "10.1080/00949650215733",
-      "openAccessUrl": "https://doi.org/10.1080/00949650215733"
+      "openAccessUrl": "https://doi.org/10.1080/00949650215733",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062674",
@@ -837,7 +1565,14 @@
       "year": 2003,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps257209",
-      "openAccessUrl": "https://doi.org/10.3354/meps257209"
+      "openAccessUrl": "https://doi.org/10.3354/meps257209",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062726",
@@ -845,7 +1580,14 @@
       "year": 2003,
       "venue": "Journal of Theoretical Biology",
       "doi": "10.1016/S0022-5193(03)00145-0",
-      "openAccessUrl": "https://doi.org/10.1016/S0022-5193(03)00145-0"
+      "openAccessUrl": "https://doi.org/10.1016/S0022-5193(03)00145-0",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062721",
@@ -853,7 +1595,14 @@
       "year": 2001,
       "venue": "Austral Ecology",
       "doi": "10.1046/j.1442-9993.2001.01070.x",
-      "openAccessUrl": "https://doi.org/10.1046/j.1442-9993.2001.01070.x"
+      "openAccessUrl": "https://doi.org/10.1046/j.1442-9993.2001.01070.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062763",
@@ -861,7 +1610,14 @@
       "year": 2001,
       "venue": "Ecology",
       "doi": "10.1890/0012-9658(2001)082[0290:FMMTCD]2.0.CO;2",
-      "openAccessUrl": "https://doi.org/10.1890/0012-9658(2001)082[0290:FMMTCD]2.0.CO;2"
+      "openAccessUrl": "https://doi.org/10.1890/0012-9658(2001)082[0290:FMMTCD]2.0.CO;2",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062756",
@@ -869,7 +1625,14 @@
       "year": 2001,
       "venue": "Australian and New Zealand Journal of Statistics",
       "doi": "10.1111/1467-842X.00156",
-      "openAccessUrl": "https://doi.org/10.1111/1467-842X.00156"
+      "openAccessUrl": "https://doi.org/10.1111/1467-842X.00156",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062742",
@@ -877,7 +1640,14 @@
       "year": 2001,
       "venue": "Canadian Journal of Fisheries and Aquatic Sciences",
       "doi": "10.1139/f01-004",
-      "openAccessUrl": "https://doi.org/10.1139/f01-004"
+      "openAccessUrl": "https://doi.org/10.1139/f01-004",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062727",
@@ -885,7 +1655,14 @@
       "year": 2000,
       "venue": "Ecological Applications",
       "doi": "10.1890/1051-0761(2000)010[1341:REDASM]2.0.CO;2",
-      "openAccessUrl": "https://doi.org/10.1890/1051-0761(2000)010[1341:REDASM]2.0.CO;2"
+      "openAccessUrl": "https://doi.org/10.1890/1051-0761(2000)010[1341:REDASM]2.0.CO;2",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062760",
@@ -893,7 +1670,14 @@
       "year": 1999,
       "venue": "Journal of Statistical Computation and Simulation",
       "doi": "10.1080/00949659908811936",
-      "openAccessUrl": "https://doi.org/10.1080/00949659908811936"
+      "openAccessUrl": "https://doi.org/10.1080/00949659908811936",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062672",
@@ -901,7 +1685,14 @@
       "year": 1999,
       "venue": "Ecological Monographs",
       "doi": "10.1890/0012-9615(1999)069[0001:DBRATM]2.0.CO;2",
-      "openAccessUrl": "https://doi.org/10.1890/0012-9615(1999)069[0001:DBRATM]2.0.CO;2"
+      "openAccessUrl": "https://doi.org/10.1890/0012-9615(1999)069[0001:DBRATM]2.0.CO;2",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062690",
@@ -909,7 +1700,14 @@
       "year": 1999,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/S0022-0981(98)00159-2",
-      "openAccessUrl": "https://doi.org/10.1016/S0022-0981(98)00159-2"
+      "openAccessUrl": "https://doi.org/10.1016/S0022-0981(98)00159-2",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062713",
@@ -917,7 +1715,14 @@
       "year": 1999,
       "venue": "Oecologia",
       "doi": "10.1007/s004420050706",
-      "openAccessUrl": "https://doi.org/10.1007/s004420050706"
+      "openAccessUrl": "https://doi.org/10.1007/s004420050706",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062769",
@@ -925,7 +1730,14 @@
       "year": 1999,
       "venue": "Ecological Monographs",
       "doi": "10.2307/2657228",
-      "openAccessUrl": "https://doi.org/10.2307/2657228"
+      "openAccessUrl": "https://doi.org/10.2307/2657228",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062765",
@@ -933,7 +1745,14 @@
       "year": 1999,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/S0022-0981(99)00067-2",
-      "openAccessUrl": "https://doi.org/10.1016/S0022-0981(99)00067-2"
+      "openAccessUrl": "https://doi.org/10.1016/S0022-0981(99)00067-2",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062716",
@@ -941,7 +1760,14 @@
       "year": 1999,
       "venue": "Marine Ecology Progress Series",
       "doi": "10.3354/meps187203",
-      "openAccessUrl": "https://doi.org/10.3354/meps187203"
+      "openAccessUrl": "https://doi.org/10.3354/meps187203",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062776",
@@ -949,7 +1775,14 @@
       "year": 1998,
       "venue": "Journal of Natural History",
       "doi": "10.1080/00222939800770471",
-      "openAccessUrl": "https://doi.org/10.1080/00222939800770471"
+      "openAccessUrl": "https://doi.org/10.1080/00222939800770471",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062773",
@@ -957,7 +1790,14 @@
       "year": 1998,
       "venue": "Austral Ecology",
       "doi": "10.1111/j.1442-9993.1998.tb00713.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1442-9993.1998.tb00713.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1442-9993.1998.tb00713.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062764",
@@ -965,7 +1805,14 @@
       "year": 1997,
       "venue": "Oecologia",
       "doi": "10.1007/s004420050104",
-      "openAccessUrl": "https://doi.org/10.1007/s004420050104"
+      "openAccessUrl": "https://doi.org/10.1007/s004420050104",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062771",
@@ -973,7 +1820,14 @@
       "year": 1996,
       "venue": "Biological Bulletin",
       "doi": "10.2307/1543027",
-      "openAccessUrl": "https://doi.org/10.2307/1543027"
+      "openAccessUrl": "https://doi.org/10.2307/1543027",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062702",
@@ -981,7 +1835,14 @@
       "year": 1995,
       "venue": "Journal of the Marine Biological Association of the United Kingdom",
       "doi": "10.1017/S0025315400039114",
-      "openAccessUrl": "https://doi.org/10.1017/S0025315400039114"
+      "openAccessUrl": "https://doi.org/10.1017/S0025315400039114",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062719",
@@ -989,7 +1850,14 @@
       "year": 1994,
       "venue": "Journal of Experimental Marine Biology and Ecology",
       "doi": "10.1016/0022-0981(94)90006-X",
-      "openAccessUrl": "https://doi.org/10.1016/0022-0981(94)90006-X"
+      "openAccessUrl": "https://doi.org/10.1016/0022-0981(94)90006-X",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062745",
@@ -997,7 +1865,14 @@
       "year": 1994,
       "venue": "Evolution",
       "doi": "10.1111/j.1558-5646.1994.tb01344.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1558-5646.1994.tb01344.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1558-5646.1994.tb01344.x",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-4018-4049/work/95062730",
@@ -1005,7 +1880,14 @@
       "year": 1994,
       "venue": "Journal of the Marine Biological Association of the United Kingdom",
       "doi": "10.1017/S0025315400047676",
-      "openAccessUrl": "https://doi.org/10.1017/S0025315400047676"
+      "openAccessUrl": "https://doi.org/10.1017/S0025315400047676",
+      "authors": [
+        {
+          "name": "Marti Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "position": 1
+        }
+      ]
     }
   ]
 }

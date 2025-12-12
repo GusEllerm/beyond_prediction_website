@@ -4,5 +4,25 @@
   "year": 2021,
   "venue": "Austral Ecology",
   "doi": "10.1111/aec.13089",
-  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13089"
+  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13089",
+  "authors": [
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 1
+    },
+    {
+      "name": "Paul J. Somerfield",
+      "orcidId": "0000-0002-7581-5621",
+      "openAlexId": "https://openalex.org/A5074866035",
+      "position": 2
+    },
+    {
+      "name": "Richard M. Warwick",
+      "orcidId": "0000-0002-9544-9198",
+      "openAlexId": "https://openalex.org/A5044802393",
+      "position": 3
+    }
+  ]
 }

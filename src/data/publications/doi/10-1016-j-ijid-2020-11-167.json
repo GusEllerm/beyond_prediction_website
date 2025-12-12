@@ -4,5 +4,93 @@
   "year": 2020,
   "venue": "International Journal of Infectious Diseases",
   "doi": "10.1016/j.ijid.2020.11.167",
-  "openAccessUrl": "http://www.ijidonline.com/article/S1201971220324796/pdf"
+  "openAccessUrl": "http://www.ijidonline.com/article/S1201971220324796/pdf",
+  "authors": [
+    {
+      "name": "Robin Lake",
+      "orcidId": "0000-0002-0049-3218",
+      "openAlexId": "https://openalex.org/A5017467348",
+      "position": 1
+    },
+    {
+      "name": "Donald M. Campbell",
+      "openAlexId": "https://openalex.org/A5103836384",
+      "position": 2
+    },
+    {
+      "name": "S.C. Hathaway",
+      "openAlexId": "https://openalex.org/A5113612452",
+      "position": 3
+    },
+    {
+      "name": "Ellen Ashmore",
+      "openAlexId": "https://openalex.org/A5046742868",
+      "position": 4
+    },
+    {
+      "name": "Peter Cressey",
+      "orcidId": "0000-0002-6791-3205",
+      "openAlexId": "https://openalex.org/A5070195361",
+      "position": 5
+    },
+    {
+      "name": "Beverley Horn",
+      "orcidId": "0000-0001-5372-7463",
+      "openAlexId": "https://openalex.org/A5017034960",
+      "position": 6
+    },
+    {
+      "name": "Sarah Pirikahu",
+      "orcidId": "0000-0003-0733-6714",
+      "openAlexId": "https://openalex.org/A5072536104",
+      "position": 7
+    },
+    {
+      "name": "Jill Sherwood",
+      "openAlexId": "https://openalex.org/A5049812892",
+      "position": 8
+    },
+    {
+      "name": "Michael G. Baker",
+      "orcidId": "0000-0002-1865-1536",
+      "openAlexId": "https://openalex.org/A5036319260",
+      "position": 9
+    },
+    {
+      "name": "Phil Shoemack",
+      "orcidId": "0000-0001-5879-6345",
+      "openAlexId": "https://openalex.org/A5063025680",
+      "position": 10
+    },
+    {
+      "name": "Jackie Benschop",
+      "orcidId": "0000-0002-7814-4341",
+      "openAlexId": "https://openalex.org/A5089017342",
+      "position": 11
+    },
+    {
+      "name": "Jonathan C. Marshall",
+      "orcidId": "0000-0003-0758-9658",
+      "openAlexId": "https://openalex.org/A5074224187",
+      "position": 12
+    },
+    {
+      "name": "Anne C. Midwinter",
+      "orcidId": "0000-0001-5731-3233",
+      "openAlexId": "https://openalex.org/A5026814647",
+      "position": 13
+    },
+    {
+      "name": "David A. Wilkinson",
+      "orcidId": "0000-0002-9986-6212",
+      "openAlexId": "https://openalex.org/A5101820260",
+      "position": 14
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 15
+    }
+  ]
 }

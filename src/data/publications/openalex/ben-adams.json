@@ -9,7 +9,103 @@
       "year": 2025,
       "venue": "Medicine",
       "doi": "https://doi.org/10.1097/md.0000000000045597",
-      "openAccessUrl": "https://doi.org/10.1097/md.0000000000045597"
+      "openAccessUrl": "https://doi.org/10.1097/md.0000000000045597",
+      "authors": [
+        {
+          "name": "Robert T. Brennan",
+          "openAlexId": "https://openalex.org/A5007892357",
+          "position": 1
+        },
+        {
+          "name": "Benjamin J. Strimaitis",
+          "openAlexId": "https://openalex.org/A5098689331",
+          "position": 2
+        },
+        {
+          "name": "Yilin Tian",
+          "orcidId": "0000-0001-5905-4976",
+          "openAlexId": "https://openalex.org/A5086397397",
+          "position": 3
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 4
+        },
+        {
+          "name": "Robert J. Ellis",
+          "orcidId": "0000-0002-9755-9913",
+          "openAlexId": "https://openalex.org/A5014925967",
+          "position": 5
+        },
+        {
+          "name": "Shaun Chandler",
+          "orcidId": "0000-0002-6294-0060",
+          "openAlexId": "https://openalex.org/A5066608226",
+          "position": 6
+        },
+        {
+          "name": "Dharmenaan Palamuthusingam",
+          "orcidId": "0000-0003-1505-3482",
+          "openAlexId": "https://openalex.org/A5000597374",
+          "position": 7
+        },
+        {
+          "name": "Sharad Ratanjee",
+          "orcidId": "0000-0002-6024-7684",
+          "openAlexId": "https://openalex.org/A5023732322",
+          "position": 8
+        },
+        {
+          "name": "Dwarakanathan Ranganathan",
+          "orcidId": "0000-0003-1215-1773",
+          "openAlexId": "https://openalex.org/A5041921260",
+          "position": 9
+        },
+        {
+          "name": "Kirsten Hepburn",
+          "orcidId": "0000-0003-3142-9195",
+          "openAlexId": "https://openalex.org/A5055224986",
+          "position": 10
+        },
+        {
+          "name": "Eoin O’Sullivan",
+          "orcidId": "0000-0002-7709-6595",
+          "openAlexId": "https://openalex.org/A5101730044",
+          "position": 11
+        },
+        {
+          "name": "George John",
+          "orcidId": "0000-0001-6145-1591",
+          "openAlexId": "https://openalex.org/A5086952950",
+          "position": 12
+        },
+        {
+          "name": "Brian Doucet",
+          "orcidId": "0000-0003-1656-2385",
+          "openAlexId": "https://openalex.org/A5077344866",
+          "position": 13
+        },
+        {
+          "name": "Helen Healy",
+          "orcidId": "0000-0003-4342-5300",
+          "openAlexId": "https://openalex.org/A5075454822",
+          "position": 14
+        },
+        {
+          "name": "Andrew J. Kassianos",
+          "orcidId": "0000-0002-0994-3588",
+          "openAlexId": "https://openalex.org/A5084588312",
+          "position": 15
+        },
+        {
+          "name": "Monica Suet Ying Ng",
+          "orcidId": "0000-0002-0431-9110",
+          "openAlexId": "https://openalex.org/A5032680153",
+          "position": 16
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4415287662",
@@ -17,7 +113,15 @@
       "year": 2025,
       "venue": "Journal of Language Culture and Religion",
       "doi": "https://doi.org/10.64830/001c.144559",
-      "openAccessUrl": "https://jlcr.diu.edu/article/144559.pdf"
+      "openAccessUrl": "https://jlcr.diu.edu/article/144559.pdf",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4413499879",
@@ -25,7 +129,38 @@
       "year": 2025,
       "venue": "Military Medicine",
       "doi": "https://doi.org/10.1093/milmed/usaf323",
-      "openAccessUrl": "https://doi.org/10.1093/milmed/usaf323"
+      "openAccessUrl": "https://doi.org/10.1093/milmed/usaf323",
+      "authors": [
+        {
+          "name": "Meredith Young",
+          "orcidId": "0009-0001-5575-8332",
+          "openAlexId": "https://openalex.org/A5035395898",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Carlos Estevez",
+          "openAlexId": "https://openalex.org/A5017243280",
+          "position": 3
+        },
+        {
+          "name": "Christopher Hyde",
+          "orcidId": "0000-0002-7349-0616",
+          "openAlexId": "https://openalex.org/A5067817683",
+          "position": 4
+        },
+        {
+          "name": "Richard B. Westrick",
+          "orcidId": "0000-0001-5582-8567",
+          "openAlexId": "https://openalex.org/A5048870461",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4412827018",
@@ -33,14 +168,36 @@
       "year": 2025,
       "venue": "Ledger",
       "doi": "https://doi.org/10.5195/ledger.2025.406",
-      "openAccessUrl": "https://ledger.pitt.edu/ojs/ledger/article/download/406/322"
+      "openAccessUrl": "https://ledger.pitt.edu/ojs/ledger/article/download/406/322",
+      "authors": [
+        {
+          "name": "Blake Regalia",
+          "orcidId": "0000-0001-9303-1591",
+          "openAlexId": "https://openalex.org/A5039068203",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4412674516",
       "title": "Performance Pay, Gender, and Divorce among Full-Time American Workers",
       "year": 2025,
       "doi": "https://doi.org/10.21203/rs.3.rs-7103256/v1",
-      "openAccessUrl": "https://www.researchsquare.com/article/rs-7103256/latest.pdf"
+      "openAccessUrl": "https://www.researchsquare.com/article/rs-7103256/latest.pdf",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4415345243",
@@ -48,7 +205,20 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2507.03847",
-      "openAccessUrl": "https://arxiv.org/pdf/2507.03847"
+      "openAccessUrl": "https://arxiv.org/pdf/2507.03847",
+      "authors": [
+        {
+          "name": "Reilly Haskins",
+          "openAlexId": "https://openalex.org/A5114224629",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411770621",
@@ -56,7 +226,21 @@
       "year": 2025,
       "venue": "Journal of Spatial Information Science",
       "doi": "https://doi.org/10.5311/josis.2025.30.487",
-      "openAccessUrl": "https://josis.org/index.php/josis/article/download/487/204"
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/487/204",
+      "authors": [
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4417093091",
@@ -64,7 +248,15 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2505.10822",
-      "openAccessUrl": "https://arxiv.org/pdf/2505.10822"
+      "openAccessUrl": "https://arxiv.org/pdf/2505.10822",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4400100399",
@@ -72,14 +264,42 @@
       "year": 2024,
       "venue": "Journal of Spatial Information Science",
       "doi": "https://doi.org/10.5311/josis.2024.28.383",
-      "openAccessUrl": "https://josis.org/index.php/josis/article/download/383/187"
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/383/187",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        },
+        {
+          "name": "Somayeh Dodge",
+          "orcidId": "0000-0003-0335-3576",
+          "openAlexId": "https://openalex.org/A5064138235",
+          "position": 2
+        },
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4399428974",
       "title": "Big data",
       "year": 2024,
       "doi": "https://doi.org/10.4324/9780429265853-78",
-      "openAccessUrl": "https://doi.org/10.4324/9780429265853-78"
+      "openAccessUrl": "https://doi.org/10.4324/9780429265853-78",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393023625",
@@ -87,14 +307,53 @@
       "year": 2024,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2403.11025",
-      "openAccessUrl": "https://arxiv.org/pdf/2403.11025"
+      "openAccessUrl": "https://arxiv.org/pdf/2403.11025",
+      "authors": [
+        {
+          "name": "Jonathan Dunn",
+          "orcidId": "0000-0002-1189-1908",
+          "openAlexId": "https://openalex.org/A5063420865",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Harish Tayyar Madabushi",
+          "orcidId": "0000-0001-5260-3653",
+          "openAlexId": "https://openalex.org/A5070941491",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4387005217",
       "title": "LivePublication: The Science Workflow Creates and Updates the Publication",
       "year": 2023,
       "doi": "https://doi.org/10.1109/e-science58273.2023.10254857",
-      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857"
+      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4387076226",
@@ -102,7 +361,33 @@
       "year": 2023,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2309.14026",
-      "openAccessUrl": "https://arxiv.org/pdf/2309.14026"
+      "openAccessUrl": "https://arxiv.org/pdf/2309.14026",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        },
+        {
+          "name": "Sachin Kinge",
+          "orcidId": "0000-0002-9149-7440",
+          "openAlexId": "https://openalex.org/A5030738749",
+          "position": 2
+        },
+        {
+          "name": "Kai Bongs",
+          "orcidId": "0000-0002-7334-1848",
+          "openAlexId": "https://openalex.org/A5019194050",
+          "position": 3
+        },
+        {
+          "name": "Yu-Hung Lien",
+          "orcidId": "0000-0001-6303-1523",
+          "openAlexId": "https://openalex.org/A5043385985",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4386081327",
@@ -110,7 +395,33 @@
       "year": 2023,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2308.10370",
-      "openAccessUrl": "https://arxiv.org/pdf/2308.10370"
+      "openAccessUrl": "https://arxiv.org/pdf/2308.10370",
+      "authors": [
+        {
+          "name": "Sidney Wong",
+          "orcidId": "0000-0002-8483-0540",
+          "openAlexId": "https://openalex.org/A5103157160",
+          "position": 1
+        },
+        {
+          "name": "Matthew Durward",
+          "orcidId": "0000-0002-1131-8132",
+          "openAlexId": "https://openalex.org/A5068216330",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        },
+        {
+          "name": "Jonathan Dunn",
+          "orcidId": "0000-0002-1189-1908",
+          "openAlexId": "https://openalex.org/A5063420865",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4382776333",
@@ -118,7 +429,27 @@
       "year": 2023,
       "venue": "Journal of Spatial Information Science",
       "doi": "https://doi.org/10.5311/josis.2023.26.305",
-      "openAccessUrl": "https://josis.org/index.php/josis/article/download/305/178"
+      "openAccessUrl": "https://josis.org/index.php/josis/article/download/305/178",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        },
+        {
+          "name": "Somayeh Dodge",
+          "orcidId": "0000-0003-0335-3576",
+          "openAlexId": "https://openalex.org/A5064138235",
+          "position": 2
+        },
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4321503102",
@@ -126,7 +457,21 @@
       "year": 2023,
       "venue": "Children and Youth Services Review",
       "doi": "https://doi.org/10.1016/j.childyouth.2023.106883",
-      "openAccessUrl": "https://doi.org/10.1016/j.childyouth.2023.106883"
+      "openAccessUrl": "https://doi.org/10.1016/j.childyouth.2023.106883",
+      "authors": [
+        {
+          "name": "D. Michael Applegarth",
+          "orcidId": "0000-0002-7513-3081",
+          "openAlexId": "https://openalex.org/A5072818376",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4311487515",
@@ -134,7 +479,26 @@
       "year": 2022,
       "venue": "Ubiquity Press eBooks",
       "doi": "https://doi.org/10.5334/bcs.c",
-      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.c/download/5953/"
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.c/download/5953/",
+      "authors": [
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 1
+        },
+        {
+          "name": "Olga Koblet",
+          "openAlexId": "https://openalex.org/A5109592843",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4311428163",
@@ -142,7 +506,26 @@
       "year": 2022,
       "venue": "Ubiquity Press eBooks",
       "doi": "https://doi.org/10.5334/bcs.d",
-      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.d/download/5954/"
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.d/download/5954/",
+      "authors": [
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 1
+        },
+        {
+          "name": "Olga Koblet",
+          "openAlexId": "https://openalex.org/A5109592843",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4311469668",
@@ -150,7 +533,26 @@
       "year": 2022,
       "venue": "Ubiquity Press eBooks",
       "doi": "https://doi.org/10.5334/bcs.l",
-      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.l/download/5962/"
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.l/download/5962/",
+      "authors": [
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 1
+        },
+        {
+          "name": "Olga Koblet",
+          "openAlexId": "https://openalex.org/A5109592843",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4311428216",
@@ -158,7 +560,60 @@
       "year": 2022,
       "venue": "Ubiquity Press eBooks",
       "doi": "https://doi.org/10.5334/bcs.b",
-      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.b/download/5952/"
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.b/download/5952/",
+      "authors": [
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 1
+        },
+        {
+          "name": "Olga Koblet",
+          "openAlexId": "https://openalex.org/A5109592843",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        },
+        {
+          "name": "Katrín Anna Lund",
+          "orcidId": "0000-0003-1151-5328",
+          "openAlexId": "https://openalex.org/A5034970120",
+          "position": 4
+        },
+        {
+          "name": "Karen Jones",
+          "orcidId": "0000-0002-4787-6830",
+          "openAlexId": "https://openalex.org/A5067641693",
+          "position": 5
+        },
+        {
+          "name": "Sarah Luria",
+          "openAlexId": "https://openalex.org/A5108617271",
+          "position": 6
+        },
+        {
+          "name": "Flurina M. Wartmann",
+          "orcidId": "0000-0003-4788-2963",
+          "openAlexId": "https://openalex.org/A5083138519",
+          "position": 7
+        },
+        {
+          "name": "Graham Fairclough",
+          "openAlexId": "https://openalex.org/A5086027509",
+          "position": 8
+        },
+        {
+          "name": "Gabriel Viehhauser",
+          "orcidId": "0000-0001-6372-0337",
+          "openAlexId": "https://openalex.org/A5044518088",
+          "position": 9
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4311469605",
@@ -166,7 +621,21 @@
       "year": 2022,
       "venue": "Ubiquity Press eBooks",
       "doi": "https://doi.org/10.5334/bcs.h",
-      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.h/download/5958/"
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.h/download/5958/",
+      "authors": [
+        {
+          "name": "Joanna E. Taylor",
+          "orcidId": "0000-0001-8597-0097",
+          "openAlexId": "https://openalex.org/A5011578133",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4311487508",
@@ -174,7 +643,26 @@
       "year": 2022,
       "venue": "Ubiquity Press eBooks",
       "doi": "https://doi.org/10.5334/bcs.a",
-      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.a/download/5951/"
+      "openAccessUrl": "https://ubiquitypress.com/site/chapters/10.5334/bcs.a/download/5951/",
+      "authors": [
+        {
+          "name": "Ross S. Purves",
+          "orcidId": "0000-0002-9878-9243",
+          "openAlexId": "https://openalex.org/A5048171501",
+          "position": 1
+        },
+        {
+          "name": "Olga Koblet",
+          "openAlexId": "https://openalex.org/A5109592843",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4306655056",
@@ -182,14 +670,77 @@
       "year": 2022,
       "venue": "Atmospheric measurement techniques",
       "doi": "https://doi.org/10.5194/amt-15-5681-2022",
-      "openAccessUrl": "https://amt.copernicus.org/articles/15/5681/2022/amt-15-5681-2022.pdf"
+      "openAccessUrl": "https://amt.copernicus.org/articles/15/5681/2022/amt-15-5681-2022.pdf",
+      "authors": [
+        {
+          "name": "Benjamin Schumacher",
+          "orcidId": "0000-0002-5572-9507",
+          "openAlexId": "https://openalex.org/A5083269048",
+          "position": 1
+        },
+        {
+          "name": "Marwan Katurji",
+          "orcidId": "0000-0002-3368-1469",
+          "openAlexId": "https://openalex.org/A5024773574",
+          "position": 2
+        },
+        {
+          "name": "Jiawei Zhang",
+          "orcidId": "0000-0001-7505-8870",
+          "openAlexId": "https://openalex.org/A5006000770",
+          "position": 3
+        },
+        {
+          "name": "Peyman Zawar‐Reza",
+          "orcidId": "0000-0002-6120-3317",
+          "openAlexId": "https://openalex.org/A5069004530",
+          "position": 4
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 5
+        },
+        {
+          "name": "Matthias Zeeman",
+          "orcidId": "0000-0001-9186-2519",
+          "openAlexId": "https://openalex.org/A5076867099",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4312933824",
       "title": "Enabling LivePublication",
       "year": 2022,
       "doi": "https://doi.org/10.1109/escience55777.2022.00067",
-      "openAccessUrl": "https://zenodo.org/record/7145478"
+      "openAccessUrl": "https://zenodo.org/record/7145478",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 3
+        },
+        {
+          "name": "Lukas Trombach",
+          "orcidId": "0000-0001-5316-9967",
+          "openAlexId": "https://openalex.org/A5001114303",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4294816704",
@@ -197,14 +748,64 @@
       "year": 2022,
       "venue": "Medicine & Science in Sports & Exercise",
       "doi": "https://doi.org/10.1249/01.mss.0000883064.82793.53",
-      "openAccessUrl": "https://doi.org/10.1249/01.mss.0000883064.82793.53"
+      "openAccessUrl": "https://doi.org/10.1249/01.mss.0000883064.82793.53",
+      "authors": [
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 1
+        },
+        {
+          "name": "Kathryn L. Taylor",
+          "orcidId": "0000-0001-7351-0413",
+          "openAlexId": "https://openalex.org/A5014691329",
+          "position": 2
+        },
+        {
+          "name": "Melissa Richardson",
+          "openAlexId": "https://openalex.org/A5000674207",
+          "position": 3
+        },
+        {
+          "name": "Richard B. Westrick",
+          "orcidId": "0000-0001-5582-8567",
+          "openAlexId": "https://openalex.org/A5048870461",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4281787754",
       "title": "A Geospatial Cost Comparison of CO2 Plume Geothermal (CPG) Power and Geologic CO2 Storage",
       "year": 2022,
       "doi": "https://doi.org/10.31224/2381",
-      "openAccessUrl": "https://doi.org/10.31224/2381"
+      "openAccessUrl": "https://doi.org/10.31224/2381",
+      "authors": [
+        {
+          "name": "Jonathan Ogland-Hand",
+          "orcidId": "0000-0002-3253-2576",
+          "openAlexId": "https://openalex.org/A5016289214",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Jeffrey W. Bennett",
+          "openAlexId": "https://openalex.org/A5109204605",
+          "position": 3
+        },
+        {
+          "name": "Richard H. Middleton",
+          "orcidId": "0000-0001-9885-8803",
+          "openAlexId": "https://openalex.org/A5024431633",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4313143308",
@@ -212,7 +813,33 @@
       "year": 2022,
       "venue": "SSRN Electronic Journal",
       "doi": "https://doi.org/10.2139/ssrn.4275136",
-      "openAccessUrl": "https://doi.org/10.2139/ssrn.4275136"
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.4275136",
+      "authors": [
+        {
+          "name": "Jonathan Ogland-Hand",
+          "orcidId": "0000-0002-3253-2576",
+          "openAlexId": "https://openalex.org/A5016289214",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Jeffrey A. Bennett",
+          "orcidId": "0000-0002-2426-7071",
+          "openAlexId": "https://openalex.org/A5009993647",
+          "position": 3
+        },
+        {
+          "name": "Richard S. Middleton",
+          "orcidId": "0000-0002-8039-6601",
+          "openAlexId": "https://openalex.org/A5029643733",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4386081449",
@@ -220,21 +847,117 @@
       "year": 2022,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.6084/m9.figshare.20686324.v1",
-      "openAccessUrl": "https://arxiv.org/pdf/2308.10452"
+      "openAccessUrl": "https://arxiv.org/pdf/2308.10452",
+      "authors": [
+        {
+          "name": "Sidney Wong",
+          "orcidId": "0000-0002-8483-0540",
+          "openAlexId": "https://openalex.org/A5103157160",
+          "position": 1
+        },
+        {
+          "name": "Jonathan Dunn",
+          "orcidId": "0000-0002-1189-1908",
+          "openAlexId": "https://openalex.org/A5063420865",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4200314743",
       "title": "Comment on amt-2021-335",
       "year": 2021,
       "doi": "https://doi.org/10.5194/amt-2021-335-rc1",
-      "openAccessUrl": "https://doi.org/10.5194/amt-2021-335-rc1"
+      "openAccessUrl": "https://doi.org/10.5194/amt-2021-335-rc1",
+      "authors": [
+        {
+          "name": "Benjamin Schumacher",
+          "orcidId": "0000-0002-5572-9507",
+          "openAlexId": "https://openalex.org/A5083269048",
+          "position": 1
+        },
+        {
+          "name": "Marwan Katurji",
+          "orcidId": "0000-0002-3368-1469",
+          "openAlexId": "https://openalex.org/A5024773574",
+          "position": 2
+        },
+        {
+          "name": "Jiawei Zhang",
+          "orcidId": "0000-0001-7505-8870",
+          "openAlexId": "https://openalex.org/A5006000770",
+          "position": 3
+        },
+        {
+          "name": "Peyman Zawar‐Reza",
+          "orcidId": "0000-0002-6120-3317",
+          "openAlexId": "https://openalex.org/A5069004530",
+          "position": 4
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 5
+        },
+        {
+          "name": "Matthias Zeeman",
+          "orcidId": "0000-0001-9186-2519",
+          "openAlexId": "https://openalex.org/A5076867099",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4200051021",
       "title": "Adaptive Thermal Image Velocimetry of spatial wind movement on landscapes using near target infrared cameras",
       "year": 2021,
       "doi": "https://doi.org/10.5194/amt-2021-335",
-      "openAccessUrl": "https://doi.org/10.5194/amt-2021-335"
+      "openAccessUrl": "https://doi.org/10.5194/amt-2021-335",
+      "authors": [
+        {
+          "name": "Benjamin Schumacher",
+          "orcidId": "0000-0002-5572-9507",
+          "openAlexId": "https://openalex.org/A5083269048",
+          "position": 1
+        },
+        {
+          "name": "Marwan Katurji",
+          "orcidId": "0000-0002-3368-1469",
+          "openAlexId": "https://openalex.org/A5024773574",
+          "position": 2
+        },
+        {
+          "name": "Jiawei Zhang",
+          "orcidId": "0000-0001-7505-8870",
+          "openAlexId": "https://openalex.org/A5006000770",
+          "position": 3
+        },
+        {
+          "name": "Peyman Zawar‐Reza",
+          "orcidId": "0000-0002-6120-3317",
+          "openAlexId": "https://openalex.org/A5069004530",
+          "position": 4
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 5
+        },
+        {
+          "name": "Matthias Zeeman",
+          "orcidId": "0000-0001-9186-2519",
+          "openAlexId": "https://openalex.org/A5076867099",
+          "position": 6
+        }
+      ]
     }
   ]
 }

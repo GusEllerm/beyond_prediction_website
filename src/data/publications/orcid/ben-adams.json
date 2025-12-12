@@ -9,49 +9,98 @@
       "year": 2025,
       "venue": "Ledger",
       "doi": "10.5195/ledger.2025.406",
-      "openAccessUrl": "https://doi.org/10.5195/ledger.2025.406"
+      "openAccessUrl": "https://doi.org/10.5195/ledger.2025.406",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/124681989",
       "title": "Analysing Environmental Narratives Computationally",
       "year": 2022,
       "doi": "10.5334/bcs.c",
-      "openAccessUrl": "https://doi.org/10.5334/bcs.c"
+      "openAccessUrl": "https://doi.org/10.5334/bcs.c",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/124681988",
       "title": "Interdisciplinary Perspectives on Environmental Narratives",
       "year": 2022,
       "doi": "10.5334/bcs.b",
-      "openAccessUrl": "https://doi.org/10.5334/bcs.b"
+      "openAccessUrl": "https://doi.org/10.5334/bcs.b",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/124681987",
       "title": "Introduction",
       "year": 2022,
       "doi": "10.5334/bcs.a",
-      "openAccessUrl": "https://doi.org/10.5334/bcs.a"
+      "openAccessUrl": "https://doi.org/10.5334/bcs.a",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/124681991",
       "title": "Showing the Potential of Computational Analysis to Support Environmental Narrative Research",
       "year": 2022,
       "doi": "10.5334/bcs.d",
-      "openAccessUrl": "https://doi.org/10.5334/bcs.d"
+      "openAccessUrl": "https://doi.org/10.5334/bcs.d",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/124681995",
       "title": "Surveying the Terrain and Looking Forward",
       "year": 2022,
       "doi": "10.5334/bcs.l",
-      "openAccessUrl": "https://doi.org/10.5334/bcs.l"
+      "openAccessUrl": "https://doi.org/10.5334/bcs.l",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/124681993",
       "title": "The Wild Process: Constructing Multi-Scalar Environmental Narratives",
       "year": 2022,
       "doi": "10.5334/bcs.h",
-      "openAccessUrl": "https://doi.org/10.5334/bcs.h"
+      "openAccessUrl": "https://doi.org/10.5334/bcs.h",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/102084537",
@@ -59,7 +108,14 @@
       "year": 2021,
       "venue": "Digital Scholarship in the Humanities",
       "doi": "10.1093/llc/fqaa049",
-      "openAccessUrl": "https://doi.org/10.1093/llc/fqaa049"
+      "openAccessUrl": "https://doi.org/10.1093/llc/fqaa049",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/103637608",
@@ -67,7 +123,14 @@
       "year": 2021,
       "venue": "Geographic Information Science & Technology Body of Knowledge",
       "doi": "10.22224/gistbok/2021.4.5",
-      "openAccessUrl": "https://doi.org/10.22224/gistbok/2021.4.5"
+      "openAccessUrl": "https://doi.org/10.22224/gistbok/2021.4.5",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/74636927",
@@ -75,7 +138,14 @@
       "year": 2020,
       "venue": "Transactions in GIS",
       "doi": "10.1111/tgis.12660",
-      "openAccessUrl": "https://doi.org/10.1111/tgis.12660"
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12660",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/57830008",
@@ -83,7 +153,14 @@
       "year": 2019,
       "venue": "Computers, Environment and Urban Systems",
       "doi": "10.1016/j.compenvurbsys.2018.09.005",
-      "openAccessUrl": "https://doi.org/10.1016/j.compenvurbsys.2018.09.005"
+      "openAccessUrl": "https://doi.org/10.1016/j.compenvurbsys.2018.09.005",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/57830007",
@@ -91,7 +168,14 @@
       "year": 2018,
       "venue": "Transactions in GIS",
       "doi": "10.1111/tgis.12317",
-      "openAccessUrl": "https://doi.org/10.1111/tgis.12317"
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12317",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29816023",
@@ -99,7 +183,14 @@
       "year": 2017,
       "venue": "International Journal of Geographical Information Science",
       "doi": "10.1080/13658816.2016.1273357",
-      "openAccessUrl": "https://doi.org/10.1080/13658816.2016.1273357"
+      "openAccessUrl": "https://doi.org/10.1080/13658816.2016.1273357",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815380",
@@ -107,7 +198,14 @@
       "year": 2016,
       "venue": "Semantic Web",
       "doi": "10.3233/sw-150192",
-      "openAccessUrl": "https://doi.org/10.3233/sw-150192"
+      "openAccessUrl": "https://doi.org/10.3233/sw-150192",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815371",
@@ -115,7 +213,14 @@
       "year": 2016,
       "venue": "International Journal of Digital Earth",
       "doi": "10.1080/17538947.2016.1229819",
-      "openAccessUrl": "https://doi.org/10.1080/17538947.2016.1229819"
+      "openAccessUrl": "https://doi.org/10.1080/17538947.2016.1229819",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815370",
@@ -123,7 +228,14 @@
       "year": 2016,
       "venue": "Geographic Information Science",
       "doi": "10.1007/978-3-319-45738-3_16",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_16"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_16",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815501",
@@ -131,7 +243,14 @@
       "year": 2016,
       "venue": "Geographic Information Science",
       "doi": "10.1007/978-3-319-45738-3_18",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_18"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_18",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815420",
@@ -139,7 +258,14 @@
       "year": 2016,
       "venue": "Knowledge Engineering and Knowledge Management",
       "doi": "10.1007/978-3-319-49004-5_23",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-49004-5_23"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-49004-5_23",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815832",
@@ -147,7 +273,14 @@
       "year": 2015,
       "venue": "International Journal of Geographical Information Science",
       "doi": "10.1080/13658816.2014.989855",
-      "openAccessUrl": "https://doi.org/10.1080/13658816.2014.989855"
+      "openAccessUrl": "https://doi.org/10.1080/13658816.2014.989855",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815780",
@@ -155,7 +288,14 @@
       "year": 2015,
       "venue": "Journal of Geographical Systems",
       "doi": "10.1007/s10109-015-0209-3",
-      "openAccessUrl": "https://doi.org/10.1007/s10109-015-0209-3"
+      "openAccessUrl": "https://doi.org/10.1007/s10109-015-0209-3",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815721",
@@ -163,7 +303,14 @@
       "year": 2015,
       "venue": "Proceedings of the 24th International Conference on World Wide Web - WWW '15",
       "doi": "10.1145/2736277.2741137",
-      "openAccessUrl": "https://doi.org/10.1145/2736277.2741137"
+      "openAccessUrl": "https://doi.org/10.1145/2736277.2741137",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815850",
@@ -171,7 +318,14 @@
       "year": 2014,
       "venue": "Cartography and Geographic Information Science",
       "doi": "10.1080/15230406.2014.880327",
-      "openAccessUrl": "https://doi.org/10.1080/15230406.2014.880327"
+      "openAccessUrl": "https://doi.org/10.1080/15230406.2014.880327",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815833",
@@ -179,7 +333,14 @@
       "year": 2014,
       "venue": "Geographic Information Science",
       "doi": "10.1007/978-3-319-11593-1_10",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-11593-1_10"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-11593-1_10",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815854",
@@ -187,7 +348,14 @@
       "year": 2013,
       "venue": "Reasoning Web. Semantic Technologies for Intelligent Data Access",
       "doi": "10.1007/978-3-642-39784-4_6",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39784-4_6"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39784-4_6",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815857",
@@ -195,7 +363,14 @@
       "year": 2013,
       "venue": "Geographic Information Science at the Heart of Europe",
       "doi": "10.1007/978-3-319-00615-4_3",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-00615-4_3"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-00615-4_3",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815851",
@@ -203,7 +378,14 @@
       "year": 2013,
       "venue": "Proceedings of the 21st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems - SIGSPATIAL'13",
       "doi": "10.1145/2525314.2525455",
-      "openAccessUrl": "https://doi.org/10.1145/2525314.2525455"
+      "openAccessUrl": "https://doi.org/10.1145/2525314.2525455",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815941",
@@ -211,7 +393,14 @@
       "year": 2012,
       "venue": "Crowdsourcing Geographic Knowledge",
       "doi": "10.1007/978-94-007-4587-2_12",
-      "openAccessUrl": "https://doi.org/10.1007/978-94-007-4587-2_12"
+      "openAccessUrl": "https://doi.org/10.1007/978-94-007-4587-2_12",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815952",
@@ -219,7 +408,14 @@
       "year": 2011,
       "venue": "Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems - GIS '11",
       "doi": "10.1145/2093973.2094015",
-      "openAccessUrl": "https://doi.org/10.1145/2093973.2094015"
+      "openAccessUrl": "https://doi.org/10.1145/2093973.2094015",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815961",
@@ -227,7 +423,14 @@
       "year": 2010,
       "venue": "Geographic Information Science",
       "doi": "10.1007/978-3-642-15300-6_6",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15300-6_6"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15300-6_6",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815956",
@@ -235,7 +438,14 @@
       "year": 2009,
       "venue": "2009 IEEE International Conference on Semantic Computing",
       "doi": "10.1109/icsc.2009.58",
-      "openAccessUrl": "https://doi.org/10.1109/icsc.2009.58"
+      "openAccessUrl": "https://doi.org/10.1109/icsc.2009.58",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1657-9809/work/29815959",
@@ -243,7 +453,14 @@
       "year": 2009,
       "venue": "Spatial Information Theory",
       "doi": "10.1007/978-3-642-03832-7_4",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-03832-7_4"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-03832-7_4",
+      "authors": [
+        {
+          "name": "Ben Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "position": 1
+        }
+      ]
     }
   ]
 }

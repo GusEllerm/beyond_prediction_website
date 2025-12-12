@@ -3,5 +3,24 @@
   "title": "LivePublication: The Science Workflow Creates and Updates the Publication",
   "year": 2023,
   "doi": "10.1109/e-science58273.2023.10254857",
-  "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857"
+  "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857",
+  "authors": [
+    {
+      "name": "Augustus Ellerm",
+      "openAlexId": "https://openalex.org/A5070970714",
+      "position": 1
+    },
+    {
+      "name": "Mark Gahegan",
+      "orcidId": "0000-0001-7209-8156",
+      "openAlexId": "https://openalex.org/A5069438601",
+      "position": 2
+    },
+    {
+      "name": "Benjamin Adams",
+      "orcidId": "0000-0002-1657-9809",
+      "openAlexId": "https://openalex.org/A5009482088",
+      "position": 3
+    }
+  ]
 }

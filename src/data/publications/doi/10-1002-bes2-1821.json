@@ -4,5 +4,96 @@
   "year": 2021,
   "venue": "Bulletin of the Ecological Society of America",
   "doi": "10.1002/bes2.1821",
-  "openAccessUrl": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.1821"
+  "openAccessUrl": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.1821",
+  "authors": [
+    {
+      "name": "Kasper Hendriks",
+      "orcidId": "0000-0003-0245-8368",
+      "openAlexId": "https://openalex.org/A5005838727",
+      "position": 1
+    },
+    {
+      "name": "Karen Bisschop",
+      "orcidId": "0000-0001-7083-2636",
+      "openAlexId": "https://openalex.org/A5047273443",
+      "position": 2
+    },
+    {
+      "name": "Hylke H. Kortenbosch",
+      "orcidId": "0000-0001-7699-6391",
+      "openAlexId": "https://openalex.org/A5023566008",
+      "position": 3
+    },
+    {
+      "name": "James Kavanagh",
+      "orcidId": "0000-0003-1495-0843",
+      "openAlexId": "https://openalex.org/A5002951845",
+      "position": 4
+    },
+    {
+      "name": "Anaïs Larue",
+      "orcidId": "0000-0002-8064-7749",
+      "openAlexId": "https://openalex.org/A5001025889",
+      "position": 5
+    },
+    {
+      "name": "Phung Chee‐Chean",
+      "openAlexId": "https://openalex.org/A5024524147",
+      "position": 6
+    },
+    {
+      "name": "Dries Bonte",
+      "orcidId": "0000-0002-3320-7505",
+      "openAlexId": "https://openalex.org/A5062898856",
+      "position": 7
+    },
+    {
+      "name": "Elza Duijm",
+      "orcidId": "0000-0002-6383-3419",
+      "openAlexId": "https://openalex.org/A5014029544",
+      "position": 8
+    },
+    {
+      "name": "Joana Falcão Salles",
+      "orcidId": "0000-0003-4317-7263",
+      "openAlexId": "https://openalex.org/A5031022926",
+      "position": 9
+    },
+    {
+      "name": "Alex L. Pigot",
+      "orcidId": "0000-0002-6490-6261",
+      "openAlexId": "https://openalex.org/A5049605271",
+      "position": 10
+    },
+    {
+      "name": "Francisco Richter",
+      "orcidId": "0000-0002-0924-4613",
+      "openAlexId": "https://openalex.org/A5014022266",
+      "position": 11
+    },
+    {
+      "name": "Menno Schilthuizen",
+      "orcidId": "0000-0001-6229-0347",
+      "openAlexId": "https://openalex.org/A5052357934",
+      "position": 12
+    },
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 13
+    },
+    {
+      "name": "Arjen Speksnijder",
+      "orcidId": "0000-0002-1966-7265",
+      "openAlexId": "https://openalex.org/A5051918331",
+      "position": 14
+    },
+    {
+      "name": "Rampal S. Etienne",
+      "orcidId": "0000-0003-2142-7612",
+      "openAlexId": "https://openalex.org/A5056389738",
+      "position": 15
+    }
+  ]
 }

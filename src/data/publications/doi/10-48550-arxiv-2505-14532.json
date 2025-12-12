@@ -4,5 +4,17 @@
   "year": 2025,
   "venue": "arXiv (Cornell University)",
   "doi": "10.48550/arxiv.2505.14532",
-  "openAccessUrl": "https://doi.org/10.48550/arxiv.2505.14532"
+  "openAccessUrl": "https://doi.org/10.48550/arxiv.2505.14532",
+  "authors": [
+    {
+      "name": "Klawitter, Jonathan",
+      "openAlexId": "https://openalex.org/A4221649407",
+      "position": 1
+    },
+    {
+      "name": "Drummond, Alexei J.",
+      "openAlexId": "https://openalex.org/A4304555211",
+      "position": 2
+    }
+  ]
 }

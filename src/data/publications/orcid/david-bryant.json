@@ -9,7 +9,14 @@
       "year": 2025,
       "venue": "Topology and its Applications",
       "doi": "10.1016/j.topol.2025.109545",
-      "openAccessUrl": "https://doi.org/10.1016/j.topol.2025.109545"
+      "openAccessUrl": "https://doi.org/10.1016/j.topol.2025.109545",
+      "authors": [
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-1963-5535/work/168942408",
@@ -17,7 +24,14 @@
       "year": 2024,
       "venue": "Nature Methods",
       "doi": "10.1038/s41592-024-02406-3",
-      "openAccessUrl": "https://doi.org/10.1038/s41592-024-02406-3"
+      "openAccessUrl": "https://doi.org/10.1038/s41592-024-02406-3",
+      "authors": [
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-1963-5535/work/168942405",
@@ -25,7 +39,14 @@
       "year": 2023,
       "venue": "Discrete & Computational Geometry",
       "doi": "10.1007/s00454-023-00493-1",
-      "openAccessUrl": "https://doi.org/10.1007/s00454-023-00493-1"
+      "openAccessUrl": "https://doi.org/10.1007/s00454-023-00493-1",
+      "authors": [
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-1963-5535/work/168942403",
@@ -33,7 +54,14 @@
       "year": 2023,
       "venue": "Journal of Mathematical Biology",
       "doi": "10.1007/s00285-023-01875-y",
-      "openAccessUrl": "https://doi.org/10.1007/s00285-023-01875-y"
+      "openAccessUrl": "https://doi.org/10.1007/s00285-023-01875-y",
+      "authors": [
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-1963-5535/work/168942402",
@@ -41,7 +69,14 @@
       "year": 2021,
       "venue": "The Journal of Geometric Analysis",
       "doi": "10.1007/s12220-019-00321-0",
-      "openAccessUrl": "https://doi.org/10.1007/s12220-019-00321-0"
+      "openAccessUrl": "https://doi.org/10.1007/s12220-019-00321-0",
+      "authors": [
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-1963-5535/work/168942401",
@@ -49,7 +84,14 @@
       "year": 2019,
       "venue": "Algorithmica",
       "doi": "10.1007/s00453-019-00594-5",
-      "openAccessUrl": "https://doi.org/10.1007/s00453-019-00594-5"
+      "openAccessUrl": "https://doi.org/10.1007/s00453-019-00594-5",
+      "authors": [
+        {
+          "name": "David Bryant",
+          "orcidId": "0000-0003-1963-5535",
+          "position": 1
+        }
+      ]
     }
   ]
 }

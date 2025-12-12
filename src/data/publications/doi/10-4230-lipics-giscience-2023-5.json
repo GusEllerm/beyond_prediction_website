@@ -4,5 +4,34 @@
   "year": 2023,
   "venue": "Leibniz-Zentrum für Informatik (Schloss Dagstuhl)",
   "doi": "10.4230/lipics.giscience.2023.5",
-  "openAccessUrl": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.5"
+  "openAccessUrl": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.5",
+  "authors": [
+    {
+      "name": "Jonathan Klawitter",
+      "orcidId": "0000-0001-8917-5269",
+      "openAlexId": "https://openalex.org/A5077181010",
+      "position": 1
+    },
+    {
+      "name": "Felix Klesen",
+      "orcidId": "0000-0003-1136-5673",
+      "openAlexId": "https://openalex.org/A5057428113",
+      "position": 2
+    },
+    {
+      "name": "Joris Y. Scholl",
+      "openAlexId": "https://openalex.org/A5092391951",
+      "position": 3
+    },
+    {
+      "name": "Thomas C. van Dijk",
+      "openAlexId": "https://openalex.org/A5112541439",
+      "position": 4
+    },
+    {
+      "name": "Alexander Zaft",
+      "openAlexId": "https://openalex.org/A5063846644",
+      "position": 5
+    }
+  ]
 }

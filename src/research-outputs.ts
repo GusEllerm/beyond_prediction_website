@@ -12,7 +12,9 @@ import { renderNavbar } from './components/navbar';
 import { renderFooter } from './components/footer';
 import { partners } from './data/partners';
 import { researchProjects } from './data/researchProjects';
+import { allPeople } from './data/people';
 import { createPublicationLookup, getPublicationUrl, type PersonPublication } from './utils/publications';
+import { getPublicationAuthors } from './utils/authorMatching';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
@@ -81,7 +83,8 @@ function getAllPublications(): PublicationWithProject[] {
 function filterPublications(
   publications: PublicationWithProject[],
   selectedYear: number | null,
-  selectedProject: string | null
+  selectedProject: string | null,
+  selectedAuthor: string | null
 ): PublicationWithProject[] {
   let filtered = publications;
 
@@ -91,6 +94,13 @@ function filterPublications(
 
   if (selectedProject !== null) {
     filtered = filtered.filter((pub) => pub.projectSlug === selectedProject);
+  }
+
+  if (selectedAuthor !== null) {
+    filtered = filtered.filter((pub) => {
+      const authors = getPublicationAuthors(pub, allPeople);
+      return authors.some((author) => author.slug === selectedAuthor);
+    });
   }
 
   return filtered;
@@ -125,11 +135,13 @@ function renderResearchOutputsPage(): void {
   const selectedYearParam = urlParams.get('year');
   const selectedYear = selectedYearParam ? parseInt(selectedYearParam, 10) : null;
   const selectedProject = urlParams.get('project');
+  const selectedAuthor = urlParams.get('author');
 
   const filteredPublications = filterPublications(
     allPublications,
     selectedYear,
-    selectedProject
+    selectedProject,
+    selectedAuthor
   );
 
   // Render filter section
@@ -168,6 +180,32 @@ function renderResearchOutputsPage(): void {
     </div>
   `;
 
+  // Get people who have publications
+  const peopleWithPublications = allPeople.filter((person) => {
+    return allPublications.some((pub) => {
+      const authors = getPublicationAuthors(pub, allPeople);
+      return authors.some((author) => author.slug === person.slug);
+    });
+  }).sort((a, b) => a.name.localeCompare(b.name));
+
+  const authorFilterHtml = `
+    <div class="mb-3">
+      <label for="author-filter" class="form-label fw-semibold mb-2">Filter by Author</label>
+      <select id="author-filter" class="form-select">
+        <option value="">All Authors</option>
+        ${peopleWithPublications
+          .map(
+            (person) => `
+          <option value="${person.slug}" ${selectedAuthor === person.slug ? 'selected' : ''}>
+            ${escapeHtml(person.name)}
+          </option>
+        `
+          )
+          .join('')}
+      </select>
+    </div>
+  `;
+
   // Render publications list
   const publicationsHtml =
     filteredPublications.length === 0
@@ -182,6 +220,17 @@ function renderResearchOutputsPage(): void {
             const yearDisplay = pub.year ? ` (${pub.year})` : '';
             const venueDisplay = pub.venue ? ` ${escapeHtml(pub.venue)}` : '';
             const projectUrl = `/project.html?project=${encodeURIComponent(pub.projectSlug)}`;
+            
+            // Get matched authors for this publication
+            const authors = getPublicationAuthors(pub, allPeople);
+            const authorsHtml = authors.length > 0
+              ? `<p class="card-text small mb-2">
+                  <span class="text-muted">Authors:</span>
+                  ${authors.map((author) => 
+                    `<a href="/person.html?person=${encodeURIComponent(author.slug)}" class="text-decoration-none">${escapeHtml(author.name)}</a>`
+                  ).join(', ')}
+                </p>`
+              : '';
 
             return `
           <div class="card mb-3">
@@ -194,6 +243,7 @@ function renderResearchOutputsPage(): void {
               <p class="card-text small text-muted mb-2">
                 ${yearDisplay}${venueDisplay}
               </p>
+              ${authorsHtml}
               <p class="card-text small mb-0">
                 <span class="text-muted">Theme:</span>
                 <a href="${escapeHtml(projectUrl)}" class="text-decoration-none">
@@ -220,6 +270,7 @@ function renderResearchOutputsPage(): void {
             <h2 class="h6 mb-3">Filters</h2>
             ${yearFilterHtml}
             ${projectFilterHtml}
+            ${authorFilterHtml}
             <button id="clear-filters" class="btn btn-outline-secondary btn-sm w-100">
               Clear Filters
             </button>
@@ -245,6 +296,7 @@ function renderResearchOutputsPage(): void {
   // Set up filter event listeners
   const yearFilter = document.getElementById('year-filter') as HTMLSelectElement;
   const projectFilter = document.getElementById('project-filter') as HTMLSelectElement;
+  const authorFilter = document.getElementById('author-filter') as HTMLSelectElement;
   const clearFiltersBtn = document.getElementById('clear-filters') as HTMLButtonElement;
 
   if (yearFilter) {
@@ -259,6 +311,12 @@ function renderResearchOutputsPage(): void {
     });
   }
 
+  if (authorFilter) {
+    authorFilter.addEventListener('change', () => {
+      updateFilters();
+    });
+  }
+
   if (clearFiltersBtn) {
     clearFiltersBtn.addEventListener('click', () => {
       window.location.href = '/research-outputs.html';
@@ -269,12 +327,16 @@ function renderResearchOutputsPage(): void {
     const params = new URLSearchParams();
     const year = yearFilter?.value;
     const project = projectFilter?.value;
+    const author = authorFilter?.value;
 
     if (year) {
       params.set('year', year);
     }
     if (project) {
       params.set('project', project);
+    }
+    if (author) {
+      params.set('author', author);
     }
 
     const newUrl = params.toString()

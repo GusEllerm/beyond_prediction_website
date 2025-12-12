@@ -9,7 +9,14 @@
       "year": 2021,
       "venue": "Sensors",
       "doi": "10.3390/s21217352",
-      "openAccessUrl": "https://doi.org/10.3390/s21217352"
+      "openAccessUrl": "https://doi.org/10.3390/s21217352",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/99129982",
@@ -17,7 +24,14 @@
       "year": 2020,
       "venue": "Transactions in GIS",
       "doi": "10.1111/tgis.12660",
-      "openAccessUrl": "https://doi.org/10.1111/tgis.12660"
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12660",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/99129983",
@@ -25,7 +39,14 @@
       "year": 2020,
       "venue": "Geographic Information Science & Technology Body of Knowledge",
       "doi": "10.22224/gistbok/2020.3.8",
-      "openAccessUrl": "https://doi.org/10.22224/gistbok/2020.3.8"
+      "openAccessUrl": "https://doi.org/10.22224/gistbok/2020.3.8",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/99129981",
@@ -33,7 +54,14 @@
       "year": 2020,
       "venue": "Transactions in GIS",
       "doi": "10.1111/tgis.12602",
-      "openAccessUrl": "https://doi.org/10.1111/tgis.12602"
+      "openAccessUrl": "https://doi.org/10.1111/tgis.12602",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771466",
@@ -41,7 +69,14 @@
       "year": 2020,
       "venue": "Journal of Spatial Information Science",
       "doi": "10.5311/josis.2020.21.728",
-      "openAccessUrl": "https://doi.org/10.5311/josis.2020.21.728"
+      "openAccessUrl": "https://doi.org/10.5311/josis.2020.21.728",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771515",
@@ -49,7 +84,14 @@
       "year": 2019,
       "venue": "Geographical Review",
       "doi": "10.1111/j.1931-0846.2007.tb00509.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1931-0846.2007.tb00509.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1931-0846.2007.tb00509.x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771647",
@@ -57,7 +99,14 @@
       "year": 2019,
       "venue": "International Journal of Geographical Information Science",
       "doi": "10.1080/13658816.2019.1652304",
-      "openAccessUrl": "https://doi.org/10.1080/13658816.2019.1652304"
+      "openAccessUrl": "https://doi.org/10.1080/13658816.2019.1652304",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771629",
@@ -65,7 +114,14 @@
       "year": 2018,
       "venue": "Semantic Web",
       "doi": "10.3233/sw-170281",
-      "openAccessUrl": "https://doi.org/10.3233/sw-170281"
+      "openAccessUrl": "https://doi.org/10.3233/sw-170281",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771481",
@@ -73,7 +129,14 @@
       "year": 2017,
       "venue": "International Encyclopedia of Geography: People, the Earth, Environment and Technology",
       "doi": "10.1002/9781118786352.wbieg0625",
-      "openAccessUrl": "https://doi.org/10.1002/9781118786352.wbieg0625"
+      "openAccessUrl": "https://doi.org/10.1002/9781118786352.wbieg0625",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771520",
@@ -81,7 +144,14 @@
       "year": 2017,
       "venue": "The Canadian Geographer / Le Géographe canadien",
       "doi": "10.1111/cag.12434",
-      "openAccessUrl": "https://doi.org/10.1111/cag.12434"
+      "openAccessUrl": "https://doi.org/10.1111/cag.12434",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771502",
@@ -89,7 +159,14 @@
       "year": 2016,
       "venue": "Geographic Information Science",
       "doi": "10.1007/978-3-319-45738-3_16",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_16"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-45738-3_16",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771494",
@@ -97,7 +174,14 @@
       "year": 2016,
       "venue": "Semantic Web",
       "doi": "10.3233/sw-150187",
-      "openAccessUrl": "https://doi.org/10.3233/sw-150187"
+      "openAccessUrl": "https://doi.org/10.3233/sw-150187",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771519",
@@ -105,7 +189,14 @@
       "year": 2016,
       "venue": "Semantic Web",
       "doi": "10.3233/sw-160214",
-      "openAccessUrl": "https://doi.org/10.3233/sw-160214"
+      "openAccessUrl": "https://doi.org/10.3233/sw-160214",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771548",
@@ -113,7 +204,14 @@
       "year": 2015,
       "venue": "2015 IEEE 11th International Conference on e-Science",
       "doi": "10.1109/escience.2015.35",
-      "openAccessUrl": "https://doi.org/10.1109/escience.2015.35"
+      "openAccessUrl": "https://doi.org/10.1109/escience.2015.35",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771549",
@@ -121,7 +219,14 @@
       "year": 2015,
       "venue": "Proceedings of the 24th International Conference on World Wide Web",
       "doi": "10.1145/2736277.2741137",
-      "openAccessUrl": "https://doi.org/10.1145/2736277.2741137"
+      "openAccessUrl": "https://doi.org/10.1145/2736277.2741137",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771509",
@@ -129,7 +234,14 @@
       "year": 2014,
       "venue": "2014 IEEE 10th International Conference on e-Science",
       "doi": "10.1109/escience.2014.37",
-      "openAccessUrl": "https://doi.org/10.1109/escience.2014.37"
+      "openAccessUrl": "https://doi.org/10.1109/escience.2014.37",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771497",
@@ -137,7 +249,14 @@
       "year": 2014,
       "venue": "2014 IEEE 10th International Conference on e-Science",
       "doi": "10.1109/escience.2014.20",
-      "openAccessUrl": "https://doi.org/10.1109/escience.2014.20"
+      "openAccessUrl": "https://doi.org/10.1109/escience.2014.20",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771474",
@@ -145,7 +264,14 @@
       "year": 2014,
       "venue": "GeoComputation, Second Edition",
       "doi": "10.1201/b17091-6",
-      "openAccessUrl": "https://doi.org/10.1201/b17091-6"
+      "openAccessUrl": "https://doi.org/10.1201/b17091-6",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771576",
@@ -153,7 +279,14 @@
       "year": 2014,
       "venue": "Geographic Information Science",
       "doi": "10.1007/978-3-319-11593-1_10",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-11593-1_10"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-11593-1_10",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771660",
@@ -161,7 +294,14 @@
       "year": 2013,
       "venue": "Trends in Ecology &amp; Evolution",
       "doi": "10.1016/j.tree.2013.05.002",
-      "openAccessUrl": "https://doi.org/10.1016/j.tree.2013.05.002"
+      "openAccessUrl": "https://doi.org/10.1016/j.tree.2013.05.002",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771728",
@@ -169,7 +309,14 @@
       "year": 2012,
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "doi": "10.1109/tvcg.2012.279",
-      "openAccessUrl": "https://doi.org/10.1109/tvcg.2012.279"
+      "openAccessUrl": "https://doi.org/10.1109/tvcg.2012.279",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771657",
@@ -177,7 +324,14 @@
       "year": 2011,
       "venue": "Spatial Computing: Issues in Vision, Multimedia and Visualization Technologies",
       "doi": "10.1142/9789812797711_0011",
-      "openAccessUrl": "https://doi.org/10.1142/9789812797711_0011"
+      "openAccessUrl": "https://doi.org/10.1142/9789812797711_0011",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771775",
@@ -185,7 +339,14 @@
       "year": 2011,
       "venue": "International Journal of Pattern Recognition and Artificial Intelligence",
       "doi": "10.1142/s0218001497000111",
-      "openAccessUrl": "https://doi.org/10.1142/s0218001497000111"
+      "openAccessUrl": "https://doi.org/10.1142/s0218001497000111",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771759",
@@ -193,7 +354,14 @@
       "year": 2011,
       "venue": "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Spatial Semantics and Ontologies - SSO '11",
       "doi": "10.1145/2068976.2068977",
-      "openAccessUrl": "https://doi.org/10.1145/2068976.2068977"
+      "openAccessUrl": "https://doi.org/10.1145/2068976.2068977",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771483",
@@ -201,7 +369,14 @@
       "year": 2010,
       "venue": "Geographical Analysis",
       "doi": "10.1111/j.1538-4632.2000.tb00420.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1538-4632.2000.tb00420.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1538-4632.2000.tb00420.x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771612",
@@ -209,7 +384,14 @@
       "year": 2010,
       "venue": "Computers, Environment and Urban Systems",
       "doi": "10.1016/j.compenvurbsys.2010.04.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.compenvurbsys.2010.04.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.compenvurbsys.2010.04.001",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771562",
@@ -217,7 +399,14 @@
       "year": 2010,
       "venue": "Transactions in GIS",
       "doi": "10.1111/j.1467-9671.2010.01191.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2010.01191.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2010.01191.x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771479",
@@ -225,7 +414,14 @@
       "year": 2010,
       "venue": "Semantic Web",
       "doi": "10.3233/sw-2010-0021",
-      "openAccessUrl": "https://doi.org/10.3233/sw-2010-0021"
+      "openAccessUrl": "https://doi.org/10.3233/sw-2010-0021",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771582",
@@ -233,7 +429,14 @@
       "year": 2009,
       "venue": "Sustainable Communities on a Sustainable Planet",
       "doi": "10.1017/cbo9780511635694.002",
-      "openAccessUrl": "https://doi.org/10.1017/cbo9780511635694.002"
+      "openAccessUrl": "https://doi.org/10.1017/cbo9780511635694.002",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771714",
@@ -241,7 +444,14 @@
       "year": 2009,
       "venue": "Computers &amp; Geosciences",
       "doi": "10.1016/j.cageo.2008.09.006",
-      "openAccessUrl": "https://doi.org/10.1016/j.cageo.2008.09.006"
+      "openAccessUrl": "https://doi.org/10.1016/j.cageo.2008.09.006",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771527",
@@ -249,7 +459,14 @@
       "year": 2009,
       "venue": "E-Learning for Geographers",
       "doi": "10.4018/978-1-59904-980-9.ch010",
-      "openAccessUrl": "https://doi.org/10.4018/978-1-59904-980-9.ch010"
+      "openAccessUrl": "https://doi.org/10.4018/978-1-59904-980-9.ch010",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771477",
@@ -257,7 +474,14 @@
       "year": 2009,
       "venue": "A Research Agenda for Geographic Information Science",
       "doi": "10.1201/9781420038330.ch11",
-      "openAccessUrl": "https://doi.org/10.1201/9781420038330.ch11"
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330.ch11",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771517",
@@ -265,7 +489,14 @@
       "year": 2009,
       "venue": "A Research Agenda for Geographic Information Science",
       "doi": "10.1201/9781420038330.ch14",
-      "openAccessUrl": "https://doi.org/10.1201/9781420038330.ch14"
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330.ch14",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771655",
@@ -273,7 +504,14 @@
       "year": 2009,
       "venue": "Geographic Data Mining and Knowledge Discovery, Second Edition",
       "doi": "10.1201/9781420073980.ch11",
-      "openAccessUrl": "https://doi.org/10.1201/9781420073980.ch11"
+      "openAccessUrl": "https://doi.org/10.1201/9781420073980.ch11",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771789",
@@ -281,7 +519,14 @@
       "year": 2008,
       "venue": "Transactions in GIS",
       "doi": "10.1111/j.1467-9671.2008.01124.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2008.01124.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2008.01124.x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771579",
@@ -289,7 +534,14 @@
       "year": 2007,
       "venue": "International Journal of Human-Computer Studies",
       "doi": "10.1016/j.ijhcs.2007.03.002",
-      "openAccessUrl": "https://doi.org/10.1016/j.ijhcs.2007.03.002"
+      "openAccessUrl": "https://doi.org/10.1016/j.ijhcs.2007.03.002",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771591",
@@ -297,7 +549,14 @@
       "year": 2007,
       "venue": "Spatial Cognition &amp; Computation",
       "doi": "10.1080/13875860701337934",
-      "openAccessUrl": "https://doi.org/10.1080/13875860701337934"
+      "openAccessUrl": "https://doi.org/10.1080/13875860701337934",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771525",
@@ -305,7 +564,14 @@
       "year": 2006,
       "venue": "Transactions in GIS",
       "doi": "10.1111/j.1467-9671.2006.01025.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2006.01025.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.2006.01025.x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771624",
@@ -313,7 +579,14 @@
       "year": 2006,
       "venue": "Journal of Intelligent Information Systems",
       "doi": "10.1007/s10844-006-9952-8",
-      "openAccessUrl": "https://doi.org/10.1007/s10844-006-9952-8"
+      "openAccessUrl": "https://doi.org/10.1007/s10844-006-9952-8",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771638",
@@ -321,7 +594,14 @@
       "year": 2006,
       "venue": "Science",
       "doi": "10.1126/science.1121556",
-      "openAccessUrl": "https://doi.org/10.1126/science.1121556"
+      "openAccessUrl": "https://doi.org/10.1126/science.1121556",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771472",
@@ -329,7 +609,14 @@
       "year": 2006,
       "venue": "Geoinformatics: Data to Knowledge",
       "doi": "10.1130/2006.2397(01)",
-      "openAccessUrl": "https://doi.org/10.1130/2006.2397(01)"
+      "openAccessUrl": "https://doi.org/10.1130/2006.2397(01)",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771665",
@@ -337,7 +624,14 @@
       "year": 2005,
       "venue": "Lecture Notes in Computer Science",
       "doi": "10.1007/3-540-63623-4_69",
-      "openAccessUrl": "https://doi.org/10.1007/3-540-63623-4_69"
+      "openAccessUrl": "https://doi.org/10.1007/3-540-63623-4_69",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771551",
@@ -345,7 +639,14 @@
       "year": 2005,
       "venue": "Geographical Analysis",
       "doi": "10.1111/j.1538-4632.2005.00617.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1538-4632.2005.00617.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1538-4632.2005.00617.x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771581",
@@ -353,7 +654,14 @@
       "year": 2005,
       "venue": "Lecture Notes in Computer Science",
       "doi": "10.1007/3-540-60392-1_3",
-      "openAccessUrl": "https://doi.org/10.1007/3-540-60392-1_3"
+      "openAccessUrl": "https://doi.org/10.1007/3-540-60392-1_3",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771662",
@@ -361,7 +669,14 @@
       "year": 2005,
       "venue": "SPIE Proceedings",
       "doi": "10.1117/12.587254",
-      "openAccessUrl": "https://doi.org/10.1117/12.587254"
+      "openAccessUrl": "https://doi.org/10.1117/12.587254",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771791",
@@ -369,7 +684,14 @@
       "year": 2005,
       "venue": "Environment: Science and Policy for Sustainable Development",
       "doi": "10.3200/envt.47.2.8-21",
-      "openAccessUrl": "https://doi.org/10.3200/envt.47.2.8-21"
+      "openAccessUrl": "https://doi.org/10.3200/envt.47.2.8-21",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771796",
@@ -377,7 +699,14 @@
       "year": 2005,
       "venue": "Cartography and Geographic Information Science",
       "doi": "10.1559/1523040053722150",
-      "openAccessUrl": "https://doi.org/10.1559/1523040053722150"
+      "openAccessUrl": "https://doi.org/10.1559/1523040053722150",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771451",
@@ -385,7 +714,14 @@
       "year": 2005,
       "venue": "Exploring Geovisualization",
       "doi": "10.1016/b978-008044531-1/50422-x",
-      "openAccessUrl": "https://doi.org/10.1016/b978-008044531-1/50422-x"
+      "openAccessUrl": "https://doi.org/10.1016/b978-008044531-1/50422-x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771566",
@@ -393,7 +729,14 @@
       "year": 2005,
       "venue": "Exploring Geovisualization",
       "doi": "10.1016/b978-008044531-1/50423-1",
-      "openAccessUrl": "https://doi.org/10.1016/b978-008044531-1/50423-1"
+      "openAccessUrl": "https://doi.org/10.1016/b978-008044531-1/50423-1",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771572",
@@ -401,7 +744,14 @@
       "year": 2005,
       "venue": "Photogrammetric Engineering &amp; Remote Sensing",
       "doi": "10.14358/pers.71.12.1365",
-      "openAccessUrl": "https://doi.org/10.14358/pers.71.12.1365"
+      "openAccessUrl": "https://doi.org/10.14358/pers.71.12.1365",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771498",
@@ -409,7 +759,14 @@
       "year": 2004,
       "venue": "A Research Agenda for Geographic Information Science",
       "doi": "10.1201/9781420038330-11",
-      "openAccessUrl": "https://doi.org/10.1201/9781420038330-11"
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330-11",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771631",
@@ -417,7 +774,14 @@
       "year": 2004,
       "venue": "A Research Agenda for Geographic Information Science",
       "doi": "10.1201/9781420038330-14",
-      "openAccessUrl": "https://doi.org/10.1201/9781420038330-14"
+      "openAccessUrl": "https://doi.org/10.1201/9781420038330-14",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771615",
@@ -425,7 +789,14 @@
       "year": 2004,
       "venue": "Computers &amp; Geosciences",
       "doi": "10.1016/j.cageo.2004.05.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.cageo.2004.05.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.cageo.2004.05.001",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771669",
@@ -433,7 +804,14 @@
       "year": 2004,
       "venue": "Proceedings of the National Academy of Sciences",
       "doi": "10.1073/pnas.0307755101",
-      "openAccessUrl": "https://doi.org/10.1073/pnas.0307755101"
+      "openAccessUrl": "https://doi.org/10.1073/pnas.0307755101",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771659",
@@ -441,7 +819,14 @@
       "year": 2004,
       "venue": "IEEE Computer Graphics and Applications",
       "doi": "10.1109/mcg.2004.1255801",
-      "openAccessUrl": "https://doi.org/10.1109/mcg.2004.1255801"
+      "openAccessUrl": "https://doi.org/10.1109/mcg.2004.1255801",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771506",
@@ -449,7 +834,14 @@
       "year": 2003,
       "venue": "International Journal of Geographical Information Science",
       "doi": "10.1080/713811740",
-      "openAccessUrl": "https://doi.org/10.1080/713811740"
+      "openAccessUrl": "https://doi.org/10.1080/713811740",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771797",
@@ -457,7 +849,14 @@
       "year": 2003,
       "venue": "International Journal of Geographical Information Science",
       "doi": "10.1080/713811742",
-      "openAccessUrl": "https://doi.org/10.1080/713811742"
+      "openAccessUrl": "https://doi.org/10.1080/713811742",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771611",
@@ -465,7 +864,14 @@
       "year": 2003,
       "venue": "Spatial Information Theory. Foundations of Geographic Information Science",
       "doi": "10.1007/978-3-540-39923-0_22",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-540-39923-0_22"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-39923-0_22",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771610",
@@ -473,7 +879,14 @@
       "year": 2002,
       "venue": "Geographic Information Science",
       "doi": "10.1007/3-540-45799-2_2",
-      "openAccessUrl": "https://doi.org/10.1007/3-540-45799-2_2"
+      "openAccessUrl": "https://doi.org/10.1007/3-540-45799-2_2",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771563",
@@ -481,7 +894,14 @@
       "year": 2002,
       "venue": "Advances in Spatial Data Handling",
       "doi": "10.1007/978-3-642-56094-1_2",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-56094-1_2"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-56094-1_2",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771620",
@@ -489,7 +909,14 @@
       "year": 2002,
       "venue": "Computers &amp; Geosciences",
       "doi": "10.1016/s0098-3004(02)00031-6",
-      "openAccessUrl": "https://doi.org/10.1016/s0098-3004(02)00031-6"
+      "openAccessUrl": "https://doi.org/10.1016/s0098-3004(02)00031-6",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771653",
@@ -497,7 +924,14 @@
       "year": 2002,
       "venue": "Transactions in GIS",
       "doi": "10.1111/1467-9671.00099",
-      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00099"
+      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00099",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771636",
@@ -505,7 +939,14 @@
       "year": 2002,
       "venue": "Proceedings of the tenth ACM international symposium on Advances in geographic information systems  - GIS '02",
       "doi": "10.1145/585147.585175",
-      "openAccessUrl": "https://doi.org/10.1145/585147.585175"
+      "openAccessUrl": "https://doi.org/10.1145/585147.585175",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771641",
@@ -513,7 +954,14 @@
       "year": 2002,
       "venue": "Transactions in GIS",
       "doi": "10.1111/1467-9671.00005",
-      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00005"
+      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00005",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771564",
@@ -521,7 +969,14 @@
       "year": 2001,
       "venue": "Proceedings of the ninth ACM international symposium on Advances in geographic information systems  - GIS '01",
       "doi": "10.1145/512161.512190",
-      "openAccessUrl": "https://doi.org/10.1145/512161.512190"
+      "openAccessUrl": "https://doi.org/10.1145/512161.512190",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771648",
@@ -529,7 +984,14 @@
       "year": 2000,
       "venue": "Computers, Environment and Urban Systems",
       "doi": "10.1016/s0198-9715(00)00007-7",
-      "openAccessUrl": "https://doi.org/10.1016/s0198-9715(00)00007-7"
+      "openAccessUrl": "https://doi.org/10.1016/s0198-9715(00)00007-7",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771678",
@@ -537,7 +999,14 @@
       "year": 2000,
       "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "doi": "10.1016/s0924-2716(00)00018-6",
-      "openAccessUrl": "https://doi.org/10.1016/s0924-2716(00)00018-6"
+      "openAccessUrl": "https://doi.org/10.1016/s0924-2716(00)00018-6",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771634",
@@ -545,7 +1014,14 @@
       "year": 2000,
       "venue": "Journal of Geographical Systems",
       "doi": "10.1007/s101090050033",
-      "openAccessUrl": "https://doi.org/10.1007/s101090050033"
+      "openAccessUrl": "https://doi.org/10.1007/s101090050033",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771652",
@@ -553,7 +1029,14 @@
       "year": 1999,
       "venue": "International Journal of Geographical Information Science",
       "doi": "10.1080/136588199241210",
-      "openAccessUrl": "https://doi.org/10.1080/136588199241210"
+      "openAccessUrl": "https://doi.org/10.1080/136588199241210",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771489",
@@ -561,7 +1044,14 @@
       "year": 1999,
       "venue": "Transactions in GIS",
       "doi": "10.1111/1467-9671.00017",
-      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00017"
+      "openAccessUrl": "https://doi.org/10.1111/1467-9671.00017",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771650",
@@ -569,7 +1059,14 @@
       "year": 1999,
       "venue": "Journal of Geographical Systems",
       "doi": "10.1007/s101090050002",
-      "openAccessUrl": "https://doi.org/10.1007/s101090050002"
+      "openAccessUrl": "https://doi.org/10.1007/s101090050002",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771493",
@@ -577,7 +1074,14 @@
       "year": 1999,
       "venue": "Interoperating Geographic Information Systems",
       "doi": "10.1007/978-1-4615-5189-8_6",
-      "openAccessUrl": "https://doi.org/10.1007/978-1-4615-5189-8_6"
+      "openAccessUrl": "https://doi.org/10.1007/978-1-4615-5189-8_6",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771578",
@@ -585,7 +1089,14 @@
       "year": 1998,
       "venue": "Computers, Environment and Urban Systems",
       "doi": "10.1016/s0198-9715(98)00018-0",
-      "openAccessUrl": "https://doi.org/10.1016/s0198-9715(98)00018-0"
+      "openAccessUrl": "https://doi.org/10.1016/s0198-9715(98)00018-0",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771553",
@@ -593,7 +1104,14 @@
       "year": 1996,
       "venue": "Computers &amp; Geosciences",
       "doi": "10.1016/s0098-3004(96)00035-0",
-      "openAccessUrl": "https://doi.org/10.1016/s0098-3004(96)00035-0"
+      "openAccessUrl": "https://doi.org/10.1016/s0098-3004(96)00035-0",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771524",
@@ -601,7 +1119,14 @@
       "year": 1996,
       "venue": "Transactions in GIS",
       "doi": "10.1111/j.1467-9671.1996.tb00040.x",
-      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.1996.tb00040.x"
+      "openAccessUrl": "https://doi.org/10.1111/j.1467-9671.1996.tb00040.x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771513",
@@ -609,7 +1134,14 @@
       "year": 1993,
       "venue": "Information and Software Technology",
       "doi": "10.1016/0950-5849(93)90032-x",
-      "openAccessUrl": "https://doi.org/10.1016/0950-5849(93)90032-x"
+      "openAccessUrl": "https://doi.org/10.1016/0950-5849(93)90032-x",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771693",
@@ -617,7 +1149,14 @@
       "year": 1993,
       "venue": "International journal of geographical information systems",
       "doi": "10.1080/02693799308901956",
-      "openAccessUrl": "https://doi.org/10.1080/02693799308901956"
+      "openAccessUrl": "https://doi.org/10.1080/02693799308901956",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771626",
@@ -625,7 +1164,14 @@
       "year": 1991,
       "venue": "Information and Software Technology",
       "doi": "10.1016/0950-5849(91)90022-4",
-      "openAccessUrl": "https://doi.org/10.1016/0950-5849(91)90022-4"
+      "openAccessUrl": "https://doi.org/10.1016/0950-5849(91)90022-4",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771627",
@@ -633,7 +1179,14 @@
       "year": 1989,
       "venue": "International journal of geographical information systems",
       "doi": "10.1080/02693798908941508",
-      "openAccessUrl": "https://doi.org/10.1080/02693798908941508"
+      "openAccessUrl": "https://doi.org/10.1080/02693798908941508",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771644",
@@ -641,56 +1194,112 @@
       "year": 1988,
       "venue": "International journal of geographical information systems",
       "doi": "10.1080/02693798808927887",
-      "openAccessUrl": "https://doi.org/10.1080/02693798808927887"
+      "openAccessUrl": "https://doi.org/10.1080/02693798808927887",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771518",
       "title": "Exploratory geospatial analysis using GeoVISTA Studio: from a desktop to the Web",
       "venue": "Proceedings of the Second International Conference on Web Information Systems Engineering",
       "doi": "10.1109/wise.2001.996715",
-      "openAccessUrl": "https://doi.org/10.1109/wise.2001.996715"
+      "openAccessUrl": "https://doi.org/10.1109/wise.2001.996715",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771617",
       "title": "GeoVISTA Studio: Reusability by Design",
       "venue": "Open Source Approaches in Spatial Data Handling",
       "doi": "10.1007/978-3-540-74831-1_10",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-540-74831-1_10"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-74831-1_10",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771809",
       "title": "JIMS Cross mark policy",
       "venue": "Cross Mark Datasets",
       "doi": "10.18311/datasets.020020",
-      "openAccessUrl": "https://doi.org/10.18311/datasets.020020"
+      "openAccessUrl": "https://doi.org/10.18311/datasets.020020",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771453",
       "title": "Multivariate Geovisualization",
       "venue": "The Handbook of Geographic Information Science",
       "doi": "10.1002/9780470690819.ch16",
-      "openAccessUrl": "https://doi.org/10.1002/9780470690819.ch16"
+      "openAccessUrl": "https://doi.org/10.1002/9780470690819.ch16",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771492",
       "title": "Representing, Manipulating and Reasoning with Geographic Semantics within a Knowledge Framework",
       "venue": "Developments in Spatial Data Handling",
       "doi": "10.1007/3-540-26772-7_44",
-      "openAccessUrl": "https://doi.org/10.1007/3-540-26772-7_44"
+      "openAccessUrl": "https://doi.org/10.1007/3-540-26772-7_44",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771570",
       "title": "Using Metadata to Link Uncertainty and Data Quality Assessments",
       "venue": "Progress in Spatial Data Handling",
       "doi": "10.1007/3-540-35589-8_18",
-      "openAccessUrl": "https://doi.org/10.1007/3-540-35589-8_18"
+      "openAccessUrl": "https://doi.org/10.1007/3-540-35589-8_18",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0001-7209-8156/work/121771469",
       "title": "Visual exploration in geography",
       "venue": "Geographic Data Mining and Knowledge Discovery",
       "doi": "10.4324/9780203468029_chapter_11",
-      "openAccessUrl": "https://doi.org/10.4324/9780203468029_chapter_11"
+      "openAccessUrl": "https://doi.org/10.4324/9780203468029_chapter_11",
+      "authors": [
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "position": 1
+        }
+      ]
     }
   ]
 }

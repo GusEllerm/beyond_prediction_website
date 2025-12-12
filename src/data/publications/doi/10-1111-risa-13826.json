@@ -4,5 +4,83 @@
   "year": 2021,
   "venue": "Risk Analysis",
   "doi": "10.1111/risa.13826",
-  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/risa.13826"
+  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/risa.13826",
+  "authors": [
+    {
+      "name": "Ruth N. Zadoks",
+      "orcidId": "0000-0002-1164-8000",
+      "openAlexId": "https://openalex.org/A5041819836",
+      "position": 1
+    },
+    {
+      "name": "Gary C. Barker",
+      "orcidId": "0000-0003-1844-6257",
+      "openAlexId": "https://openalex.org/A5085303986",
+      "position": 2
+    },
+    {
+      "name": "Jackie Benschop",
+      "orcidId": "0000-0002-7814-4341",
+      "openAlexId": "https://openalex.org/A5089017342",
+      "position": 3
+    },
+    {
+      "name": "Kathryn J. Allan",
+      "openAlexId": "https://openalex.org/A5039088690",
+      "position": 4
+    },
+    {
+      "name": "Gemma Chaters",
+      "orcidId": "0000-0001-9652-6194",
+      "openAlexId": "https://openalex.org/A5055555348",
+      "position": 5
+    },
+    {
+      "name": "Sarah Cleaveland",
+      "orcidId": "0000-0002-0456-0959",
+      "openAlexId": "https://openalex.org/A5087532242",
+      "position": 6
+    },
+    {
+      "name": "John A. Crump",
+      "openAlexId": "https://openalex.org/A5026459900",
+      "position": 7
+    },
+    {
+      "name": "Margaret A. Davis",
+      "orcidId": "0000-0002-0401-9273",
+      "openAlexId": "https://openalex.org/A5015978368",
+      "position": 8
+    },
+    {
+      "name": "Blandina T. Mmbaga",
+      "orcidId": "0000-0002-5550-1916",
+      "openAlexId": "https://openalex.org/A5089767596",
+      "position": 9
+    },
+    {
+      "name": "Gerard Prinsen",
+      "orcidId": "0000-0002-1807-8565",
+      "openAlexId": "https://openalex.org/A5042318874",
+      "position": 10
+    },
+    {
+      "name": "Kate M. Thomas",
+      "orcidId": "0000-0002-1589-8314",
+      "openAlexId": "https://openalex.org/A5033469220",
+      "position": 11
+    },
+    {
+      "name": "Linda Waldman",
+      "orcidId": "0000-0002-0864-9467",
+      "openAlexId": "https://openalex.org/A5074052483",
+      "position": 12
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 13
+    }
+  ]
 }

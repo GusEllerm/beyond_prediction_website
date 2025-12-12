@@ -4,5 +4,71 @@
   "year": 2022,
   "venue": "Nature Communications",
   "doi": "10.1038/s41467-022-31784-5",
-  "openAccessUrl": "https://www.nature.com/articles/s41467-022-31784-5.pdf"
+  "openAccessUrl": "https://www.nature.com/articles/s41467-022-31784-5.pdf",
+  "authors": [
+    {
+      "name": "Lauren Jelley",
+      "orcidId": "0000-0001-5993-6266",
+      "openAlexId": "https://openalex.org/A5042071863",
+      "position": 1
+    },
+    {
+      "name": "Jordan Douglas",
+      "orcidId": "0000-0003-0371-9961",
+      "openAlexId": "https://openalex.org/A5052240308",
+      "position": 2
+    },
+    {
+      "name": "Xiaoyun Ren",
+      "orcidId": "0000-0002-5163-9715",
+      "openAlexId": "https://openalex.org/A5086325375",
+      "position": 3
+    },
+    {
+      "name": "David J. Winter",
+      "orcidId": "0000-0002-6165-0029",
+      "openAlexId": "https://openalex.org/A5064841091",
+      "position": 4
+    },
+    {
+      "name": "Andrea McNeill",
+      "openAlexId": "https://openalex.org/A5056613413",
+      "position": 5
+    },
+    {
+      "name": "Q. Sue Huang",
+      "orcidId": "0000-0002-3923-5195",
+      "openAlexId": "https://openalex.org/A5004246755",
+      "position": 6
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 7
+    },
+    {
+      "name": "David Welch",
+      "orcidId": "0000-0002-7066-2830",
+      "openAlexId": "https://openalex.org/A5051299223",
+      "position": 8
+    },
+    {
+      "name": "James Hadfield",
+      "orcidId": "0000-0002-4118-6468",
+      "openAlexId": "https://openalex.org/A5001836904",
+      "position": 9
+    },
+    {
+      "name": "Joep de Ligt",
+      "openAlexId": "https://openalex.org/A5072525850",
+      "position": 10
+    },
+    {
+      "name": "Jemma L. Geoghegan",
+      "orcidId": "0000-0003-0970-0153",
+      "openAlexId": "https://openalex.org/A5027424821",
+      "position": 11
+    }
+  ]
 }

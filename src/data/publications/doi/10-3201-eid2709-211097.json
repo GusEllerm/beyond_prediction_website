@@ -4,5 +4,59 @@
   "year": 2021,
   "venue": "Emerging infectious diseases",
   "doi": "10.3201/eid2709.211097",
-  "openAccessUrl": "https://wwwnc.cdc.gov/eid/article/27/9/pdfs/21-1097.pdf"
+  "openAccessUrl": "https://wwwnc.cdc.gov/eid/article/27/9/pdfs/21-1097.pdf",
+  "authors": [
+    {
+      "name": "Jordan Douglas",
+      "orcidId": "0000-0003-0371-9961",
+      "openAlexId": "https://openalex.org/A5052240308",
+      "position": 1
+    },
+    {
+      "name": "Jemma L. Geoghegan",
+      "orcidId": "0000-0003-0970-0153",
+      "openAlexId": "https://openalex.org/A5027424821",
+      "position": 2
+    },
+    {
+      "name": "James Hadfield",
+      "orcidId": "0000-0002-4118-6468",
+      "openAlexId": "https://openalex.org/A5001836904",
+      "position": 3
+    },
+    {
+      "name": "Remco Bouckaert",
+      "orcidId": "0000-0001-5186-8377",
+      "openAlexId": "https://openalex.org/A5103244939",
+      "position": 4
+    },
+    {
+      "name": "Matthew Storey",
+      "openAlexId": "https://openalex.org/A5107859849",
+      "position": 5
+    },
+    {
+      "name": "Xiaoyun Ren",
+      "orcidId": "0000-0002-5163-9715",
+      "openAlexId": "https://openalex.org/A5086325375",
+      "position": 6
+    },
+    {
+      "name": "Joep de Ligt",
+      "openAlexId": "https://openalex.org/A5072525850",
+      "position": 7
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 8
+    },
+    {
+      "name": "David Welch",
+      "orcidId": "0000-0002-7066-2830",
+      "openAlexId": "https://openalex.org/A5051299223",
+      "position": 9
+    }
+  ]
 }

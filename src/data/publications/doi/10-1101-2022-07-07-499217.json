@@ -4,5 +4,54 @@
   "year": 2022,
   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
   "doi": "10.1101/2022.07.07.499217",
-  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/07/11/2022.07.07.499217.full.pdf"
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/07/11/2022.07.07.499217.full.pdf",
+  "authors": [
+    {
+      "name": "Kieran Elmes",
+      "openAlexId": "https://openalex.org/A5023199094",
+      "position": 1
+    },
+    {
+      "name": "Diana Benavides‐Prado",
+      "orcidId": "0000-0003-1137-2822",
+      "openAlexId": "https://openalex.org/A5017390828",
+      "position": 2
+    },
+    {
+      "name": "Neşet Tan",
+      "orcidId": "0000-0001-6201-7295",
+      "openAlexId": "https://openalex.org/A5062975742",
+      "position": 3
+    },
+    {
+      "name": "Trung B. Nguyen",
+      "orcidId": "0000-0002-1990-8647",
+      "openAlexId": "https://openalex.org/A5004982887",
+      "position": 4
+    },
+    {
+      "name": "Nicholas A. Sumpter",
+      "orcidId": "0000-0002-0451-9024",
+      "openAlexId": "https://openalex.org/A5049923519",
+      "position": 5
+    },
+    {
+      "name": "Megan Leask",
+      "orcidId": "0000-0003-3199-5277",
+      "openAlexId": "https://openalex.org/A5069893482",
+      "position": 6
+    },
+    {
+      "name": "Michael Witbrock",
+      "orcidId": "0000-0002-7554-0971",
+      "openAlexId": "https://openalex.org/A5057995059",
+      "position": 7
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 8
+    }
+  ]
 }

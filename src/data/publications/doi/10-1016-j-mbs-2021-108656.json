@@ -4,5 +4,43 @@
   "year": 2021,
   "venue": "Mathematical Biosciences",
   "doi": "10.1016/j.mbs.2021.108656",
-  "openAccessUrl": "https://doi.org/10.1016/j.mbs.2021.108656"
+  "openAccessUrl": "https://doi.org/10.1016/j.mbs.2021.108656",
+  "authors": [
+    {
+      "name": "M. G. Roberts",
+      "orcidId": "0000-0003-2693-5093",
+      "openAlexId": "https://openalex.org/A5020114430",
+      "position": 1
+    },
+    {
+      "name": "Sara A. Burgess",
+      "orcidId": "0000-0003-1449-7321",
+      "openAlexId": "https://openalex.org/A5075914918",
+      "position": 2
+    },
+    {
+      "name": "Leah Toombs-Ruane",
+      "orcidId": "0000-0003-0667-4869",
+      "openAlexId": "https://openalex.org/A5090536603",
+      "position": 3
+    },
+    {
+      "name": "Jackie Benschop",
+      "orcidId": "0000-0002-7814-4341",
+      "openAlexId": "https://openalex.org/A5089017342",
+      "position": 4
+    },
+    {
+      "name": "Jonathan C. Marshall",
+      "orcidId": "0000-0003-0758-9658",
+      "openAlexId": "https://openalex.org/A5074224187",
+      "position": 5
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 6
+    }
+  ]
 }

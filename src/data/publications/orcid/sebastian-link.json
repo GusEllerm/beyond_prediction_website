@@ -8,14 +8,28 @@
       "title": "Linking Data Meaningfully",
       "year": 2026,
       "doi": "10.1007/978-981-96-8889-0_29",
-      "openAccessUrl": "https://doi.org/10.1007/978-981-96-8889-0_29"
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-8889-0_29",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/194572519",
       "title": "Possibilistic SQL Constraints",
       "year": 2026,
       "doi": "10.1007/978-3-032-08623-5_14",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-032-08623-5_14"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-032-08623-5_14",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/186139416",
@@ -23,7 +37,14 @@
       "year": 2025,
       "venue": "ACM Transactions on Database Systems",
       "doi": "10.1145/3744897",
-      "openAccessUrl": "https://doi.org/10.1145/3744897"
+      "openAccessUrl": "https://doi.org/10.1145/3744897",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/191759511",
@@ -31,7 +52,14 @@
       "year": 2025,
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "doi": "10.1109/TKDE.2025.3608680",
-      "openAccessUrl": "https://doi.org/10.1109/TKDE.2025.3608680"
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2025.3608680",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/186261621",
@@ -39,7 +67,14 @@
       "year": 2025,
       "venue": "Proceedings of the ACM on Management of Data",
       "doi": "10.1145/3725362",
-      "openAccessUrl": "https://doi.org/10.1145/3725362"
+      "openAccessUrl": "https://doi.org/10.1145/3725362",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/180244100",
@@ -47,14 +82,28 @@
       "year": 2025,
       "venue": "The VLDB Journal",
       "doi": "10.1007/s00778-025-00910-2",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00910-2"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00910-2",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/180394581",
       "title": "Graph Modeling and Analytics for Fraud Detection in Company Office Data",
       "year": 2025,
       "doi": "10.3233/FAIA241581",
-      "openAccessUrl": "https://doi.org/10.3233/FAIA241581"
+      "openAccessUrl": "https://doi.org/10.3233/FAIA241581",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/177589964",
@@ -62,7 +111,14 @@
       "year": 2025,
       "venue": "The VLDB Journal",
       "doi": "10.1007/s00778-025-00902-2",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00902-2"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00902-2",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/177855118",
@@ -70,14 +126,28 @@
       "year": 2025,
       "venue": "Proceedings of the ACM on Management of Data",
       "doi": "10.1145/3709690",
-      "openAccessUrl": "https://doi.org/10.1145/3709690"
+      "openAccessUrl": "https://doi.org/10.1145/3709690",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/164178378",
       "title": "Entity/Relationship Profiling",
       "year": 2024,
       "doi": "10.1109/ICDE60146.2024.00411",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE60146.2024.00411"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE60146.2024.00411",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/133116855",
@@ -85,7 +155,14 @@
       "year": 2023,
       "venue": "Journal of Computer and System Sciences",
       "doi": "10.1016/j.jcss.2023.04.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2023.04.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2023.04.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186150",
@@ -93,7 +170,14 @@
       "year": 2023,
       "venue": "Knowledge and Information Systems",
       "doi": "10.1007/s10115-022-01814-1",
-      "openAccessUrl": "https://doi.org/10.1007/s10115-022-01814-1"
+      "openAccessUrl": "https://doi.org/10.1007/s10115-022-01814-1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/137383494",
@@ -101,7 +185,14 @@
       "year": 2023,
       "venue": "Journal of Data and Information Quality",
       "doi": "10.1145/3581758",
-      "openAccessUrl": "https://doi.org/10.1145/3581758"
+      "openAccessUrl": "https://doi.org/10.1145/3581758",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/134670891",
@@ -109,7 +200,14 @@
       "year": 2023,
       "venue": "Information Systems",
       "doi": "10.1016/j.is.2023.102224",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102224"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102224",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/135992594",
@@ -117,7 +215,14 @@
       "year": 2023,
       "venue": "Proceedings of the ACM on Management of Data",
       "doi": "10.1145/3588693",
-      "openAccessUrl": "https://doi.org/10.1145/3588693"
+      "openAccessUrl": "https://doi.org/10.1145/3588693",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/131369074",
@@ -125,7 +230,14 @@
       "year": 2023,
       "venue": "Information Systems",
       "doi": "10.1016/j.is.2023.102208",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102208"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102208",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186139",
@@ -133,7 +245,14 @@
       "year": 2022,
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "doi": "10.1109/TKDE.2021.3062318",
-      "openAccessUrl": "https://doi.org/10.1109/TKDE.2021.3062318"
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2021.3062318",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186146",
@@ -141,21 +260,42 @@
       "year": 2022,
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "doi": "10.1109/TKDE.2022.3192842",
-      "openAccessUrl": "https://doi.org/10.1109/TKDE.2022.3192842"
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2022.3192842",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186147",
       "title": "Learning to Match Product Codes",
       "year": 2022,
       "doi": "10.1007/978-3-031-08530-7_3",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-031-08530-7_3"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-08530-7_3",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186149",
       "title": "Object Normal Form, Fourth Normal Form and Their Application to Database Security",
       "year": 2022,
       "doi": "10.1007/978-3-031-17995-2_25",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-031-17995-2_25"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-17995-2_25",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186145",
@@ -163,7 +303,14 @@
       "year": 2021,
       "venue": "Journal on Data Semantics",
       "doi": "10.1007/s13740-021-00135-w",
-      "openAccessUrl": "https://doi.org/10.1007/s13740-021-00135-w"
+      "openAccessUrl": "https://doi.org/10.1007/s13740-021-00135-w",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186144",
@@ -171,7 +318,14 @@
       "year": 2021,
       "venue": "The VLDB Journal",
       "doi": "10.1007/s00778-021-00684-3",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-021-00684-3"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-021-00684-3",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186141",
@@ -179,42 +333,84 @@
       "year": 2021,
       "venue": "ACM Transactions on Database Systems",
       "doi": "10.1145/3450518",
-      "openAccessUrl": "https://doi.org/10.1145/3450518"
+      "openAccessUrl": "https://doi.org/10.1145/3450518",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186140",
       "title": "Modelling Entity Integrity for Semi-structured Big Data",
       "year": 2021,
       "doi": "10.1007/978-3-030-73194-6_9",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-73194-6_9"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-73194-6_9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186143",
       "title": "Referential Integrity Under Uncertain Data",
       "year": 2021,
       "doi": "10.1007/978-3-030-79382-1_16",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-79382-1_16"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-79382-1_16",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186142",
       "title": "Uniqueness Constraints on Property Graphs",
       "year": 2021,
       "doi": "10.1007/978-3-030-79382-1_17",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-79382-1_17"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-79382-1_17",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186137",
       "title": "Neo4j Keys",
       "year": 2020,
       "doi": "10.1007/978-3-030-62522-1_2",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-62522-1_2"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-62522-1_2",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186138",
       "title": "Structural and Computational Properties of Possibilistic Armstrong Databases",
       "year": 2020,
       "doi": "10.1007/978-3-030-62522-1_43",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-62522-1_43"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-62522-1_43",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986502",
@@ -222,7 +418,14 @@
       "year": 2019,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-030-21290-2_19",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-21290-2_19"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-21290-2_19",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817386",
@@ -230,7 +433,14 @@
       "year": 2019,
       "venue": "Advanced Information Systems Engineering - 31st International Conference,\n               CAiSE 2019, Rome, Italy, June 3-7, 2019, Proceedings",
       "doi": "10.1007/978-3-030-21290-2\\_19",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-21290-2\\_19"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-21290-2\\_19",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817387",
@@ -238,7 +448,14 @@
       "year": 2019,
       "venue": "35th IEEE International Conference on Data Engineering, ICDE 2019,\n               Macao, China, April 8-11, 2019",
       "doi": "10.1109/ICDE.2019.00137",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00137"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00137",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986485",
@@ -246,7 +463,14 @@
       "year": 2019,
       "venue": "Proceedings - International Conference on Data Engineering",
       "doi": "10.1109/ICDE.2019.00137",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00137"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00137",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817390",
@@ -254,7 +478,14 @@
       "year": 2019,
       "venue": "35th IEEE International Conference on Data Engineering, ICDE 2019,\n               Macao, China, April 8-11, 2019",
       "doi": "10.1109/ICDE.2019.00175",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00175"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00175",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986481",
@@ -262,7 +493,14 @@
       "year": 2019,
       "venue": "Proceedings - International Conference on Data Engineering",
       "doi": "10.1109/ICDE.2019.00175",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00175"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2019.00175",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986480",
@@ -270,7 +508,14 @@
       "year": 2019,
       "venue": "Fuzzy Sets and Systems",
       "doi": "10.1016/j.fss.2019.01.008",
-      "openAccessUrl": "https://doi.org/10.1016/j.fss.2019.01.008"
+      "openAccessUrl": "https://doi.org/10.1016/j.fss.2019.01.008",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986500",
@@ -278,7 +523,14 @@
       "year": 2019,
       "venue": "Information Systems",
       "doi": "10.1016/j.is.2019.04.003",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2019.04.003"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2019.04.003",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986501",
@@ -286,7 +538,14 @@
       "year": 2019,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-030-12079-5_3",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-030-12079-5_3"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-030-12079-5_3",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817408",
@@ -294,7 +553,14 @@
       "year": 2018,
       "venue": "34th IEEE International Conference on Data Engineering, ICDE 2018,\n               Paris, France, April 16-19, 2018",
       "doi": "10.1109/ICDE.2018.00173",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2018.00173"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2018.00173",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986493",
@@ -302,7 +568,14 @@
       "year": 2018,
       "venue": "Proceedings - IEEE 34th International Conference on Data Engineering, ICDE 2018",
       "doi": "10.1109/ICDE.2018.00173",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2018.00173"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2018.00173",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986498",
@@ -310,7 +583,14 @@
       "year": 2018,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-94205-6_4",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-94205-6_4"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-94205-6_4",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817400",
@@ -318,7 +598,14 @@
       "year": 2018,
       "venue": "Automated Reasoning - 9th International Joint Conference, IJCAR\n               2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford,\n               UK, July 14-17, 2018, Proceedings",
       "doi": "10.1007/978-3-319-94205-6\\_4",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-94205-6\\_4"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-94205-6\\_4",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817392",
@@ -326,7 +613,14 @@
       "year": 2018,
       "venue": "Data Knowl. Eng.",
       "doi": "10.1016/j.datak.2018.04.005",
-      "openAccessUrl": "https://doi.org/10.1016/j.datak.2018.04.005"
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2018.04.005",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986488",
@@ -334,7 +628,14 @@
       "year": 2018,
       "venue": "Data and Knowledge Engineering",
       "doi": "10.1016/j.datak.2018.04.005",
-      "openAccessUrl": "https://doi.org/10.1016/j.datak.2018.04.005"
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2018.04.005",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817409",
@@ -342,7 +643,14 @@
       "year": 2018,
       "venue": "Proceedings of the 2018 International Conference on Management of\n               Data, SIGMOD Conference 2018, Houston, TX, USA, June 10-15, 2018",
       "doi": "10.1145/3183713.3193544",
-      "openAccessUrl": "https://doi.org/10.1145/3183713.3193544"
+      "openAccessUrl": "https://doi.org/10.1145/3183713.3193544",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986496",
@@ -350,7 +658,14 @@
       "year": 2018,
       "venue": "Proceedings of the ACM SIGMOD International Conference on Management of Data",
       "doi": "10.1145/3183713.3193544",
-      "openAccessUrl": "https://doi.org/10.1145/3183713.3193544"
+      "openAccessUrl": "https://doi.org/10.1145/3183713.3193544",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817403",
@@ -358,7 +673,14 @@
       "year": 2018,
       "venue": "Advanced Information Systems Engineering - 30th International Conference,\n               CAiSE 2018, Tallinn, Estonia, June 11-15, 2018, Proceedings",
       "doi": "10.1007/978-3-319-91563-0\\_32",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91563-0\\_32"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91563-0\\_32",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986484",
@@ -366,13 +688,27 @@
       "year": 2018,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-91563-0_32",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91563-0_32"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91563-0_32",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817398",
       "title": "Extremal Combinatorics of SQL Keys",
       "year": 2018,
-      "venue": "Models: Concepts, Theory, Logic, Reasoning and Semantics - Essays\n               Dedicated to Klaus-Dieter Schewe on the Occasion of his 60th Birthday"
+      "venue": "Models: Concepts, Theory, Logic, Reasoning and Semantics - Essays\n               Dedicated to Klaus-Dieter Schewe on the Occasion of his 60th Birthday",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817406",
@@ -380,7 +716,14 @@
       "year": 2018,
       "venue": "Foundations of Information and Knowledge Systems - 10th International\n               Symposium, FoIKS 2018, Budapest, Hungary, May 14-18, 2018, Proceedings",
       "doi": "10.1007/978-3-319-90050-6\\_1",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6\\_1"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6\\_1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986483",
@@ -388,14 +731,28 @@
       "year": 2018,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-90050-6_1",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6_1"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6_1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186134",
       "title": "Old Keys that Open New Doors",
       "year": 2018,
       "doi": "10.1007/978-3-319-90050-6_1",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6_1"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-90050-6_1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817405",
@@ -403,7 +760,14 @@
       "year": 2018,
       "venue": "Database Systems for Advanced Applications - 23rd International Conference,\n               DASFAA 2018, Gold Coast, QLD, Australia, May 21-24, 2018, Proceedings,\n               Part II",
       "doi": "10.1007/978-3-319-91458-9\\_21",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91458-9\\_21"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91458-9\\_21",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986495",
@@ -411,7 +775,14 @@
       "year": 2018,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-91458-9_21",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91458-9_21"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-91458-9_21",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817397",
@@ -419,7 +790,14 @@
       "year": 2018,
       "venue": "VLDB J.",
       "doi": "10.1007/s00778-018-0511-z",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986505",
@@ -427,7 +805,14 @@
       "year": 2018,
       "venue": "VLDB Journal",
       "doi": "10.1007/s00778-018-0511-z",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186136",
@@ -435,7 +820,14 @@
       "year": 2018,
       "venue": "The VLDB Journal",
       "doi": "10.1007/s00778-018-0511-z",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-018-0511-z",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817393",
@@ -443,7 +835,14 @@
       "year": 2018,
       "venue": "Inf. Syst.",
       "doi": "10.1016/j.is.2018.04.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2018.04.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2018.04.001",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986499",
@@ -451,7 +850,14 @@
       "year": 2018,
       "venue": "Information Systems",
       "doi": "10.1016/j.is.2018.04.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2018.04.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2018.04.001",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817417",
@@ -459,7 +865,14 @@
       "year": 2017,
       "venue": "Conceptual Modeling - 36th International Conference, ER 2017, Valencia,\n               Spain, November 6-9, 2017, Proceedings",
       "doi": "10.1007/978-3-319-69904-2\\_21",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2\\_21"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2\\_21",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986489",
@@ -467,7 +880,14 @@
       "year": 2017,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-69904-2_21",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2_21"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2_21",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817419",
@@ -475,7 +895,14 @@
       "year": 2017,
       "venue": "Conceptual Modeling - 36th International Conference, ER 2017, Valencia,\n               Spain, November 6-9, 2017, Proceedings",
       "doi": "10.1007/978-3-319-69904-2\\_22",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2\\_22"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2\\_22",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986490",
@@ -483,7 +910,14 @@
       "year": 2017,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-69904-2_22",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2_22"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-69904-2_22",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817413",
@@ -491,7 +925,14 @@
       "year": 2017,
       "venue": "SIGMOD Record",
       "doi": "10.1145/3186549.3186559",
-      "openAccessUrl": "https://doi.org/10.1145/3186549.3186559"
+      "openAccessUrl": "https://doi.org/10.1145/3186549.3186559",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817412",
@@ -499,7 +940,14 @@
       "year": 2017,
       "venue": "J. Comput. Syst. Sci.",
       "doi": "10.1016/j.jcss.2016.11.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986486",
@@ -507,7 +955,14 @@
       "year": 2017,
       "venue": "Journal of Computer and System Sciences",
       "doi": "10.1016/j.jcss.2016.11.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/129186133",
@@ -515,13 +970,27 @@
       "year": 2017,
       "venue": "Journal of Computer and System Sciences",
       "doi": "10.1016/j.jcss.2016.11.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.11.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817420",
       "title": "On the Interaction of Inclusion Dependencies with Independence Atoms",
       "year": 2017,
-      "venue": "LPAR-21, 21st International Conference on Logic for Programming, Artificial\n               Intelligence and Reasoning, Maun, Botswana, May 7-12, 2017"
+      "venue": "LPAR-21, 21st International Conference on Logic for Programming, Artificial\n               Intelligence and Reasoning, Maun, Botswana, May 7-12, 2017",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817415",
@@ -529,7 +998,14 @@
       "year": 2017,
       "venue": "IEEE Trans. Knowl. Data Eng.",
       "doi": "10.1109/TKDE.2016.2633342",
-      "openAccessUrl": "https://doi.org/10.1109/TKDE.2016.2633342"
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2016.2633342",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986482",
@@ -537,7 +1013,14 @@
       "year": 2017,
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "doi": "10.1109/TKDE.2016.2633342",
-      "openAccessUrl": "https://doi.org/10.1109/TKDE.2016.2633342"
+      "openAccessUrl": "https://doi.org/10.1109/TKDE.2016.2633342",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/58817418",
@@ -545,7 +1028,14 @@
       "year": 2017,
       "venue": "33rd IEEE International Conference on Data Engineering, ICDE 2017,\n               San Diego, CA, USA, April 19-22, 2017",
       "doi": "10.1109/ICDE.2017.186",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2017.186"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2017.186",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986487",
@@ -553,20 +1043,41 @@
       "year": 2017,
       "venue": "Proceedings - International Conference on Data Engineering",
       "doi": "10.1109/ICDE.2017.186",
-      "openAccessUrl": "https://doi.org/10.1109/ICDE.2017.186"
+      "openAccessUrl": "https://doi.org/10.1109/ICDE.2017.186",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/27481315",
       "title": "Advances in Conceptual Modeling - ER 2016 Workshops, AHA, MoBiD,\n               MORE-BI, MReBA, QMMQ, SCME, and WM2SP, Gifu, Japan, November 14-17,\n               2016, Proceedings",
       "year": 2016,
       "doi": "10.1007/978-3-319-47717-6",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-47717-6"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-47717-6",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/27481192",
       "title": "Discovering Meaningful Certain Keys from Incomplete and Inconsistent\n               Relations",
       "year": 2016,
-      "venue": "IEEE Data Eng. Bull."
+      "venue": "IEEE Data Eng. Bull.",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986494",
@@ -574,7 +1085,14 @@
       "year": 2016,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-46397-1_13",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-46397-1_13"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-46397-1_13",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520666",
@@ -582,7 +1100,14 @@
       "year": 2016,
       "venue": "Journal of Computer and System Sciences",
       "doi": "10.1016/j.jcss.2016.02.007",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.02.007"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2016.02.007",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520714",
@@ -590,7 +1115,14 @@
       "year": 2016,
       "venue": "IEEE Transactions on Fuzzy Systems",
       "doi": "10.1109/TFUZZ.2015.2466074",
-      "openAccessUrl": "https://doi.org/10.1109/TFUZZ.2015.2466074"
+      "openAccessUrl": "https://doi.org/10.1109/TFUZZ.2015.2466074",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986492",
@@ -598,7 +1130,14 @@
       "year": 2016,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-46397-1_11",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-46397-1_11"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-46397-1_11",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520675",
@@ -606,19 +1145,40 @@
       "year": 2016,
       "venue": "VLDB Journal",
       "doi": "10.1007/s00778-016-0430-9",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-016-0430-9"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-016-0430-9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520629",
       "title": "Preface",
       "year": 2016,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986479",
       "title": "Preface",
       "year": 2016,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986503",
@@ -626,7 +1186,14 @@
       "year": 2016,
       "venue": "International Conference on Information and Knowledge Management, Proceedings",
       "doi": "10.1145/2983323.2983679",
-      "openAccessUrl": "https://doi.org/10.1145/2983323.2983679"
+      "openAccessUrl": "https://doi.org/10.1145/2983323.2983679",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986491",
@@ -634,7 +1201,14 @@
       "year": 2016,
       "venue": "International Conference on Information and Knowledge Management, Proceedings",
       "doi": "10.1145/2983323.2983801",
-      "openAccessUrl": "https://doi.org/10.1145/2983323.2983801"
+      "openAccessUrl": "https://doi.org/10.1145/2983323.2983801",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/27481311",
@@ -642,7 +1216,14 @@
       "year": 2016,
       "venue": "Proceedings of the 2016 International Conference on Management of\n               Data, SIGMOD Conference 2016, San Francisco, CA, USA, June 26 -\n               July 01, 2016",
       "doi": "10.1145/2882903.2915239",
-      "openAccessUrl": "https://doi.org/10.1145/2882903.2915239"
+      "openAccessUrl": "https://doi.org/10.1145/2882903.2915239",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986497",
@@ -650,7 +1231,14 @@
       "year": 2016,
       "venue": "Proceedings of the ACM SIGMOD International Conference on Management of Data",
       "doi": "10.1145/2882903.2915239",
-      "openAccessUrl": "https://doi.org/10.1145/2882903.2915239"
+      "openAccessUrl": "https://doi.org/10.1145/2882903.2915239",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520632",
@@ -658,7 +1246,14 @@
       "year": 2016,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-662-49214-7",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-662-49214-7"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-662-49214-7",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520699",
@@ -666,7 +1261,14 @@
       "year": 2015,
       "venue": "ACM Transactions on Database Systems",
       "doi": "10.1145/2757214",
-      "openAccessUrl": "https://doi.org/10.1145/2757214"
+      "openAccessUrl": "https://doi.org/10.1145/2757214",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520705",
@@ -674,7 +1276,14 @@
       "year": 2015,
       "venue": "Data and Knowledge Engineering",
       "doi": "10.1016/j.datak.2015.06.002",
-      "openAccessUrl": "https://doi.org/10.1016/j.datak.2015.06.002"
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2015.06.002",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520720",
@@ -682,7 +1291,14 @@
       "year": 2015,
       "venue": "Data and Knowledge Engineering",
       "doi": "10.1016/j.datak.2015.07.006",
-      "openAccessUrl": "https://doi.org/10.1016/j.datak.2015.07.006"
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2015.07.006",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520665",
@@ -690,7 +1306,14 @@
       "year": 2015,
       "venue": "Theoretical Computer Science",
       "doi": "10.1016/j.tcs.2015.07.017",
-      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2015.07.017"
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2015.07.017",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520697",
@@ -698,7 +1321,14 @@
       "year": 2015,
       "venue": "International Conference on Information and Knowledge Management, Proceedings",
       "doi": "10.1145/2806416.2806539",
-      "openAccessUrl": "https://doi.org/10.1145/2806416.2806539"
+      "openAccessUrl": "https://doi.org/10.1145/2806416.2806539",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520698",
@@ -706,13 +1336,27 @@
       "year": 2015,
       "venue": "EDBT 2015 - 18th International Conference on Extending Database Technology, Proceedings",
       "doi": "10.5441/002/edbt.2015.20",
-      "openAccessUrl": "https://doi.org/10.5441/002/edbt.2015.20"
+      "openAccessUrl": "https://doi.org/10.5441/002/edbt.2015.20",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520626",
       "title": "Possible and certain SQL keys",
       "year": 2015,
-      "venue": "Proceedings of the VLDB Endowment"
+      "venue": "Proceedings of the VLDB Endowment",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520694",
@@ -720,7 +1364,14 @@
       "year": 2015,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-25264-3_16",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-25264-3_16"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-25264-3_16",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520653",
@@ -728,7 +1379,14 @@
       "year": 2015,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-19069-3_8",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-19069-3_8"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-19069-3_8",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520695",
@@ -736,19 +1394,40 @@
       "year": 2015,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-319-25264-3_17",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-319-25264-3_17"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-319-25264-3_17",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986475",
       "title": "Validation of expressive XML keys with XML Schema and XQuery",
       "year": 2015,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520603",
       "title": "Cardinality constraints for uncertain data",
       "year": 2014,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520658",
@@ -756,19 +1435,40 @@
       "year": 2014,
       "venue": "Annals of Mathematics and Artificial Intelligence",
       "doi": "10.1007/s10472-014-9423-9",
-      "openAccessUrl": "https://doi.org/10.1007/s10472-014-9423-9"
+      "openAccessUrl": "https://doi.org/10.1007/s10472-014-9423-9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520628",
       "title": "Logical foundations of possibilistic keys",
       "year": 2014,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520609",
       "title": "Logics for approximating implication problems of saturated conditional independence",
       "year": 2014,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986476",
@@ -776,7 +1476,14 @@
       "year": 2014,
       "venue": "Information Modelling and Knowledge Bases XXV",
       "doi": "10.3233/978-1-61499-361-2-1",
-      "openAccessUrl": "https://doi.org/10.3233/978-1-61499-361-2-1"
+      "openAccessUrl": "https://doi.org/10.3233/978-1-61499-361-2-1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520644",
@@ -784,7 +1491,14 @@
       "year": 2014,
       "venue": "Frontiers in Artificial Intelligence and Applications",
       "doi": "10.3233/978-1-61499-361-2-1",
-      "openAccessUrl": "https://doi.org/10.3233/978-1-61499-361-2-1"
+      "openAccessUrl": "https://doi.org/10.3233/978-1-61499-361-2-1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520671",
@@ -792,19 +1506,40 @@
       "year": 2014,
       "venue": "CIKM 2014 - Proceedings of the 2014 ACM International Conference on Information and Knowledge Management",
       "doi": "10.1145/2661829.2662058",
-      "openAccessUrl": "https://doi.org/10.1145/2661829.2662058"
+      "openAccessUrl": "https://doi.org/10.1145/2661829.2662058",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520623",
       "title": "Preface",
       "year": 2014,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520630",
       "title": "Preface",
       "year": 2014,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520672",
@@ -812,19 +1547,40 @@
       "year": 2014,
       "venue": "CIKM 2014 - Proceedings of the 2014 ACM International Conference on Information and Knowledge Management",
       "doi": "10.1145/2661829.2661881",
-      "openAccessUrl": "https://doi.org/10.1145/2661829.2661881"
+      "openAccessUrl": "https://doi.org/10.1145/2661829.2661881",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986477",
       "title": "SQL-sampler: A tool to visualize and consolidate domain semantics by perfect SQL sample data",
       "year": 2014,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520614",
       "title": "Saturated conditional independence with fixed and undetermined sets of incomplete random variables",
       "year": 2014,
-      "venue": "Uncertainty in Artificial Intelligence - Proceedings of the 30th Conference, UAI 2014"
+      "venue": "Uncertainty in Artificial Intelligence - Proceedings of the 30th Conference, UAI 2014",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520639",
@@ -832,7 +1588,14 @@
       "year": 2014,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-662-46485-4",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-662-46485-4"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-662-46485-4",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520692",
@@ -840,7 +1603,14 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-40381-1-21",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-40381-1-21"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-40381-1-21",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520693",
@@ -848,7 +1618,14 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-41924-9_20",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41924-9_20"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41924-9_20",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520649",
@@ -856,7 +1633,14 @@
       "year": 2013,
       "venue": "Data and Knowledge Engineering",
       "doi": "10.1016/j.datak.2012.09.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.datak.2012.09.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2012.09.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520634",
@@ -864,7 +1648,14 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-39992-3-17",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39992-3-17"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-39992-3-17",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520648",
@@ -872,13 +1663,27 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-40173-2",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-40173-2"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-40173-2",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986478",
       "title": "Letting keys and functional dependencies out of the bag",
       "year": 2013,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520718",
@@ -886,13 +1691,27 @@
       "year": 2013,
       "venue": "Information Sciences",
       "doi": "10.1016/j.ins.2013.01.009",
-      "openAccessUrl": "https://doi.org/10.1016/j.ins.2013.01.009"
+      "openAccessUrl": "https://doi.org/10.1016/j.ins.2013.01.009",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520619",
       "title": "Reasoning about saturated conditional independence under uncertainty: Axioms, algorithms, and Levesque's situations to the rescue",
       "year": 2013,
-      "venue": "Proceedings of the 27th AAAI Conference on Artificial Intelligence, AAAI 2013"
+      "venue": "Proceedings of the 27th AAAI Conference on Artificial Intelligence, AAAI 2013",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520691",
@@ -900,7 +1719,14 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-41230-1_32",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41230-1_32"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41230-1_32",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520651",
@@ -908,13 +1734,27 @@
       "year": 2013,
       "venue": "Journal of Applied Logic",
       "doi": "10.1016/j.jal.2013.05.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jal.2013.05.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jal.2013.05.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520625",
       "title": "Static analysis of partial referential integrity for better quality SQL data",
       "year": 2013,
-      "venue": "19th Americas Conference on Information Systems, AMCIS 2013 - Hyperconnected World: Anything, Anywhere, Anytime"
+      "venue": "19th Americas Conference on Information Systems, AMCIS 2013 - Hyperconnected World: Anything, Anywhere, Anytime",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520685",
@@ -922,7 +1762,14 @@
       "year": 2013,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-41221-9-3",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41221-9-3"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-41221-9-3",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520678",
@@ -930,13 +1777,27 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-28472-4_10",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-28472-4_10"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-28472-4_10",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520617",
       "title": "Armstrong databases: Validation, communication and consolidation of conceptual models with perfect test data",
       "year": 2012,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520657",
@@ -944,7 +1805,14 @@
       "year": 2012,
       "venue": "Journal of Computer and System Sciences",
       "doi": "10.1016/j.jcss.2011.12.012",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2011.12.012"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2011.12.012",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520680",
@@ -952,7 +1820,14 @@
       "year": 2012,
       "venue": "Journal of Systems and Software",
       "doi": "10.1016/j.jss.2012.02.017",
-      "openAccessUrl": "https://doi.org/10.1016/j.jss.2012.02.017"
+      "openAccessUrl": "https://doi.org/10.1016/j.jss.2012.02.017",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520668",
@@ -960,7 +1835,14 @@
       "year": 2012,
       "venue": "VLDB Journal",
       "doi": "10.1007/s00778-011-0239-5",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-011-0239-5"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-011-0239-5",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520636",
@@ -968,7 +1850,14 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-29038-1_6",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-29038-1_6"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-29038-1_6",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520643",
@@ -976,7 +1865,14 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-29892-9_18",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-29892-9_18"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-29892-9_18",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520663",
@@ -984,7 +1880,14 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-28279-9-8",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-28279-9-8"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-28279-9-8",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520704",
@@ -992,7 +1895,14 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-32600-4_9",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-32600-4_9"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-32600-4_9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520717",
@@ -1000,7 +1910,14 @@
       "year": 2012,
       "venue": "Annals of Mathematics and Artificial Intelligence",
       "doi": "10.1007/s10472-012-9304-z",
-      "openAccessUrl": "https://doi.org/10.1007/s10472-012-9304-z"
+      "openAccessUrl": "https://doi.org/10.1007/s10472-012-9304-z",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520674",
@@ -1008,7 +1925,14 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-33362-0_28",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-33362-0_28"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-33362-0_28",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520660",
@@ -1016,7 +1940,14 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-32621-9_19",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-32621-9_19"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-32621-9_19",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986504",
@@ -1024,7 +1955,14 @@
       "year": 2012,
       "venue": "Journal of Computing Science and Engineering",
       "doi": "10.5626/JCSE.2012.6.3.193",
-      "openAccessUrl": "https://doi.org/10.5626/JCSE.2012.6.3.193"
+      "openAccessUrl": "https://doi.org/10.5626/JCSE.2012.6.3.193",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520683",
@@ -1032,7 +1970,14 @@
       "year": 2012,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-31540-4_5",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-31540-4_5"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-31540-4_5",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520654",
@@ -1040,7 +1985,14 @@
       "year": 2012,
       "venue": "ACM Transactions on Database Systems",
       "doi": "10.1145/2188349.2188355",
-      "openAccessUrl": "https://doi.org/10.1145/2188349.2188355"
+      "openAccessUrl": "https://doi.org/10.1145/2188349.2188355",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520652",
@@ -1048,7 +2000,14 @@
       "year": 2011,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-24606-7_14",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-24606-7_14"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-24606-7_14",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520709",
@@ -1056,7 +2015,14 @@
       "year": 2011,
       "venue": "Annals of Mathematics and Artificial Intelligence",
       "doi": "10.1007/s10472-012-9275-0",
-      "openAccessUrl": "https://doi.org/10.1007/s10472-012-9275-0"
+      "openAccessUrl": "https://doi.org/10.1007/s10472-012-9275-0",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520664",
@@ -1064,13 +2030,27 @@
       "year": 2011,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-23088-2_9",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-23088-2_9"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-23088-2_9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520607",
       "title": "Coordination effectiveness in an agile software development context",
       "year": 2011,
-      "venue": "PACIS 2011 - 15th Pacific Asia Conference on Information Systems: Quality Research in Pacific"
+      "venue": "PACIS 2011 - 15th Pacific Asia Conference on Information Systems: Quality Research in Pacific",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520703",
@@ -1078,7 +2058,14 @@
       "year": 2011,
       "venue": "Computer Journal",
       "doi": "10.1093/comjnl/bxq073",
-      "openAccessUrl": "https://doi.org/10.1093/comjnl/bxq073"
+      "openAccessUrl": "https://doi.org/10.1093/comjnl/bxq073",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520708",
@@ -1086,7 +2073,14 @@
       "year": 2011,
       "venue": "Fundamenta Informaticae",
       "doi": "10.3233/FI-2011-385",
-      "openAccessUrl": "https://doi.org/10.3233/FI-2011-385"
+      "openAccessUrl": "https://doi.org/10.3233/FI-2011-385",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/64986506",
@@ -1094,7 +2088,14 @@
       "year": 2011,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-20920-8_14",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-20920-8_14"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-20920-8_14",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520641",
@@ -1102,7 +2103,14 @@
       "year": 2011,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-20920-8-14",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-20920-8-14"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-20920-8-14",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520707",
@@ -1110,7 +2118,14 @@
       "year": 2011,
       "venue": "Frontiers in Artificial Intelligence and Applications",
       "doi": "10.3233/978-1-60750-690-4-137",
-      "openAccessUrl": "https://doi.org/10.3233/978-1-60750-690-4-137"
+      "openAccessUrl": "https://doi.org/10.3233/978-1-60750-690-4-137",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520689",
@@ -1118,13 +2133,27 @@
       "year": 2010,
       "venue": "Information Processing Letters",
       "doi": "10.1016/j.ipl.2010.06.002",
-      "openAccessUrl": "https://doi.org/10.1016/j.ipl.2010.06.002"
+      "openAccessUrl": "https://doi.org/10.1016/j.ipl.2010.06.002",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520618",
       "title": "Chasing after secrets in relational databases",
       "year": 2010,
-      "venue": "CEUR Workshop Proceedings"
+      "venue": "CEUR Workshop Proceedings",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520719",
@@ -1132,7 +2161,14 @@
       "year": 2010,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-13739-6_11",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13739-6_11"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13739-6_11",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520687",
@@ -1140,7 +2176,14 @@
       "year": 2010,
       "venue": "Information Systems",
       "doi": "10.1016/j.is.2009.11.002",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2009.11.002"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2009.11.002",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520659",
@@ -1148,7 +2191,14 @@
       "year": 2010,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-15576-5_41",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15576-5_41"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15576-5_41",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520650",
@@ -1156,7 +2206,14 @@
       "year": 2010,
       "venue": "Proceedings of the Annual Hawaii International Conference on System Sciences",
       "doi": "10.1109/HICSS.2010.220",
-      "openAccessUrl": "https://doi.org/10.1109/HICSS.2010.220"
+      "openAccessUrl": "https://doi.org/10.1109/HICSS.2010.220",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520716",
@@ -1164,7 +2221,14 @@
       "year": 2010,
       "venue": "Information and Computation",
       "doi": "10.1016/j.ic.2008.09.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.ic.2008.09.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.ic.2008.09.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520701",
@@ -1172,7 +2236,14 @@
       "year": 2010,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-13824-9_12",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13824-9_12"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13824-9_12",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520640",
@@ -1180,13 +2251,27 @@
       "year": 2010,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-15684-7_12",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15684-7_12"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-15684-7_12",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520602",
       "title": "Sample-based decision support for specifying XML constraints",
       "year": 2010,
-      "venue": "Journal of Research and Practice in Information Technology"
+      "venue": "Journal of Research and Practice in Information Technology",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520700",
@@ -1194,7 +2279,14 @@
       "year": 2010,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-13824-9_14",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13824-9_14"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-13824-9_14",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520712",
@@ -1202,7 +2294,14 @@
       "year": 2010,
       "venue": "Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems",
       "doi": "10.1145/1807085.1807126",
-      "openAccessUrl": "https://doi.org/10.1145/1807085.1807126"
+      "openAccessUrl": "https://doi.org/10.1145/1807085.1807126",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520642",
@@ -1210,7 +2309,14 @@
       "year": 2009,
       "venue": "Frontiers in Artificial Intelligence and Applications",
       "doi": "10.3233/978-1-58603-957-8-85",
-      "openAccessUrl": "https://doi.org/10.3233/978-1-58603-957-8-85"
+      "openAccessUrl": "https://doi.org/10.3233/978-1-58603-957-8-85",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520656",
@@ -1218,7 +2324,14 @@
       "year": 2009,
       "venue": "Data and Knowledge Engineering",
       "doi": "10.1016/j.datak.2009.06.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.datak.2009.06.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2009.06.001",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520669",
@@ -1226,7 +2339,14 @@
       "year": 2009,
       "venue": "ACM Transactions on Database Systems",
       "doi": "10.1145/1538909.1538912",
-      "openAccessUrl": "https://doi.org/10.1145/1538909.1538912"
+      "openAccessUrl": "https://doi.org/10.1145/1538909.1538912",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520711",
@@ -1234,7 +2354,14 @@
       "year": 2009,
       "venue": "Proceedings of the 12th International Conference on Extending Database Technology: Advances in Database Technology, EDBT'09",
       "doi": "10.1145/1516360.1516402",
-      "openAccessUrl": "https://doi.org/10.1145/1516360.1516402"
+      "openAccessUrl": "https://doi.org/10.1145/1516360.1516402",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520681",
@@ -1242,7 +2369,14 @@
       "year": 2009,
       "venue": "Fundamenta Informaticae",
       "doi": "10.3233/FI-2009-0067",
-      "openAccessUrl": "https://doi.org/10.3233/FI-2009-0067"
+      "openAccessUrl": "https://doi.org/10.3233/FI-2009-0067",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520673",
@@ -1250,7 +2384,14 @@
       "year": 2009,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-04947-7_10",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-04947-7_10"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-04947-7_10",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520713",
@@ -1258,13 +2399,27 @@
       "year": 2009,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-642-02261-6_21",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-642-02261-6_21"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-642-02261-6_21",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520613",
       "title": "Weak functional dependencies: Full propositional expressiveness for the database practitioner",
       "year": 2009,
-      "venue": "Journal of Universal Computer Science"
+      "venue": "Journal of Universal Computer Science",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520686",
@@ -1272,7 +2427,14 @@
       "year": 2008,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-540-77684-0_7",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-540-77684-0_7"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-77684-0_7",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520710",
@@ -1280,7 +2442,14 @@
       "year": 2008,
       "venue": "Annals of Pure and Applied Logic",
       "doi": "10.1016/j.apal.2007.11.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.apal.2007.11.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.apal.2007.11.004",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520647",
@@ -1288,13 +2457,27 @@
       "year": 2008,
       "venue": "Acta Informatica",
       "doi": "10.1007/s00236-008-0080-5",
-      "openAccessUrl": "https://doi.org/10.1007/s00236-008-0080-5"
+      "openAccessUrl": "https://doi.org/10.1007/s00236-008-0080-5",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520600",
       "title": "Constraint acquisition you can Chase but you cannot find",
       "year": 2008,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520696",
@@ -1302,7 +2485,14 @@
       "year": 2008,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-540-85200-1_1",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-540-85200-1_1"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-85200-1_1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520667",
@@ -1310,7 +2500,14 @@
       "year": 2008,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-540-77684-0_22",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-540-77684-0_22"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-77684-0_22",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520670",
@@ -1318,7 +2515,14 @@
       "year": 2008,
       "venue": "International Journal of Foundations of Computer Science",
       "doi": "10.1142/S0129054108005899",
-      "openAccessUrl": "https://doi.org/10.1142/S0129054108005899"
+      "openAccessUrl": "https://doi.org/10.1142/S0129054108005899",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520645",
@@ -1326,25 +2530,53 @@
       "year": 2008,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/978-3-540-88594-8-5",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-540-88594-8-5"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-540-88594-8-5",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520615",
       "title": "Collection type constructors in entity-relationship modeling",
       "year": 2007,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520598",
       "title": "Efficient reasoning about XFDs with pre-image semantics",
       "year": 2007,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520612",
       "title": "English sentence structures and EER modeling",
       "year": 2007,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520677",
@@ -1352,25 +2584,53 @@
       "year": 2007,
       "venue": "Annals of Mathematics and Artificial Intelligence",
       "doi": "10.1007/s10472-007-9067-0",
-      "openAccessUrl": "https://doi.org/10.1007/s10472-007-9067-0"
+      "openAccessUrl": "https://doi.org/10.1007/s10472-007-9067-0",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520611",
       "title": "Numerical constraints for XML",
       "year": 2007,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520601",
       "title": "On inferences of full hierarchical dependencies",
       "year": 2007,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520616",
       "title": "Refinements in typed abstract state machines",
       "year": 2007,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520702",
@@ -1378,13 +2638,27 @@
       "year": 2007,
       "venue": "Proceedings - International Workshop on Database and Expert Systems Applications, DEXA",
       "doi": "10.1109/DEXA.2007.19",
-      "openAccessUrl": "https://doi.org/10.1109/DEXA.2007.19"
+      "openAccessUrl": "https://doi.org/10.1109/DEXA.2007.19",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520605",
       "title": "A strongly minimal axiomatisation of multivalued dependencies in incomplete database relations",
       "year": 2006,
-      "venue": "Proceedings - International Workshop on Database and Expert Systems Applications, DEXA"
+      "venue": "Proceedings - International Workshop on Database and Expert Systems Applications, DEXA",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520706",
@@ -1392,7 +2666,14 @@
       "year": 2006,
       "venue": "Electronic Notes in Theoretical Computer Science",
       "doi": "10.1016/j.entcs.2005.04.039",
-      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2005.04.039"
+      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2005.04.039",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520682",
@@ -1400,7 +2681,14 @@
       "year": 2006,
       "venue": "Theoretical Computer Science",
       "doi": "10.1016/j.tcs.2006.01.008",
-      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.01.008"
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.01.008",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520661",
@@ -1408,7 +2696,14 @@
       "year": 2006,
       "venue": "Theoretical Computer Science",
       "doi": "10.1016/j.tcs.2006.08.005",
-      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.08.005"
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.08.005",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520715",
@@ -1416,7 +2711,14 @@
       "year": 2006,
       "venue": "Theoretical Computer Science",
       "doi": "10.1016/j.tcs.2006.05.001",
-      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.05.001"
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2006.05.001",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520637",
@@ -1424,7 +2726,14 @@
       "year": 2006,
       "venue": "Annals of Mathematics and Artificial Intelligence",
       "doi": "10.1007/s10472-005-9015-9",
-      "openAccessUrl": "https://doi.org/10.1007/s10472-005-9015-9"
+      "openAccessUrl": "https://doi.org/10.1007/s10472-005-9015-9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520679",
@@ -1432,7 +2741,14 @@
       "year": 2006,
       "venue": "Theoretical Computer Science",
       "doi": "10.1016/j.tcs.2005.08.036",
-      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2005.08.036"
+      "openAccessUrl": "https://doi.org/10.1016/j.tcs.2005.08.036",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520638",
@@ -1440,13 +2756,27 @@
       "year": 2006,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/11663881_15",
-      "openAccessUrl": "https://doi.org/10.1007/11663881_15"
+      "openAccessUrl": "https://doi.org/10.1007/11663881_15",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520622",
       "title": "On the logical Implication of multivalued dependencies with null values",
       "year": 2006,
-      "venue": "Conferences in Research and Practice in Information Technology Series"
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520633",
@@ -1454,7 +2784,14 @@
       "year": 2006,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/11663881_9",
-      "openAccessUrl": "https://doi.org/10.1007/11663881_9"
+      "openAccessUrl": "https://doi.org/10.1007/11663881_9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520662",
@@ -1462,7 +2799,14 @@
       "year": 2006,
       "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
       "doi": "10.1007/11965893_8",
-      "openAccessUrl": "https://doi.org/10.1007/11965893_8"
+      "openAccessUrl": "https://doi.org/10.1007/11965893_8",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520684",
@@ -1470,13 +2814,27 @@
       "year": 2005,
       "venue": "Proceedings - International Workshop on Database and Expert Systems Applications, DEXA",
       "doi": "10.1109/DEXA.2005.98",
-      "openAccessUrl": "https://doi.org/10.1109/DEXA.2005.98"
+      "openAccessUrl": "https://doi.org/10.1109/DEXA.2005.98",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520620",
       "title": "Functional dependencies over XML documents with DTDs",
       "year": 2005,
-      "venue": "Acta Cybernetica"
+      "venue": "Acta Cybernetica",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520690",
@@ -1484,7 +2842,14 @@
       "year": 2005,
       "venue": "Electronic Notes in Theoretical Computer Science",
       "doi": "10.1016/j.entcs.2004.04.051",
-      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2004.04.051"
+      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2004.04.051",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520655",
@@ -1492,37 +2857,79 @@
       "year": 2004,
       "venue": "Electronic Notes in Theoretical Computer Science",
       "doi": "10.1016/j.entcs.2003.12.012",
-      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2003.12.012"
+      "openAccessUrl": "https://doi.org/10.1016/j.entcs.2003.12.012",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520621",
       "title": "Distance functional dependencies in the presence of complex values",
       "year": 2004,
-      "venue": "Acta Cybernetica"
+      "venue": "Acta Cybernetica",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520606",
       "title": "Error-robust functional dependencies",
       "year": 2004,
-      "venue": "Fundamenta Informaticae"
+      "venue": "Fundamenta Informaticae",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520624",
       "title": "Multi-valued dependencies in the presence of lists",
       "year": 2004,
-      "venue": "Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems"
+      "venue": "Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520608",
       "title": "Reasoning about functional and multi-valued dependencies in the presence of lists",
       "year": 2004,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520627",
       "title": "Weak functional dependencies in higher-order datamodels - The case of the union constructor",
       "year": 2004,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520635",
@@ -1530,19 +2937,40 @@
       "year": 2003,
       "venue": "Information Processing Letters",
       "doi": "10.1016/S0020-0190(03)00267-9",
-      "openAccessUrl": "https://doi.org/10.1016/S0020-0190(03)00267-9"
+      "openAccessUrl": "https://doi.org/10.1016/S0020-0190(03)00267-9",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520604",
       "title": "Consistency enforcement in databases",
       "year": 2003,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520631",
       "title": "More functional dependencies for XML",
       "year": 2003,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520676",
@@ -1550,19 +2978,40 @@
       "year": 2003,
       "venue": "Electronic Notes in Theoretical Computer Science",
       "doi": "10.1016/S1571-0661(04)80849-1",
-      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)80849-1"
+      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)80849-1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520610",
       "title": "An arithmetic theory of consistency enforcement",
       "year": 2002,
-      "venue": "Acta Cybernetica"
+      "venue": "Acta Cybernetica",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520599",
       "title": "Towards a tailored theory of consistency enforcement in databases",
       "year": 2002,
-      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520646",
@@ -1570,7 +3019,14 @@
       "year": 2002,
       "venue": "Electronic Notes in Theoretical Computer Science",
       "doi": "10.1016/S1571-0661(04)00306-8",
-      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)00306-8"
+      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)00306-8",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0002-1816-2863/work/25520688",
@@ -1578,7 +3034,14 @@
       "year": 2001,
       "venue": "Electronic Notes in Theoretical Computer Science",
       "doi": "10.1016/S1571-0661(04)80885-5",
-      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)80885-5"
+      "openAccessUrl": "https://doi.org/10.1016/S1571-0661(04)80885-5",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "position": 1
+        }
+      ]
     }
   ]
 }

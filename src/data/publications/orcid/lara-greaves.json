@@ -9,7 +9,14 @@
       "year": 2024,
       "venue": "EXPLORE",
       "doi": "10.1016/j.explore.2024.05.005",
-      "openAccessUrl": "https://doi.org/10.1016/j.explore.2024.05.005"
+      "openAccessUrl": "https://doi.org/10.1016/j.explore.2024.05.005",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971055",
@@ -17,7 +24,14 @@
       "year": 2024,
       "venue": "Journal of the Royal Society of New Zealand",
       "doi": "10.1080/03036758.2022.2154368",
-      "openAccessUrl": "https://doi.org/10.1080/03036758.2022.2154368"
+      "openAccessUrl": "https://doi.org/10.1080/03036758.2022.2154368",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971064",
@@ -25,7 +39,14 @@
       "year": 2024,
       "venue": "Journal of Survey Statistics and Methodology",
       "doi": "10.1093/jssam/smad014",
-      "openAccessUrl": "https://doi.org/10.1093/jssam/smad014"
+      "openAccessUrl": "https://doi.org/10.1093/jssam/smad014",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971062",
@@ -33,14 +54,28 @@
       "year": 2024,
       "venue": "Representation",
       "doi": "10.1080/00344893.2023.2207172",
-      "openAccessUrl": "https://doi.org/10.1080/00344893.2023.2207172"
+      "openAccessUrl": "https://doi.org/10.1080/00344893.2023.2207172",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971410",
       "title": "A Team of Five Million?: The 2020 ‘Covid-19’ New Zealand General Election",
       "year": 2024,
       "doi": "10.22459/tfm.2024",
-      "openAccessUrl": "https://doi.org/10.22459/tfm.2024"
+      "openAccessUrl": "https://doi.org/10.22459/tfm.2024",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971070",
@@ -48,7 +83,14 @@
       "year": 2023,
       "venue": "The Journal of Sex Research",
       "doi": "10.1080/00224499.2023.2289517",
-      "openAccessUrl": "https://doi.org/10.1080/00224499.2023.2289517"
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2023.2289517",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971085",
@@ -56,7 +98,14 @@
       "year": 2023,
       "venue": "Politics &amp; Gender",
       "doi": "10.1017/s1743923x22000575",
-      "openAccessUrl": "https://doi.org/10.1017/s1743923x22000575"
+      "openAccessUrl": "https://doi.org/10.1017/s1743923x22000575",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971082",
@@ -64,7 +113,14 @@
       "year": 2023,
       "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
       "doi": "10.1080/1177083x.2022.2156356",
-      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2156356"
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2156356",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971091",
@@ -72,7 +128,14 @@
       "year": 2023,
       "venue": "Social Science &amp; Medicine",
       "doi": "10.1016/j.socscimed.2023.116028",
-      "openAccessUrl": "https://doi.org/10.1016/j.socscimed.2023.116028"
+      "openAccessUrl": "https://doi.org/10.1016/j.socscimed.2023.116028",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971095",
@@ -80,7 +143,14 @@
       "year": 2023,
       "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
       "doi": "10.1080/1177083x.2022.2109492",
-      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2109492"
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2022.2109492",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971134",
@@ -88,7 +158,14 @@
       "year": 2023,
       "venue": "Current Psychology",
       "doi": "10.1007/s12144-021-01636-4",
-      "openAccessUrl": "https://doi.org/10.1007/s12144-021-01636-4"
+      "openAccessUrl": "https://doi.org/10.1007/s12144-021-01636-4",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971105",
@@ -96,7 +173,14 @@
       "year": 2023,
       "venue": "Terrorism and Political Violence",
       "doi": "10.1080/09546553.2021.1877673",
-      "openAccessUrl": "https://doi.org/10.1080/09546553.2021.1877673"
+      "openAccessUrl": "https://doi.org/10.1080/09546553.2021.1877673",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971099",
@@ -104,7 +188,14 @@
       "year": 2023,
       "venue": "Ethnic and Racial Studies",
       "doi": "10.1080/01419870.2022.2081512",
-      "openAccessUrl": "https://doi.org/10.1080/01419870.2022.2081512"
+      "openAccessUrl": "https://doi.org/10.1080/01419870.2022.2081512",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971116",
@@ -112,7 +203,14 @@
       "year": 2022,
       "venue": "Frontiers in Psychology",
       "doi": "10.3389/fpsyg.2022.1041957",
-      "openAccessUrl": "https://doi.org/10.3389/fpsyg.2022.1041957"
+      "openAccessUrl": "https://doi.org/10.3389/fpsyg.2022.1041957",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971141",
@@ -120,7 +218,14 @@
       "year": 2022,
       "venue": "The Lancet Regional Health - Western Pacific",
       "doi": "10.1016/j.lanwpc.2022.100554",
-      "openAccessUrl": "https://doi.org/10.1016/j.lanwpc.2022.100554"
+      "openAccessUrl": "https://doi.org/10.1016/j.lanwpc.2022.100554",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971117",
@@ -128,7 +233,14 @@
       "year": 2022,
       "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
       "doi": "10.1080/1177083x.2021.1993938",
-      "openAccessUrl": "https://doi.org/10.1080/1177083x.2021.1993938"
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2021.1993938",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971119",
@@ -136,7 +248,14 @@
       "year": 2021,
       "venue": "European Journal of Political Research Political Data Yearbook",
       "doi": "10.1111/2047-8852.12318",
-      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12318"
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12318",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971126",
@@ -144,7 +263,14 @@
       "year": 2021,
       "venue": "Archives of Sexual Behavior",
       "doi": "10.1007/s10508-021-02038-0",
-      "openAccessUrl": "https://doi.org/10.1007/s10508-021-02038-0"
+      "openAccessUrl": "https://doi.org/10.1007/s10508-021-02038-0",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971128",
@@ -152,7 +278,14 @@
       "year": 2021,
       "venue": "Genealogy",
       "doi": "10.3390/genealogy5020054",
-      "openAccessUrl": "https://doi.org/10.3390/genealogy5020054"
+      "openAccessUrl": "https://doi.org/10.3390/genealogy5020054",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971132",
@@ -160,7 +293,14 @@
       "year": 2021,
       "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
       "doi": "10.1080/1177083x.2020.1786413",
-      "openAccessUrl": "https://doi.org/10.1080/1177083x.2020.1786413"
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2020.1786413",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971226",
@@ -168,7 +308,14 @@
       "year": 2020,
       "venue": "European Journal of Political Research Political Data Yearbook",
       "doi": "10.1111/2047-8852.12278",
-      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12278"
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12278",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971241",
@@ -176,7 +323,14 @@
       "year": 2020,
       "venue": "Political Science",
       "doi": "10.1080/00323187.2021.1898995",
-      "openAccessUrl": "https://doi.org/10.1080/00323187.2021.1898995"
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2021.1898995",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971245",
@@ -184,7 +338,14 @@
       "year": 2020,
       "venue": "American Psychologist",
       "doi": "10.1037/amp0000662",
-      "openAccessUrl": "https://doi.org/10.1037/amp0000662"
+      "openAccessUrl": "https://doi.org/10.1037/amp0000662",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971248",
@@ -192,13 +353,27 @@
       "year": 2020,
       "venue": "Political Science",
       "doi": "10.1080/00323187.2020.1818587",
-      "openAccessUrl": "https://doi.org/10.1080/00323187.2020.1818587"
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2020.1818587",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515917",
       "title": "Comparative study of attitudes to religious groups in New Zealand reveals Muslim-specific prejudice",
       "year": 2020,
-      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online"
+      "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515913",
@@ -206,7 +381,14 @@
       "year": 2019,
       "venue": "Journal of Sex Research",
       "doi": "10.1080/00224499.2019.1667947",
-      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1667947"
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1667947",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971276",
@@ -214,7 +396,14 @@
       "year": 2019,
       "venue": "The Journal of Sex Research",
       "doi": "10.1080/00224499.2019.1667947",
-      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1667947"
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1667947",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515886",
@@ -222,7 +411,14 @@
       "year": 2019,
       "venue": "The Journal of Sex Research",
       "doi": "10.1080/00224499.2019.1687640",
-      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1687640"
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1687640",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971230",
@@ -230,7 +426,14 @@
       "year": 2020,
       "venue": "The Journal of Sex Research",
       "doi": "10.1080/00224499.2019.1687640",
-      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1687640"
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1687640",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515907",
@@ -238,7 +441,14 @@
       "year": 2019,
       "venue": "The Journal of Sex Research",
       "doi": "10.1080/00224499.2019.1568376",
-      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1568376"
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1568376",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971293",
@@ -246,7 +456,14 @@
       "year": 2019,
       "venue": "The Journal of Sex Research",
       "doi": "10.1080/00224499.2019.1568376",
-      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1568376"
+      "openAccessUrl": "https://doi.org/10.1080/00224499.2019.1568376",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515916",
@@ -254,22 +471,50 @@
       "year": 2019,
       "venue": "Personality and Individual Differences",
       "doi": "10.1016/j.paid.2019.05.023",
-      "openAccessUrl": "https://doi.org/10.1016/j.paid.2019.05.023"
+      "openAccessUrl": "https://doi.org/10.1016/j.paid.2019.05.023",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515873",
       "title": "Brief of Evidence",
-      "year": 2019
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515879",
       "title": "E Tū Whānau Instrument Report",
-      "year": 2019
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515878",
       "title": "E Tū Whānau Questionnaire Development Literature Review",
-      "year": 2019
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515914",
@@ -277,13 +522,27 @@
       "year": 2019,
       "venue": "Psychology of Sexual Orientation and Gender Diversity",
       "doi": "10.1037/sgd0000328",
-      "openAccessUrl": "https://doi.org/10.1037/sgd0000328"
+      "openAccessUrl": "https://doi.org/10.1037/sgd0000328",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515877",
       "title": "Methods of sampling in quantitative health research",
       "year": 2019,
-      "venue": "Researching Health: Qualitative, Quantitative, and Mixed Methods"
+      "venue": "Researching Health: Qualitative, Quantitative, and Mixed Methods",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515881",
@@ -291,7 +550,14 @@
       "year": 2019,
       "venue": "European Journal of Political Research Political Data Yearbook",
       "doi": "10.1111/2047-8852.12254",
-      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12254"
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12254",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971308",
@@ -299,7 +565,14 @@
       "year": 2019,
       "venue": "European Journal of Political Research Political Data Yearbook",
       "doi": "10.1111/2047-8852.12254",
-      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12254"
+      "openAccessUrl": "https://doi.org/10.1111/2047-8852.12254",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515915",
@@ -307,37 +580,86 @@
       "year": 2019,
       "venue": "Testing, Psychometrics, Methodology in Applied Psychology",
       "doi": "10.4473/TPM26.3.6",
-      "openAccessUrl": "https://doi.org/10.4473/TPM26.3.6"
+      "openAccessUrl": "https://doi.org/10.4473/TPM26.3.6",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515875",
       "title": "RainbowYOUTH Annual Membership Survey Report 2018",
-      "year": 2019
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515874",
       "title": "Sexual Orientation in the NZAVS 2013-17",
-      "year": 2019
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515872",
       "title": "A Probabilistic Online Panel for New Zealand",
-      "year": 2018
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515870",
       "title": "Has Support for Direct Democracy Decreased Since the Flag Referendums? Findings from a New Zealand National Survey",
-      "year": 2018
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515871",
       "title": "Populism and the 2017 Election: The Components, Prevalence, and Correlates of Populism",
-      "year": 2018
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515869",
       "title": "Comparing Pansexual and Bisexual Identified Participants on Demographics, Well-Being, and Politics in a New Zealand National Probability Sample",
-      "year": 2018
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515918",
@@ -345,7 +667,14 @@
       "year": 2018,
       "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
       "doi": "10.1080/1177083X.2018.1530267",
-      "openAccessUrl": "https://doi.org/10.1080/1177083X.2018.1530267"
+      "openAccessUrl": "https://doi.org/10.1080/1177083X.2018.1530267",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971300",
@@ -353,13 +682,27 @@
       "year": 2018,
       "venue": "Kōtuitui: New Zealand Journal of Social Sciences Online",
       "doi": "10.1080/1177083x.2018.1530267",
-      "openAccessUrl": "https://doi.org/10.1080/1177083x.2018.1530267"
+      "openAccessUrl": "https://doi.org/10.1080/1177083x.2018.1530267",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515889",
       "title": "[Review of the book \"A bark but no bite: Inequality and the 2014 New Zealand general election\" by Jack Vowles, Hilde Coffé, and Jennifer Curtin]",
       "year": 2018,
-      "venue": "Political Science"
+      "venue": "Political Science",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515893",
@@ -367,7 +710,14 @@
       "year": 2017,
       "venue": "Archives of Sexual Behavior",
       "doi": "10.1007/s10508-017-0977-6",
-      "openAccessUrl": "https://doi.org/10.1007/s10508-017-0977-6"
+      "openAccessUrl": "https://doi.org/10.1007/s10508-017-0977-6",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971327",
@@ -375,7 +725,14 @@
       "year": 2017,
       "venue": "Archives of Sexual Behavior",
       "doi": "10.1007/s10508-017-0977-6",
-      "openAccessUrl": "https://doi.org/10.1007/s10508-017-0977-6"
+      "openAccessUrl": "https://doi.org/10.1007/s10508-017-0977-6",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515905",
@@ -383,7 +740,14 @@
       "year": 2017,
       "venue": "Sex Roles",
       "doi": "10.1007/s11199-017-0752-0",
-      "openAccessUrl": "https://doi.org/10.1007/s11199-017-0752-0"
+      "openAccessUrl": "https://doi.org/10.1007/s11199-017-0752-0",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971360",
@@ -391,7 +755,14 @@
       "year": 2017,
       "venue": "Sex Roles",
       "doi": "10.1007/s11199-017-0752-0",
-      "openAccessUrl": "https://doi.org/10.1007/s11199-017-0752-0"
+      "openAccessUrl": "https://doi.org/10.1007/s11199-017-0752-0",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515885",
@@ -399,7 +770,14 @@
       "year": 2017,
       "venue": "The British Journal of Social Psychology",
       "doi": "10.1111/bjso.12192",
-      "openAccessUrl": "https://doi.org/10.1111/bjso.12192"
+      "openAccessUrl": "https://doi.org/10.1111/bjso.12192",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971334",
@@ -407,7 +785,14 @@
       "year": 2017,
       "venue": "British Journal of Social Psychology",
       "doi": "10.1111/bjso.12192",
-      "openAccessUrl": "https://doi.org/10.1111/bjso.12192"
+      "openAccessUrl": "https://doi.org/10.1111/bjso.12192",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515890",
@@ -415,7 +800,14 @@
       "year": 2017,
       "venue": "Political Science",
       "doi": "10.1080/00323187.2017.1418177",
-      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1418177"
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1418177",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971332",
@@ -423,21 +815,42 @@
       "year": 2017,
       "venue": "Political Science",
       "doi": "10.1080/00323187.2017.1418177",
-      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1418177"
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1418177",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515860",
       "title": "Māori, a Politicized Identity: Indigenous Identity, Voter Turnout, Protest, and Political Party Support in Aotearoa New Zealand",
       "year": 2017,
       "doi": "10.1037/ipp0000089",
-      "openAccessUrl": "https://doi.org/10.1037/ipp0000089"
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000089",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515867",
       "title": "Māori, a Politicized Identity: Indigenous Identity, Voter Turnout, Protest, and Political Party Support in Aotearoa New Zealand",
       "year": 2017,
       "doi": "10.1037/ipp0000089",
-      "openAccessUrl": "https://doi.org/10.1037/ipp0000089"
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000089",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515911",
@@ -445,19 +858,40 @@
       "year": 2018,
       "venue": "International Perspectives in Psychology: Research, Practice, Consultation",
       "doi": "10.1037/ipp0000089",
-      "openAccessUrl": "https://doi.org/10.1037/ipp0000089"
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000089",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515868",
       "title": "Colonized and Queer: Ethnicity and Sexual Orientation in a New Zealand National Sample",
-      "year": 2017
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515859",
       "title": "The Diversity and Prevalence of Sexual Orientation Self-Labels in a New Zealand National Sample",
       "year": 2017,
       "doi": "10.1007/s10508-016-0857-5",
-      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5"
+      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515906",
@@ -465,7 +899,14 @@
       "year": 2017,
       "venue": "Archives of Sexual Behavior",
       "doi": "10.1007/s10508-016-0857-5",
-      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5"
+      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971338",
@@ -473,7 +914,14 @@
       "year": 2017,
       "venue": "Archives of Sexual Behavior",
       "doi": "10.1007/s10508-016-0857-5",
-      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5"
+      "openAccessUrl": "https://doi.org/10.1007/s10508-016-0857-5",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515901",
@@ -481,7 +929,14 @@
       "year": 2017,
       "venue": "Political Science",
       "doi": "10.1080/00323187.2017.1321589",
-      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1321589"
+      "openAccessUrl": "https://doi.org/10.1080/00323187.2017.1321589",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515902",
@@ -489,7 +944,14 @@
       "year": 2017,
       "venue": "Personality and Individual Differences",
       "doi": "10.1016/j.paid.2016.09.026",
-      "openAccessUrl": "https://doi.org/10.1016/j.paid.2016.09.026"
+      "openAccessUrl": "https://doi.org/10.1016/j.paid.2016.09.026",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971344",
@@ -497,29 +959,64 @@
       "year": 2017,
       "venue": "Personality and Individual Differences",
       "doi": "10.1016/j.paid.2016.09.026",
-      "openAccessUrl": "https://doi.org/10.1016/j.paid.2016.09.026"
+      "openAccessUrl": "https://doi.org/10.1016/j.paid.2016.09.026",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515880",
       "title": "An Investigation into the Feasibility of an Online National Probability Panel Study in New Zealand",
-      "year": 2017
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515912",
       "title": "Predicting party vote sentiment: Identifying the demographic and psychological correlates of party preference in two large datasets",
       "year": 2017,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515903",
       "title": "The multidimensional model of Māori identity and cultural engagement: Measurement equivalence across diverse Māori groups",
       "year": 2017,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515865",
       "title": "Predicting Voter Sentiment: Demographics and Psychological Variables Inform Intended Vote in Two Large National Datasets",
-      "year": 2016
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515909",
@@ -527,7 +1024,14 @@
       "year": 2016,
       "venue": "Religion, Brain & Behavior",
       "doi": "10.1080/2153599X.2015.1026926",
-      "openAccessUrl": "https://doi.org/10.1080/2153599X.2015.1026926"
+      "openAccessUrl": "https://doi.org/10.1080/2153599X.2015.1026926",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971351",
@@ -535,7 +1039,14 @@
       "year": 2016,
       "venue": "Religion, Brain &amp; Behavior",
       "doi": "10.1080/2153599x.2015.1026926",
-      "openAccessUrl": "https://doi.org/10.1080/2153599x.2015.1026926"
+      "openAccessUrl": "https://doi.org/10.1080/2153599x.2015.1026926",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515892",
@@ -543,7 +1054,14 @@
       "year": 2016,
       "venue": "Personality and Social Psychology Bulletin",
       "doi": "10.1177/0146167216653936",
-      "openAccessUrl": "https://doi.org/10.1177/0146167216653936"
+      "openAccessUrl": "https://doi.org/10.1177/0146167216653936",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971364",
@@ -551,17 +1069,38 @@
       "year": 2016,
       "venue": "Personality and Social Psychology Bulletin",
       "doi": "10.1177/0146167216653936",
-      "openAccessUrl": "https://doi.org/10.1177/0146167216653936"
+      "openAccessUrl": "https://doi.org/10.1177/0146167216653936",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515866",
       "title": "The Asexual Identity in a National Sample",
-      "year": 2016
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515858",
       "title": "Personality and Demographics across Sexual Orientations in a National Probability Sample",
-      "year": 2016
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515910",
@@ -569,7 +1108,14 @@
       "year": 2016,
       "venue": "International Perspectives in Psychology: Research, Practice, Consultation",
       "doi": "10.1037/ipp0000059",
-      "openAccessUrl": "https://doi.org/10.1037/ipp0000059"
+      "openAccessUrl": "https://doi.org/10.1037/ipp0000059",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515900",
@@ -577,7 +1123,14 @@
       "year": 2015,
       "venue": "Cultural Diversity & Ethnic Minority Psychology",
       "doi": "10.1037/cdp0000033",
-      "openAccessUrl": "https://doi.org/10.1037/cdp0000033"
+      "openAccessUrl": "https://doi.org/10.1037/cdp0000033",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515888",
@@ -585,7 +1138,14 @@
       "year": 2015,
       "venue": "Sex Roles",
       "doi": "10.1007/s11199-015-0517-6",
-      "openAccessUrl": "https://doi.org/10.1007/s11199-015-0517-6"
+      "openAccessUrl": "https://doi.org/10.1007/s11199-015-0517-6",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971370",
@@ -593,7 +1153,14 @@
       "year": 2015,
       "venue": "Sex Roles",
       "doi": "10.1007/s11199-015-0517-6",
-      "openAccessUrl": "https://doi.org/10.1007/s11199-015-0517-6"
+      "openAccessUrl": "https://doi.org/10.1007/s11199-015-0517-6",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515891",
@@ -601,12 +1168,26 @@
       "year": 2015,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0124278",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0124278"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0124278",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515864",
       "title": "Measuring Self-Labelled Sexual Orientation: Development of a Multi-tier Coding Scheme for Sexual Identity",
-      "year": 2015
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515883",
@@ -614,7 +1195,14 @@
       "year": 2015,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0121950",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121950"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121950",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971379",
@@ -622,7 +1210,14 @@
       "year": 2015,
       "venue": "PLOS ONE",
       "doi": "10.1371/journal.pone.0121950",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121950"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pone.0121950",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515882",
@@ -630,7 +1225,14 @@
       "year": 2015,
       "venue": "Personality and Social Psychology Bulletin",
       "doi": "10.1177/0146167214559710",
-      "openAccessUrl": "https://doi.org/10.1177/0146167214559710"
+      "openAccessUrl": "https://doi.org/10.1177/0146167214559710",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971383",
@@ -638,57 +1240,120 @@
       "year": 2015,
       "venue": "Personality and Social Psychology Bulletin",
       "doi": "10.1177/0146167214559710",
-      "openAccessUrl": "https://doi.org/10.1177/0146167214559710"
+      "openAccessUrl": "https://doi.org/10.1177/0146167214559710",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515896",
       "title": "Identifying distinct subgroups of green voters: A latent profile analysis of crux values relating to Green Party support",
       "year": 2015,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515898",
       "title": "Profiling the fence-sitters in New Zealand elections: A latent class model of political voting blocs",
       "year": 2015,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515895",
       "title": "Regional differences in the personality of New Zealanders",
       "year": 2015,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515876",
       "title": "Religion and parental cooperation: An empirical test of Slone’s sexual signalling model",
       "year": 2015,
-      "venue": "The Attraction of Religion: A Sexual Selectionist Account"
+      "venue": "The Attraction of Religion: A Sexual Selectionist Account",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515894",
       "title": "Socio-structural and psychological foundations of climate change beliefs",
       "year": 2015,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515897",
       "title": "The Facebook feedback hypothesis of personality and social belonging",
       "year": 2015,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515857",
       "title": "Identity and Demographics Predict Voter Enrolment on the Māori Electoral Roll: Findings from a National Sample",
       "year": 2014,
       "doi": "10.20507/MAIJournal.2017.6.1.1",
-      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1"
+      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515863",
       "title": "Identity and Demographics Predict Voter Enrolment on the Māori Electoral Roll: Findings from a National Sample",
       "year": 2015,
       "doi": "10.20507/MAIJournal.2017.6.1.1",
-      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1"
+      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515904",
@@ -696,17 +1361,38 @@
       "year": 2017,
       "venue": "MAI Journal",
       "doi": "10.20507/MAIJournal.2017.6.1.1",
-      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1"
+      "openAccessUrl": "https://doi.org/10.20507/MAIJournal.2017.6.1.1",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515862",
       "title": "Māori Identity and Religion: Māori Spiritual Concepts are not associated with Christianity",
-      "year": 2014
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515861",
       "title": "Profiling the Fence-Sitters in New Zealand Elections: A Latent Profile Model of Political Voting Blocs",
-      "year": 2014
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515887",
@@ -714,7 +1400,14 @@
       "year": 2014,
       "venue": "Social Justice Research",
       "doi": "10.1007/s11211-014-0213-7",
-      "openAccessUrl": "https://doi.org/10.1007/s11211-014-0213-7"
+      "openAccessUrl": "https://doi.org/10.1007/s11211-014-0213-7",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971387",
@@ -722,23 +1415,51 @@
       "year": 2014,
       "venue": "Social Justice Research",
       "doi": "10.1007/s11211-014-0213-7",
-      "openAccessUrl": "https://doi.org/10.1007/s11211-014-0213-7"
+      "openAccessUrl": "https://doi.org/10.1007/s11211-014-0213-7",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515856",
       "title": "Culture as protection? A latent class model of Māori identity signatures: differentiating cultural engagement behaviours and mental, physical, and financial health outcomes",
-      "year": 2014
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515908",
       "title": "Politics and post-colonial ideology: Historical negation and symbolic exclusion predict political party preference",
       "year": 2014,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515855",
       "title": "Profiling the Fence-Sitters in New Zealand Elections: A Latent Class Model of Political Voting Blocs",
-      "year": 2013
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515899",
@@ -746,7 +1467,14 @@
       "year": 2013,
       "venue": "Journal of Research in Personality",
       "doi": "10.1016/j.jrp.2013.09.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jrp.2013.09.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jrp.2013.09.004",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/159971402",
@@ -754,19 +1482,40 @@
       "year": 2013,
       "venue": "Journal of Research in Personality",
       "doi": "10.1016/j.jrp.2013.09.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jrp.2013.09.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jrp.2013.09.004",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515884",
       "title": "Sense of community in New Zealand neighbourhoods: A multi-level model predicting social capital",
       "year": 2013,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "orcid:0000-0003-0537-7125/work/68515854",
       "title": "How much happiness does money buy? Income and subjective well-being in New Zealand",
       "year": 2012,
-      "venue": "New Zealand Journal of Psychology"
+      "venue": "New Zealand Journal of Psychology",
+      "authors": [
+        {
+          "name": "Lara Greaves",
+          "orcidId": "0000-0003-0537-7125",
+          "position": 1
+        }
+      ]
     }
   ]
 }

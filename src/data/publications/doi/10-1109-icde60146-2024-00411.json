@@ -3,5 +3,18 @@
   "title": "Entity/Relationship Profiling",
   "year": 2024,
   "doi": "10.1109/icde60146.2024.00411",
-  "openAccessUrl": "https://doi.org/10.1109/icde60146.2024.00411"
+  "openAccessUrl": "https://doi.org/10.1109/icde60146.2024.00411",
+  "authors": [
+    {
+      "name": "Henning Köehler",
+      "openAlexId": "https://openalex.org/A5006183138",
+      "position": 1
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 2
+    }
+  ]
 }

@@ -4,5 +4,25 @@
   "year": 2024,
   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
   "doi": "10.1101/2024.11.13.623479",
-  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/13/2024.11.13.623479.full.pdf"
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/13/2024.11.13.623479.full.pdf",
+  "authors": [
+    {
+      "name": "William S. Pearman",
+      "orcidId": "0000-0002-7265-8499",
+      "openAlexId": "https://openalex.org/A5012783298",
+      "position": 1
+    },
+    {
+      "name": "Allen G. Rodrigo",
+      "orcidId": "0000-0002-8327-7317",
+      "openAlexId": "https://openalex.org/A5015045944",
+      "position": 2
+    },
+    {
+      "name": "Anna W. Santure",
+      "orcidId": "0000-0001-8965-1042",
+      "openAlexId": "https://openalex.org/A5079336422",
+      "position": 3
+    }
+  ]
 }

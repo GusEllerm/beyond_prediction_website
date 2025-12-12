@@ -4,5 +4,25 @@
   "year": 2024,
   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
   "doi": "10.1101/2024.09.25.615070",
-  "openAccessUrl": "https://doi.org/10.1101/2024.09.25.615070"
+  "openAccessUrl": "https://doi.org/10.1101/2024.09.25.615070",
+  "authors": [
+    {
+      "name": "Jonathan Klawitter",
+      "orcidId": "0000-0001-8917-5269",
+      "openAlexId": "https://openalex.org/A5077181010",
+      "position": 1
+    },
+    {
+      "name": "Remco Bouckaert",
+      "orcidId": "0000-0001-6765-3813",
+      "openAlexId": "https://openalex.org/A5027519870",
+      "position": 2
+    },
+    {
+      "name": "Alexei J. Drummond",
+      "orcidId": "0000-0003-4454-2576",
+      "openAlexId": "https://openalex.org/A5079724732",
+      "position": 3
+    }
+  ]
 }

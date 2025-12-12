@@ -9,7 +9,31 @@
       "year": 2025,
       "venue": "Lecture notes in computer science",
       "doi": "https://doi.org/10.1007/978-3-032-08623-5_14",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-032-08623-5_14"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-032-08623-5_14",
+      "authors": [
+        {
+          "name": "Ilya Litvinenko",
+          "openAlexId": "https://openalex.org/A5074491797",
+          "position": 1
+        },
+        {
+          "name": "Philipp Skavantzos",
+          "orcidId": "0000-0001-6034-7485",
+          "openAlexId": "https://openalex.org/A5031762182",
+          "position": 2
+        },
+        {
+          "name": "Henning Köehler",
+          "openAlexId": "https://openalex.org/A5006183138",
+          "position": 3
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414245129",
@@ -17,7 +41,20 @@
       "year": 2025,
       "venue": "Proceedings of the VLDB Endowment",
       "doi": "https://doi.org/10.14778/3750601.3750672",
-      "openAccessUrl": "https://doi.org/10.14778/3750601.3750672"
+      "openAccessUrl": "https://doi.org/10.14778/3750601.3750672",
+      "authors": [
+        {
+          "name": "Henning Köehler",
+          "openAlexId": "https://openalex.org/A5006183138",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414267096",
@@ -25,7 +62,21 @@
       "year": 2025,
       "venue": "Proceedings of the VLDB Endowment",
       "doi": "https://doi.org/10.14778/3750601.3750617",
-      "openAccessUrl": "https://doi.org/10.14778/3750601.3750617"
+      "openAccessUrl": "https://doi.org/10.14778/3750601.3750617",
+      "authors": [
+        {
+          "name": "Philipp Skavantzos",
+          "orcidId": "0000-0001-6034-7485",
+          "openAlexId": "https://openalex.org/A5031762182",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411992158",
@@ -33,7 +84,38 @@
       "year": 2025,
       "venue": "Data & Knowledge Engineering",
       "doi": "https://doi.org/10.1016/j.datak.2025.102487",
-      "openAccessUrl": "https://doi.org/10.1016/j.datak.2025.102487"
+      "openAccessUrl": "https://doi.org/10.1016/j.datak.2025.102487",
+      "authors": [
+        {
+          "name": "João Paulo A. Almeida",
+          "orcidId": "0000-0002-9819-3781",
+          "openAlexId": "https://openalex.org/A5063817933",
+          "position": 1
+        },
+        {
+          "name": "José Borbinha",
+          "orcidId": "0000-0001-5463-8438",
+          "openAlexId": "https://openalex.org/A5040049937",
+          "position": 2
+        },
+        {
+          "name": "Giancarlo Guizzardi",
+          "openAlexId": "https://openalex.org/A5065297243",
+          "position": 3
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 4
+        },
+        {
+          "name": "Jelena Zdravković",
+          "orcidId": "0000-0002-0870-0330",
+          "openAlexId": "https://openalex.org/A5008928633",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411811250",
@@ -41,7 +123,20 @@
       "year": 2025,
       "venue": "Lecture notes in computer science",
       "doi": "https://doi.org/10.1007/978-981-96-8889-0_29",
-      "openAccessUrl": "https://doi.org/10.1007/978-981-96-8889-0_29"
+      "openAccessUrl": "https://doi.org/10.1007/978-981-96-8889-0_29",
+      "authors": [
+        {
+          "name": "Henning Köehler",
+          "openAlexId": "https://openalex.org/A5006183138",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411403351",
@@ -49,7 +144,21 @@
       "year": 2025,
       "venue": "Proceedings of the ACM on Management of Data",
       "doi": "https://doi.org/10.1145/3725362",
-      "openAccessUrl": "https://doi.org/10.1145/3725362"
+      "openAccessUrl": "https://doi.org/10.1145/3725362",
+      "authors": [
+        {
+          "name": "Zhuoxing Zhang",
+          "orcidId": "0000-0001-6736-4501",
+          "openAlexId": "https://openalex.org/A5079968544",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411378076",
@@ -57,7 +166,21 @@
       "year": 2025,
       "venue": "ACM Transactions on Database Systems",
       "doi": "https://doi.org/10.1145/3744897",
-      "openAccessUrl": "https://doi.org/10.1145/3744897"
+      "openAccessUrl": "https://doi.org/10.1145/3744897",
+      "authors": [
+        {
+          "name": "Ziheng Wei",
+          "orcidId": "0000-0002-0973-3759",
+          "openAlexId": "https://openalex.org/A5026257009",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4417085546",
@@ -65,7 +188,27 @@
       "year": 2025,
       "venue": "arXiv (Cornell University)",
       "doi": "https://doi.org/10.48550/arxiv.2505.05866",
-      "openAccessUrl": "https://arxiv.org/pdf/2505.05866"
+      "openAccessUrl": "https://arxiv.org/pdf/2505.05866",
+      "authors": [
+        {
+          "name": "Miika Hannula",
+          "orcidId": "0000-0002-9637-6664",
+          "openAlexId": "https://openalex.org/A5031183978",
+          "position": 1
+        },
+        {
+          "name": "Juha Kontinen",
+          "orcidId": "0000-0003-0115-5154",
+          "openAlexId": "https://openalex.org/A5069777444",
+          "position": 2
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4408529014",
@@ -73,7 +216,21 @@
       "year": 2025,
       "venue": "The VLDB Journal",
       "doi": "https://doi.org/10.1007/s00778-025-00910-2",
-      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00778-025-00910-2.pdf"
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00778-025-00910-2.pdf",
+      "authors": [
+        {
+          "name": "Zhuoxing Zhang",
+          "orcidId": "0000-0001-6736-4501",
+          "openAlexId": "https://openalex.org/A5079968544",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4408632607",
@@ -81,7 +238,20 @@
       "year": 2025,
       "venue": "Frontiers in artificial intelligence and applications",
       "doi": "https://doi.org/10.3233/faia241581",
-      "openAccessUrl": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241581"
+      "openAccessUrl": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA241581",
+      "authors": [
+        {
+          "name": "Kelsen Diogenes",
+          "openAlexId": "https://openalex.org/A5116707362",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4409704309",
@@ -89,7 +259,50 @@
       "year": 2025,
       "venue": "The journal of individual psychology",
       "doi": "https://doi.org/10.1353/jip.00023",
-      "openAccessUrl": "https://doi.org/10.1353/jip.00023"
+      "openAccessUrl": "https://doi.org/10.1353/jip.00023",
+      "authors": [
+        {
+          "name": "Gisela Eife",
+          "openAlexId": "https://openalex.org/A5012673385",
+          "position": 1
+        },
+        {
+          "name": "Jared M. Holder",
+          "openAlexId": "https://openalex.org/A5031727935",
+          "position": 2
+        },
+        {
+          "name": "Amy Lew",
+          "openAlexId": "https://openalex.org/A5016845725",
+          "position": 3
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 4
+        },
+        {
+          "name": "Erik Mansager",
+          "openAlexId": "https://openalex.org/A5058274750",
+          "position": 5
+        },
+        {
+          "name": "Jane Pfefferlé",
+          "openAlexId": "https://openalex.org/A5070515241",
+          "position": 6
+        },
+        {
+          "name": "Rachel Shifron",
+          "openAlexId": "https://openalex.org/A5006747008",
+          "position": 7
+        },
+        {
+          "name": "Bruce Tate",
+          "openAlexId": "https://openalex.org/A5038043382",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4407367597",
@@ -97,7 +310,21 @@
       "year": 2025,
       "venue": "Proceedings of the ACM on Management of Data",
       "doi": "https://doi.org/10.1145/3709690",
-      "openAccessUrl": "https://doi.org/10.1145/3709690"
+      "openAccessUrl": "https://doi.org/10.1145/3709690",
+      "authors": [
+        {
+          "name": "Philipp Skavantzos",
+          "orcidId": "0000-0001-6034-7485",
+          "openAlexId": "https://openalex.org/A5031762182",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4407251498",
@@ -105,7 +332,21 @@
       "year": 2025,
       "venue": "The VLDB Journal",
       "doi": "https://doi.org/10.1007/s00778-025-00902-2",
-      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00902-2"
+      "openAccessUrl": "https://doi.org/10.1007/s00778-025-00902-2",
+      "authors": [
+        {
+          "name": "Philipp Skavantzos",
+          "orcidId": "0000-0001-6034-7485",
+          "openAlexId": "https://openalex.org/A5031762182",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4415682154",
@@ -113,14 +354,35 @@
       "year": 2025,
       "venue": "SSRN Electronic Journal",
       "doi": "https://doi.org/10.2139/ssrn.5680025",
-      "openAccessUrl": "https://doi.org/10.2139/ssrn.5680025"
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.5680025",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4400910552",
       "title": "Entity/Relationship Profiling",
       "year": 2024,
       "doi": "https://doi.org/10.1109/icde60146.2024.00411",
-      "openAccessUrl": "https://doi.org/10.1109/icde60146.2024.00411"
+      "openAccessUrl": "https://doi.org/10.1109/icde60146.2024.00411",
+      "authors": [
+        {
+          "name": "Henning Köehler",
+          "openAlexId": "https://openalex.org/A5006183138",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4399164394",
@@ -128,7 +390,20 @@
       "year": 2024,
       "venue": "Proceedings of the VLDB Endowment",
       "doi": "https://doi.org/10.14778/3654621.3654626",
-      "openAccessUrl": "https://doi.org/10.14778/3654621.3654626"
+      "openAccessUrl": "https://doi.org/10.14778/3654621.3654626",
+      "authors": [
+        {
+          "name": "Zhuoxing Zhang",
+          "openAlexId": "https://openalex.org/A5091624476",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4390956331",
@@ -136,7 +411,33 @@
       "year": 2024,
       "venue": "SSRN Electronic Journal",
       "doi": "https://doi.org/10.2139/ssrn.4697814",
-      "openAccessUrl": "https://doi.org/10.2139/ssrn.4697814"
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.4697814",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 1
+        },
+        {
+          "name": "Andreas Peichl",
+          "orcidId": "0000-0002-0680-8321",
+          "openAlexId": "https://openalex.org/A5029341996",
+          "position": 2
+        },
+        {
+          "name": "Christopher Roth",
+          "orcidId": "0000-0003-2806-7402",
+          "openAlexId": "https://openalex.org/A5043293841",
+          "position": 3
+        },
+        {
+          "name": "Johannes Wohlfart",
+          "orcidId": "0000-0001-6662-8085",
+          "openAlexId": "https://openalex.org/A5063288880",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4386123440",
@@ -144,7 +445,21 @@
       "year": 2023,
       "venue": "Proceedings of the VLDB Endowment",
       "doi": "https://doi.org/10.14778/3611479.3611506",
-      "openAccessUrl": "https://doi.org/10.14778/3611479.3611506"
+      "openAccessUrl": "https://doi.org/10.14778/3611479.3611506",
+      "authors": [
+        {
+          "name": "Philipp Skavantzos",
+          "orcidId": "0000-0001-6034-7485",
+          "openAlexId": "https://openalex.org/A5031762182",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4380433121",
@@ -152,7 +467,27 @@
       "year": 2023,
       "venue": "Proceedings of the ACM on Management of Data",
       "doi": "https://doi.org/10.1145/3588693",
-      "openAccessUrl": "https://doi.org/10.1145/3588693"
+      "openAccessUrl": "https://doi.org/10.1145/3588693",
+      "authors": [
+        {
+          "name": "Zhuoxing Zhang",
+          "orcidId": "0000-0001-6736-4501",
+          "openAlexId": "https://openalex.org/A5079968544",
+          "position": 1
+        },
+        {
+          "name": "Wu Chen",
+          "orcidId": "0000-0002-5041-6122",
+          "openAlexId": "https://openalex.org/A5100329158",
+          "position": 2
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4375948223",
@@ -160,7 +495,21 @@
       "year": 2023,
       "venue": "Information Systems",
       "doi": "https://doi.org/10.1016/j.is.2023.102224",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102224"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102224",
+      "authors": [
+        {
+          "name": "Ziheng Wei",
+          "orcidId": "0000-0002-0973-3759",
+          "openAlexId": "https://openalex.org/A5026257009",
+          "position": 1
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3119157347",
@@ -168,14 +517,57 @@
       "year": 2023,
       "venue": "Journal of Computer and System Sciences",
       "doi": "https://doi.org/10.1016/j.jcss.2023.04.004",
-      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2023.04.004"
+      "openAccessUrl": "https://doi.org/10.1016/j.jcss.2023.04.004",
+      "authors": [
+        {
+          "name": "Miika Hannula",
+          "orcidId": "0000-0002-9637-6664",
+          "openAlexId": "https://openalex.org/A5031183978",
+          "position": 1
+        },
+        {
+          "name": "Xinyi Li",
+          "openAlexId": "https://openalex.org/A5100370278",
+          "position": 2
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4385402620",
       "title": "Discovery of Cross Joins (Extended Abstract)",
       "year": 2023,
       "doi": "https://doi.org/10.1109/icde55515.2023.00353",
-      "openAccessUrl": "https://doi.org/10.1109/icde55515.2023.00353"
+      "openAccessUrl": "https://doi.org/10.1109/icde55515.2023.00353",
+      "authors": [
+        {
+          "name": "Miika Hannula",
+          "orcidId": "0000-0002-9637-6664",
+          "openAlexId": "https://openalex.org/A5031183978",
+          "position": 1
+        },
+        {
+          "name": "Zhuoxing Zhang",
+          "openAlexId": "https://openalex.org/A5091624476",
+          "position": 2
+        },
+        {
+          "name": "Bor-Kuan Song",
+          "openAlexId": "https://openalex.org/A5056477690",
+          "position": 3
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4353099637",
@@ -183,7 +575,37 @@
       "year": 2023,
       "venue": "Information Systems",
       "doi": "https://doi.org/10.1016/j.is.2023.102208",
-      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102208"
+      "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102208",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 1
+        },
+        {
+          "name": "Henning Köehler",
+          "openAlexId": "https://openalex.org/A5006183138",
+          "position": 2
+        },
+        {
+          "name": "Aniruddh Gandhi",
+          "openAlexId": "https://openalex.org/A5070665514",
+          "position": 3
+        },
+        {
+          "name": "Sven Hartmann",
+          "orcidId": "0000-0003-4565-9645",
+          "openAlexId": "https://openalex.org/A5103092450",
+          "position": 4
+        },
+        {
+          "name": "Bernhard Thalheim",
+          "orcidId": "0000-0002-7909-7786",
+          "openAlexId": "https://openalex.org/A5039350841",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4317951605",
@@ -191,7 +613,15 @@
       "year": 2023,
       "venue": "Knowledge and Information Systems",
       "doi": "https://doi.org/10.1007/s10115-022-01814-1",
-      "openAccessUrl": "https://doi.org/10.1007/s10115-022-01814-1"
+      "openAccessUrl": "https://doi.org/10.1007/s10115-022-01814-1",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4317436319",
@@ -199,7 +629,33 @@
       "year": 2023,
       "venue": "Journal of Data and Information Quality",
       "doi": "https://doi.org/10.1145/3581758",
-      "openAccessUrl": "https://doi.org/10.1145/3581758"
+      "openAccessUrl": "https://doi.org/10.1145/3581758",
+      "authors": [
+        {
+          "name": "Philipp Skavantzos",
+          "orcidId": "0000-0001-6034-7485",
+          "openAlexId": "https://openalex.org/A5031762182",
+          "position": 1
+        },
+        {
+          "name": "Uwe Leck",
+          "orcidId": "0000-0002-0064-9112",
+          "openAlexId": "https://openalex.org/A5005800370",
+          "position": 2
+        },
+        {
+          "name": "Kaiqi Zhao",
+          "orcidId": "0000-0002-0984-1629",
+          "openAlexId": "https://openalex.org/A5090118317",
+          "position": 3
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4389989501",
@@ -207,7 +663,33 @@
       "year": 2023,
       "venue": "SSRN Electronic Journal",
       "doi": "https://doi.org/10.2139/ssrn.4669798",
-      "openAccessUrl": "https://doi.org/10.2139/ssrn.4669798"
+      "openAccessUrl": "https://doi.org/10.2139/ssrn.4669798",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 1
+        },
+        {
+          "name": "Andreas Peichl",
+          "orcidId": "0000-0002-0680-8321",
+          "openAlexId": "https://openalex.org/A5029341996",
+          "position": 2
+        },
+        {
+          "name": "Christopher Roth",
+          "orcidId": "0000-0003-2806-7402",
+          "openAlexId": "https://openalex.org/A5043293841",
+          "position": 3
+        },
+        {
+          "name": "Johannes Wohlfart",
+          "orcidId": "0000-0001-6662-8085",
+          "openAlexId": "https://openalex.org/A5063288880",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4387999418",
@@ -215,7 +697,38 @@
       "year": 2023,
       "venue": "Lecture notes in computer science",
       "doi": "https://doi.org/10.1007/978-3-031-47262-6",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-031-47262-6"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-47262-6",
+      "authors": [
+        {
+          "name": "João Paulo A. Almeida",
+          "orcidId": "0000-0002-9819-3781",
+          "openAlexId": "https://openalex.org/A5063817933",
+          "position": 1
+        },
+        {
+          "name": "José Borbinha",
+          "orcidId": "0000-0001-5463-8438",
+          "openAlexId": "https://openalex.org/A5040049937",
+          "position": 2
+        },
+        {
+          "name": "Giancarlo Guizzardi",
+          "openAlexId": "https://openalex.org/A5065297243",
+          "position": 3
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 4
+        },
+        {
+          "name": "Jelena Zdravković",
+          "orcidId": "0000-0002-0870-0330",
+          "openAlexId": "https://openalex.org/A5008928633",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4286544107",
@@ -223,7 +736,31 @@
       "year": 2022,
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "doi": "https://doi.org/10.1109/tkde.2022.3192842",
-      "openAccessUrl": "https://doi.org/10.1109/tkde.2022.3192842"
+      "openAccessUrl": "https://doi.org/10.1109/tkde.2022.3192842",
+      "authors": [
+        {
+          "name": "Miika Hannula",
+          "orcidId": "0000-0002-9637-6664",
+          "openAlexId": "https://openalex.org/A5031183978",
+          "position": 1
+        },
+        {
+          "name": "Zhuoxing Zhang",
+          "openAlexId": "https://openalex.org/A5091624476",
+          "position": 2
+        },
+        {
+          "name": "Bor-Kuan Song",
+          "openAlexId": "https://openalex.org/A5056477690",
+          "position": 3
+        },
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4313003561",
@@ -231,14 +768,41 @@
       "year": 2022,
       "venue": "Lecture notes in computer science",
       "doi": "https://doi.org/10.1007/978-3-031-18843-5_24",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-031-18843-5_24"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-031-18843-5_24",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 1
+        },
+        {
+          "name": "Henri Prade",
+          "openAlexId": "https://openalex.org/A5109067387",
+          "position": 2
+        },
+        {
+          "name": "Gilles Richard",
+          "orcidId": "0000-0001-7062-6314",
+          "openAlexId": "https://openalex.org/A5043954025",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4313168884",
       "title": "Folgen von Erwerbsrisiken und atypischer Beschäftigung in der Lebensverlaufsperspektive",
       "year": 2022,
       "doi": "https://doi.org/10.1007/978-3-658-39326-7_8",
-      "openAccessUrl": "https://doi.org/10.1007/978-3-658-39326-7_8"
+      "openAccessUrl": "https://doi.org/10.1007/978-3-658-39326-7_8",
+      "authors": [
+        {
+          "name": "Sebastian Link",
+          "orcidId": "0000-0002-1816-2863",
+          "openAlexId": "https://openalex.org/A5069839542",
+          "position": 1
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,26 @@
       "year": 2025,
       "venue": "Australian & New Zealand Journal of Statistics",
       "doi": "https://doi.org/10.1111/anzs.70001",
-      "openAccessUrl": "https://doi.org/10.1111/anzs.70001"
+      "openAccessUrl": "https://doi.org/10.1111/anzs.70001",
+      "authors": [
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 1
+        },
+        {
+          "name": "Ray N. Gorley",
+          "openAlexId": "https://openalex.org/A5011518891",
+          "position": 2
+        },
+        {
+          "name": "Antonio Terlizzi",
+          "orcidId": "0000-0001-5968-4548",
+          "openAlexId": "https://openalex.org/A5053502985",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4393393583",
@@ -17,7 +36,33 @@
       "year": 2024,
       "venue": "Proceedings of the National Academy of Sciences",
       "doi": "https://doi.org/10.1073/pnas.2307525121",
-      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/11009622"
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/11009622",
+      "authors": [
+        {
+          "name": "Paulo Mateus Martins",
+          "orcidId": "0000-0003-2780-2604",
+          "openAlexId": "https://openalex.org/A5007998405",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "W. L. Sweatman",
+          "orcidId": "0000-0002-6540-5020",
+          "openAlexId": "https://openalex.org/A5009943686",
+          "position": 3
+        },
+        {
+          "name": "Andrew J. Punnett",
+          "orcidId": "0000-0002-6733-4123",
+          "openAlexId": "https://openalex.org/A5029189832",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4388961415",
@@ -25,14 +70,78 @@
       "year": 2023,
       "venue": "Journal of Avian Biology",
       "doi": "https://doi.org/10.1111/jav.03117",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jav.03117"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jav.03117",
+      "authors": [
+        {
+          "name": "Kristina L. Paxton",
+          "orcidId": "0000-0003-2321-5090",
+          "openAlexId": "https://openalex.org/A5085816367",
+          "position": 1
+        },
+        {
+          "name": "Jennifer Smetzer",
+          "orcidId": "0000-0001-6219-6799",
+          "openAlexId": "https://openalex.org/A5015407426",
+          "position": 2
+        },
+        {
+          "name": "Patrick J. Hart",
+          "orcidId": "0000-0003-4781-8785",
+          "openAlexId": "https://openalex.org/A5091877917",
+          "position": 3
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 4
+        },
+        {
+          "name": "Eben H. Paxton",
+          "orcidId": "0000-0001-5578-7689",
+          "openAlexId": "https://openalex.org/A5085171455",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4395058318",
       "title": "Author response for \"Landscape configuration alters movement behavior and space-use of a Hawaiian forest bird community\"",
       "year": 2023,
       "doi": "https://doi.org/10.1111/jav.03117/v3/response1",
-      "openAccessUrl": "https://doi.org/10.1111/jav.03117/v3/response1"
+      "openAccessUrl": "https://doi.org/10.1111/jav.03117/v3/response1",
+      "authors": [
+        {
+          "name": "Kristina L. Paxton",
+          "orcidId": "0000-0003-2321-5090",
+          "openAlexId": "https://openalex.org/A5085816367",
+          "position": 1
+        },
+        {
+          "name": "Jennifer Smetzer",
+          "orcidId": "0000-0001-6219-6799",
+          "openAlexId": "https://openalex.org/A5015407426",
+          "position": 2
+        },
+        {
+          "name": "Patrick J. Hart",
+          "orcidId": "0000-0003-4781-8785",
+          "openAlexId": "https://openalex.org/A5091877917",
+          "position": 3
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 4
+        },
+        {
+          "name": "Eben H. Paxton",
+          "orcidId": "0000-0001-5578-7689",
+          "openAlexId": "https://openalex.org/A5085171455",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4378417912",
@@ -40,7 +149,87 @@
       "year": 2023,
       "venue": "Fertility and Sterility",
       "doi": "https://doi.org/10.1016/j.fertnstert.2023.05.161",
-      "openAccessUrl": "https://doi.org/10.1016/j.fertnstert.2023.05.161"
+      "openAccessUrl": "https://doi.org/10.1016/j.fertnstert.2023.05.161",
+      "authors": [
+        {
+          "name": "Prathima Chowdary",
+          "orcidId": "0000-0002-5750-5726",
+          "openAlexId": "https://openalex.org/A5044481968",
+          "position": 1
+        },
+        {
+          "name": "Roxanne Hastie",
+          "orcidId": "0000-0002-4342-1943",
+          "openAlexId": "https://openalex.org/A5013657652",
+          "position": 2
+        },
+        {
+          "name": "Tu'uhevaha J Kaitu'u Lino",
+          "openAlexId": "https://openalex.org/A5108965254",
+          "position": 3
+        },
+        {
+          "name": "Anna Middleton",
+          "orcidId": "0000-0001-6596-5872",
+          "openAlexId": "https://openalex.org/A5056703283",
+          "position": 4
+        },
+        {
+          "name": "Gwyneth Capes",
+          "openAlexId": "https://openalex.org/A5054096602",
+          "position": 5
+        },
+        {
+          "name": "Aimee Humphries",
+          "orcidId": "0000-0003-0747-0964",
+          "openAlexId": "https://openalex.org/A5065195363",
+          "position": 6
+        },
+        {
+          "name": "Abir Abed-Ali",
+          "openAlexId": "https://openalex.org/A5097604394",
+          "position": 7
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 8
+        },
+        {
+          "name": "Ben W. Mol",
+          "openAlexId": "https://openalex.org/A5090795384",
+          "position": 9
+        },
+        {
+          "name": "Andrew W. Horne",
+          "openAlexId": "https://openalex.org/A5085346363",
+          "position": 10
+        },
+        {
+          "name": "Eugene Lim",
+          "orcidId": "0009-0007-3491-1434",
+          "openAlexId": "https://openalex.org/A5112908398",
+          "position": 11
+        },
+        {
+          "name": "Penny Andrew",
+          "openAlexId": "https://openalex.org/A5109609082",
+          "position": 12
+        },
+        {
+          "name": "Fiona Brownfoot",
+          "orcidId": "0000-0002-1439-7016",
+          "openAlexId": "https://openalex.org/A5036671119",
+          "position": 13
+        },
+        {
+          "name": "Stephen Tong",
+          "orcidId": "0000-0002-2319-0586",
+          "openAlexId": "https://openalex.org/A5044161059",
+          "position": 14
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4366245332",
@@ -48,14 +237,82 @@
       "year": 2023,
       "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
       "doi": "https://doi.org/10.1111/brv.12958",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12958"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12958",
+      "authors": [
+        {
+          "name": "Robert J. Rolls",
+          "openAlexId": "https://openalex.org/A5017137554",
+          "position": 1
+        },
+        {
+          "name": "David C. Deane",
+          "openAlexId": "https://openalex.org/A5008952758",
+          "position": 2
+        },
+        {
+          "name": "Sarah E. Johnson",
+          "orcidId": "0000-0001-6623-0982",
+          "openAlexId": "https://openalex.org/A5102891772",
+          "position": 3
+        },
+        {
+          "name": "Jani Heino",
+          "orcidId": "0000-0003-1235-6613",
+          "openAlexId": "https://openalex.org/A5080715665",
+          "position": 4
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 5
+        },
+        {
+          "name": "Kari E. Ellingsen",
+          "orcidId": "0000-0002-2321-8278",
+          "openAlexId": "https://openalex.org/A5064767338",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4395058807",
       "title": "Author response for \"Landscape configuration alters movement behavior and space-use of a Hawaiian forest bird community\"",
       "year": 2023,
       "doi": "https://doi.org/10.1111/jav.03117/v2/response1",
-      "openAccessUrl": "https://doi.org/10.1111/jav.03117/v2/response1"
+      "openAccessUrl": "https://doi.org/10.1111/jav.03117/v2/response1",
+      "authors": [
+        {
+          "name": "Kristina L. Paxton",
+          "orcidId": "0000-0003-2321-5090",
+          "openAlexId": "https://openalex.org/A5085816367",
+          "position": 1
+        },
+        {
+          "name": "Jennifer Smetzer",
+          "orcidId": "0000-0001-6219-6799",
+          "openAlexId": "https://openalex.org/A5015407426",
+          "position": 2
+        },
+        {
+          "name": "Patrick J. Hart",
+          "orcidId": "0000-0003-4781-8785",
+          "openAlexId": "https://openalex.org/A5091877917",
+          "position": 3
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 4
+        },
+        {
+          "name": "Eben H. Paxton",
+          "orcidId": "0000-0001-5578-7689",
+          "openAlexId": "https://openalex.org/A5085171455",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4307009264",
@@ -63,14 +320,66 @@
       "year": 2022,
       "venue": "Ecology Letters",
       "doi": "https://doi.org/10.1111/ele.14121",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14121"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14121",
+      "authors": [
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 1
+        },
+        {
+          "name": "Daniel C. I. Walsh",
+          "orcidId": "0000-0003-2921-4478",
+          "openAlexId": "https://openalex.org/A5102839865",
+          "position": 2
+        },
+        {
+          "name": "W. L. Sweatman",
+          "orcidId": "0000-0002-6540-5020",
+          "openAlexId": "https://openalex.org/A5009943686",
+          "position": 3
+        },
+        {
+          "name": "Andrew J. Punnett",
+          "orcidId": "0000-0002-6733-4123",
+          "openAlexId": "https://openalex.org/A5029189832",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4307020296",
       "title": "Author response for \"Non‐linear models of species' responses to environmental and spatial gradients\"",
       "year": 2022,
       "doi": "https://doi.org/10.1111/ele.14121/v2/response1",
-      "openAccessUrl": "https://doi.org/10.1111/ele.14121/v2/response1"
+      "openAccessUrl": "https://doi.org/10.1111/ele.14121/v2/response1",
+      "authors": [
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 1
+        },
+        {
+          "name": "Daniel C. I. Walsh",
+          "orcidId": "0000-0003-2921-4478",
+          "openAlexId": "https://openalex.org/A5102839865",
+          "position": 2
+        },
+        {
+          "name": "W. L. Sweatman",
+          "orcidId": "0000-0002-6540-5020",
+          "openAlexId": "https://openalex.org/A5009943686",
+          "position": 3
+        },
+        {
+          "name": "Andrew J. Punnett",
+          "orcidId": "0000-0002-6733-4123",
+          "openAlexId": "https://openalex.org/A5029189832",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3212357511",
@@ -78,7 +387,27 @@
       "year": 2021,
       "venue": "Journal of Agricultural Biological and Environmental Statistics",
       "doi": "https://doi.org/10.1007/s13253-021-00475-x",
-      "openAccessUrl": "https://doi.org/10.1007/s13253-021-00475-x"
+      "openAccessUrl": "https://doi.org/10.1007/s13253-021-00475-x",
+      "authors": [
+        {
+          "name": "Nurudeen A. Adegoke",
+          "orcidId": "0000-0001-7592-5460",
+          "openAlexId": "https://openalex.org/A5054091828",
+          "position": 1
+        },
+        {
+          "name": "Andrew J. Punnett",
+          "orcidId": "0000-0002-6733-4123",
+          "openAlexId": "https://openalex.org/A5029189832",
+          "position": 2
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3213354154",
@@ -86,7 +415,63 @@
       "year": 2021,
       "venue": "Epidemics",
       "doi": "https://doi.org/10.1016/j.epidem.2021.100521",
-      "openAccessUrl": "https://doi.org/10.1016/j.epidem.2021.100521"
+      "openAccessUrl": "https://doi.org/10.1016/j.epidem.2021.100521",
+      "authors": [
+        {
+          "name": "Sabrina S. Greening",
+          "orcidId": "0000-0003-4091-9022",
+          "openAlexId": "https://openalex.org/A5037289957",
+          "position": 1
+        },
+        {
+          "name": "Ji Zhang",
+          "orcidId": "0000-0003-2582-2978",
+          "openAlexId": "https://openalex.org/A5100329279",
+          "position": 2
+        },
+        {
+          "name": "Anne C. Midwinter",
+          "orcidId": "0000-0001-5731-3233",
+          "openAlexId": "https://openalex.org/A5026814647",
+          "position": 3
+        },
+        {
+          "name": "David A. Wilkinson",
+          "orcidId": "0000-0002-9986-6212",
+          "openAlexId": "https://openalex.org/A5101820260",
+          "position": 4
+        },
+        {
+          "name": "Ahmed Fayaz",
+          "orcidId": "0000-0001-8879-4535",
+          "openAlexId": "https://openalex.org/A5048549688",
+          "position": 5
+        },
+        {
+          "name": "Deborah A. Williamson",
+          "orcidId": "0000-0001-7363-6665",
+          "openAlexId": "https://openalex.org/A5033969972",
+          "position": 6
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 7
+        },
+        {
+          "name": "M. Carolyn Gates",
+          "orcidId": "0000-0002-7790-1945",
+          "openAlexId": "https://openalex.org/A5064395243",
+          "position": 8
+        },
+        {
+          "name": "Nigel French",
+          "orcidId": "0000-0002-6334-0657",
+          "openAlexId": "https://openalex.org/A5055925102",
+          "position": 9
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3194504126",
@@ -94,7 +479,27 @@
       "year": 2021,
       "venue": "Austral Ecology",
       "doi": "https://doi.org/10.1111/aec.13089",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13089"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13089",
+      "authors": [
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 1
+        },
+        {
+          "name": "Paul J. Somerfield",
+          "orcidId": "0000-0002-7581-5621",
+          "openAlexId": "https://openalex.org/A5074866035",
+          "position": 2
+        },
+        {
+          "name": "Richard M. Warwick",
+          "orcidId": "0000-0002-9544-9198",
+          "openAlexId": "https://openalex.org/A5044802393",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3191805394",
@@ -102,7 +507,43 @@
       "year": 2021,
       "venue": "Austral Ecology",
       "doi": "https://doi.org/10.1111/aec.13078",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13078"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13078",
+      "authors": [
+        {
+          "name": "Elisabeth M. V. Myers",
+          "openAlexId": "https://openalex.org/A5086469549",
+          "position": 1
+        },
+        {
+          "name": "David Eme",
+          "orcidId": "0000-0001-8790-0412",
+          "openAlexId": "https://openalex.org/A5015473302",
+          "position": 2
+        },
+        {
+          "name": "Libby Liggins",
+          "orcidId": "0000-0003-1143-2346",
+          "openAlexId": "https://openalex.org/A5025163431",
+          "position": 3
+        },
+        {
+          "name": "Euan S. Harvey",
+          "orcidId": "0000-0002-9069-4581",
+          "openAlexId": "https://openalex.org/A5052896901",
+          "position": 4
+        },
+        {
+          "name": "Clive D. Roberts",
+          "openAlexId": "https://openalex.org/A5111624275",
+          "position": 5
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3182747289",
@@ -110,7 +551,55 @@
       "year": 2021,
       "venue": "Aquatic Conservation Marine and Freshwater Ecosystems",
       "doi": "https://doi.org/10.1002/aqc.3636",
-      "openAccessUrl": "https://doi.org/10.1002/aqc.3636"
+      "openAccessUrl": "https://doi.org/10.1002/aqc.3636",
+      "authors": [
+        {
+          "name": "Jerom R. Stocks",
+          "orcidId": "0000-0001-6425-8869",
+          "openAlexId": "https://openalex.org/A5002076698",
+          "position": 1
+        },
+        {
+          "name": "Sam Davis",
+          "openAlexId": "https://openalex.org/A5110240762",
+          "position": 2
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 3
+        },
+        {
+          "name": "Martin Asmus",
+          "openAlexId": "https://openalex.org/A5041933388",
+          "position": 4
+        },
+        {
+          "name": "Katherine J. M. Cheshire",
+          "orcidId": "0000-0003-3950-0320",
+          "openAlexId": "https://openalex.org/A5016160619",
+          "position": 5
+        },
+        {
+          "name": "Dylan E. van der Meulen",
+          "orcidId": "0000-0002-9777-7670",
+          "openAlexId": "https://openalex.org/A5055629615",
+          "position": 6
+        },
+        {
+          "name": "Chris T. Walsh",
+          "orcidId": "0000-0003-1461-2713",
+          "openAlexId": "https://openalex.org/A5031062164",
+          "position": 7
+        },
+        {
+          "name": "Dean M. Gilligan",
+          "orcidId": "0000-0002-9541-4833",
+          "openAlexId": "https://openalex.org/A5036644222",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3181472207",
@@ -118,7 +607,43 @@
       "year": 2021,
       "venue": "Ecology and Evolution",
       "doi": "https://doi.org/10.1002/ece3.7871",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.7871"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.7871",
+      "authors": [
+        {
+          "name": "Elisabeth M. V. Myers",
+          "openAlexId": "https://openalex.org/A5086469549",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "Libby Liggins",
+          "orcidId": "0000-0003-1143-2346",
+          "openAlexId": "https://openalex.org/A5025163431",
+          "position": 3
+        },
+        {
+          "name": "Euan S. Harvey",
+          "orcidId": "0000-0002-9069-4581",
+          "openAlexId": "https://openalex.org/A5052896901",
+          "position": 4
+        },
+        {
+          "name": "Clive D. Roberts",
+          "openAlexId": "https://openalex.org/A5111624275",
+          "position": 5
+        },
+        {
+          "name": "David Eme",
+          "orcidId": "0000-0001-8790-0412",
+          "openAlexId": "https://openalex.org/A5015473302",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3172098929",
@@ -126,7 +651,41 @@
       "year": 2021,
       "venue": "Teachers College Record The Voice of Scholarship in Education",
       "doi": "https://doi.org/10.1177/016146812112300608",
-      "openAccessUrl": "https://doi.org/10.1177/016146812112300608"
+      "openAccessUrl": "https://doi.org/10.1177/016146812112300608",
+      "authors": [
+        {
+          "name": "Carol R. Rodgers",
+          "orcidId": "0000-0002-7447-3092",
+          "openAlexId": "https://openalex.org/A5068367862",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "Beverley Burkett",
+          "openAlexId": "https://openalex.org/A5037426422",
+          "position": 3
+        },
+        {
+          "name": "Sean Conley",
+          "openAlexId": "https://openalex.org/A5056951459",
+          "position": 4
+        },
+        {
+          "name": "Claire Stanley",
+          "openAlexId": "https://openalex.org/A5109505881",
+          "position": 5
+        },
+        {
+          "name": "Leslie Turpin",
+          "openAlexId": "https://openalex.org/A5006263433",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3172075717",
@@ -134,7 +693,38 @@
       "year": 2021,
       "venue": "Austral Ecology",
       "doi": "https://doi.org/10.1111/aec.13061",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13061"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aec.13061",
+      "authors": [
+        {
+          "name": "Stanislao Bevilacqua",
+          "orcidId": "0000-0002-6417-7134",
+          "openAlexId": "https://openalex.org/A5021779150",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "Karl Inne Ugland",
+          "openAlexId": "https://openalex.org/A5114175449",
+          "position": 3
+        },
+        {
+          "name": "Paul J. Somerfield",
+          "orcidId": "0000-0002-7581-5621",
+          "openAlexId": "https://openalex.org/A5074866035",
+          "position": 4
+        },
+        {
+          "name": "Antonio Terlizzi",
+          "orcidId": "0000-0001-5968-4548",
+          "openAlexId": "https://openalex.org/A5053502985",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3164335725",
@@ -142,7 +732,44 @@
       "year": 2021,
       "venue": "Frontiers in Marine Science",
       "doi": "https://doi.org/10.3389/fmars.2021.656772",
-      "openAccessUrl": "https://www.frontiersin.org/articles/10.3389/fmars.2021.656772/pdf"
+      "openAccessUrl": "https://www.frontiersin.org/articles/10.3389/fmars.2021.656772/pdf",
+      "authors": [
+        {
+          "name": "Piotr Bałazy",
+          "orcidId": "0000-0002-1126-3151",
+          "openAlexId": "https://openalex.org/A5069045723",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "Maciej Chełchowski",
+          "orcidId": "0000-0002-5742-1960",
+          "openAlexId": "https://openalex.org/A5016472533",
+          "position": 3
+        },
+        {
+          "name": "Maria Włodarska‐Kowalczuk",
+          "orcidId": "0000-0002-2757-1108",
+          "openAlexId": "https://openalex.org/A5030389112",
+          "position": 4
+        },
+        {
+          "name": "Piotr Kukliński",
+          "openAlexId": "https://openalex.org/A5076680772",
+          "position": 5
+        },
+        {
+          "name": "Jørgen Berge",
+          "orcidId": "0000-0003-0900-5679",
+          "openAlexId": "https://openalex.org/A5061308845",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4232122850",
@@ -150,14 +777,119 @@
       "year": 2021,
       "venue": "Bulletin of the Ecological Society of America",
       "doi": "https://doi.org/10.1002/bes2.1821",
-      "openAccessUrl": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.1821"
+      "openAccessUrl": "https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.1821",
+      "authors": [
+        {
+          "name": "Kasper Hendriks",
+          "orcidId": "0000-0003-0245-8368",
+          "openAlexId": "https://openalex.org/A5005838727",
+          "position": 1
+        },
+        {
+          "name": "Karen Bisschop",
+          "orcidId": "0000-0001-7083-2636",
+          "openAlexId": "https://openalex.org/A5047273443",
+          "position": 2
+        },
+        {
+          "name": "Hylke H. Kortenbosch",
+          "orcidId": "0000-0001-7699-6391",
+          "openAlexId": "https://openalex.org/A5023566008",
+          "position": 3
+        },
+        {
+          "name": "James Kavanagh",
+          "orcidId": "0000-0003-1495-0843",
+          "openAlexId": "https://openalex.org/A5002951845",
+          "position": 4
+        },
+        {
+          "name": "Anaïs Larue",
+          "orcidId": "0000-0002-8064-7749",
+          "openAlexId": "https://openalex.org/A5001025889",
+          "position": 5
+        },
+        {
+          "name": "Phung Chee‐Chean",
+          "openAlexId": "https://openalex.org/A5024524147",
+          "position": 6
+        },
+        {
+          "name": "Dries Bonte",
+          "orcidId": "0000-0002-3320-7505",
+          "openAlexId": "https://openalex.org/A5062898856",
+          "position": 7
+        },
+        {
+          "name": "Elza Duijm",
+          "orcidId": "0000-0002-6383-3419",
+          "openAlexId": "https://openalex.org/A5014029544",
+          "position": 8
+        },
+        {
+          "name": "Joana Falcão Salles",
+          "orcidId": "0000-0003-4317-7263",
+          "openAlexId": "https://openalex.org/A5031022926",
+          "position": 9
+        },
+        {
+          "name": "Alex L. Pigot",
+          "orcidId": "0000-0002-6490-6261",
+          "openAlexId": "https://openalex.org/A5049605271",
+          "position": 10
+        },
+        {
+          "name": "Francisco Richter",
+          "orcidId": "0000-0002-0924-4613",
+          "openAlexId": "https://openalex.org/A5014022266",
+          "position": 11
+        },
+        {
+          "name": "Menno Schilthuizen",
+          "orcidId": "0000-0001-6229-0347",
+          "openAlexId": "https://openalex.org/A5052357934",
+          "position": 12
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 13
+        },
+        {
+          "name": "Arjen Speksnijder",
+          "orcidId": "0000-0002-1966-7265",
+          "openAlexId": "https://openalex.org/A5051918331",
+          "position": 14
+        },
+        {
+          "name": "Rampal S. Etienne",
+          "orcidId": "0000-0003-2142-7612",
+          "openAlexId": "https://openalex.org/A5056389738",
+          "position": 15
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3109608869",
       "title": "Gametic compatibility and the hybridization between sympatic Patiriella species (Echinodermata: Asteroidea) in New South Wales",
       "year": 2020,
       "doi": "https://doi.org/10.1201/9781003077831-61",
-      "openAccessUrl": "https://doi.org/10.1201/9781003077831-61"
+      "openAccessUrl": "https://doi.org/10.1201/9781003077831-61",
+      "authors": [
+        {
+          "name": "Maria Byrne",
+          "orcidId": "0000-0002-8902-9808",
+          "openAlexId": "https://openalex.org/A5056042586",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3093544090",
@@ -165,7 +897,98 @@
       "year": 2020,
       "venue": "Ecology",
       "doi": "https://doi.org/10.1002/ecy.3237",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.3237"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.3237",
+      "authors": [
+        {
+          "name": "Kasper Hendriks",
+          "orcidId": "0000-0003-0245-8368",
+          "openAlexId": "https://openalex.org/A5005838727",
+          "position": 1
+        },
+        {
+          "name": "Karen Bisschop",
+          "orcidId": "0000-0001-7083-2636",
+          "openAlexId": "https://openalex.org/A5047273443",
+          "position": 2
+        },
+        {
+          "name": "Hylke H. Kortenbosch",
+          "orcidId": "0000-0001-7699-6391",
+          "openAlexId": "https://openalex.org/A5023566008",
+          "position": 3
+        },
+        {
+          "name": "James Kavanagh",
+          "orcidId": "0000-0003-1495-0843",
+          "openAlexId": "https://openalex.org/A5002951845",
+          "position": 4
+        },
+        {
+          "name": "Anaïs Larue",
+          "orcidId": "0000-0002-8064-7749",
+          "openAlexId": "https://openalex.org/A5001025889",
+          "position": 5
+        },
+        {
+          "name": "Phung Chee‐Chean",
+          "openAlexId": "https://openalex.org/A5024524147",
+          "position": 6
+        },
+        {
+          "name": "Dries Bonte",
+          "orcidId": "0000-0002-3320-7505",
+          "openAlexId": "https://openalex.org/A5062898856",
+          "position": 7
+        },
+        {
+          "name": "Elza Duijm",
+          "orcidId": "0000-0002-6383-3419",
+          "openAlexId": "https://openalex.org/A5014029544",
+          "position": 8
+        },
+        {
+          "name": "Joana Falcão Salles",
+          "orcidId": "0000-0003-4317-7263",
+          "openAlexId": "https://openalex.org/A5031022926",
+          "position": 9
+        },
+        {
+          "name": "Alex L. Pigot",
+          "orcidId": "0000-0002-6490-6261",
+          "openAlexId": "https://openalex.org/A5049605271",
+          "position": 10
+        },
+        {
+          "name": "Francisco Richter",
+          "orcidId": "0000-0002-0924-4613",
+          "openAlexId": "https://openalex.org/A5014022266",
+          "position": 11
+        },
+        {
+          "name": "Menno Schilthuizen",
+          "orcidId": "0000-0001-6229-0347",
+          "openAlexId": "https://openalex.org/A5052357934",
+          "position": 12
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 13
+        },
+        {
+          "name": "Arjen Speksnijder",
+          "orcidId": "0000-0002-1966-7265",
+          "openAlexId": "https://openalex.org/A5051918331",
+          "position": 14
+        },
+        {
+          "name": "Rampal S. Etienne",
+          "orcidId": "0000-0003-2142-7612",
+          "openAlexId": "https://openalex.org/A5056389738",
+          "position": 15
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3053906817",
@@ -173,7 +996,33 @@
       "year": 2020,
       "venue": "Journal of Statistical Computation and Simulation",
       "doi": "https://doi.org/10.1080/00949655.2020.1806279",
-      "openAccessUrl": "https://doi.org/10.1080/00949655.2020.1806279"
+      "openAccessUrl": "https://doi.org/10.1080/00949655.2020.1806279",
+      "authors": [
+        {
+          "name": "Nurudeen A. Adegoke",
+          "orcidId": "0000-0001-7592-5460",
+          "openAlexId": "https://openalex.org/A5054091828",
+          "position": 1
+        },
+        {
+          "name": "Adam N. H. Smith",
+          "orcidId": "0000-0003-0059-6206",
+          "openAlexId": "https://openalex.org/A5102003481",
+          "position": 2
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 3
+        },
+        {
+          "name": "Matthew D. M. Pawley",
+          "orcidId": "0000-0003-4502-3989",
+          "openAlexId": "https://openalex.org/A5021109767",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3047289425",
@@ -181,7 +1030,43 @@
       "year": 2020,
       "venue": "Marine Ecology Progress Series",
       "doi": "https://doi.org/10.3354/meps13447",
-      "openAccessUrl": "https://doi.org/10.3354/meps13447"
+      "openAccessUrl": "https://doi.org/10.3354/meps13447",
+      "authors": [
+        {
+          "name": "Adam N. H. Smith",
+          "orcidId": "0000-0003-0059-6206",
+          "openAlexId": "https://openalex.org/A5102003481",
+          "position": 1
+        },
+        {
+          "name": "David Acuña-Marrero",
+          "orcidId": "0000-0003-1308-1500",
+          "openAlexId": "https://openalex.org/A5067009487",
+          "position": 2
+        },
+        {
+          "name": "PS Salinas-de León",
+          "openAlexId": "https://openalex.org/A5103919633",
+          "position": 3
+        },
+        {
+          "name": "Euan S. Harvey",
+          "orcidId": "0000-0002-9069-4581",
+          "openAlexId": "https://openalex.org/A5052896901",
+          "position": 4
+        },
+        {
+          "name": "MDM Pawley",
+          "openAlexId": "https://openalex.org/A5091566555",
+          "position": 5
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3011379648",
@@ -189,7 +1074,55 @@
       "year": 2020,
       "venue": "Global Change Biology",
       "doi": "https://doi.org/10.1111/gcb.15027",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.15027"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.15027",
+      "authors": [
+        {
+          "name": "Kari E. Ellingsen",
+          "orcidId": "0000-0002-2321-8278",
+          "openAlexId": "https://openalex.org/A5064767338",
+          "position": 1
+        },
+        {
+          "name": "Nigel G. Yoccoz",
+          "orcidId": "0000-0003-2192-1039",
+          "openAlexId": "https://openalex.org/A5039078557",
+          "position": 2
+        },
+        {
+          "name": "Torkild Tveraa",
+          "orcidId": "0000-0002-7501-3696",
+          "openAlexId": "https://openalex.org/A5066295125",
+          "position": 3
+        },
+        {
+          "name": "Kenneth T. Frank",
+          "orcidId": "0000-0001-6939-9724",
+          "openAlexId": "https://openalex.org/A5077359237",
+          "position": 4
+        },
+        {
+          "name": "Edda Johannesen",
+          "openAlexId": "https://openalex.org/A5035548112",
+          "position": 5
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 6
+        },
+        {
+          "name": "Andrey V. Dolgov",
+          "orcidId": "0000-0002-4806-3284",
+          "openAlexId": "https://openalex.org/A5081476819",
+          "position": 7
+        },
+        {
+          "name": "Nancy L. Shackell",
+          "openAlexId": "https://openalex.org/A5008275550",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3005461074",
@@ -197,7 +1130,37 @@
       "year": 2020,
       "venue": "Ecography",
       "doi": "https://doi.org/10.1111/ecog.04836",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecog.04836"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecog.04836",
+      "authors": [
+        {
+          "name": "David Eme",
+          "orcidId": "0000-0001-8790-0412",
+          "openAlexId": "https://openalex.org/A5015473302",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "Elisabeth M. V. Myers",
+          "openAlexId": "https://openalex.org/A5086469549",
+          "position": 3
+        },
+        {
+          "name": "Clive D. Roberts",
+          "openAlexId": "https://openalex.org/A5111624275",
+          "position": 4
+        },
+        {
+          "name": "Libby Liggins",
+          "orcidId": "0000-0003-1143-2346",
+          "openAlexId": "https://openalex.org/A5025163431",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2981349165",
@@ -205,7 +1168,37 @@
       "year": 2019,
       "venue": "Journal of Animal Ecology",
       "doi": "https://doi.org/10.1111/1365-2656.13131",
-      "openAccessUrl": "https://zenodo.org/record/4130586"
+      "openAccessUrl": "https://zenodo.org/record/4130586",
+      "authors": [
+        {
+          "name": "Elisabeth M. V. Myers",
+          "openAlexId": "https://openalex.org/A5086469549",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "David Eme",
+          "orcidId": "0000-0001-8790-0412",
+          "openAlexId": "https://openalex.org/A5015473302",
+          "position": 3
+        },
+        {
+          "name": "Libby Liggins",
+          "orcidId": "0000-0003-1143-2346",
+          "openAlexId": "https://openalex.org/A5025163431",
+          "position": 4
+        },
+        {
+          "name": "Clive D. Roberts",
+          "openAlexId": "https://openalex.org/A5111624275",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2971273837",
@@ -213,7 +1206,38 @@
       "year": 2019,
       "venue": "Global Ecology and Biogeography",
       "doi": "https://doi.org/10.1111/geb.12986",
-      "openAccessUrl": "https://doi.org/10.1111/geb.12986"
+      "openAccessUrl": "https://doi.org/10.1111/geb.12986",
+      "authors": [
+        {
+          "name": "David Eme",
+          "orcidId": "0000-0001-8790-0412",
+          "openAlexId": "https://openalex.org/A5015473302",
+          "position": 1
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 2
+        },
+        {
+          "name": "Carl D. Struthers",
+          "orcidId": "0000-0002-8224-0336",
+          "openAlexId": "https://openalex.org/A5081822446",
+          "position": 3
+        },
+        {
+          "name": "Clive D. Roberts",
+          "openAlexId": "https://openalex.org/A5111624275",
+          "position": 4
+        },
+        {
+          "name": "Libby Liggins",
+          "orcidId": "0000-0003-1143-2346",
+          "openAlexId": "https://openalex.org/A5025163431",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2918520106",
@@ -221,7 +1245,32 @@
       "year": 2019,
       "venue": "Ecology and Evolution",
       "doi": "https://doi.org/10.1002/ece3.4948",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4948"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4948",
+      "authors": [
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 1
+        },
+        {
+          "name": "Perry de Valpine",
+          "orcidId": "0000-0002-8329-6796",
+          "openAlexId": "https://openalex.org/A5083525015",
+          "position": 2
+        },
+        {
+          "name": "Andrew J. Punnett",
+          "orcidId": "0000-0002-6733-4123",
+          "openAlexId": "https://openalex.org/A5029189832",
+          "position": 3
+        },
+        {
+          "name": "Arden E. Miller",
+          "openAlexId": "https://openalex.org/A5109417593",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2955479859",
@@ -229,7 +1278,39 @@
       "year": 2019,
       "venue": "IEEE Access",
       "doi": "https://doi.org/10.1109/access.2019.2926533",
-      "openAccessUrl": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08754675.pdf"
+      "openAccessUrl": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08754675.pdf",
+      "authors": [
+        {
+          "name": "Nurudeen A. Adegoke",
+          "orcidId": "0000-0001-7592-5460",
+          "openAlexId": "https://openalex.org/A5054091828",
+          "position": 1
+        },
+        {
+          "name": "Adam N. H. Smith",
+          "orcidId": "0000-0003-0059-6206",
+          "openAlexId": "https://openalex.org/A5102003481",
+          "position": 2
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 3
+        },
+        {
+          "name": "Ridwan A. Sanusi",
+          "orcidId": "0000-0002-7322-2670",
+          "openAlexId": "https://openalex.org/A5082607560",
+          "position": 4
+        },
+        {
+          "name": "Matthew D. M. Pawley",
+          "orcidId": "0000-0003-4502-3989",
+          "openAlexId": "https://openalex.org/A5021109767",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W2909229314",
@@ -237,7 +1318,39 @@
       "year": 2019,
       "venue": "IEEE Access",
       "doi": "https://doi.org/10.1109/access.2019.2891988",
-      "openAccessUrl": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08606429.pdf"
+      "openAccessUrl": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08606429.pdf",
+      "authors": [
+        {
+          "name": "Nurudeen A. Adegoke",
+          "orcidId": "0000-0001-7592-5460",
+          "openAlexId": "https://openalex.org/A5054091828",
+          "position": 1
+        },
+        {
+          "name": "Saddam Akber Abbasi",
+          "orcidId": "0000-0003-1843-8863",
+          "openAlexId": "https://openalex.org/A5054172192",
+          "position": 2
+        },
+        {
+          "name": "Adam N. H. Smith",
+          "orcidId": "0000-0003-0059-6206",
+          "openAlexId": "https://openalex.org/A5102003481",
+          "position": 3
+        },
+        {
+          "name": "Marti J. Anderson",
+          "orcidId": "0000-0002-4018-4049",
+          "openAlexId": "https://openalex.org/A5049228176",
+          "position": 4
+        },
+        {
+          "name": "Matthew D. M. Pawley",
+          "orcidId": "0000-0003-4502-3989",
+          "openAlexId": "https://openalex.org/A5021109767",
+          "position": 5
+        }
+      ]
     }
   ]
 }

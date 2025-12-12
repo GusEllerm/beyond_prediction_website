@@ -4,5 +4,119 @@
   "year": 2020,
   "venue": "Clinical Infectious Diseases",
   "doi": "10.1093/cid/ciaa1153",
-  "openAccessUrl": "https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaa1153/33805148/ciaa1153.pdf"
+  "openAccessUrl": "https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaa1153/33805148/ciaa1153.pdf",
+  "authors": [
+    {
+      "name": "John A. Crump",
+      "openAlexId": "https://openalex.org/A5026459900",
+      "position": 1
+    },
+    {
+      "name": "Kate M. Thomas",
+      "orcidId": "0000-0002-1589-8314",
+      "openAlexId": "https://openalex.org/A5033469220",
+      "position": 2
+    },
+    {
+      "name": "Jackie Benschop",
+      "orcidId": "0000-0002-7814-4341",
+      "openAlexId": "https://openalex.org/A5089017342",
+      "position": 3
+    },
+    {
+      "name": "Matthew A. Knox",
+      "orcidId": "0000-0001-6764-6568",
+      "openAlexId": "https://openalex.org/A5000704377",
+      "position": 4
+    },
+    {
+      "name": "David A. Wilkinson",
+      "orcidId": "0000-0002-9986-6212",
+      "openAlexId": "https://openalex.org/A5101820260",
+      "position": 5
+    },
+    {
+      "name": "Anne C. Midwinter",
+      "orcidId": "0000-0001-5731-3233",
+      "openAlexId": "https://openalex.org/A5026814647",
+      "position": 6
+    },
+    {
+      "name": "Peninah Munyua",
+      "orcidId": "0000-0003-1950-8616",
+      "openAlexId": "https://openalex.org/A5031631443",
+      "position": 7
+    },
+    {
+      "name": "John B. Ochieng",
+      "orcidId": "0000-0002-5301-4559",
+      "openAlexId": "https://openalex.org/A5050947018",
+      "position": 8
+    },
+    {
+      "name": "Godfrey Bigogo",
+      "openAlexId": "https://openalex.org/A5037723243",
+      "position": 9
+    },
+    {
+      "name": "Jennifer R. Verani",
+      "orcidId": "0000-0001-5267-1883",
+      "openAlexId": "https://openalex.org/A5087653992",
+      "position": 10
+    },
+    {
+      "name": "Marc‐Alain Widdowson",
+      "orcidId": "0000-0002-0682-6933",
+      "openAlexId": "https://openalex.org/A5045971751",
+      "position": 11
+    },
+    {
+      "name": "Gerard Prinsen",
+      "orcidId": "0000-0002-1807-8565",
+      "openAlexId": "https://openalex.org/A5042318874",
+      "position": 12
+    },
+    {
+      "name": "Sarah Cleaveland",
+      "orcidId": "0000-0002-0456-0959",
+      "openAlexId": "https://openalex.org/A5087532242",
+      "position": 13
+    },
+    {
+      "name": "Esron D. Karimuribo",
+      "orcidId": "0000-0002-5517-1769",
+      "openAlexId": "https://openalex.org/A5082724201",
+      "position": 14
+    },
+    {
+      "name": "Rudovick Kazwala",
+      "orcidId": "0000-0003-3918-1323",
+      "openAlexId": "https://openalex.org/A5008745182",
+      "position": 15
+    },
+    {
+      "name": "Blandina T. Mmbaga",
+      "orcidId": "0000-0002-5550-1916",
+      "openAlexId": "https://openalex.org/A5089767596",
+      "position": 16
+    },
+    {
+      "name": "Emmanuel S. Swai",
+      "orcidId": "0000-0001-6273-7946",
+      "openAlexId": "https://openalex.org/A5011448575",
+      "position": 17
+    },
+    {
+      "name": "Nigel French",
+      "orcidId": "0000-0002-6334-0657",
+      "openAlexId": "https://openalex.org/A5055925102",
+      "position": 18
+    },
+    {
+      "name": "Ruth N. Zadoks",
+      "orcidId": "0000-0002-1164-8000",
+      "openAlexId": "https://openalex.org/A5041819836",
+      "position": 19
+    }
+  ]
 }

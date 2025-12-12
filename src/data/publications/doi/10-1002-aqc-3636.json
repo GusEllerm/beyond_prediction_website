@@ -4,5 +4,53 @@
   "year": 2021,
   "venue": "Aquatic Conservation Marine and Freshwater Ecosystems",
   "doi": "10.1002/aqc.3636",
-  "openAccessUrl": "https://doi.org/10.1002/aqc.3636"
+  "openAccessUrl": "https://doi.org/10.1002/aqc.3636",
+  "authors": [
+    {
+      "name": "Jerom R. Stocks",
+      "orcidId": "0000-0001-6425-8869",
+      "openAlexId": "https://openalex.org/A5002076698",
+      "position": 1
+    },
+    {
+      "name": "Sam Davis",
+      "openAlexId": "https://openalex.org/A5110240762",
+      "position": 2
+    },
+    {
+      "name": "Marti J. Anderson",
+      "orcidId": "0000-0002-4018-4049",
+      "openAlexId": "https://openalex.org/A5049228176",
+      "position": 3
+    },
+    {
+      "name": "Martin Asmus",
+      "openAlexId": "https://openalex.org/A5041933388",
+      "position": 4
+    },
+    {
+      "name": "Katherine J. M. Cheshire",
+      "orcidId": "0000-0003-3950-0320",
+      "openAlexId": "https://openalex.org/A5016160619",
+      "position": 5
+    },
+    {
+      "name": "Dylan E. van der Meulen",
+      "orcidId": "0000-0002-9777-7670",
+      "openAlexId": "https://openalex.org/A5055629615",
+      "position": 6
+    },
+    {
+      "name": "Chris T. Walsh",
+      "orcidId": "0000-0003-1461-2713",
+      "openAlexId": "https://openalex.org/A5031062164",
+      "position": 7
+    },
+    {
+      "name": "Dean M. Gilligan",
+      "orcidId": "0000-0002-9541-4833",
+      "openAlexId": "https://openalex.org/A5036644222",
+      "position": 8
+    }
+  ]
 }

@@ -4,5 +4,25 @@
   "year": 2022,
   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
   "doi": "10.1101/2022.05.03.490538",
-  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/05/2022.05.03.490538.full.pdf"
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/05/05/2022.05.03.490538.full.pdf",
+  "authors": [
+    {
+      "name": "Remco Bouckaert",
+      "orcidId": "0000-0001-6765-3813",
+      "openAlexId": "https://openalex.org/A5027519870",
+      "position": 1
+    },
+    {
+      "name": "Lena Collienne",
+      "orcidId": "0000-0003-4215-8263",
+      "openAlexId": "https://openalex.org/A5006811718",
+      "position": 2
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 3
+    }
+  ]
 }

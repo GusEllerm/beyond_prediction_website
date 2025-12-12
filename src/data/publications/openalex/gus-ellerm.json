@@ -8,14 +8,58 @@
       "title": "LivePublication: The Science Workflow Creates and Updates the Publication",
       "year": 2023,
       "doi": "https://doi.org/10.1109/e-science58273.2023.10254857",
-      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857"
+      "openAccessUrl": "https://doi.org/10.1109/e-science58273.2023.10254857",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 2
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4312933824",
       "title": "Enabling LivePublication",
       "year": 2022,
       "doi": "https://doi.org/10.1109/escience55777.2022.00067",
-      "openAccessUrl": "https://zenodo.org/record/7145478"
+      "openAccessUrl": "https://zenodo.org/record/7145478",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        },
+        {
+          "name": "Benjamin Adams",
+          "orcidId": "0000-0002-1657-9809",
+          "openAlexId": "https://openalex.org/A5009482088",
+          "position": 2
+        },
+        {
+          "name": "Mark Gahegan",
+          "orcidId": "0000-0001-7209-8156",
+          "openAlexId": "https://openalex.org/A5069438601",
+          "position": 3
+        },
+        {
+          "name": "Lukas Trombach",
+          "orcidId": "0000-0001-5316-9967",
+          "openAlexId": "https://openalex.org/A5001114303",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3178488482",
@@ -23,14 +67,34 @@
       "year": 2021,
       "venue": "University of Canterbury Research Repository (University of Canterbury)",
       "doi": "https://doi.org/10.26021/11071",
-      "openAccessUrl": "https://hdl.handle.net/10092/102016"
+      "openAccessUrl": "https://hdl.handle.net/10092/102016",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3094414364",
       "title": "Modelling Security Aspects with ArchiMate: A Systematic Mapping Study",
       "year": 2020,
       "doi": "https://doi.org/10.1109/seaa51224.2020.00094",
-      "openAccessUrl": "https://doi.org/10.1109/seaa51224.2020.00094"
+      "openAccessUrl": "https://doi.org/10.1109/seaa51224.2020.00094",
+      "authors": [
+        {
+          "name": "Augustus Ellerm",
+          "openAlexId": "https://openalex.org/A5070970714",
+          "position": 1
+        },
+        {
+          "name": "Miguel Ehécatl Morales-Trujillo",
+          "orcidId": "0000-0002-1706-1577",
+          "openAlexId": "https://openalex.org/A5002091145",
+          "position": 2
+        }
+      ]
     }
   ]
 }

@@ -4,5 +4,49 @@
   "year": 2024,
   "venue": "Theoretical and Applied Genetics",
   "doi": "10.1007/s00122-024-04568-2",
-  "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00122-024-04568-2.pdf"
+  "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s00122-024-04568-2.pdf",
+  "authors": [
+    {
+      "name": "Timothy P. Bilton",
+      "orcidId": "0000-0001-5945-3766",
+      "openAlexId": "https://openalex.org/A5030499285",
+      "position": 1
+    },
+    {
+      "name": "Sanjeev Sharma",
+      "orcidId": "0000-0002-3273-0708",
+      "openAlexId": "https://openalex.org/A5100365785",
+      "position": 2
+    },
+    {
+      "name": "Matthew Schofield",
+      "orcidId": "0000-0003-1481-2766",
+      "openAlexId": "https://openalex.org/A5033690997",
+      "position": 3
+    },
+    {
+      "name": "Michael A. Black",
+      "orcidId": "0000-0003-1174-6054",
+      "openAlexId": "https://openalex.org/A5063087649",
+      "position": 4
+    },
+    {
+      "name": "Jeanne M. E. Jacobs",
+      "orcidId": "0000-0002-1047-1039",
+      "openAlexId": "https://openalex.org/A5075409476",
+      "position": 5
+    },
+    {
+      "name": "Glenn J. Bryan",
+      "orcidId": "0000-0002-7752-5740",
+      "openAlexId": "https://openalex.org/A5073869684",
+      "position": 6
+    },
+    {
+      "name": "K. G. Dodds",
+      "orcidId": "0000-0002-9347-6379",
+      "openAlexId": "https://openalex.org/A5058921217",
+      "position": 7
+    }
+  ]
 }

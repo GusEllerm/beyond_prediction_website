@@ -9,7 +9,152 @@
       "year": 2025,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2025.10.20.683354",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/10/20/2025.10.20.683354.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/10/20/2025.10.20.683354.full.pdf",
+      "authors": [
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 1
+        },
+        {
+          "name": "Janelle R. Wierenga",
+          "orcidId": "0000-0002-4474-9289",
+          "openAlexId": "https://openalex.org/A5113903293",
+          "position": 2
+        },
+        {
+          "name": "Jordan Douglas",
+          "orcidId": "0000-0003-0371-9961",
+          "openAlexId": "https://openalex.org/A5052240308",
+          "position": 3
+        },
+        {
+          "name": "Puawai Swindells-Wallace",
+          "openAlexId": "https://openalex.org/A5092439911",
+          "position": 4
+        },
+        {
+          "name": "Hoani Langsbury",
+          "openAlexId": "https://openalex.org/A5120065026",
+          "position": 5
+        },
+        {
+          "name": "Trudi Webster",
+          "orcidId": "0000-0002-3507-1162",
+          "openAlexId": "https://openalex.org/A5035250702",
+          "position": 6
+        },
+        {
+          "name": "Melanie J. Young",
+          "orcidId": "0000-0003-2818-2398",
+          "openAlexId": "https://openalex.org/A5103082126",
+          "position": 7
+        },
+        {
+          "name": "Hendrik Schultz",
+          "orcidId": "0000-0001-8926-2100",
+          "openAlexId": "https://openalex.org/A5091578536",
+          "position": 8
+        },
+        {
+          "name": "John Whyte",
+          "orcidId": "0000-0002-4381-1474",
+          "openAlexId": "https://openalex.org/A5038335088",
+          "position": 9
+        },
+        {
+          "name": "Bryony Alden",
+          "openAlexId": "https://openalex.org/A5011433530",
+          "position": 10
+        },
+        {
+          "name": "Thor T. Ruru",
+          "openAlexId": "https://openalex.org/A5116841605",
+          "position": 11
+        },
+        {
+          "name": "Linda J. Thomson",
+          "orcidId": "0000-0001-7049-0744",
+          "openAlexId": "https://openalex.org/A5011544741",
+          "position": 12
+        },
+        {
+          "name": "Jet Veldhuijzen Zanten",
+          "orcidId": "0000-0001-8422-9512",
+          "openAlexId": "https://openalex.org/A5052618036",
+          "position": 13
+        },
+        {
+          "name": "Megan Abbott",
+          "orcidId": "0009-0005-0529-3951",
+          "openAlexId": "https://openalex.org/A5101469183",
+          "position": 14
+        },
+        {
+          "name": "Jim Watts",
+          "openAlexId": "https://openalex.org/A5039882416",
+          "position": 15
+        },
+        {
+          "name": "Hugh S. Taylor",
+          "orcidId": "0000-0003-1720-8310",
+          "openAlexId": "https://openalex.org/A5073212927",
+          "position": 16
+        },
+        {
+          "name": "Stuart Hunter",
+          "openAlexId": "https://openalex.org/A5062782765",
+          "position": 17
+        },
+        {
+          "name": "B.I.P. Barratt",
+          "orcidId": "0000-0002-8424-8729",
+          "openAlexId": "https://openalex.org/A5055968775",
+          "position": 18
+        },
+        {
+          "name": "Philip Seddon",
+          "openAlexId": "https://openalex.org/A5089192190",
+          "position": 19
+        },
+        {
+          "name": "Kerri Morgan",
+          "orcidId": "0000-0002-7263-8340",
+          "openAlexId": "https://openalex.org/A5025441020",
+          "position": 20
+        },
+        {
+          "name": "Lisa S. Argilla",
+          "orcidId": "0000-0002-2614-5000",
+          "openAlexId": "https://openalex.org/A5086421351",
+          "position": 21
+        },
+        {
+          "name": "Catherine E. Grueber",
+          "orcidId": "0000-0002-8179-1822",
+          "openAlexId": "https://openalex.org/A5008983231",
+          "position": 22
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 23
+        },
+        {
+          "name": "Peter K. Dearden",
+          "orcidId": "0000-0001-7790-9675",
+          "openAlexId": "https://openalex.org/A5089446569",
+          "position": 24
+        },
+        {
+          "name": "Jemma L. Geoghegan",
+          "orcidId": "0000-0003-0970-0153",
+          "openAlexId": "https://openalex.org/A5027424821",
+          "position": 25
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414613956",
@@ -17,7 +162,39 @@
       "year": 2025,
       "venue": "Molecular Ecology Resources",
       "doi": "https://doi.org/10.1111/1755-0998.70049",
-      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550480"
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550480",
+      "authors": [
+        {
+          "name": "Tram Vi",
+          "orcidId": "0000-0002-4319-5544",
+          "openAlexId": "https://openalex.org/A5070543327",
+          "position": 1
+        },
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 2
+        },
+        {
+          "name": "Hui Zhen Tan",
+          "orcidId": "0000-0002-6750-7506",
+          "openAlexId": "https://openalex.org/A5060954713",
+          "position": 3
+        },
+        {
+          "name": "Audald Lloret‐Villas",
+          "orcidId": "0000-0001-6272-9639",
+          "openAlexId": "https://openalex.org/A5065284428",
+          "position": 4
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4414057662",
@@ -25,7 +202,27 @@
       "year": 2025,
       "venue": "FEMS Microbiology Ecology",
       "doi": "https://doi.org/10.1093/femsec/fiaf089",
-      "openAccessUrl": "https://academic.oup.com/femsec/advance-article-pdf/doi/10.1093/femsec/fiaf089/64222426/fiaf089.pdf"
+      "openAccessUrl": "https://academic.oup.com/femsec/advance-article-pdf/doi/10.1093/femsec/fiaf089/64222426/fiaf089.pdf",
+      "authors": [
+        {
+          "name": "William S. Pearman",
+          "orcidId": "0000-0002-7265-8499",
+          "openAlexId": "https://openalex.org/A5012783298",
+          "position": 1
+        },
+        {
+          "name": "Allen G. Rodrigo",
+          "orcidId": "0000-0002-8327-7317",
+          "openAlexId": "https://openalex.org/A5015045944",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4413110717",
@@ -33,7 +230,51 @@
       "year": 2025,
       "venue": "Molecular Ecology Resources",
       "doi": "https://doi.org/10.1111/1755-0998.70024",
-      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550488"
+      "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/12550488",
+      "authors": [
+        {
+          "name": "Hui Zhen Tan",
+          "orcidId": "0000-0002-6750-7506",
+          "openAlexId": "https://openalex.org/A5060954713",
+          "position": 1
+        },
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 2
+        },
+        {
+          "name": "Tram Vi",
+          "orcidId": "0000-0002-4319-5544",
+          "openAlexId": "https://openalex.org/A5070543327",
+          "position": 3
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 4
+        },
+        {
+          "name": "Sarah F. Bailey",
+          "orcidId": "0009-0006-0131-1638",
+          "openAlexId": "https://openalex.org/A5073718870",
+          "position": 5
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 6
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4411310825",
@@ -41,7 +282,42 @@
       "year": 2025,
       "venue": "Journal of Animal Breeding and Genetics",
       "doi": "https://doi.org/10.1111/jbg.12948",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jbg.12948"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jbg.12948",
+      "authors": [
+        {
+          "name": "Evelyn Jade",
+          "openAlexId": "https://openalex.org/A5118149285",
+          "position": 1
+        },
+        {
+          "name": "Mathew D. Littlejohn",
+          "openAlexId": "https://openalex.org/A5032790703",
+          "position": 2
+        },
+        {
+          "name": "Katie Eketone",
+          "openAlexId": "https://openalex.org/A5051159853",
+          "position": 3
+        },
+        {
+          "name": "Richard Spelman",
+          "orcidId": "0000-0002-7968-1392",
+          "openAlexId": "https://openalex.org/A5020561317",
+          "position": 4
+        },
+        {
+          "name": "Jessica Stapley",
+          "orcidId": "0000-0002-9138-5684",
+          "openAlexId": "https://openalex.org/A5091605245",
+          "position": 5
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4405560190",
@@ -49,7 +325,57 @@
       "year": 2024,
       "venue": "Molecular Ecology",
       "doi": "https://doi.org/10.1111/mec.17631",
-      "openAccessUrl": "https://doi.org/10.1111/mec.17631"
+      "openAccessUrl": "https://doi.org/10.1111/mec.17631",
+      "authors": [
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 1
+        },
+        {
+          "name": "Hui Zhen Tan",
+          "orcidId": "0000-0002-6750-7506",
+          "openAlexId": "https://openalex.org/A5060954713",
+          "position": 2
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 3
+        },
+        {
+          "name": "Sarah F. Bailey",
+          "orcidId": "0009-0006-0131-1638",
+          "openAlexId": "https://openalex.org/A5073718870",
+          "position": 4
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 5
+        },
+        {
+          "name": "John G. Ewen",
+          "orcidId": "0000-0001-6402-1378",
+          "openAlexId": "https://openalex.org/A5014012971",
+          "position": 6
+        },
+        {
+          "name": "Selina Patel",
+          "orcidId": "0009-0007-4695-5127",
+          "openAlexId": "https://openalex.org/A5036218391",
+          "position": 7
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4405367235",
@@ -57,7 +383,51 @@
       "year": 2024,
       "venue": "Molecular Ecology",
       "doi": "https://doi.org/10.1111/mec.17607",
-      "openAccessUrl": "https://doi.org/10.1111/mec.17607"
+      "openAccessUrl": "https://doi.org/10.1111/mec.17607",
+      "authors": [
+        {
+          "name": "Kamolphat Atsawawaranunt",
+          "orcidId": "0000-0003-3995-5448",
+          "openAlexId": "https://openalex.org/A5066178835",
+          "position": 1
+        },
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 2
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 3
+        },
+        {
+          "name": "Kyle M. Ewart",
+          "orcidId": "0000-0002-0871-3369",
+          "openAlexId": "https://openalex.org/A5088274048",
+          "position": 4
+        },
+        {
+          "name": "Richard E. Major",
+          "orcidId": "0000-0002-1334-9864",
+          "openAlexId": "https://openalex.org/A5066455573",
+          "position": 5
+        },
+        {
+          "name": "Rebecca N. Johnson",
+          "orcidId": "0000-0003-3035-2827",
+          "openAlexId": "https://openalex.org/A5014926845",
+          "position": 6
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404611333",
@@ -65,7 +435,73 @@
       "year": 2024,
       "venue": "Molecular Ecology",
       "doi": "https://doi.org/10.1111/mec.17579",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17579"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17579",
+      "authors": [
+        {
+          "name": "Brent M. Thompson",
+          "openAlexId": "https://openalex.org/A5048538505",
+          "position": 1
+        },
+        {
+          "name": "Kamolphat Atsawawaranunt",
+          "orcidId": "0000-0003-3995-5448",
+          "openAlexId": "https://openalex.org/A5066178835",
+          "position": 2
+        },
+        {
+          "name": "Melissa C. Nehmens",
+          "orcidId": "0000-0002-4633-6007",
+          "openAlexId": "https://openalex.org/A5039129419",
+          "position": 3
+        },
+        {
+          "name": "William S. Pearman",
+          "orcidId": "0000-0002-7265-8499",
+          "openAlexId": "https://openalex.org/A5012783298",
+          "position": 4
+        },
+        {
+          "name": "E. Owen Perkins",
+          "openAlexId": "https://openalex.org/A5109638558",
+          "position": 5
+        },
+        {
+          "name": "Pavel Pipek",
+          "orcidId": "0000-0003-1116-1013",
+          "openAlexId": "https://openalex.org/A5013488988",
+          "position": 6
+        },
+        {
+          "name": "Lee A. Rollins",
+          "orcidId": "0000-0002-3279-7005",
+          "openAlexId": "https://openalex.org/A5065685598",
+          "position": 7
+        },
+        {
+          "name": "Hui Zhen Tan",
+          "orcidId": "0000-0002-6750-7506",
+          "openAlexId": "https://openalex.org/A5060954713",
+          "position": 8
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 9
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 10
+        },
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 11
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4404328254",
@@ -73,7 +509,27 @@
       "year": 2024,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2024.11.13.623479",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/13/2024.11.13.623479.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/13/2024.11.13.623479.full.pdf",
+      "authors": [
+        {
+          "name": "William S. Pearman",
+          "orcidId": "0000-0002-7265-8499",
+          "openAlexId": "https://openalex.org/A5012783298",
+          "position": 1
+        },
+        {
+          "name": "Allen G. Rodrigo",
+          "orcidId": "0000-0002-8327-7317",
+          "openAlexId": "https://openalex.org/A5015045944",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4402405481",
@@ -81,7 +537,132 @@
       "year": 2024,
       "venue": "PLoS Biology",
       "doi": "https://doi.org/10.1371/journal.pbio.3002755",
-      "openAccessUrl": "https://doi.org/10.1371/journal.pbio.3002755"
+      "openAccessUrl": "https://doi.org/10.1371/journal.pbio.3002755",
+      "authors": [
+        {
+          "name": "Lara Urban",
+          "orcidId": "0000-0002-5445-9314",
+          "openAlexId": "https://openalex.org/A5077896214",
+          "position": 1
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 2
+        },
+        {
+          "name": "Lydia Uddstrom",
+          "openAlexId": "https://openalex.org/A5042536326",
+          "position": 3
+        },
+        {
+          "name": "Andrew Digby",
+          "orcidId": "0000-0002-1870-8811",
+          "openAlexId": "https://openalex.org/A5088919135",
+          "position": 4
+        },
+        {
+          "name": "Deidre Vercoe",
+          "openAlexId": "https://openalex.org/A5046630996",
+          "position": 5
+        },
+        {
+          "name": "Daryl Eason",
+          "openAlexId": "https://openalex.org/A5057264653",
+          "position": 6
+        },
+        {
+          "name": "Jodie M. S. Crane",
+          "orcidId": "0000-0003-4441-8399",
+          "openAlexId": "https://openalex.org/A5008193020",
+          "position": 7
+        },
+        {
+          "name": "Matthew J. Wylie",
+          "openAlexId": "https://openalex.org/A5088510256",
+          "position": 8
+        },
+        {
+          "name": "Tāne Davis",
+          "openAlexId": "https://openalex.org/A5070755793",
+          "position": 9
+        },
+        {
+          "name": "Marissa F. LeLec",
+          "openAlexId": "https://openalex.org/A5092942399",
+          "position": 10
+        },
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 11
+        },
+        {
+          "name": "Simon Poulton",
+          "openAlexId": "https://openalex.org/A5027491627",
+          "position": 12
+        },
+        {
+          "name": "Jon Slate",
+          "orcidId": "0000-0003-3356-5123",
+          "openAlexId": "https://openalex.org/A5002256941",
+          "position": 13
+        },
+        {
+          "name": "Alana Alexander",
+          "orcidId": "0000-0002-6456-7757",
+          "openAlexId": "https://openalex.org/A5041075134",
+          "position": 14
+        },
+        {
+          "name": "Patricia Fuentes-Cross",
+          "orcidId": "0000-0003-1245-8396",
+          "openAlexId": "https://openalex.org/A5089886551",
+          "position": 15
+        },
+        {
+          "name": "Peter K. Dearden",
+          "orcidId": "0000-0001-7790-9675",
+          "openAlexId": "https://openalex.org/A5089446569",
+          "position": 16
+        },
+        {
+          "name": "Neil J. Gemmell",
+          "orcidId": "0000-0003-0671-3637",
+          "openAlexId": "https://openalex.org/A5065672420",
+          "position": 17
+        },
+        {
+          "name": "Farhan Azeem",
+          "orcidId": "0000-0001-7216-7035",
+          "openAlexId": "https://openalex.org/A5090171395",
+          "position": 18
+        },
+        {
+          "name": "Marvin Weyland",
+          "orcidId": "0000-0003-0452-1869",
+          "openAlexId": "https://openalex.org/A5033088585",
+          "position": 19
+        },
+        {
+          "name": "Harald G. L. Schwefel",
+          "orcidId": "0000-0002-4304-6469",
+          "openAlexId": "https://openalex.org/A5069508517",
+          "position": 20
+        },
+        {
+          "name": "Cock van Oosterhout",
+          "openAlexId": "https://openalex.org/A5072018988",
+          "position": 21
+        },
+        {
+          "name": "Hernán E. Morales",
+          "openAlexId": "https://openalex.org/A5002907942",
+          "position": 22
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4401875836",
@@ -89,7 +670,39 @@
       "year": 2024,
       "venue": "Proceedings of the National Academy of Sciences",
       "doi": "https://doi.org/10.1073/pnas.2319104121",
-      "openAccessUrl": "https://doi.org/10.1073/pnas.2319104121"
+      "openAccessUrl": "https://doi.org/10.1073/pnas.2319104121",
+      "authors": [
+        {
+          "name": "Fay Morland",
+          "orcidId": "0000-0002-3037-2118",
+          "openAlexId": "https://openalex.org/A5061172399",
+          "position": 1
+        },
+        {
+          "name": "John G. Ewen",
+          "orcidId": "0000-0001-6402-1378",
+          "openAlexId": "https://openalex.org/A5014012971",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 4
+        },
+        {
+          "name": "Nicola Hemmings",
+          "orcidId": "0000-0003-2418-3625",
+          "openAlexId": "https://openalex.org/A5065422217",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4401246348",
@@ -97,7 +710,61 @@
       "year": 2024,
       "venue": "Heredity",
       "doi": "https://doi.org/10.1038/s41437-024-00711-3",
-      "openAccessUrl": "https://www.nature.com/articles/s41437-024-00711-3.pdf"
+      "openAccessUrl": "https://www.nature.com/articles/s41437-024-00711-3.pdf",
+      "authors": [
+        {
+          "name": "Hui Zhen Tan",
+          "orcidId": "0000-0002-6750-7506",
+          "openAlexId": "https://openalex.org/A5060954713",
+          "position": 1
+        },
+        {
+          "name": "Phoebe Scherer",
+          "openAlexId": "https://openalex.org/A5108964442",
+          "position": 2
+        },
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 3
+        },
+        {
+          "name": "Sarah A. Bailey",
+          "openAlexId": "https://openalex.org/A5078055685",
+          "position": 4
+        },
+        {
+          "name": "Kate Lee",
+          "orcidId": "0000-0002-0886-3746",
+          "openAlexId": "https://openalex.org/A5101421398",
+          "position": 5
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 6
+        },
+        {
+          "name": "John G. Ewen",
+          "orcidId": "0000-0001-6402-1378",
+          "openAlexId": "https://openalex.org/A5014012971",
+          "position": 7
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 8
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 9
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4391309978",
@@ -105,7 +772,39 @@
       "year": 2024,
       "venue": "Biological Invasions",
       "doi": "https://doi.org/10.1007/s10530-024-03246-0",
-      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10530-024-03246-0.pdf"
+      "openAccessUrl": "https://link.springer.com/content/pdf/10.1007/s10530-024-03246-0.pdf",
+      "authors": [
+        {
+          "name": "Kamolphat Atsawawaranunt",
+          "orcidId": "0000-0003-3995-5448",
+          "openAlexId": "https://openalex.org/A5066178835",
+          "position": 1
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 2
+        },
+        {
+          "name": "Kristal E. Cain",
+          "orcidId": "0000-0002-6908-7015",
+          "openAlexId": "https://openalex.org/A5037277936",
+          "position": 3
+        },
+        {
+          "name": "Richard E. Major",
+          "orcidId": "0000-0002-1334-9864",
+          "openAlexId": "https://openalex.org/A5066455573",
+          "position": 4
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4390974971",
@@ -113,7 +812,50 @@
       "year": 2024,
       "venue": "Biological Conservation",
       "doi": "https://doi.org/10.1016/j.biocon.2023.110430",
-      "openAccessUrl": "https://doi.org/10.1016/j.biocon.2023.110430"
+      "openAccessUrl": "https://doi.org/10.1016/j.biocon.2023.110430",
+      "authors": [
+        {
+          "name": "Sarah Nichols",
+          "orcidId": "0000-0001-5053-3858",
+          "openAlexId": "https://openalex.org/A5035248297",
+          "position": 1
+        },
+        {
+          "name": "John G. Ewen",
+          "orcidId": "0000-0001-6402-1378",
+          "openAlexId": "https://openalex.org/A5014012971",
+          "position": 2
+        },
+        {
+          "name": "Dada Gottelli",
+          "openAlexId": "https://openalex.org/A5014956511",
+          "position": 3
+        },
+        {
+          "name": "Catherine E. Grueber",
+          "orcidId": "0000-0002-8179-1822",
+          "openAlexId": "https://openalex.org/A5008983231",
+          "position": 4
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 5
+        },
+        {
+          "name": "Amanda E. Trask",
+          "orcidId": "0000-0002-9398-2861",
+          "openAlexId": "https://openalex.org/A5091818817",
+          "position": 6
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4391914578",
@@ -121,7 +863,57 @@
       "year": 2024,
       "venue": "DNA Research",
       "doi": "https://doi.org/10.1093/dnares/dsae005",
-      "openAccessUrl": "https://doi.org/10.1093/dnares/dsae005"
+      "openAccessUrl": "https://doi.org/10.1093/dnares/dsae005",
+      "authors": [
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 1
+        },
+        {
+          "name": "Rebecca N. Johnson",
+          "orcidId": "0000-0003-3035-2827",
+          "openAlexId": "https://openalex.org/A5014926845",
+          "position": 2
+        },
+        {
+          "name": "Richard E. Major",
+          "orcidId": "0000-0002-1334-9864",
+          "openAlexId": "https://openalex.org/A5066455573",
+          "position": 3
+        },
+        {
+          "name": "Kamolphat Atsawawaranunt",
+          "orcidId": "0000-0003-3995-5448",
+          "openAlexId": "https://openalex.org/A5066178835",
+          "position": 4
+        },
+        {
+          "name": "Kyle M. Ewart",
+          "orcidId": "0000-0002-0871-3369",
+          "openAlexId": "https://openalex.org/A5088274048",
+          "position": 5
+        },
+        {
+          "name": "Lee A. Rollins",
+          "orcidId": "0000-0002-3279-7005",
+          "openAlexId": "https://openalex.org/A5065685598",
+          "position": 6
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 7
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4389902675",
@@ -129,7 +921,158 @@
       "year": 2023,
       "venue": "Genome Biology and Evolution",
       "doi": "https://doi.org/10.1093/gbe/evad230",
-      "openAccessUrl": "https://academic.oup.com/gbe/advance-article-pdf/doi/10.1093/gbe/evad230/54586997/evad230.pdf"
+      "openAccessUrl": "https://academic.oup.com/gbe/advance-article-pdf/doi/10.1093/gbe/evad230/54586997/evad230.pdf",
+      "authors": [
+        {
+          "name": "Angela McGaughran",
+          "orcidId": "0000-0002-3429-8699",
+          "openAlexId": "https://openalex.org/A5077273559",
+          "position": 1
+        },
+        {
+          "name": "Manpreet K. Dhami",
+          "orcidId": "0000-0002-8956-0674",
+          "openAlexId": "https://openalex.org/A5068292883",
+          "position": 2
+        },
+        {
+          "name": "Elahe Parvizi",
+          "orcidId": "0000-0002-1695-8817",
+          "openAlexId": "https://openalex.org/A5068062685",
+          "position": 3
+        },
+        {
+          "name": "Amy L. Vaughan",
+          "orcidId": "0000-0003-0309-8851",
+          "openAlexId": "https://openalex.org/A5059758517",
+          "position": 4
+        },
+        {
+          "name": "Dianne Gleeson",
+          "orcidId": "0000-0002-5093-4405",
+          "openAlexId": "https://openalex.org/A5000708494",
+          "position": 5
+        },
+        {
+          "name": "Kathryn A. Hodgins",
+          "orcidId": "0000-0003-2795-5213",
+          "openAlexId": "https://openalex.org/A5032305441",
+          "position": 6
+        },
+        {
+          "name": "Lee A. Rollins",
+          "orcidId": "0000-0002-3279-7005",
+          "openAlexId": "https://openalex.org/A5065685598",
+          "position": 7
+        },
+        {
+          "name": "Carolyn K. Tepolt",
+          "orcidId": "0000-0002-7062-3452",
+          "openAlexId": "https://openalex.org/A5064856609",
+          "position": 8
+        },
+        {
+          "name": "Kathryn G. Turner",
+          "orcidId": "0000-0001-8982-0301",
+          "openAlexId": "https://openalex.org/A5049814685",
+          "position": 9
+        },
+        {
+          "name": "Kamolphat Atsawawaranunt",
+          "orcidId": "0000-0003-3995-5448",
+          "openAlexId": "https://openalex.org/A5066178835",
+          "position": 10
+        },
+        {
+          "name": "Paul Battlay",
+          "orcidId": "0000-0001-6050-1868",
+          "openAlexId": "https://openalex.org/A5017543531",
+          "position": 11
+        },
+        {
+          "name": "Carlos Congrains",
+          "orcidId": "0000-0001-7506-6133",
+          "openAlexId": "https://openalex.org/A5082701588",
+          "position": 12
+        },
+        {
+          "name": "Angelica Crottini",
+          "orcidId": "0000-0002-8505-3050",
+          "openAlexId": "https://openalex.org/A5060293950",
+          "position": 13
+        },
+        {
+          "name": "Tristan P. W. Dennis",
+          "orcidId": "0000-0002-0895-3549",
+          "openAlexId": "https://openalex.org/A5076302153",
+          "position": 14
+        },
+        {
+          "name": "Claudia Lange",
+          "orcidId": "0000-0003-1936-4528",
+          "openAlexId": "https://openalex.org/A5037344885",
+          "position": 15
+        },
+        {
+          "name": "Xiaoyue P. Liu",
+          "orcidId": "0000-0002-1625-1053",
+          "openAlexId": "https://openalex.org/A5073300090",
+          "position": 16
+        },
+        {
+          "name": "Paige Matheson",
+          "openAlexId": "https://openalex.org/A5032955608",
+          "position": 17
+        },
+        {
+          "name": "Henry L. North",
+          "orcidId": "0000-0002-8773-2428",
+          "openAlexId": "https://openalex.org/A5061938332",
+          "position": 18
+        },
+        {
+          "name": "Iva Popovic",
+          "orcidId": "0000-0001-6582-4236",
+          "openAlexId": "https://openalex.org/A5091495965",
+          "position": 19
+        },
+        {
+          "name": "Marc Rius",
+          "orcidId": "0000-0002-2195-6605",
+          "openAlexId": "https://openalex.org/A5060389896",
+          "position": 20
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 21
+        },
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 22
+        },
+        {
+          "name": "Hui Zhen Tan",
+          "orcidId": "0000-0002-6750-7506",
+          "openAlexId": "https://openalex.org/A5060954713",
+          "position": 23
+        },
+        {
+          "name": "Cui Wang",
+          "orcidId": "0000-0003-2916-3922",
+          "openAlexId": "https://openalex.org/A5100608301",
+          "position": 24
+        },
+        {
+          "name": "Jonathan Wilson",
+          "orcidId": "0000-0002-0454-9178",
+          "openAlexId": "https://openalex.org/A5053554552",
+          "position": 25
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4389805257",
@@ -137,7 +1080,49 @@
       "year": 2023,
       "venue": "Conservation Genetics",
       "doi": "https://doi.org/10.1007/s10592-023-01597-0",
-      "openAccessUrl": "https://doi.org/10.1007/s10592-023-01597-0"
+      "openAccessUrl": "https://doi.org/10.1007/s10592-023-01597-0",
+      "authors": [
+        {
+          "name": "Anika N. Correll Trnka",
+          "orcidId": "0000-0003-3602-8016",
+          "openAlexId": "https://openalex.org/A5093509598",
+          "position": 1
+        },
+        {
+          "name": "Chris P. Gaskin",
+          "orcidId": "0000-0002-9343-0303",
+          "openAlexId": "https://openalex.org/A5077372020",
+          "position": 2
+        },
+        {
+          "name": "Matt J. Rayner",
+          "orcidId": "0000-0002-1168-6699",
+          "openAlexId": "https://openalex.org/A5004255560",
+          "position": 3
+        },
+        {
+          "name": "Brent M. Stephenson",
+          "openAlexId": "https://openalex.org/A5068146927",
+          "position": 4
+        },
+        {
+          "name": "Fiona Robertson",
+          "openAlexId": "https://openalex.org/A5078057192",
+          "position": 5
+        },
+        {
+          "name": "Bruce C. Robertson",
+          "orcidId": "0000-0002-5348-2731",
+          "openAlexId": "https://openalex.org/A5071196175",
+          "position": 6
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 7
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4389083947",
@@ -145,7 +1130,39 @@
       "year": 2023,
       "venue": "Methods in Ecology and Evolution",
       "doi": "https://doi.org/10.1111/2041-210x.14242",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14242"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14242",
+      "authors": [
+        {
+          "name": "Fay Morland",
+          "orcidId": "0000-0002-3037-2118",
+          "openAlexId": "https://openalex.org/A5061172399",
+          "position": 1
+        },
+        {
+          "name": "Selina Patel",
+          "orcidId": "0009-0007-4695-5127",
+          "openAlexId": "https://openalex.org/A5036218391",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 4
+        },
+        {
+          "name": "Nicola Hemmings",
+          "orcidId": "0000-0003-2418-3625",
+          "openAlexId": "https://openalex.org/A5065422217",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4387041980",
@@ -153,14 +1170,171 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.09.25.559367",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/11/01/2023.09.25.559367.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/11/01/2023.09.25.559367.full.pdf",
+      "authors": [
+        {
+          "name": "Lara Urban",
+          "orcidId": "0000-0002-5445-9314",
+          "openAlexId": "https://openalex.org/A5077896214",
+          "position": 1
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 2
+        },
+        {
+          "name": "Lydia Uddstrom",
+          "openAlexId": "https://openalex.org/A5042536326",
+          "position": 3
+        },
+        {
+          "name": "Andrew Digby",
+          "orcidId": "0000-0002-1870-8811",
+          "openAlexId": "https://openalex.org/A5088919135",
+          "position": 4
+        },
+        {
+          "name": "Deidre Vercoe",
+          "openAlexId": "https://openalex.org/A5046630996",
+          "position": 5
+        },
+        {
+          "name": "Daryl Eason",
+          "openAlexId": "https://openalex.org/A5057264653",
+          "position": 6
+        },
+        {
+          "name": "Jodie M. S. Crane",
+          "orcidId": "0000-0003-4441-8399",
+          "openAlexId": "https://openalex.org/A5008193020",
+          "position": 7
+        },
+        {
+          "name": "Matthew J. Wylie",
+          "openAlexId": "https://openalex.org/A5088510256",
+          "position": 8
+        },
+        {
+          "name": "Tāne Davis",
+          "openAlexId": "https://openalex.org/A5070755793",
+          "position": 9
+        },
+        {
+          "name": "Marissa F. LeLec",
+          "openAlexId": "https://openalex.org/A5092942399",
+          "position": 10
+        },
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 11
+        },
+        {
+          "name": "Simon Poulton",
+          "openAlexId": "https://openalex.org/A5027491627",
+          "position": 12
+        },
+        {
+          "name": "Jon Slate",
+          "orcidId": "0000-0003-3356-5123",
+          "openAlexId": "https://openalex.org/A5002256941",
+          "position": 13
+        },
+        {
+          "name": "Alana Alexander",
+          "orcidId": "0000-0002-6456-7757",
+          "openAlexId": "https://openalex.org/A5041075134",
+          "position": 14
+        },
+        {
+          "name": "Patricia Fuentes-Cross",
+          "orcidId": "0000-0003-1245-8396",
+          "openAlexId": "https://openalex.org/A5089886551",
+          "position": 15
+        },
+        {
+          "name": "Peter K. Dearden",
+          "orcidId": "0000-0001-7790-9675",
+          "openAlexId": "https://openalex.org/A5089446569",
+          "position": 16
+        },
+        {
+          "name": "Neil J. Gemmell",
+          "orcidId": "0000-0003-0671-3637",
+          "openAlexId": "https://openalex.org/A5065672420",
+          "position": 17
+        },
+        {
+          "name": "Farhan Azeem",
+          "orcidId": "0000-0001-7216-7035",
+          "openAlexId": "https://openalex.org/A5090171395",
+          "position": 18
+        },
+        {
+          "name": "Marvin Weyland",
+          "orcidId": "0000-0003-0452-1869",
+          "openAlexId": "https://openalex.org/A5033088585",
+          "position": 19
+        },
+        {
+          "name": "Harald G. L. Schwefel",
+          "orcidId": "0000-0002-4304-6469",
+          "openAlexId": "https://openalex.org/A5069508517",
+          "position": 20
+        },
+        {
+          "name": "Cock van Oosterhout",
+          "openAlexId": "https://openalex.org/A5072018988",
+          "position": 21
+        },
+        {
+          "name": "Hernán E. Morales",
+          "openAlexId": "https://openalex.org/A5002907942",
+          "position": 22
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4390553686",
       "title": "Author response for \"Including the invisible fraction in whole population studies: A guide to the genetic sampling of unhatched bird eggs\"",
       "year": 2023,
       "doi": "https://doi.org/10.1111/2041-210x.14242/v2/response1",
-      "openAccessUrl": "https://doi.org/10.1111/2041-210x.14242/v2/response1"
+      "openAccessUrl": "https://doi.org/10.1111/2041-210x.14242/v2/response1",
+      "authors": [
+        {
+          "name": "Fay Morland",
+          "orcidId": "0000-0002-3037-2118",
+          "openAlexId": "https://openalex.org/A5061172399",
+          "position": 1
+        },
+        {
+          "name": "Selina Patel",
+          "orcidId": "0009-0007-4695-5127",
+          "openAlexId": "https://openalex.org/A5036218391",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 4
+        },
+        {
+          "name": "Nicola Hemmings",
+          "orcidId": "0000-0003-2418-3625",
+          "openAlexId": "https://openalex.org/A5065422217",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4386216359",
@@ -168,7 +1342,337 @@
       "year": 2023,
       "venue": "Nature Ecology & Evolution",
       "doi": "https://doi.org/10.1038/s41559-023-02165-y",
-      "openAccessUrl": "https://doi.org/10.1038/s41559-023-02165-y"
+      "openAccessUrl": "https://doi.org/10.1038/s41559-023-02165-y",
+      "authors": [
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 1
+        },
+        {
+          "name": "Marissa F. Le Lec",
+          "orcidId": "0000-0002-6724-9519",
+          "openAlexId": "https://openalex.org/A5068567628",
+          "position": 2
+        },
+        {
+          "name": "Jana Wold",
+          "orcidId": "0000-0001-8095-4282",
+          "openAlexId": "https://openalex.org/A5014752093",
+          "position": 3
+        },
+        {
+          "name": "Emily Koot",
+          "orcidId": "0000-0002-1956-3415",
+          "openAlexId": "https://openalex.org/A5057296586",
+          "position": 4
+        },
+        {
+          "name": "David J. Winter",
+          "orcidId": "0000-0002-6165-0029",
+          "openAlexId": "https://openalex.org/A5064841091",
+          "position": 5
+        },
+        {
+          "name": "Patrick J. Biggs",
+          "orcidId": "0000-0002-0285-4101",
+          "openAlexId": "https://openalex.org/A5071138818",
+          "position": 6
+        },
+        {
+          "name": "Stephanie J. Galla",
+          "orcidId": "0000-0002-4650-8067",
+          "openAlexId": "https://openalex.org/A5025507139",
+          "position": 7
+        },
+        {
+          "name": "Lara Urban",
+          "orcidId": "0000-0002-5445-9314",
+          "openAlexId": "https://openalex.org/A5077896214",
+          "position": 8
+        },
+        {
+          "name": "Yasmin Foster",
+          "orcidId": "0000-0002-0377-1244",
+          "openAlexId": "https://openalex.org/A5004777706",
+          "position": 9
+        },
+        {
+          "name": "Murray P. Cox",
+          "orcidId": "0000-0003-1936-0236",
+          "openAlexId": "https://openalex.org/A5072946445",
+          "position": 10
+        },
+        {
+          "name": "Andrew Digby",
+          "orcidId": "0000-0002-1870-8811",
+          "openAlexId": "https://openalex.org/A5088919135",
+          "position": 11
+        },
+        {
+          "name": "Lydia Uddstrom",
+          "openAlexId": "https://openalex.org/A5042536326",
+          "position": 12
+        },
+        {
+          "name": "Daryl Eason",
+          "openAlexId": "https://openalex.org/A5057264653",
+          "position": 13
+        },
+        {
+          "name": "Deidre Vercoe",
+          "openAlexId": "https://openalex.org/A5046630996",
+          "position": 14
+        },
+        {
+          "name": "Tāne Davis",
+          "openAlexId": "https://openalex.org/A5070755793",
+          "position": 15
+        },
+        {
+          "name": "K. Nyerere Andrew",
+          "openAlexId": "https://openalex.org/A5109401530",
+          "position": 16
+        },
+        {
+          "name": "Lisa S. Argilla",
+          "orcidId": "0000-0002-2614-5000",
+          "openAlexId": "https://openalex.org/A5086421351",
+          "position": 17
+        },
+        {
+          "name": "Karen Arnold",
+          "openAlexId": "https://openalex.org/A5104161552",
+          "position": 18
+        },
+        {
+          "name": "J. Stephen Bohan",
+          "openAlexId": "https://openalex.org/A5066157316",
+          "position": 19
+        },
+        {
+          "name": "Liam Bolitho",
+          "orcidId": "0000-0001-6109-3704",
+          "openAlexId": "https://openalex.org/A5042440693",
+          "position": 20
+        },
+        {
+          "name": "Nichy Brown",
+          "openAlexId": "https://openalex.org/A5104161553",
+          "position": 21
+        },
+        {
+          "name": "J.W. Carpenter",
+          "openAlexId": "https://openalex.org/A5113436774",
+          "position": 22
+        },
+        {
+          "name": "Jodie M. S. Crane",
+          "orcidId": "0000-0003-4441-8399",
+          "openAlexId": "https://openalex.org/A5008193020",
+          "position": 23
+        },
+        {
+          "name": "Margie Grant",
+          "openAlexId": "https://openalex.org/A5036013543",
+          "position": 24
+        },
+        {
+          "name": "Glen Greaves",
+          "openAlexId": "https://openalex.org/A5062516437",
+          "position": 25
+        },
+        {
+          "name": "Brett Halkett",
+          "openAlexId": "https://openalex.org/A5092706825",
+          "position": 26
+        },
+        {
+          "name": "Rory Hannan",
+          "openAlexId": "https://openalex.org/A5102549606",
+          "position": 27
+        },
+        {
+          "name": "Sam Haultain",
+          "openAlexId": "https://openalex.org/A5092706826",
+          "position": 28
+        },
+        {
+          "name": "Bryony Hitchcock",
+          "openAlexId": "https://openalex.org/A5092706827",
+          "position": 29
+        },
+        {
+          "name": "Leigh Joyce",
+          "openAlexId": "https://openalex.org/A5051490027",
+          "position": 30
+        },
+        {
+          "name": "Sara Larcombe",
+          "openAlexId": "https://openalex.org/A5109633725",
+          "position": 31
+        },
+        {
+          "name": "Jo Ledington",
+          "openAlexId": "https://openalex.org/A5092706828",
+          "position": 32
+        },
+        {
+          "name": "Jinty MacTavish",
+          "openAlexId": "https://openalex.org/A5051130892",
+          "position": 33
+        },
+        {
+          "name": "Phil Marsh",
+          "openAlexId": "https://openalex.org/A5104028377",
+          "position": 34
+        },
+        {
+          "name": "Gilbert Mingam",
+          "openAlexId": "https://openalex.org/A5092706829",
+          "position": 35
+        },
+        {
+          "name": "Freya Moore",
+          "openAlexId": "https://openalex.org/A5108859753",
+          "position": 36
+        },
+        {
+          "name": "Lyndsay Murray",
+          "openAlexId": "https://openalex.org/A5112988793",
+          "position": 37
+        },
+        {
+          "name": "Errol Nye",
+          "openAlexId": "https://openalex.org/A5092706830",
+          "position": 38
+        },
+        {
+          "name": "Jake Osborne",
+          "openAlexId": "https://openalex.org/A5112988794",
+          "position": 39
+        },
+        {
+          "name": "Lou Parker",
+          "openAlexId": "https://openalex.org/A5114077754",
+          "position": 40
+        },
+        {
+          "name": "Chris Phillips",
+          "orcidId": "0000-0002-5851-5264",
+          "openAlexId": "https://openalex.org/A5018740566",
+          "position": 41
+        },
+        {
+          "name": "R. Phillips",
+          "openAlexId": "https://openalex.org/A5108697794",
+          "position": 42
+        },
+        {
+          "name": "Brodie Philp",
+          "openAlexId": "https://openalex.org/A5092706831",
+          "position": 43
+        },
+        {
+          "name": "Tim Raemaekers",
+          "orcidId": "0000-0001-9391-4124",
+          "openAlexId": "https://openalex.org/A5055270660",
+          "position": 44
+        },
+        {
+          "name": "Jenny Rickett",
+          "openAlexId": "https://openalex.org/A5092706832",
+          "position": 45
+        },
+        {
+          "name": "Rachel Rouse",
+          "openAlexId": "https://openalex.org/A5111030873",
+          "position": 46
+        },
+        {
+          "name": "Rachael Sagar",
+          "openAlexId": "https://openalex.org/A5112988795",
+          "position": 47
+        },
+        {
+          "name": "Alisha Sherriff",
+          "openAlexId": "https://openalex.org/A5092706833",
+          "position": 48
+        },
+        {
+          "name": "Theo Thompson",
+          "openAlexId": "https://openalex.org/A5114077755",
+          "position": 49
+        },
+        {
+          "name": "Jason van de Wetering",
+          "openAlexId": "https://openalex.org/A5057080396",
+          "position": 50
+        },
+        {
+          "name": "Nicki van Zyl",
+          "openAlexId": "https://openalex.org/A5052877592",
+          "position": 51
+        },
+        {
+          "name": "Jen Waite",
+          "openAlexId": "https://openalex.org/A5111030874",
+          "position": 52
+        },
+        {
+          "name": "Jim Watts",
+          "openAlexId": "https://openalex.org/A5039882416",
+          "position": 53
+        },
+        {
+          "name": "Jason T. Howard",
+          "orcidId": "0000-0003-3265-5127",
+          "openAlexId": "https://openalex.org/A5107226767",
+          "position": 54
+        },
+        {
+          "name": "Erich D. Jarvis",
+          "orcidId": "0000-0001-8931-5049",
+          "openAlexId": "https://openalex.org/A5028548956",
+          "position": 55
+        },
+        {
+          "name": "Fiona Robertson",
+          "openAlexId": "https://openalex.org/A5078057192",
+          "position": 56
+        },
+        {
+          "name": "Bruce C. Robertson",
+          "orcidId": "0000-0002-5348-2731",
+          "openAlexId": "https://openalex.org/A5071196175",
+          "position": 57
+        },
+        {
+          "name": "Neil J. Gemmell",
+          "orcidId": "0000-0003-0671-3637",
+          "openAlexId": "https://openalex.org/A5065672420",
+          "position": 58
+        },
+        {
+          "name": "Tammy E. Steeves",
+          "orcidId": "0000-0003-2112-5761",
+          "openAlexId": "https://openalex.org/A5040331756",
+          "position": 59
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 60
+        },
+        {
+          "name": "Peter K. Dearden",
+          "orcidId": "0000-0001-7790-9675",
+          "openAlexId": "https://openalex.org/A5089446569",
+          "position": 61
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4386100643",
@@ -176,7 +1680,57 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.08.22.554353",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/08/23/2023.08.22.554353.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/08/23/2023.08.22.554353.full.pdf",
+      "authors": [
+        {
+          "name": "Katarina C. Stuart",
+          "orcidId": "0000-0002-0386-4600",
+          "openAlexId": "https://openalex.org/A5008114624",
+          "position": 1
+        },
+        {
+          "name": "Rebecca N. Johnson",
+          "orcidId": "0000-0003-3035-2827",
+          "openAlexId": "https://openalex.org/A5014926845",
+          "position": 2
+        },
+        {
+          "name": "Richard E. Major",
+          "orcidId": "0000-0002-1334-9864",
+          "openAlexId": "https://openalex.org/A5066455573",
+          "position": 3
+        },
+        {
+          "name": "Kamolphat Atsawawaranunt",
+          "orcidId": "0000-0003-3995-5448",
+          "openAlexId": "https://openalex.org/A5066178835",
+          "position": 4
+        },
+        {
+          "name": "Kyle M. Ewart",
+          "orcidId": "0000-0002-0871-3369",
+          "openAlexId": "https://openalex.org/A5088274048",
+          "position": 5
+        },
+        {
+          "name": "Lee A. Rollins",
+          "orcidId": "0000-0002-3279-7005",
+          "openAlexId": "https://openalex.org/A5065685598",
+          "position": 6
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 7
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4381157913",
@@ -184,7 +1738,54 @@
       "year": 2023,
       "venue": "Molecular Ecology Resources",
       "doi": "https://doi.org/10.1111/1755-0998.13823",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1755-0998.13823"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1755-0998.13823",
+      "authors": [
+        {
+          "name": "Sarah A. Bailey",
+          "openAlexId": "https://openalex.org/A5078055685",
+          "position": 1
+        },
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 2
+        },
+        {
+          "name": "Dinindu Senanayake",
+          "openAlexId": "https://openalex.org/A5076707778",
+          "position": 3
+        },
+        {
+          "name": "Phoebe Scherer",
+          "openAlexId": "https://openalex.org/A5108964442",
+          "position": 4
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 5
+        },
+        {
+          "name": "John G. Ewen",
+          "orcidId": "0000-0001-6402-1378",
+          "openAlexId": "https://openalex.org/A5014012971",
+          "position": 6
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 7
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4380550374",
@@ -192,7 +1793,39 @@
       "year": 2023,
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "doi": "https://doi.org/10.1101/2023.06.13.544703",
-      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/06/14/2023.06.13.544703.full.pdf"
+      "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/06/14/2023.06.13.544703.full.pdf",
+      "authors": [
+        {
+          "name": "Fay Morland",
+          "orcidId": "0000-0002-3037-2118",
+          "openAlexId": "https://openalex.org/A5061172399",
+          "position": 1
+        },
+        {
+          "name": "Selina Patel",
+          "orcidId": "0009-0007-4695-5127",
+          "openAlexId": "https://openalex.org/A5036218391",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 4
+        },
+        {
+          "name": "Nicola Hemmings",
+          "orcidId": "0000-0003-2418-3625",
+          "openAlexId": "https://openalex.org/A5065422217",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4378234405",
@@ -200,7 +1833,56 @@
       "year": 2023,
       "venue": "Molecular Ecology",
       "doi": "https://doi.org/10.1111/mec.16999",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16999"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16999",
+      "authors": [
+        {
+          "name": "Annie G. West",
+          "orcidId": "0000-0002-2252-3828",
+          "openAlexId": "https://openalex.org/A5015802646",
+          "position": 1
+        },
+        {
+          "name": "Andrew Digby",
+          "orcidId": "0000-0002-1870-8811",
+          "openAlexId": "https://openalex.org/A5088919135",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        },
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 4
+        },
+        {
+          "name": "Peter K. Dearden",
+          "orcidId": "0000-0001-7790-9675",
+          "openAlexId": "https://openalex.org/A5089446569",
+          "position": 5
+        },
+        {
+          "name": "Kākāpō Recovery Team",
+          "openAlexId": "https://openalex.org/A5089127428",
+          "position": 6
+        },
+        {
+          "name": "Michael W. Taylor",
+          "orcidId": "0000-0002-0463-7813",
+          "openAlexId": "https://openalex.org/A5087530975",
+          "position": 7
+        },
+        {
+          "name": "Lara Urban",
+          "orcidId": "0000-0002-5445-9314",
+          "openAlexId": "https://openalex.org/A5077896214",
+          "position": 8
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4376865477",
@@ -208,7 +1890,45 @@
       "year": 2023,
       "venue": "Heredity",
       "doi": "https://doi.org/10.1038/s41437-023-00621-w",
-      "openAccessUrl": "https://www.nature.com/articles/s41437-023-00621-w.pdf"
+      "openAccessUrl": "https://www.nature.com/articles/s41437-023-00621-w.pdf",
+      "authors": [
+        {
+          "name": "Kamolphat Atsawawaranunt",
+          "orcidId": "0000-0003-3995-5448",
+          "openAlexId": "https://openalex.org/A5066178835",
+          "position": 1
+        },
+        {
+          "name": "Kyle M. Ewart",
+          "orcidId": "0000-0002-0871-3369",
+          "openAlexId": "https://openalex.org/A5088274048",
+          "position": 2
+        },
+        {
+          "name": "Richard E. Major",
+          "orcidId": "0000-0002-1334-9864",
+          "openAlexId": "https://openalex.org/A5066455573",
+          "position": 3
+        },
+        {
+          "name": "Rebecca N. Johnson",
+          "orcidId": "0000-0003-3035-2827",
+          "openAlexId": "https://openalex.org/A5014926845",
+          "position": 4
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 5
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 6
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4324129229",
@@ -216,14 +1936,78 @@
       "year": 2023,
       "venue": "Molecular Ecology Resources",
       "doi": "https://doi.org/10.1111/1755-0998.13783",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1755-0998.13783"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1755-0998.13783",
+      "authors": [
+        {
+          "name": "Jana Wold",
+          "orcidId": "0000-0001-8095-4282",
+          "openAlexId": "https://openalex.org/A5014752093",
+          "position": 1
+        },
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 2
+        },
+        {
+          "name": "Peter K. Dearden",
+          "orcidId": "0000-0001-7790-9675",
+          "openAlexId": "https://openalex.org/A5089446569",
+          "position": 3
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 4
+        },
+        {
+          "name": "Tammy E. Steeves",
+          "orcidId": "0000-0003-2112-5761",
+          "openAlexId": "https://openalex.org/A5040331756",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4323981124",
       "title": "The promise and challenges of characterising genome-wide structural variants: A case study in a critically endangered parrot",
       "year": 2023,
       "doi": "https://doi.org/10.22541/au.167153229.99892408/v3",
-      "openAccessUrl": "https://doi.org/10.22541/au.167153229.99892408/v3"
+      "openAccessUrl": "https://doi.org/10.22541/au.167153229.99892408/v3",
+      "authors": [
+        {
+          "name": "Jana Wold",
+          "orcidId": "0000-0001-8095-4282",
+          "openAlexId": "https://openalex.org/A5014752093",
+          "position": 1
+        },
+        {
+          "name": "Joseph Guhlin",
+          "orcidId": "0000-0003-3264-7178",
+          "openAlexId": "https://openalex.org/A5041543355",
+          "position": 2
+        },
+        {
+          "name": "Peter K. Dearden",
+          "orcidId": "0000-0001-7790-9675",
+          "openAlexId": "https://openalex.org/A5089446569",
+          "position": 3
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 4
+        },
+        {
+          "name": "Tammy E. Steeves",
+          "orcidId": "0000-0003-2112-5761",
+          "openAlexId": "https://openalex.org/A5040331756",
+          "position": 5
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4323979431",
@@ -231,7 +2015,33 @@
       "year": 2023,
       "venue": "New Zealand Journal of Zoology",
       "doi": "https://doi.org/10.1080/03014223.2023.2182332",
-      "openAccessUrl": "https://doi.org/10.1080/03014223.2023.2182332"
+      "openAccessUrl": "https://doi.org/10.1080/03014223.2023.2182332",
+      "authors": [
+        {
+          "name": "Annika Beesley",
+          "orcidId": "0000-0002-6309-7896",
+          "openAlexId": "https://openalex.org/A5038578464",
+          "position": 1
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 2
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 3
+        },
+        {
+          "name": "Heather T. Battles",
+          "orcidId": "0000-0001-8814-2625",
+          "openAlexId": "https://openalex.org/A5057458988",
+          "position": 4
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4317477075",
@@ -239,7 +2049,49 @@
       "year": 2023,
       "venue": "Molecular Ecology",
       "doi": "https://doi.org/10.1111/mec.16855",
-      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16855"
+      "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16855",
+      "authors": [
+        {
+          "name": "Laura Duntsch",
+          "openAlexId": "https://openalex.org/A5044929185",
+          "position": 1
+        },
+        {
+          "name": "Annabel Whibley",
+          "orcidId": "0000-0003-1878-7705",
+          "openAlexId": "https://openalex.org/A5032940167",
+          "position": 2
+        },
+        {
+          "name": "Pierre de Villemereuil",
+          "orcidId": "0000-0002-8791-6104",
+          "openAlexId": "https://openalex.org/A5005209578",
+          "position": 3
+        },
+        {
+          "name": "Patricia Brekke",
+          "orcidId": "0000-0001-6298-3194",
+          "openAlexId": "https://openalex.org/A5010185199",
+          "position": 4
+        },
+        {
+          "name": "Sarah A. Bailey",
+          "openAlexId": "https://openalex.org/A5078055685",
+          "position": 5
+        },
+        {
+          "name": "John G. Ewen",
+          "orcidId": "0000-0001-6402-1378",
+          "openAlexId": "https://openalex.org/A5014012971",
+          "position": 6
+        },
+        {
+          "name": "Anna W. Santure",
+          "orcidId": "0000-0001-8965-1042",
+          "openAlexId": "https://openalex.org/A5079336422",
+          "position": 7
+        }
+      ]
     }
   ]
 }

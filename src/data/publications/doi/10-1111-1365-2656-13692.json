@@ -4,5 +4,30 @@
   "year": 2022,
   "venue": "Journal of Animal Ecology",
   "doi": "10.1111/1365-2656.13692",
-  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.13692"
+  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.13692",
+  "authors": [
+    {
+      "name": "Priscila M. Salloum",
+      "orcidId": "0000-0001-7725-2263",
+      "openAlexId": "https://openalex.org/A5016114929",
+      "position": 1
+    },
+    {
+      "name": "Anna W. Santure",
+      "orcidId": "0000-0001-8965-1042",
+      "openAlexId": "https://openalex.org/A5079336422",
+      "position": 2
+    },
+    {
+      "name": "Shane Lavery",
+      "openAlexId": "https://openalex.org/A5051364832",
+      "position": 3
+    },
+    {
+      "name": "Pierre de Villemereuil",
+      "orcidId": "0000-0002-8791-6104",
+      "openAlexId": "https://openalex.org/A5005209578",
+      "position": 4
+    }
+  ]
 }
