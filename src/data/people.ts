@@ -61,6 +61,7 @@ export const principalInvestigators: Person[] = [
     themeSlugs: [
       'live-research-articles',
       'trustworthy-explainable-ai',
+      'ai-research-literature',
       'biodiversity-ecology-biosecurity',
       'digital-research-skills',
     ],
@@ -120,6 +121,7 @@ export const coInvestigators: Person[] = [
     themeSlugs: [
       'live-research-articles',
       'trustworthy-explainable-ai',
+      'ai-research-literature',
       'digital-research-skills',
     ],
     bio: "Associate Professor Ben Adams is a geospatial data scientist in the Department of Computer Science and Software Engineering at the University of Canterbury. His research focuses on geographic information science, spatial data infrastructures and the design of systems that make complex environmental and urban data more usable. Ben has led and contributed to projects spanning spatial knowledge graphs, geospatial semantics and reproducible spatial analysis, and he contributes to the project by connecting novel publication workflows with real-world, spatially rich research data.",
@@ -515,6 +517,7 @@ export const postDocs: Person[] = [
     photoUrl: '/photos/gus-ellerm.webp',
     themeSlugs: [
       'live-research-articles',
+      'ai-research-literature',
     ],
     bio: 'Augustus (Gus) Ellerm is a computer scientist whose research centres on research workflows, provenance and live scientific publications. Based at the University of Canterbury, he is lead author of the "Enabling LivePublication" and "LivePublication: The Science Workflow Creates and Updates the Publication" papers, which prototype systems where computational workflows directly drive and update scientific articles. Gus\'s work on integrating workflow systems, provenance standards and publication technologies underpins this project\'s vision of dynamic, reproducible and machine-actionable research outputs.',
     bioSources: [
