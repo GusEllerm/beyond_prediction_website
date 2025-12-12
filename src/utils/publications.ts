@@ -133,7 +133,10 @@ export function getPublicationUrl(work: PersonPublication): string {
     const cleanDoi = work.doi.replace(/^doi:/i, '').trim();
     return `https://doi.org/${cleanDoi}`;
   }
-  if (work.id) return work.id;
+  // Only use id as URL if it's a valid URL (starts with http:// or https://)
+  if (work.id && (work.id.startsWith('http://') || work.id.startsWith('https://'))) {
+    return work.id;
+  }
   return '#';
 }
 

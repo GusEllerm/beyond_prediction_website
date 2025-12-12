@@ -9,6 +9,24 @@
       "name": "Admin, eRNZ",
       "openAlexId": null,
       "position": 1
+    },
+    {
+      "name": "Augustus Ellerm",
+      "orcidId": "0000-0001-8260-231X",
+      "openAlexId": "https://openalex.org/A5070970714",
+      "position": 2
+    },
+    {
+      "name": "Mark Gahegan",
+      "orcidId": "0000-0001-7209-8156",
+      "openAlexId": "https://openalex.org/A5069438601",
+      "position": 3
+    },
+    {
+      "name": "Benjamin Adams",
+      "orcidId": "0000-0002-1657-9809",
+      "openAlexId": "https://openalex.org/A5009482088",
+      "position": 4
     }
   ]
 }

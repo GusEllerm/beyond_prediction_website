@@ -8,11 +8,13 @@
   "authors": [
     {
       "name": "Klawitter, Jonathan",
+      "orcidId": "0000-0001-8917-5269",
       "openAlexId": "https://openalex.org/A4221649407",
       "position": 1
     },
     {
       "name": "Drummond, Alexei J.",
+      "orcidId": "0000-0003-4454-2576",
       "openAlexId": "https://openalex.org/A4304555211",
       "position": 2
     }
