@@ -16,13 +16,14 @@ import { partners } from './data/partners';
 // Import search utilities
 import { searchItems, type SearchItem, type SearchItemType } from './data/searchIndex';
 import { allPeople, type Person } from './data/people';
-import { createPublicationLookup, getPublicationUrl } from './utils/publications';
+import { createPublicationLookup } from './utils/publications';
 import { getPublicationAuthors } from './utils/authorMatching';
 import { researchProjects } from './data/researchProjects';
 import type { PersonPublication } from './data/publications';
 
 // Import utilities
 import { escapeHtml } from './utils/dom';
+import { renderPublicationCard } from './components/publicationCard';
 
 /**
  * Parses the search query and type filter from URL query parameters
@@ -226,43 +227,18 @@ function renderAuthorPublicationsSection(
       return a.title.localeCompare(b.title);
     })
     .map((pub) => {
-      const url = getPublicationUrl(pub);
-      const yearDisplay = pub.year ? ` (${pub.year})` : '';
-      const venueDisplay = pub.venue ? ` ${escapeHtml(pub.venue)}` : '';
-      const projectUrl = `/project.html?project=${encodeURIComponent(pub.projectSlug)}`;
-
-      // Get matched authors for this publication
-      const authors = getPublicationAuthors(pub, allPeople);
-      const authorsHtml = authors.length > 0
-        ? `<p class="card-text small mb-2">
-            <span class="text-muted">Authors:</span>
-            ${authors.map((author) => 
-              `<a href="/person.html?person=${encodeURIComponent(author.slug)}" class="text-decoration-none">${escapeHtml(author.name)}</a>`
-            ).join(', ')}
-          </p>`
-        : '';
-
-      return `
-        <div class="card mb-3">
-          <div class="card-body">
-            <h5 class="card-title mb-2">
-              <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
-                ${escapeHtml(pub.title)}
-              </a>
-            </h5>
-            <p class="card-text small text-muted mb-2">
-              ${yearDisplay}${venueDisplay}
-            </p>
-            ${authorsHtml}
-            <p class="card-text small mb-0">
-              <span class="text-muted">Theme:</span>
-              <a href="${escapeHtml(projectUrl)}" class="text-decoration-none">
-                ${escapeHtml(pub.projectTitle)}
-              </a>
-            </p>
-          </div>
-        </div>
-      `;
+      return renderPublicationCard(pub, {
+        showAuthors: true,
+        showAuthorPhotos: false,
+        showVenue: true,
+        showYear: true,
+        withMargin: true,
+        projectContext: {
+          title: pub.projectTitle,
+          slug: pub.projectSlug,
+        },
+        allPeopleForMatching: allPeople,
+      });
     })
     .join('');
 

@@ -16,11 +16,12 @@ import { partners } from './data/partners';
 // Import project data
 import { findProjectDetail, type ExampleShowcaseKind } from './data/researchProjects';
 import type { PersonPublication } from './data/publications';
-import { getPublicationsByIds, getPublicationUrl } from './utils/publications';
+import { getPublicationsByIds } from './utils/publications';
 import type { ExampleExtensionMount } from './example/extensions';
 
 // Import utilities
 import { escapeHtml } from './utils/dom';
+import { renderPublicationCard } from './components/publicationCard';
 
 // Discover all extension modules under src/example/*.ts
 const extensionModules = import.meta.glob('./example/*.ts', {
@@ -166,28 +167,16 @@ function renderPublicationsSection(publications: PersonPublication[]): string {
 
   const cardsHtml = publications
     .map((work) => {
-      const metaParts: string[] = [];
-      if (typeof work.year === 'number') metaParts.push(String(work.year));
-      if (work.venue) metaParts.push(work.venue);
-
-      const metaHtml = metaParts.length
-        ? `<p class="card-text mb-1 text-muted small">${escapeHtml(metaParts.join(' · '))}</p>`
-        : '';
-
-      const url = getPublicationUrl(work);
-
-      return `
-        <div class="col">
-          <a href="${escapeHtml(url)}" class="text-decoration-none text-reset" target="_blank" rel="noopener noreferrer">
-            <article class="card h-100">
-              <div class="card-body">
-                <h3 class="h6 card-title mb-1">${escapeHtml(work.title)}</h3>
-                ${metaHtml}
-              </div>
-            </article>
-          </a>
-        </div>
-      `;
+      const cardHtml = renderPublicationCard(work, {
+        showAuthors: false,
+        showAuthorPhotos: false,
+        showVenue: true,
+        showYear: true,
+        compact: false,
+        headingLevel: 'h3',
+      });
+      // Wrap in column div for grid layout
+      return `<div class="col">${cardHtml}</div>`;
     })
     .join('');
 

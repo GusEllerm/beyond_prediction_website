@@ -13,11 +13,12 @@ import { renderFooter } from './components/footer';
 import { partners } from './data/partners';
 import { researchProjects } from './data/researchProjects';
 import { allPeople } from './data/people';
-import { createPublicationLookup, getPublicationUrl, type PersonPublication } from './utils/publications';
+import { createPublicationLookup, type PersonPublication } from './utils/publications';
 import { getPublicationAuthors } from './utils/authorMatching';
 
 // Import utilities
 import { escapeHtml } from './utils/dom';
+import { renderPublicationCard as renderPubCard } from './components/publicationCard';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const main = document.querySelector<HTMLElement>('#bp-main');
@@ -161,101 +162,18 @@ function getUniqueYears(publications: PublicationWithProject[]): number[] {
  * Renders a single publication card
  */
 function renderPublicationCard(pub: PublicationWithProject): string {
-  const url = getPublicationUrl(pub);
-  const yearDisplay = pub.year ? ` (${pub.year})` : '';
-  const venueDisplay = pub.venue ? ` ${escapeHtml(pub.venue)}` : '';
-  const projectUrl = `/project.html?project=${encodeURIComponent(pub.projectSlug)}`;
-  
-  // Get matched authors for this publication
-  const authors = getPublicationAuthors(pub, allPeople);
-  
-  // Check if there are additional authors not in people.ts
-  const totalAuthors = pub.authors?.length || 0;
-  const matchedAuthorsCount = authors.length;
-  const hasAdditionalAuthors = totalAuthors > matchedAuthorsCount;
-  const additionalAuthorsCount = totalAuthors - matchedAuthorsCount;
-  
-  // Author photos HTML (small circular photos on the right)
-  const authorPhotosHtml = authors.length > 0
-    ? `<div class="col-auto">
-        <div class="d-flex flex-wrap gap-2 align-items-center">
-          ${authors
-            .slice(0, 6) // Limit to 6 authors to avoid clutter
-            .map((author) => {
-              const personUrl = `/person.html?person=${encodeURIComponent(author.slug)}`;
-              if (author.photoUrl) {
-                return `
-                  <a href="${escapeHtml(personUrl)}" class="text-decoration-none" title="${escapeHtml(author.name)}">
-                    <img 
-                      src="${escapeHtml(author.photoUrl)}" 
-                      alt="${escapeHtml(author.name)}" 
-                      class="rounded-circle border border-2 border-light"
-                      style="width: 40px; height: 40px; object-fit: cover;"
-                      loading="lazy"
-                    />
-                  </a>
-                `;
-              } else {
-                // Fallback: show initials in a circle
-                const initials = author.name
-                  .split(' ')
-                  .map((n) => n[0])
-                  .join('')
-                  .toUpperCase()
-                  .slice(0, 2);
-                return `
-                  <a href="${escapeHtml(personUrl)}" class="text-decoration-none d-inline-flex align-items-center justify-content-center rounded-circle border border-2 border-light bg-light text-dark" 
-                     style="width: 40px; height: 40px; font-size: 0.75rem; font-weight: 600;" 
-                     title="${escapeHtml(author.name)}">
-                    ${escapeHtml(initials)}
-                  </a>
-                `;
-              }
-            })
-            .join('')}
-          ${authors.length > 6 ? `<span class="text-muted small">+${authors.length - 6}</span>` : ''}
-          ${hasAdditionalAuthors && authors.length <= 6 ? `<span class="text-muted small" title="${additionalAuthorsCount} additional author${additionalAuthorsCount !== 1 ? 's' : ''} not in our database">+${additionalAuthorsCount}</span>` : ''}
-        </div>
-      </div>`
-    : '';
-
-  // Author names HTML (text list)
-  const authorsHtml = authors.length > 0
-    ? `<p class="card-text small mb-2">
-        <span class="text-muted">Authors:</span>
-        ${authors.map((author) => 
-          `<a href="/person.html?person=${encodeURIComponent(author.slug)}" class="text-decoration-none">${escapeHtml(author.name)}</a>`
-        ).join(', ')}
-        ${hasAdditionalAuthors ? ` <span class="text-muted">and ${additionalAuthorsCount} other${additionalAuthorsCount !== 1 ? 's' : ''}</span>` : ''}
-      </p>`
-    : '';
-
-  return `
-    <div class="card mb-3">
-      <div class="card-body">
-        <div class="row g-3">
-          <div class="${authors.length > 0 ? 'col' : 'col-12'}">
-            <h5 class="card-title mb-2">
-              <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
-                ${escapeHtml(pub.title)}
-              </a>
-            </h5>
-            <p class="card-text small text-muted mb-2">
-              ${yearDisplay}${venueDisplay}
-            </p>
-            ${authorsHtml}
-            <p class="card-text small mb-0">
-              <span class="text-muted">Theme:</span>
-              <a href="${escapeHtml(projectUrl)}" class="text-decoration-none">
-                ${escapeHtml(pub.projectTitle)}
-              </a>
-            </p>
-          </div>
-          ${authorPhotosHtml}
-        </div>
-      </div>
-    </div>
-  `;
+  return renderPubCard(pub, {
+    showAuthors: true,
+    showAuthorPhotos: true,
+    showVenue: true,
+    showYear: true,
+    withMargin: true,
+    projectContext: {
+      title: pub.projectTitle,
+      slug: pub.projectSlug,
+    },
+    allPeopleForMatching: allPeople,
+  });
 }
 
 /**

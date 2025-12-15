@@ -27,6 +27,7 @@ import { researchProjects, type ResearchProject } from './data/researchProjects'
 
 // Import utilities
 import { escapeHtml } from './utils/dom';
+import { renderPublicationCard } from './components/publicationCard';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const main = document.querySelector<HTMLElement>('#bp-main');
@@ -87,22 +88,6 @@ function getPublicationsForPerson(
 }
 
 /**
- * Gets the best available URL for a publication
- * @param work - The publication work
- * @returns The best available URL
- */
-function getPublicationUrl(work: PersonPublication): string {
-  if (work.openAccessUrl) return work.openAccessUrl;
-  if (work.doi) {
-    // Ensure DOI is formatted as a URL
-    const cleanDoi = work.doi.replace(/^doi:/i, '').trim();
-    return `https://doi.org/${cleanDoi}`;
-  }
-  if (work.id) return work.id;
-  return '#';
-}
-
-/**
  * Renders the publications section HTML as Bootstrap cards
  * @param person - The person object (to determine source)
  * @param publications - Array of publications or null
@@ -127,28 +112,17 @@ function renderPublicationsSection(
   const cardsHtml = publications
     .slice(0, 10) // show up to 10
     .map((work) => {
-      const metaParts: string[] = [];
-      if (typeof work.year === 'number') metaParts.push(String(work.year));
-      if (work.venue) metaParts.push(work.venue);
-
-      const metaHtml = metaParts.length
-        ? `<p class="card-text mb-1 text-muted small">${escapeHtml(metaParts.join(' · '))}</p>`
-        : '';
-
-      const url = getPublicationUrl(work);
-
-      return `
-        <div class="col">
-          <a href="${escapeHtml(url)}" class="text-decoration-none text-reset" target="_blank" rel="noopener noreferrer">
-            <article class="card h-100">
-              <div class="card-body">
-                <h3 class="h6 card-title mb-1">${escapeHtml(work.title)}</h3>
-                ${metaHtml}
-              </div>
-            </article>
-          </a>
-        </div>
-      `;
+      const cardHtml = renderPublicationCard(work, {
+        showAuthors: true,
+        showAuthorPhotos: true,
+        showVenue: true,
+        showYear: true,
+        compact: false,
+        headingLevel: 'h5',
+        withMargin: true,
+      });
+      // Wrap in column div for grid layout
+      return `<div class="col">${cardHtml}</div>`;
     })
     .join('');
 
