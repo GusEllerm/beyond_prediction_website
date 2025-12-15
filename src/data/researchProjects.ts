@@ -166,7 +166,6 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4414260950',
       'https://openalex.org/W4285011406',
       'https://openalex.org/W4313003561',
-      'https://openalex.org/W2da44e89bc5199900100312d2d84feebabab02bf', // pub38: Learning to match product codes
       'https://openalex.org/Wa8a048b862cf84a78e0a3f2e8ca8979b7c70ddb7', // pub39: An explainability analysis of a sentiment prediction task
     ],
   },
@@ -249,7 +248,6 @@ export const researchProjects: ResearchProject[] = [
     publicationIds: ['https://openalex.org/W4283322370',
       'https://openalex.org/W4285011406',
       'https://openalex.org/W4392348463',
-      'https://openalex.org/W4397013939',
       'https://openalex.org/W4406958237',
       'https://openalex.org/W4411205819',
       'https://openalex.org/W4220756870',
@@ -266,7 +264,6 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W3092360857', // 10.1101/2020.10.10.334193
       'https://openalex.org/W3199267134', // 10.1093/gbe/evab213
       'https://openalex.org/W3118433720', // 10.48550/ARXIV.2101.02751
-      'https://openalex.org/W3118901901', // 10.1101/2021.01.07.425804
       'https://openalex.org/W3128309744', // 10.1101/2021.01.28.428698
       'https://openalex.org/W3182965360', // 10.1371/journal.pone.0254491
     ],
@@ -373,7 +370,6 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4402911717',
       'https://openalex.org/W6930048546',
       // Infectious disease publications
-      'https://openalex.org/W4291288513', // pub55: LinguaPhylo
       'https://openalex.org/W4229065791', // pub76: Online Bayesian Analysis with BEAST 2
       'https://openalex.org/W3203862906', // pub83: Spread of Nontyphoidal Salmonella
       'https://openalex.org/W3111342687', // Genomic epidemiology reveals transmission patterns and dynamics of SARS-CoV-2 in Aotearoa New Zealand
@@ -467,12 +463,10 @@ export const researchProjects: ResearchProject[] = [
     publicationIds: [
       'https://openalex.org/W4220756870', // pub57: Sustained software development
       'https://openalex.org/W1010800094965520201806279', // pub10: MEWMA charts when parameters are estimated
-      'https://openalex.org/W2da44e89bc5199900100312d2d84feebabab02bf', // pub38: Learning to match product codes (alternative DOI)
       'https://openalex.org/W4293450833', // pub82: Learning to match product codes
       'https://openalex.org/W4406958237', // pub50: A bioinformatician, computer scientist, and geneticist...
       'https://openalex.org/W6966124972', // pub44: LIPIcs GIScience 2025
       'https://doi.org/10.6084/m9.figshare.28537430.v1', // pub52: What drives bioinformatic tool accuracy?
-      'https://openalex.org/W3160967809', // 10.1101/092205
     ],
   },
 ];
