@@ -3,6 +3,9 @@
 /* Import Inter font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
+/* Import noUiSlider styles */
+@import 'nouislider/dist/nouislider.min.css';
+
 :root {
   /* Base dark blue from navbar */
   --bp-dark-blue: rgb(12, 12, 72);
@@ -818,4 +821,84 @@ body {
     width: 90px;
     height: 50px;
   }
+}
+
+/* noUiSlider custom styling to match Bootstrap theme */
+#bp-year-slider {
+  margin: 1rem 0 0 0;
+}
+
+/* Remove any borders from slider and year label containers */
+#bp-year-slider,
+#bp-year-slider * {
+  border: none !important;
+}
+
+/* Remove border from year labels container */
+#bp-year-min,
+#bp-year-max {
+  border: none !important;
+}
+
+/* Target the parent container of year labels to remove any border */
+#bp-year-slider + div {
+  border: none !important;
+}
+
+/* Slider track */
+#bp-year-slider .noUi-base {
+  background: #dee2e6;
+  border-radius: 4px;
+  height: 6px;
+}
+
+/* Active range (between handles) */
+#bp-year-slider .noUi-connect {
+  background: var(--bp-primary-blue);
+  border-radius: 4px;
+}
+
+/* Handles */
+#bp-year-slider .noUi-handle {
+  width: 18px;
+  height: 18px;
+  right: -9px;
+  top: -6px;
+  border: 2px solid var(--bp-primary-blue);
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: grab;
+}
+
+#bp-year-slider .noUi-handle:active {
+  cursor: grabbing;
+}
+
+#bp-year-slider .noUi-handle:before,
+#bp-year-slider .noUi-handle:after {
+  display: none;
+}
+
+/* Tooltips - hidden by default, shown on hover */
+#bp-year-slider .noUi-tooltip {
+  background: var(--bp-primary-blue);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  pointer-events: none;
+}
+
+#bp-year-slider .noUi-handle:hover .noUi-tooltip,
+#bp-year-slider .noUi-handle:active .noUi-tooltip {
+  opacity: 1;
+}
+
+#bp-year-slider .noUi-tooltip:after {
+  border-top-color: var(--bp-primary-blue);
 }

@@ -4,6 +4,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // Import Bootstrap JS (for navbar toggle and other interactive components)
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
+// Import noUiSlider JS (CSS is imported in styles.css)
+// Import from the CommonJS build which Vite can handle
+import noUiSlider from 'nouislider/dist/nouislider.js';
+
 // Import custom styles
 import './styles.css';
 
@@ -44,7 +48,8 @@ interface PublicationWithProject extends PersonPublication {
  * Filter state interface
  */
 interface ResearchOutputFilters {
-  years: Set<number>;
+  minYear: number | null;
+  maxYear: number | null;
   themes: Set<string>;
   authors: Set<string>;
   titleQuery: string;
@@ -55,11 +60,14 @@ interface ResearchOutputFilters {
  */
 let allOutputs: PublicationWithProject[] = [];
 let filters: ResearchOutputFilters = {
-  years: new Set(),
+  minYear: null,
+  maxYear: null,
   themes: new Set(),
   authors: new Set(),
   titleQuery: '',
 };
+let yearSlider: ReturnType<typeof noUiSlider.create> | null = null;
+let isUpdatingSliderProgrammatically = false;
 
 /**
  * Debounce helper function
@@ -121,9 +129,15 @@ function loadResearchOutputsData(): PublicationWithProject[] {
  * Pure filtering function - checks if an output matches the current filters
  */
 function matchesFilters(output: PublicationWithProject, filters: ResearchOutputFilters): boolean {
-  // Years: if any years selected, require output.year to be in the set
-  if (filters.years.size > 0) {
-    if (!output.year || !filters.years.has(output.year)) {
+  // Years: if range is set, require output.year to be within the range
+  if (filters.minYear !== null || filters.maxYear !== null) {
+    if (!output.year) {
+      return false;
+    }
+    if (filters.minYear !== null && output.year < filters.minYear) {
+      return false;
+    }
+    if (filters.maxYear !== null && output.year > filters.maxYear) {
       return false;
     }
   }
@@ -246,22 +260,35 @@ function renderActiveFilterTags(): void {
   if (!tagsContainer) return;
 
   const tags: string[] = [];
-  const totalActiveFilters = filters.years.size + filters.themes.size + filters.authors.size + (filters.titleQuery.trim() ? 1 : 0);
+  const hasYearFilter = filters.minYear !== null || filters.maxYear !== null;
+  const totalActiveFilters = (hasYearFilter ? 1 : 0) + filters.themes.size + filters.authors.size + (filters.titleQuery.trim() ? 1 : 0);
 
   if (totalActiveFilters === 0) {
     tagsContainer.innerHTML = '';
     return;
   }
 
-  // Year tags
-  Array.from(filters.years).sort((a, b) => b - a).forEach((year) => {
+  // Year range tag
+  if (hasYearFilter) {
+    let yearLabel: string;
+    if (filters.minYear !== null && filters.maxYear !== null) {
+      if (filters.minYear === filters.maxYear) {
+        yearLabel = `${filters.minYear}`;
+      } else {
+        yearLabel = `${filters.minYear}–${filters.maxYear}`;
+      }
+    } else if (filters.minYear !== null) {
+      yearLabel = `${filters.minYear}+`;
+    } else {
+      yearLabel = `≤${filters.maxYear}`;
+    }
     tags.push(`
       <span class="badge rounded-pill text-bg-primary me-1 mb-1 d-inline-flex align-items-center">
-        ${year}
-        <button type="button" class="btn-close btn-close-white btn-sm ms-1" style="font-size: 0.65rem;" aria-label="Remove year ${year}" data-filter-type="year" data-filter-value="${year}"></button>
+        ${yearLabel}
+        <button type="button" class="btn-close btn-close-white btn-sm ms-1" style="font-size: 0.65rem;" aria-label="Remove year filter" data-filter-type="year"></button>
       </span>
     `);
-  });
+  }
 
   // Theme tags
   Array.from(filters.themes).forEach((themeSlug) => {
@@ -304,7 +331,7 @@ function renderActiveFilterTags(): void {
   }
 
   tagsContainer.innerHTML = `
-    <div class="mb-3 pb-3 border-bottom">
+    <div class="mb-3">
       <div class="d-flex justify-content-between align-items-center mb-2">
         <small class="text-muted fw-semibold">Active Filters (${totalActiveFilters})</small>
         <button type="button" class="btn btn-link btn-sm p-0 text-decoration-none" id="clear-all-filters-inline" style="font-size: 0.75rem;">
@@ -324,8 +351,9 @@ function renderActiveFilterTags(): void {
       const filterType = target.getAttribute('data-filter-type');
       const filterValue = target.getAttribute('data-filter-value');
 
-      if (filterType === 'year' && filterValue) {
-        filters.years.delete(Number.parseInt(filterValue, 10));
+      if (filterType === 'year') {
+        filters.minYear = null;
+        filters.maxYear = null;
       } else if (filterType === 'theme' && filterValue) {
         filters.themes.delete(filterValue);
       } else if (filterType === 'author' && filterValue) {
@@ -358,8 +386,14 @@ function renderActiveFilterTags(): void {
 function updateUrlFromFilters(): void {
   const params = new URLSearchParams();
 
-  if (filters.years.size > 0) {
-    params.set('years', Array.from(filters.years).sort((a, b) => b - a).join(','));
+  if (filters.minYear !== null || filters.maxYear !== null) {
+    if (filters.minYear !== null && filters.maxYear !== null) {
+      params.set('years', `${filters.minYear}-${filters.maxYear}`);
+    } else if (filters.minYear !== null) {
+      params.set('years', `${filters.minYear}-`);
+    } else if (filters.maxYear !== null) {
+      params.set('years', `-${filters.maxYear}`);
+    }
   }
   if (filters.themes.size > 0) {
     params.set('themes', Array.from(filters.themes).join(','));
@@ -386,9 +420,25 @@ function initFiltersFromUrl(): void {
   const authorsParam = params.get('authors');
   const titleParam = params.get('title');
 
-  filters.years = new Set(
-    yearsParam ? yearsParam.split(',').map((y) => Number.parseInt(y, 10)).filter(Number.isFinite) : []
-  );
+  // Parse year range from URL (format: "min-max", "min-", or "-max")
+  if (yearsParam) {
+    const yearMatch = yearsParam.match(/^(-?\d+)?-(-?\d+)?$/);
+    if (yearMatch) {
+      filters.minYear = yearMatch[1] ? Number.parseInt(yearMatch[1], 10) : null;
+      filters.maxYear = yearMatch[2] ? Number.parseInt(yearMatch[2], 10) : null;
+    } else {
+      // Fallback: try to parse as comma-separated list (old format)
+      const years = yearsParam.split(',').map((y) => Number.parseInt(y, 10)).filter(Number.isFinite);
+      if (years.length > 0) {
+        filters.minYear = Math.min(...years);
+        filters.maxYear = Math.max(...years);
+      }
+    }
+  } else {
+    filters.minYear = null;
+    filters.maxYear = null;
+  }
+
   filters.themes = new Set(themesParam ? themesParam.split(',') : []);
   filters.authors = new Set(authorsParam ? authorsParam.split(',') : []);
   filters.titleQuery = titleParam ?? '';
@@ -408,15 +458,25 @@ function applyFiltersAndRender(): void {
  * Updates filter UI to reflect current filter state
  */
 function updateFilterUI(): void {
-  // Update year buttons
-  document.querySelectorAll<HTMLButtonElement>('[data-filter-year]').forEach((btn) => {
-    const year = Number.parseInt(btn.getAttribute('data-filter-year') || '0', 10);
-    if (filters.years.has(year)) {
-      btn.classList.add('active');
-    } else {
-      btn.classList.remove('active');
+  // Update year slider
+  if (yearSlider) {
+    const uniqueYears = getUniqueYears(allOutputs);
+    if (uniqueYears.length > 0) {
+      const minAvailable = uniqueYears[uniqueYears.length - 1];
+      const maxAvailable = uniqueYears[0];
+      const minYear = filters.minYear ?? minAvailable;
+      const maxYear = filters.maxYear ?? maxAvailable;
+      isUpdatingSliderProgrammatically = true;
+      yearSlider.set([minYear, maxYear]);
+      isUpdatingSliderProgrammatically = false;
+      
+      // Update labels
+      const minLabel = document.getElementById('bp-year-min');
+      const maxLabel = document.getElementById('bp-year-max');
+      if (minLabel) minLabel.textContent = minYear.toString();
+      if (maxLabel) maxLabel.textContent = maxYear.toString();
     }
-  });
+  }
 
   // Update theme buttons
   document.querySelectorAll<HTMLButtonElement>('[data-filter-theme]').forEach((btn) => {
@@ -446,17 +506,26 @@ function updateFilterUI(): void {
 }
 
 /**
- * Toggle functions for filters
+ * Sets year range from slider values
  */
-function toggleYear(year: number): void {
-  if (filters.years.has(year)) {
-    filters.years.delete(year);
+const setYearRange = debounce((minYear: number, maxYear: number): void => {
+  const uniqueYears = getUniqueYears(allOutputs);
+  if (uniqueYears.length === 0) return;
+
+  const minAvailable = uniqueYears[uniqueYears.length - 1];
+  const maxAvailable = uniqueYears[0];
+
+  // If range is at full extent, clear the filter
+  if (minYear === minAvailable && maxYear === maxAvailable) {
+    filters.minYear = null;
+    filters.maxYear = null;
   } else {
-    filters.years.add(year);
+    filters.minYear = minYear;
+    filters.maxYear = maxYear;
   }
-  updateFilterUI();
+  
   applyFiltersAndRender();
-}
+}, 100);
 
 function toggleTheme(themeSlug: string): void {
   if (filters.themes.has(themeSlug)) {
@@ -482,7 +551,8 @@ function toggleAuthor(authorSlug: string): void {
  * Clears all filters
  */
 function clearAllFilters(): void {
-  filters.years.clear();
+  filters.minYear = null;
+  filters.maxYear = null;
   filters.themes.clear();
   filters.authors.clear();
   filters.titleQuery = '';
@@ -510,25 +580,22 @@ function renderFilterControls(): string {
     });
   }).sort((a, b) => a.name.localeCompare(b.name));
 
-  // Get projects with publications
+  // Get projects with publications (excluding unassigned-publications from theme filter)
   const projectsWithPublications = researchProjects
-    .filter((p) => p.publicationIds && p.publicationIds.length > 0)
+    .filter((p) => p.slug !== 'unassigned-publications' && p.publicationIds && p.publicationIds.length > 0)
     .sort((a, b) => a.title.localeCompare(b.title));
 
-  // Year filter buttons
+  // Year filter slider
+  const minYear = uniqueYears.length > 0 ? uniqueYears[uniqueYears.length - 1] : new Date().getFullYear();
+  const maxYear = uniqueYears.length > 0 ? uniqueYears[0] : new Date().getFullYear();
+  
   const yearFilterHtml = `
     <div class="mb-3">
       <label class="form-label fw-semibold mb-2">Filter by Year</label>
-      <div class="d-flex flex-wrap gap-2">
-        ${uniqueYears.map((year) => `
-          <button 
-            type="button" 
-            class="btn btn-sm ${filters.years.has(year) ? 'btn-primary' : 'btn-outline-primary'}"
-            data-filter-year="${year}"
-          >
-            ${year}
-          </button>
-        `).join('')}
+      <div id="bp-year-slider"></div>
+      <div class="d-flex justify-content-between small text-muted mt-1">
+        <span id="bp-year-min">${minYear}</span>
+        <span id="bp-year-max">${maxYear}</span>
       </div>
     </div>
   `;
@@ -603,13 +670,88 @@ function renderFilterControls(): string {
  * Initializes filter control event listeners
  */
 function initFilterControls(): void {
-  // Year filter buttons
-  document.querySelectorAll<HTMLButtonElement>('[data-filter-year]').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      const year = Number.parseInt(btn.getAttribute('data-filter-year') || '0', 10);
-      toggleYear(year);
-    });
-  });
+  // Year filter slider
+  const sliderElement = document.getElementById('bp-year-slider');
+  if (sliderElement) {
+    const uniqueYears = getUniqueYears(allOutputs);
+    if (uniqueYears.length > 0) {
+      const minYear = uniqueYears[uniqueYears.length - 1];
+      const maxYear = uniqueYears[0];
+      const currentMinYear = filters.minYear ?? minYear;
+      const currentMaxYear = filters.maxYear ?? maxYear;
+
+      // Destroy existing slider if it exists
+      if (yearSlider) {
+        yearSlider.destroy();
+      }
+
+      yearSlider = noUiSlider.create(sliderElement, {
+        start: [currentMinYear, currentMaxYear],
+        connect: true,
+        range: {
+          min: minYear,
+          max: maxYear,
+        },
+        step: 1,
+        tooltips: [
+          {
+            to: (value: number) => Math.round(value).toString(),
+          },
+          {
+            to: (value: number) => Math.round(value).toString(),
+          },
+        ],
+        format: {
+          to: (value: number) => Math.round(value).toString(),
+          from: (value: string) => Number.parseFloat(value),
+        },
+      });
+
+      // Update year display labels
+      const updateYearLabels = (values: (string | number)[]) => {
+        const minLabel = document.getElementById('bp-year-min');
+        const maxLabel = document.getElementById('bp-year-max');
+        if (minLabel) minLabel.textContent = Math.round(Number(values[0])).toString();
+        if (maxLabel) maxLabel.textContent = Math.round(Number(values[1])).toString();
+      };
+
+      // Handle slider updates (during dragging - only update labels, not filters)
+      yearSlider.on('update', (values: (string | number)[]) => {
+        updateYearLabels(values);
+        // Don't update filters during dragging - only update labels for visual feedback
+      });
+
+      // Handle slider start (when user begins dragging)
+      yearSlider.on('start', () => {
+        // Mark that we're in a drag operation (optional, for future use)
+      });
+
+      // Handle slider end (when user releases handle) - update filters and render
+      yearSlider.on('end', (values: (string | number)[]) => {
+        if (!isUpdatingSliderProgrammatically) {
+          const min = Math.round(Number(values[0]));
+          const max = Math.round(Number(values[1]));
+          // Update filters and render only after user releases the handle
+          const uniqueYears = getUniqueYears(allOutputs);
+          if (uniqueYears.length > 0) {
+            const minAvailable = uniqueYears[uniqueYears.length - 1];
+            const maxAvailable = uniqueYears[0];
+            if (min === minAvailable && max === maxAvailable) {
+              filters.minYear = null;
+              filters.maxYear = null;
+            } else {
+              filters.minYear = min;
+              filters.maxYear = max;
+            }
+            applyFiltersAndRender();
+          }
+        }
+      });
+
+      // Initial label update
+      updateYearLabels([currentMinYear, currentMaxYear]);
+    }
+  }
 
   // Theme filter buttons
   document.querySelectorAll<HTMLButtonElement>('[data-filter-theme]').forEach((btn) => {
