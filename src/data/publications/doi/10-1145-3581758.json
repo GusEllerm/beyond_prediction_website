@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W4317436319",
+  "title": "Uniqueness Constraints for Object Stores",
+  "year": 2023,
+  "venue": "Journal of Data and Information Quality",
+  "doi": "10.1145/3581758",
+  "openAccessUrl": "https://doi.org/10.1145/3581758",
+  "authors": [
+    {
+      "name": "Philipp Skavantzos",
+      "orcidId": "0000-0001-6034-7485",
+      "openAlexId": "https://openalex.org/A5031762182",
+      "position": 1
+    },
+    {
+      "name": "Uwe Leck",
+      "orcidId": "0000-0002-0064-9112",
+      "openAlexId": "https://openalex.org/A5005800370",
+      "position": 2
+    },
+    {
+      "name": "Kaiqi Zhao",
+      "orcidId": "0000-0002-0984-1629",
+      "openAlexId": "https://openalex.org/A5090118317",
+      "position": 3
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W4375948223",
+  "title": "Towards the efficient discovery of meaningful functional dependencies",
+  "year": 2023,
+  "venue": "Information Systems",
+  "doi": "10.1016/j.is.2023.102224",
+  "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102224",
+  "authors": [
+    {
+      "name": "Ziheng Wei",
+      "orcidId": "0000-0002-0973-3759",
+      "openAlexId": "https://openalex.org/A5026257009",
+      "position": 1
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 2
+    }
+  ]
+}

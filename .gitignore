@@ -69,3 +69,4 @@ temp_*.json
 
 # ignore documentation
 documentation/
+publications_to_check.json

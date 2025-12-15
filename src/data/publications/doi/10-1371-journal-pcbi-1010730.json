@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W4313270436",
+  "title": "A fast lasso-based method for inferring higher-order interactions",
+  "year": 2022,
+  "venue": "PLoS Computational Biology",
+  "doi": "10.1371/journal.pcbi.1010730",
+  "openAccessUrl": "https://doi.org/10.1371/journal.pcbi.1010730",
+  "authors": [
+    {
+      "name": "Kieran Elmes",
+      "openAlexId": "https://openalex.org/A5023199094",
+      "position": 1
+    },
+    {
+      "name": "Astra Heywood",
+      "orcidId": "0000-0002-6953-7493",
+      "openAlexId": "https://openalex.org/A5041332324",
+      "position": 2
+    },
+    {
+      "name": "Zhiyi Huang",
+      "orcidId": "0000-0001-8561-2556",
+      "openAlexId": "https://openalex.org/A5090297023",
+      "position": 3
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 4
+    }
+  ]
+}

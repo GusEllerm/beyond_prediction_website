@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W4385402620",
+  "title": "Discovery of Cross Joins (Extended Abstract)",
+  "year": 2023,
+  "doi": "10.1109/icde55515.2023.00353",
+  "openAccessUrl": "https://doi.org/10.1109/icde55515.2023.00353",
+  "authors": [
+    {
+      "name": "Miika Hannula",
+      "orcidId": "0000-0002-9637-6664",
+      "openAlexId": "https://openalex.org/A5031183978",
+      "position": 1
+    },
+    {
+      "name": "Zhuoxing Zhang",
+      "openAlexId": "https://openalex.org/A5091624476",
+      "position": 2
+    },
+    {
+      "name": "Bor-Kuan Song",
+      "openAlexId": "https://openalex.org/A5056477690",
+      "position": 3
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 4
+    }
+  ]
+}

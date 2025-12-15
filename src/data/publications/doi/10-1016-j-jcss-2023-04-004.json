@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W3119157347",
+  "title": "Controlling entity integrity with key sets",
+  "year": 2023,
+  "venue": "Journal of Computer and System Sciences",
+  "doi": "10.1016/j.jcss.2023.04.004",
+  "openAccessUrl": "https://doi.org/10.1016/j.jcss.2023.04.004",
+  "authors": [
+    {
+      "name": "Miika Hannula",
+      "orcidId": "0000-0002-9637-6664",
+      "openAlexId": "https://openalex.org/A5031183978",
+      "position": 1
+    },
+    {
+      "name": "Xinyi Li",
+      "openAlexId": "https://openalex.org/A5100370278",
+      "position": 2
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 3
+    }
+  ]
+}

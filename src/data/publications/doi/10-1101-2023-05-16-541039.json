@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W4377019116",
+  "title": "Ranked Subtree Prune and Regraft",
+  "year": 2023,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2023.05.16.541039",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/18/2023.05.16.541039.full.pdf",
+  "authors": [
+    {
+      "name": "Lena Collienne",
+      "orcidId": "0000-0003-4215-8263",
+      "openAlexId": "https://openalex.org/A5006811718",
+      "position": 1
+    },
+    {
+      "name": "Chris Whidden",
+      "openAlexId": "https://openalex.org/A5041594411",
+      "position": 2
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 3
+    }
+  ]
+}

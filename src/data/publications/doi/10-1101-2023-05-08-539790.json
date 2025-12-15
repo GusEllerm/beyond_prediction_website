@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W4376118065",
+  "title": "Estimating the mean in the space of ranked phylogenetic trees",
+  "year": 2023,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2023.05.08.539790",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.05.08.539790.full.pdf",
+  "authors": [
+    {
+      "name": "Lars Berling",
+      "orcidId": "0000-0002-1303-0669",
+      "openAlexId": "https://openalex.org/A5091919866",
+      "position": 1
+    },
+    {
+      "name": "Lena Collienne",
+      "orcidId": "0000-0003-4215-8263",
+      "openAlexId": "https://openalex.org/A5006811718",
+      "position": 2
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 3
+    }
+  ]
+}

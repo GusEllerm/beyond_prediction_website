@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W4380433121",
+  "title": "Composite Object Normal Forms: Parameterizing Boyce-Codd Normal Form by the Number of Minimal Keys",
+  "year": 2023,
+  "venue": "Proceedings of the ACM on Management of Data",
+  "doi": "10.1145/3588693",
+  "openAccessUrl": "https://doi.org/10.1145/3588693",
+  "authors": [
+    {
+      "name": "Zhuoxing Zhang",
+      "orcidId": "0000-0001-6736-4501",
+      "openAlexId": "https://openalex.org/A5079968544",
+      "position": 1
+    },
+    {
+      "name": "Wu Chen",
+      "orcidId": "0000-0002-5041-6122",
+      "openAlexId": "https://openalex.org/A5100329158",
+      "position": 2
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 3
+    }
+  ]
+}

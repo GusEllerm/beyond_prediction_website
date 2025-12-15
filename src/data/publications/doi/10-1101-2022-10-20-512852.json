@@ -1,0 +1,74 @@
+{
+  "id": "https://openalex.org/W4306964200",
+  "title": "High-throughput transposon mutagenesis in the family Enterobacteriaceae reveals core essential genes and rapid turnover of essentiality",
+  "year": 2022,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2022.10.20.512852",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/10/20/2022.10.20.512852.full.pdf",
+  "authors": [
+    {
+      "name": "Fatemeh Ashari Ghomi",
+      "orcidId": "0000-0001-9786-4558",
+      "openAlexId": "https://openalex.org/A5009767888",
+      "position": 1
+    },
+    {
+      "name": "Gemma C. Langridge",
+      "orcidId": "0000-0001-8037-2741",
+      "openAlexId": "https://openalex.org/A5079916374",
+      "position": 2
+    },
+    {
+      "name": "Amy K. Cain",
+      "orcidId": "0000-0002-4230-6572",
+      "openAlexId": "https://openalex.org/A5083942740",
+      "position": 3
+    },
+    {
+      "name": "Christine J. Boinett",
+      "orcidId": "0000-0001-5289-8674",
+      "openAlexId": "https://openalex.org/A5069769145",
+      "position": 4
+    },
+    {
+      "name": "Moataz Abd El Ghany",
+      "openAlexId": "https://openalex.org/A5031245592",
+      "position": 5
+    },
+    {
+      "name": "Derek Pickard",
+      "openAlexId": "https://openalex.org/A5075883457",
+      "position": 6
+    },
+    {
+      "name": "Robert A. Kingsley",
+      "orcidId": "0000-0002-0194-6485",
+      "openAlexId": "https://openalex.org/A5036500915",
+      "position": 7
+    },
+    {
+      "name": "Nicholas R. Thomson",
+      "orcidId": "0000-0002-4432-8505",
+      "openAlexId": "https://openalex.org/A5028972835",
+      "position": 8
+    },
+    {
+      "name": "Julian Parkhill",
+      "orcidId": "0000-0002-7069-5958",
+      "openAlexId": "https://openalex.org/A5084268602",
+      "position": 9
+    },
+    {
+      "name": "Paul P. Gardner",
+      "orcidId": "0000-0002-7808-1213",
+      "openAlexId": "https://openalex.org/A5067459027",
+      "position": 10
+    },
+    {
+      "name": "Lars Barquist",
+      "orcidId": "0000-0003-4732-2667",
+      "openAlexId": "https://openalex.org/A5026823964",
+      "position": 11
+    }
+  ]
+}

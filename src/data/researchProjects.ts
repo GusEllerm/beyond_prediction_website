@@ -197,7 +197,15 @@ export const researchProjects: ResearchProject[] = [
           'An automatically updating literature review that incorporates new papers as they are published, maintaining currentness without manual updates.',
       },
     ],
-    // No publications provided for this theme
+    publicationIds: [
+      'https://openalex.org/W4317951605', // 10.1007/s10115-022-01814-1
+      'https://openalex.org/W4353099637', // 10.1016/j.is.2023.102208
+      'https://openalex.org/W4375948223', // 10.1016/j.is.2023.102224
+      'https://openalex.org/W3119157347', // 10.1016/j.jcss.2023.04.004
+      'https://openalex.org/W4385402620', // 10.1109/ICDE55515.2023.00353
+      'https://openalex.org/W4317436319', // 10.1145/3581758
+      'https://openalex.org/W4380433121', // 10.1145/3588693
+    ],
   },
   {
     slug: 'genomics-data-science',
@@ -236,6 +244,11 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4413110717',
       'inbreeding-load-hihi-genomics-2025', // pub40: Inbreeding load in a small and managed population (conference, no DOI)
       'https://doi.org/10.6084/m9.figshare.28537430.v1', // pub52: What drives bioinformatic tool accuracy?
+      'https://openalex.org/W4310948020', // 10.1089/cmb.2022.0357
+      'https://openalex.org/W4376118065', // 10.1101/2023.05.08.539790
+      'https://openalex.org/W4377019116', // 10.1101/2023.05.16.541039
+      'https://openalex.org/W4385800882', // 10.1101/2023.08.10.552869
+      'https://openalex.org/W4313270436', // 10.1371/journal.pcbi.1010730
     ],
   },
   {
@@ -319,6 +332,7 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4200104417',
       'https://openalex.org/W3178740768',
       'https://openalex.org/W4413110717',
+      'https://openalex.org/W4306964200', // 10.1101/2022.10.20.512852
       // Biodiversity and ecology publications
       'https://openalex.org/W3213354154', // pub60: Campylobacter transmission
       'https://openalex.org/W3164335725', // pub61: Shallow-water scavengers
@@ -342,6 +356,7 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4291288513', // pub55: LinguaPhylo
       'https://openalex.org/W4229065791', // pub76: Online Bayesian Analysis with BEAST 2
       'https://openalex.org/W3203862906', // pub83: Spread of Nontyphoidal Salmonella
+      'https://openalex.org/W3111342687', // Genomic epidemiology reveals transmission patterns and dynamics of SARS-CoV-2 in Aotearoa New Zealand
       'https://openalex.org/W4285041148', // pub84: Genomic epidemiology of Delta SARS-CoV-2
       'https://openalex.org/W4287378331', // pub85: Sensitivity of RT-PCR tests for SARS-CoV-2
       'https://openalex.org/W3119861525', // pub86: Genomic Evidence of In-Flight Transmission
@@ -387,6 +402,7 @@ export const researchProjects: ResearchProject[] = [
     publicationIds: [
       'https://openalex.org/W4391652876',
       'https://openalex.org/W4392026818',
+      'https://doi.org/10.1111/1755-0998.1386', // 10.1111/1755-0998.1386 (no OpenAlex ID)
     ],
   },
   {

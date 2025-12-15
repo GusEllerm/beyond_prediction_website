@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W4353099637",
+  "title": "Cardinality constraints and functional dependencies in SQL: Taming data redundancy in logical database design",
+  "year": 2023,
+  "venue": "Information Systems",
+  "doi": "10.1016/j.is.2023.102208",
+  "openAccessUrl": "https://doi.org/10.1016/j.is.2023.102208",
+  "authors": [
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 1
+    },
+    {
+      "name": "Henning Köehler",
+      "openAlexId": "https://openalex.org/A5006183138",
+      "position": 2
+    },
+    {
+      "name": "Aniruddh Gandhi",
+      "openAlexId": "https://openalex.org/A5070665514",
+      "position": 3
+    },
+    {
+      "name": "Sven Hartmann",
+      "orcidId": "0000-0003-4565-9645",
+      "openAlexId": "https://openalex.org/A5103092450",
+      "position": 4
+    },
+    {
+      "name": "Bernhard Thalheim",
+      "orcidId": "0000-0002-7909-7786",
+      "openAlexId": "https://openalex.org/A5039350841",
+      "position": 5
+    }
+  ]
+}
