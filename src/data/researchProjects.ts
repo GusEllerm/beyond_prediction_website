@@ -88,8 +88,12 @@ export const researchProjects: ResearchProject[] = [
         showcaseKind: 'pdf',
         showcaseSource: 'projects/live-research-articles/livepub-early-poster.pdf',
         publicationIds: [
-          'https://openalex.org/W6922639269', 
-        ],
+      'https://openalex.org/W4312933824',
+      'https://openalex.org/W4387005217',
+      'https://openalex.org/W6922639269',
+      'https://openalex.org/W6977410951',
+      'https://openalex.org/W7076806724',
+    ],
       },
       {
         slug: 'early-proof-of-concept',
@@ -153,20 +157,13 @@ export const researchProjects: ResearchProject[] = [
           'Tools that reveal the reasoning chain behind AI predictions, showing which features and data points influenced the final decision.',
       },
     ],
-    publicationIds: ['https://openalex.org/W4386566686',
+    publicationIds: [
+      'https://openalex.org/W4386566686',
       'https://openalex.org/W4398184796',
-      'https://openalex.org/W4393147354',
       'https://openalex.org/W4415345243',
       'https://openalex.org/W4417093091',
-      'https://openalex.org/W4286544107',
-      'https://openalex.org/W3193473889',
-      'https://openalex.org/W4407251498',
-      'https://openalex.org/W4399164394',
-      'https://openalex.org/W4400910552',
-      'https://openalex.org/W4414260950',
-      'https://openalex.org/W4285011406',
-      'https://openalex.org/W4313003561',
-      'https://openalex.org/Wa8a048b862cf84a78e0a3f2e8ca8979b7c70ddb7', // pub39: An explainability analysis of a sentiment prediction task
+      'https://openalex.org/W6947900292',
+      'https://openalex.org/Wa8a048b862cf84a78e0a3f2e8ca8979b7c70ddb7',
     ],
   },
   {
@@ -197,25 +194,8 @@ export const researchProjects: ResearchProject[] = [
       },
     ],
     publicationIds: [
-      'https://openalex.org/W4317951605', // 10.1007/s10115-022-01814-1
-      'https://openalex.org/W4353099637', // 10.1016/j.is.2023.102208
-      'https://openalex.org/W4375948223', // 10.1016/j.is.2023.102224
-      'https://openalex.org/W3119157347', // 10.1016/j.jcss.2023.04.004
-      'https://openalex.org/W4385402620', // 10.1109/ICDE55515.2023.00353
-      'https://openalex.org/W4317436319', // 10.1145/3581758
-      'https://openalex.org/W4380433121', // 10.1145/3588693
-      'https://openalex.org/W3208651955', // 10.1093/llc/fqaa049
-      'https://openalex.org/W3047394343', // 10.1016/j.compenvurbsys.2020.101524
-      'https://openalex.org/W3183283998', // 10.1007/s00778-021-00684-3
-      'https://openalex.org/W3134064579', // 10.1109/TKDE.2021.3062318
-      'https://openalex.org/W3168935107', // 10.1145/3450518
-      'https://openalex.org/W3176577330', // 10.1007/978-3-030-79382-1_17
-      'https://openalex.org/W3177130241', // 10.1007/978-3-030-79382-1_16
-      'https://openalex.org/W3173860497', // 10.1145/3448016.3459238
-      'https://openalex.org/W3149499593', // 10.1007/978-3-030-73194-6_9
-      'https://openalex.org/W4246831200', // 10.1007/978-3-030-62522-1_2
-      'https://openalex.org/W3095528690', // 10.1007/978-3-030-62522-1_43
-      'https://openalex.org/W3030383065', // 10.1145/3318464.3389786
+      'https://openalex.org/W4312933824',
+      'https://openalex.org/W4387005217',
     ],
   },
   {
@@ -245,27 +225,48 @@ export const researchProjects: ResearchProject[] = [
           'Large-scale analysis of human genomic diversity to understand migration patterns and population structure.',
       },
     ],
-    publicationIds: ['https://openalex.org/W4283322370',
-      'https://openalex.org/W4285011406',
-      'https://openalex.org/W4392348463',
-      'https://openalex.org/W4406958237',
-      'https://openalex.org/W4411205819',
+    publicationIds: [
+      'https://doi.org/10.1111/1755-0998.1386',
+      'https://doi.org/10.6084/m9.figshare.28537430.v1',
+      'https://openalex.org/W3092360857',
+      'https://openalex.org/W3097588841',
+      'https://openalex.org/W3107086932',
+      'https://openalex.org/W3111342687',
+      'https://openalex.org/W3118433720',
+      'https://openalex.org/W3119861525',
+      'https://openalex.org/W3128309744',
+      'https://openalex.org/W3157591309',
+      'https://openalex.org/W3162777509',
+      'https://openalex.org/W3178740768',
+      'https://openalex.org/W3182965360',
+      'https://openalex.org/W3195146959',
+      'https://openalex.org/W3199267134',
+      'https://openalex.org/W3206538607',
+      'https://openalex.org/W4200104417',
       'https://openalex.org/W4220756870',
+      'https://openalex.org/W4220972070',
+      'https://openalex.org/W4229065791',
+      'https://openalex.org/W4281561633',
+      'https://openalex.org/W4283322370',
+      'https://openalex.org/W4285011406',
+      'https://openalex.org/W4285041148',
+      'https://openalex.org/W4306964200',
+      'https://openalex.org/W4310948020',
+      'https://openalex.org/W4313270436',
+      'https://openalex.org/W4376118065',
+      'https://openalex.org/W4377019116',
+      'https://openalex.org/W4383046536',
+      'https://openalex.org/W4384663383',
+      'https://openalex.org/W4385800882',
+      'https://openalex.org/W4392348463',
+      'https://openalex.org/W4401246348',
+      'https://openalex.org/W4402911717',
+      'https://openalex.org/W4406958237',
+      'https://openalex.org/W4407402889',
+      'https://openalex.org/W4411205819',
       'https://openalex.org/W4413110717',
-      'inbreeding-load-hihi-genomics-2025', // pub40: Inbreeding load in a small and managed population (conference, no DOI)
-      'https://doi.org/10.6084/m9.figshare.28537430.v1', // pub52: What drives bioinformatic tool accuracy?
-      'https://openalex.org/W4310948020', // 10.1089/cmb.2022.0357
-      'https://openalex.org/W4376118065', // 10.1101/2023.05.08.539790
-      'https://openalex.org/W4377019116', // 10.1101/2023.05.16.541039
-      'https://openalex.org/W4385800882', // 10.1101/2023.08.10.552869
-      'https://openalex.org/W4313270436', // 10.1371/journal.pcbi.1010730
-      'https://openalex.org/W3162777509', // 10.1186/s13059-021-02365-4
-      'https://openalex.org/W3107086932', // 10.1093/database/baaa105
-      'https://openalex.org/W3092360857', // 10.1101/2020.10.10.334193
-      'https://openalex.org/W3199267134', // 10.1093/gbe/evab213
-      'https://openalex.org/W3118433720', // 10.48550/ARXIV.2101.02751
-      'https://openalex.org/W3128309744', // 10.1101/2021.01.28.428698
-      'https://openalex.org/W3182965360', // 10.1371/journal.pone.0254491
+      'https://openalex.org/W6930048546',
+      'inbreeding-load-hihi-genomics-2025',
     ],
   },
   {
@@ -287,27 +288,31 @@ export const researchProjects: ResearchProject[] = [
       {
         slug: 'host-microbiome-environmental-change',
         title: 'Modelling Host–Microbiome Responses to Environmental Change',
-        publicationIds: ['https://openalex.org/W4414057662',
-      'https://openalex.org/W3213354154',
-      'https://openalex.org/W3164335725',
-      'https://openalex.org/W3194504126',
-      'https://openalex.org/W3172075717',
-      'https://openalex.org/W4232122850',
-      'https://openalex.org/W3182747289',
-      'https://openalex.org/W4281561633',
-      'https://openalex.org/W3203862906',
-      'https://openalex.org/W4285041148',
-      'https://openalex.org/W4287378331',
-      'https://openalex.org/W3119861525',
-      'https://openalex.org/W3206538607',
-      'https://openalex.org/W3175859783',
-      'https://openalex.org/W3097588841',
-      'https://openalex.org/W3193475000',
-      'https://openalex.org/W3097983343',
-      'https://openalex.org/W3157591309',
-      'https://openalex.org/W3209038930',
-      'https://openalex.org/W3195146959',
+        publicationIds: [
       'https://openalex.org/W3048524266',
+      'https://openalex.org/W3097983343',
+      'https://openalex.org/W3136519070',
+      'https://openalex.org/W3164335725',
+      'https://openalex.org/W3172075717',
+      'https://openalex.org/W3175859783',
+      'https://openalex.org/W3178740768',
+      'https://openalex.org/W3181472207',
+      'https://openalex.org/W3182747289',
+      'https://openalex.org/W3193475000',
+      'https://openalex.org/W3194504126',
+      'https://openalex.org/W3203862906',
+      'https://openalex.org/W3209038930',
+      'https://openalex.org/W3213354154',
+      'https://openalex.org/W4220972070',
+      'https://openalex.org/W4232122850',
+      'https://openalex.org/W4281561633',
+      'https://openalex.org/W4287378331',
+      'https://openalex.org/W4307009264',
+      'https://openalex.org/W4366245332',
+      'https://openalex.org/W4401246348',
+      'https://openalex.org/W4404328254',
+      'https://openalex.org/W4414057662',
+      'inbreeding-load-hihi-genomics-2025',
     ],
         showcaseKind: 'image',
         showcaseSource: 'projects/biodiversity-ecology-biosecurity/microbe-fitness.webp',
@@ -423,9 +428,9 @@ export const researchProjects: ResearchProject[] = [
       },
     ],
     publicationIds: [
+      'https://doi.org/10.1111/1755-0998.1386',
       'https://openalex.org/W4391652876',
       'https://openalex.org/W4392026818',
-      'https://doi.org/10.1111/1755-0998.1386', // 10.1111/1755-0998.1386 (no OpenAlex ID)
     ],
   },
   {
@@ -475,8 +480,40 @@ export const researchProjects: ResearchProject[] = [
     shortDescription:
       'Publications from Beyond Prediction that are not currently assigned to a specific research theme.',
     publicationIds: [
-      // Publications can be added here that don't fit well into any specific theme
-      // but should still be included in the research outputs corpus
+      'https://openalex.org/W1010800094965520201806279',
+      'https://openalex.org/W3024728639',
+      'https://openalex.org/W3030383065',
+      'https://openalex.org/W3032167546',
+      'https://openalex.org/W3047394343',
+      'https://openalex.org/W3095528690',
+      'https://openalex.org/W3119157347',
+      'https://openalex.org/W3134064579',
+      'https://openalex.org/W3149499593',
+      'https://openalex.org/W3168935107',
+      'https://openalex.org/W3173860497',
+      'https://openalex.org/W3176577330',
+      'https://openalex.org/W3177130241',
+      'https://openalex.org/W3183283998',
+      'https://openalex.org/W3193473889',
+      'https://openalex.org/W3208651955',
+      'https://openalex.org/W3212357511',
+      'https://openalex.org/W4246831200',
+      'https://openalex.org/W4286544107',
+      'https://openalex.org/W4293450833',
+      'https://openalex.org/W4313003561',
+      'https://openalex.org/W4317436319',
+      'https://openalex.org/W4317951605',
+      'https://openalex.org/W4353099637',
+      'https://openalex.org/W4375948223',
+      'https://openalex.org/W4380433121',
+      'https://openalex.org/W4385402620',
+      'https://openalex.org/W4390761281',
+      'https://openalex.org/W4393147354',
+      'https://openalex.org/W4399164394',
+      'https://openalex.org/W4400910552',
+      'https://openalex.org/W4407251498',
+      'https://openalex.org/W4414260950',
+      'https://openalex.org/W6966124972',
     ],
   },
 ];
