@@ -101,39 +101,70 @@ const personItems: SearchItem[] = allPeople.map((person) => {
 
 /**
  * Index publications from all projects
+ * Deduplicates publications while aggregating all associated projects
  */
 const publicationItems: SearchItem[] = (() => {
-  const items: SearchItem[] = [];
   const lookup = createPublicationLookup();
+  const publicationEntriesById = new Map<string, {
+    pub: PersonPublication;
+    projectSlugs: string[];
+    projectTitles: string[];
+  }>();
 
+  // Aggregate all projects for each publication
   for (const project of researchProjects) {
     if (project.publicationIds && project.publicationIds.length > 0) {
       for (const pubId of project.publicationIds) {
         const pub = lookup.get(pubId);
-        if (pub && pub.id && pub.title) {
-          // Use publication ID as unique identifier (remove https:// prefix for cleaner slug-like ID)
-          const pubSlug = pub.id.replace(/^https?:\/\//, '').replace(/\//g, '-');
-          const pubUrl = pub.openAccessUrl || (pub.doi ? `https://doi.org/${pub.doi}` : pub.id);
-          
-          items.push({
-            id: pubSlug,
-            type: 'publication' as const,
-            title: pub.title,
-            summary: pub.venue ? `${pub.venue}${pub.year ? ` (${pub.year})` : ''}` : pub.year ? `(${pub.year})` : '',
-            url: pubUrl,
-            searchableText: [
-              pub.title,
-              pub.venue,
-              pub.year?.toString(),
-              pub.doi,
-              project.title, // Include project title so searching for project name finds its publications
-            ]
-              .filter(Boolean)
-              .join(' \n '),
+        if (!pub || !pub.id || !pub.title) continue;
+
+        const existing = publicationEntriesById.get(pub.id);
+        if (existing) {
+          // Publication already exists, add this project if not already present
+          if (!existing.projectSlugs.includes(project.slug)) {
+            existing.projectSlugs.push(project.slug);
+            existing.projectTitles.push(project.title);
+          }
+        } else {
+          // First time seeing this publication
+          publicationEntriesById.set(pub.id, {
+            pub,
+            projectSlugs: [project.slug],
+            projectTitles: [project.title],
           });
         }
       }
     }
+  }
+
+  // Convert to search items
+  const items: SearchItem[] = [];
+  for (const entry of publicationEntriesById.values()) {
+    const { pub, projectTitles } = entry;
+    // Use publication ID as unique identifier (remove https:// prefix for cleaner slug-like ID)
+    const pubSlug = pub.id.replace(/^https?:\/\//, '').replace(/\//g, '-');
+    const pubUrl = pub.openAccessUrl || (pub.doi ? `https://doi.org/${pub.doi}` : pub.id);
+    
+    // Build searchable text including all project titles
+    const authorNames = pub.authors?.map((a) => (typeof a === 'string' ? a : a.name)).join(' ') || '';
+    
+    items.push({
+      id: pubSlug,
+      type: 'publication' as const,
+      title: pub.title,
+      summary: pub.venue ? `${pub.venue}${pub.year ? ` (${pub.year})` : ''}` : pub.year ? `(${pub.year})` : '',
+      url: pubUrl,
+      searchableText: [
+        pub.title,
+        pub.venue,
+        pub.year?.toString(),
+        pub.doi,
+        authorNames,
+        ...projectTitles, // Include all project titles so searching for any project name finds the publication
+      ]
+        .filter(Boolean)
+        .join(' \n '),
+    });
   }
 
   return items;

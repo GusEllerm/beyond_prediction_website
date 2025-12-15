@@ -155,17 +155,19 @@ function renderPeopleSection(
  * Gets all publications from all projects
  */
 function getAllPublications(): Array<PersonPublication & { projectSlug: string; projectTitle: string }> {
-  const publications: Array<PersonPublication & { projectSlug: string; projectTitle: string }> = [];
   const lookup = createPublicationLookup();
-  const seenPublicationIds = new Set<string>();
+  const publicationsMap = new Map<string, PersonPublication & { projectSlug: string; projectTitle: string }>();
 
   for (const project of researchProjects) {
     if (project.publicationIds && project.publicationIds.length > 0) {
       for (const pubId of project.publicationIds) {
         const pub = lookup.get(pubId);
-        if (pub && !seenPublicationIds.has(pub.id)) {
-          seenPublicationIds.add(pub.id);
-          publications.push({
+        if (!pub) continue;
+
+        // For search results, we use the first project found (or could aggregate, but keeping simple for now)
+        // The main research-outputs page handles multiple projects properly
+        if (!publicationsMap.has(pub.id)) {
+          publicationsMap.set(pub.id, {
             ...pub,
             projectSlug: project.slug,
             projectTitle: project.title,
@@ -175,7 +177,7 @@ function getAllPublications(): Array<PersonPublication & { projectSlug: string; 
     }
   }
 
-  return publications;
+  return Array.from(publicationsMap.values());
 }
 
 /**

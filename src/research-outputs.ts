@@ -33,10 +33,11 @@ footerContainer.innerHTML = renderFooter(partners);
 
 /**
  * Extended publication with project association
+ * Supports multiple projects/themes per publication
  */
 interface PublicationWithProject extends PersonPublication {
-  projectSlug: string;
-  projectTitle: string;
+  projectSlugs: string[];   // all projects/themes this publication belongs to
+  projectTitles: string[];  // human-readable project/theme titles (same order as projectSlugs)
 }
 
 /**
@@ -73,29 +74,39 @@ function debounce<F extends (...args: any[]) => void>(fn: F, delay: number): F {
 
 /**
  * Gets all publications from all projects
+ * Aggregates multiple projects per publication
  */
 function loadResearchOutputsData(): PublicationWithProject[] {
-  const publications: PublicationWithProject[] = [];
   const lookup = createPublicationLookup();
-  const seenPublicationIds = new Set<string>(); // Track publications we've already added
+  const publicationsById = new Map<string, PublicationWithProject>();
 
   for (const project of researchProjects) {
     if (project.publicationIds && project.publicationIds.length > 0) {
       for (const pubId of project.publicationIds) {
         const pub = lookup.get(pubId);
-        if (pub && !seenPublicationIds.has(pub.id)) {
-          seenPublicationIds.add(pub.id);
-          publications.push({
+        if (!pub) continue;
+
+        const existing = publicationsById.get(pub.id);
+        if (existing) {
+          // Publication already exists, add this project if not already present
+          if (!existing.projectSlugs.includes(project.slug)) {
+            existing.projectSlugs.push(project.slug);
+            existing.projectTitles.push(project.title);
+          }
+        } else {
+          // First time seeing this publication
+          publicationsById.set(pub.id, {
             ...pub,
-            projectSlug: project.slug,
-            projectTitle: project.title,
+            projectSlugs: [project.slug],
+            projectTitles: [project.title],
           });
         }
       }
     }
   }
 
-  // Sort by year (newest first), then by title
+  // Convert map to array and sort by year (newest first), then by title
+  const publications = Array.from(publicationsById.values());
   return publications.sort((a, b) => {
     if (a.year !== b.year) {
       if (!a.year) return 1;
@@ -119,7 +130,8 @@ function matchesFilters(output: PublicationWithProject, filters: ResearchOutputF
 
   // Themes: if any themes selected, require at least one match
   if (filters.themes.size > 0) {
-    if (output.projectSlug && !filters.themes.has(output.projectSlug)) {
+    const hasMatchingTheme = output.projectSlugs.some((slug) => filters.themes.has(slug));
+    if (!hasMatchingTheme) {
       return false;
     }
   }
@@ -159,21 +171,47 @@ function getUniqueYears(publications: PublicationWithProject[]): number[] {
 }
 
 /**
- * Renders a single publication card
+ * Renders a single publication card with multiple project associations
  */
 function renderPublicationCard(pub: PublicationWithProject): string {
-  return renderPubCard(pub, {
+  // Build themes/projects links - show all associated projects
+  const themesLinks = pub.projectTitles.length > 0
+    ? pub.projectTitles
+        .map((title, index) => {
+          const slug = pub.projectSlugs[index];
+          return `<a href="/project.html?project=${encodeURIComponent(slug)}" class="text-decoration-none">${escapeHtml(title)}</a>`;
+        })
+        .join(', ')
+    : '';
+
+  // Render the base card (without project context, we'll add custom themes display)
+  const baseCardHtml = renderPubCard(pub, {
     showAuthors: true,
     showAuthorPhotos: true,
     showVenue: true,
     showYear: true,
     withMargin: true,
-    projectContext: {
-      title: pub.projectTitle,
-      slug: pub.projectSlug,
-    },
+    projectContext: undefined, // We'll add custom themes display below
     allPeopleForMatching: allPeople,
   });
+
+  // Add themes/projects line before closing card-body div
+  if (themesLinks) {
+    const themesLabel = pub.projectTitles.length > 1 ? 'Themes' : 'Theme';
+    const themesLine = `        <p class="card-text small mb-0">
+          <span class="text-muted">${themesLabel}:</span>
+          ${themesLinks}
+        </p>
+`;
+    // Insert themes line before the closing </div> of card-body
+    // The card structure ends with card-body closing: </div>\n    </article>
+    // We want to insert before the last </div> that's inside card-body
+    // Pattern: match </div> followed by whitespace and </article>
+    return baseCardHtml.replace(/(\s+)<\/div>\s+<\/article>/s, `${themesLine}$1</div>
+    </article>`);
+  }
+
+  return baseCardHtml;
 }
 
 /**
