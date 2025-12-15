@@ -23,6 +23,7 @@ import type {
   PersonPublication,
   PersonPublicationsSnapshot,
 } from './data/publications';
+import { researchProjects, type ResearchProject } from './data/researchProjects';
 
 // Import utilities
 import { escapeHtml } from './utils/dom';
@@ -160,6 +161,76 @@ function renderPublicationsSection(
       <p class="text-muted small mt-2 mb-0">
         Publications retrieved from the ${sourceLabel} API (snapshot updated periodically).
       </p>
+    </section>
+  `;
+}
+
+/**
+ * Gets research projects/themes associated with a person
+ * @param person - The person object
+ * @param allProjects - Array of all research projects
+ * @returns Array of research projects the person is involved in
+ */
+function getProjectsForPerson(
+  person: Person,
+  allProjects: ResearchProject[]
+): ResearchProject[] {
+  if (!person.themeSlugs || person.themeSlugs.length === 0) {
+    return [];
+  }
+
+  const themeSlugSet = new Set(person.themeSlugs);
+
+  return allProjects.filter((project) => themeSlugSet.has(project.slug));
+}
+
+/**
+ * Renders the research themes & projects section for a person
+ * @param personProjects - Array of research projects associated with the person
+ * @returns HTML string for the themes section, or empty string if no projects
+ */
+function renderPersonThemesSection(personProjects: ResearchProject[]): string {
+  if (!personProjects.length) {
+    return '';
+  }
+
+  const cardsHtml = personProjects
+    .map((project) => {
+      const title = escapeHtml(project.title);
+      const description = project.shortDescription
+        ? escapeHtml(project.shortDescription)
+        : '';
+      const slug = escapeHtml(project.slug);
+
+      return `
+        <div class="col-md-6">
+          <article class="card h-100">
+            <div class="card-body">
+              <h3 class="h5 card-title mb-1">${title}</h3>
+              ${
+                description
+                  ? `<p class="card-text small text-muted mb-2">${description}</p>`
+                  : ''
+              }
+              <a
+                href="/project.html?project=${slug}"
+                class="btn btn-sm btn-outline-primary"
+              >
+                View theme
+              </a>
+            </div>
+          </article>
+        </div>
+      `;
+    })
+    .join('');
+
+  return `
+    <section class="mb-4" aria-labelledby="bp-person-themes-heading">
+      <h2 id="bp-person-themes-heading" class="h4 mb-3">Research Themes &amp; Projects</h2>
+      <div class="row g-3">
+        ${cardsHtml}
+      </div>
     </section>
   `;
 }
@@ -369,7 +440,11 @@ function renderPersonDetailBody(p: Person): string {
     `
     : '';
 
-  // Right column: name, bio, publications
+  // Right column: name, bio, themes, publications
+  // Get projects for this person
+  const personProjects = getProjectsForPerson(p, researchProjects);
+  const themesSectionHtml = renderPersonThemesSection(personProjects);
+
   // Get publications for this person
   const publications = getPublicationsForPerson(p);
   const publicationsSectionHtml = renderPublicationsSection(p, publications);
@@ -379,6 +454,7 @@ function renderPersonDetailBody(p: Person): string {
       <h1 class="display-5 mb-2">${safeName}</h1>
       ${p.title ? `<p class="text-muted mb-3">${escapeHtml(p.title)}</p>` : ''}
       ${biographySectionHtml}
+      ${themesSectionHtml}
       ${publicationsSectionHtml}
     </section>
   `;
