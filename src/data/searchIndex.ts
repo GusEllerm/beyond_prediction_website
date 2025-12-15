@@ -45,9 +45,11 @@ function getPublicationsForSlug(slug: string): PersonPublication[] {
 }
 
 /**
- * Index projects
+ * Index projects (excluding unassigned-publications)
  */
-const projectItems: SearchItem[] = researchProjects.map((project) => ({
+const projectItems: SearchItem[] = researchProjects
+  .filter((project) => project.slug !== 'unassigned-publications')
+  .map((project) => ({
   id: project.slug,
   type: 'project' as const,
   title: project.title,

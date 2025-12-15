@@ -469,6 +469,16 @@ export const researchProjects: ResearchProject[] = [
       'https://doi.org/10.6084/m9.figshare.28537430.v1', // pub52: What drives bioinformatic tool accuracy?
     ],
   },
+  {
+    slug: 'unassigned-publications',
+    title: 'Unassigned Publications',
+    shortDescription:
+      'Publications from Beyond Prediction that are not currently assigned to a specific research theme.',
+    publicationIds: [
+      // Publications can be added here that don't fit well into any specific theme
+      // but should still be included in the research outputs corpus
+    ],
+  },
 ];
 
 /**

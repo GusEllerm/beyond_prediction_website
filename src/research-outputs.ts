@@ -510,9 +510,9 @@ function renderFilterControls(): string {
     });
   }).sort((a, b) => a.name.localeCompare(b.name));
 
-  // Get projects with publications
+  // Get projects with publications (excluding unassigned-publications from theme filter)
   const projectsWithPublications = researchProjects
-    .filter((p) => p.publicationIds && p.publicationIds.length > 0)
+    .filter((p) => p.slug !== 'unassigned-publications' && p.publicationIds && p.publicationIds.length > 0)
     .sort((a, b) => a.title.localeCompare(b.title));
 
   // Year filter buttons

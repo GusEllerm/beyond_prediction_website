@@ -65,7 +65,9 @@ function initApp(): void {
  * Each card links to a project detail page using the project's slug
  */
 function renderContent(container: HTMLElement): void {
-  const cardsHtml = researchProjects
+  // Filter out unassigned-publications from home page display
+  const displayProjects = researchProjects.filter((p) => p.slug !== 'unassigned-publications');
+  const cardsHtml = displayProjects
     .map((project) => {
       const href = `/project.html?project=${encodeURIComponent(project.slug)}`;
       return `
