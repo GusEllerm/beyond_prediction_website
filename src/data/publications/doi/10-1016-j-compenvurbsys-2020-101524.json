@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W3047394343",
+  "title": "Streets of London: Using Flickr and OpenStreetMap to build an interactive image of the city",
+  "year": 2020,
+  "venue": "Computers Environment and Urban Systems",
+  "doi": "10.1016/j.compenvurbsys.2020.101524",
+  "openAccessUrl": "https://doi.org/10.1016/j.compenvurbsys.2020.101524",
+  "authors": [
+    {
+      "name": "Azam Raha Bahrehdar",
+      "openAlexId": "https://openalex.org/A5046150489",
+      "position": 1
+    },
+    {
+      "name": "Benjamin Adams",
+      "orcidId": "0000-0002-1657-9809",
+      "openAlexId": "https://openalex.org/A5009482088",
+      "position": 2
+    },
+    {
+      "name": "Ross S. Purves",
+      "orcidId": "0000-0002-9878-9243",
+      "openAlexId": "https://openalex.org/A5048171501",
+      "position": 3
+    }
+  ]
+}

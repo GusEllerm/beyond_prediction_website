@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W3107086932",
+  "title": "ncVarDB: a manually curated database for pathogenic non-coding variants and benign controls",
+  "year": 2020,
+  "venue": "Database",
+  "doi": "10.1093/database/baaa105",
+  "openAccessUrl": "https://academic.oup.com/database/article-pdf/doi/10.1093/database/baaa105/34612123/baaa105.pdf",
+  "authors": [
+    {
+      "name": "Harry Biggs",
+      "openAlexId": "https://openalex.org/A5111598459",
+      "position": 1
+    },
+    {
+      "name": "Padmini Parthasarathy",
+      "openAlexId": "https://openalex.org/A5052282064",
+      "position": 2
+    },
+    {
+      "name": "Alexandra Gavryushkina",
+      "orcidId": "0000-0002-1885-1108",
+      "openAlexId": "https://openalex.org/A5040438451",
+      "position": 3
+    },
+    {
+      "name": "Paul P. Gardner",
+      "orcidId": "0000-0002-7808-1213",
+      "openAlexId": "https://openalex.org/A5067459027",
+      "position": 4
+    }
+  ]
+}

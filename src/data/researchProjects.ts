@@ -205,6 +205,18 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4385402620', // 10.1109/ICDE55515.2023.00353
       'https://openalex.org/W4317436319', // 10.1145/3581758
       'https://openalex.org/W4380433121', // 10.1145/3588693
+      'https://openalex.org/W3208651955', // 10.1093/llc/fqaa049
+      'https://openalex.org/W3047394343', // 10.1016/j.compenvurbsys.2020.101524
+      'https://openalex.org/W3183283998', // 10.1007/s00778-021-00684-3
+      'https://openalex.org/W3134064579', // 10.1109/TKDE.2021.3062318
+      'https://openalex.org/W3168935107', // 10.1145/3450518
+      'https://openalex.org/W3176577330', // 10.1007/978-3-030-79382-1_17
+      'https://openalex.org/W3177130241', // 10.1007/978-3-030-79382-1_16
+      'https://openalex.org/W3173860497', // 10.1145/3448016.3459238
+      'https://openalex.org/W3149499593', // 10.1007/978-3-030-73194-6_9
+      'https://openalex.org/W4246831200', // 10.1007/978-3-030-62522-1_2
+      'https://openalex.org/W3095528690', // 10.1007/978-3-030-62522-1_43
+      'https://openalex.org/W3030383065', // 10.1145/3318464.3389786
     ],
   },
   {
@@ -249,6 +261,14 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4377019116', // 10.1101/2023.05.16.541039
       'https://openalex.org/W4385800882', // 10.1101/2023.08.10.552869
       'https://openalex.org/W4313270436', // 10.1371/journal.pcbi.1010730
+      'https://openalex.org/W3162777509', // 10.1186/s13059-021-02365-4
+      'https://openalex.org/W3107086932', // 10.1093/database/baaa105
+      'https://openalex.org/W3092360857', // 10.1101/2020.10.10.334193
+      'https://openalex.org/W3199267134', // 10.1093/gbe/evab213
+      'https://openalex.org/W3118433720', // 10.48550/ARXIV.2101.02751
+      'https://openalex.org/W3118901901', // 10.1101/2021.01.07.425804
+      'https://openalex.org/W3128309744', // 10.1101/2021.01.28.428698
+      'https://openalex.org/W3182965360', // 10.1371/journal.pone.0254491
     ],
   },
   {
@@ -357,6 +377,13 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4229065791', // pub76: Online Bayesian Analysis with BEAST 2
       'https://openalex.org/W3203862906', // pub83: Spread of Nontyphoidal Salmonella
       'https://openalex.org/W3111342687', // Genomic epidemiology reveals transmission patterns and dynamics of SARS-CoV-2 in Aotearoa New Zealand
+      'https://openalex.org/W3195146959', // 10.3201/eid2709.211097
+      'https://openalex.org/W3157591309', // 10.3201/eid2705.204579
+      'https://openalex.org/W3193475000', // 10.1016/j.lanwpc.2021.100256
+      'https://openalex.org/W3119861525', // 10.3201/eid2703.204714
+      'https://openalex.org/W3032167546', // 10.1111/tgis.12660
+      'https://openalex.org/W3024728639', // 10.1016/j.apgeog.2020.102363
+      'https://openalex.org/W3182747289', // 10.1002/aqc.3636
       'https://openalex.org/W4285041148', // pub84: Genomic epidemiology of Delta SARS-CoV-2
       'https://openalex.org/W4287378331', // pub85: Sensitivity of RT-PCR tests for SARS-CoV-2
       'https://openalex.org/W3119861525', // pub86: Genomic Evidence of In-Flight Transmission
@@ -445,6 +472,7 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4406958237', // pub50: A bioinformatician, computer scientist, and geneticist...
       'https://openalex.org/W6966124972', // pub44: LIPIcs GIScience 2025
       'https://doi.org/10.6084/m9.figshare.28537430.v1', // pub52: What drives bioinformatic tool accuracy?
+      'https://openalex.org/W3160967809', // 10.1101/092205
     ],
   },
 ];

@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W3160967809",
+  "title": "Sustained software development, not number of citations or journal choice, is indicative of accurate bioinformatic software",
+  "year": 2016,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/092205",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2017/01/02/092205.full.pdf",
+  "authors": [
+    {
+      "name": "Paul P. Gardner",
+      "orcidId": "0000-0002-7808-1213",
+      "openAlexId": "https://openalex.org/A5067459027",
+      "position": 1
+    },
+    {
+      "name": "J. M. Paterson",
+      "openAlexId": "https://openalex.org/A5057083465",
+      "position": 2
+    },
+    {
+      "name": "Stephanie McGimpsey",
+      "orcidId": "0000-0001-9127-2789",
+      "openAlexId": "https://openalex.org/A5051156900",
+      "position": 3
+    },
+    {
+      "name": "Fatemeh Ashari Ghomi",
+      "orcidId": "0000-0001-9786-4558",
+      "openAlexId": "https://openalex.org/A5009767888",
+      "position": 4
+    },
+    {
+      "name": "Sinan U. Umu",
+      "orcidId": "0000-0001-8081-7819",
+      "openAlexId": "https://openalex.org/A5017558790",
+      "position": 5
+    },
+    {
+      "name": "Aleksandra Pawlik",
+      "orcidId": "0000-0001-8418-6735",
+      "openAlexId": "https://openalex.org/A5048002342",
+      "position": 6
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 7
+    },
+    {
+      "name": "Michael A. Black",
+      "orcidId": "0000-0003-1174-6054",
+      "openAlexId": "https://openalex.org/A5063087649",
+      "position": 8
+    }
+  ]
+}

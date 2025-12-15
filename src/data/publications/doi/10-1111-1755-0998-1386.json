@@ -3,5 +3,39 @@
   "year": 2023,
   "venue": "Molecular Ecology Resources",
   "doi": "10.1111/1755-0998.1386",
-  "openAccessUrl": "https://doi.org/10.1111/1755-0998.1386"
+  "openAccessUrl": "https://doi.org/10.1111/1755-0998.1386",
+  "authors": [
+    {
+      "name": "Te Aika B",
+      "position": 1
+    },
+    {
+      "name": "Liggins L",
+      "position": 2
+    },
+    {
+      "name": "Rye C",
+      "position": 3
+    },
+    {
+      "name": "Perkins EO",
+      "position": 4
+    },
+    {
+      "name": "Huh J",
+      "position": 5
+    },
+    {
+      "name": "Brauning R",
+      "position": 6
+    },
+    {
+      "name": "Godfery T",
+      "position": 7
+    },
+    {
+      "name": "Black MA",
+      "position": 8
+    }
+  ]
 }

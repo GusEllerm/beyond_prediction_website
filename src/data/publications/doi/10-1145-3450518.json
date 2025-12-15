@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W3168935107",
+  "title": "Embedded Functional Dependencies and Data-completeness Tailored Database Design",
+  "year": 2021,
+  "venue": "ACM Transactions on Database Systems",
+  "doi": "10.1145/3450518",
+  "openAccessUrl": "https://dl.acm.org/doi/pdf/10.1145/3450518",
+  "authors": [
+    {
+      "name": "Ziheng Wei",
+      "orcidId": "0000-0002-0973-3759",
+      "openAlexId": "https://openalex.org/A5026257009",
+      "position": 1
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 2
+    }
+  ]
+}

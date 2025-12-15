@@ -1,0 +1,21 @@
+{
+  "id": "https://openalex.org/W3173860497",
+  "title": "Logical Schema Design that Quantifies Update Inefficiency and Join Efficiency",
+  "year": 2021,
+  "doi": "10.1145/3448016.3459238",
+  "openAccessUrl": "https://doi.org/10.1145/3448016.3459238",
+  "authors": [
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 1
+    },
+    {
+      "name": "Ziheng Wei",
+      "orcidId": "0000-0002-0973-3759",
+      "openAlexId": "https://openalex.org/A5026257009",
+      "position": 2
+    }
+  ]
+}

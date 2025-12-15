@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W3032167546",
+  "title": "Spatially explicit models for exploring COVID‐19 lockdown strategies",
+  "year": 2020,
+  "venue": "Transactions in GIS",
+  "doi": "10.1111/tgis.12660",
+  "openAccessUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tgis.12660",
+  "authors": [
+    {
+      "name": "David O’Sullivan",
+      "orcidId": "0000-0001-8078-3241",
+      "openAlexId": "https://openalex.org/A5013584102",
+      "position": 1
+    },
+    {
+      "name": "Mark Gahegan",
+      "orcidId": "0000-0001-7209-8156",
+      "openAlexId": "https://openalex.org/A5069438601",
+      "position": 2
+    },
+    {
+      "name": "Daniel Exeter",
+      "orcidId": "0000-0003-1061-5925",
+      "openAlexId": "https://openalex.org/A5055846959",
+      "position": 3
+    },
+    {
+      "name": "Benjamin Adams",
+      "orcidId": "0000-0002-1657-9809",
+      "openAlexId": "https://openalex.org/A5009482088",
+      "position": 4
+    }
+  ]
+}

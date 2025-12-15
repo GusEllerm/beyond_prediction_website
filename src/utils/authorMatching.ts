@@ -14,6 +14,28 @@ const nameAliases: Record<string, string> = {
   'augustus (gus) ellerm': 'gus-ellerm',
   'a. ellerm': 'gus-ellerm',
   'a ellerm': 'gus-ellerm',
+  'ellerm, augustus': 'gus-ellerm',
+  'ellerm augustus': 'gus-ellerm',
+  'benjamin adams': 'ben-adams',
+  'adams, benjamin': 'ben-adams',
+  'adams benjamin': 'ben-adams',
+  'gahegan mark': 'mark-gahegan',
+  'mark gahegan': 'mark-gahegan',
+  'anderson mj': 'marti-anderson',
+  'anderson m j': 'marti-anderson',
+  'anderson, mj': 'marti-anderson',
+  'anderson, m j': 'marti-anderson',
+  'm j anderson': 'marti-anderson',
+  'mj anderson': 'marti-anderson',
+  'black ma': 'michael-black',
+  'black, ma': 'michael-black',
+  'm a black': 'michael-black',
+  'm. a. black': 'michael-black',
+  'link, s': 'sebastian-link',
+  'link s': 'sebastian-link',
+  's link': 'sebastian-link',
+  's. link': 'sebastian-link',
+  'link, s.': 'sebastian-link',
 };
 
 /**
@@ -72,6 +94,18 @@ function namesMatch(name1: string, name2: string): boolean {
     const firstInitial1 = norm1.split(/\s+/)[0]?.[0];
     const firstInitial2 = norm2.split(/\s+/)[0]?.[0];
     if (firstInitial1 && firstInitial2 && firstInitial1 === firstInitial2) {
+      return true;
+    }
+  }
+
+  // Check for reversed name order (e.g., "Gahegan Mark" vs "Mark Gahegan")
+  const parts1 = norm1.split(/\s+/).filter(p => p.length > 0);
+  const parts2 = norm2.split(/\s+/).filter(p => p.length > 0);
+  if (parts1.length === 2 && parts2.length === 2) {
+    // Check if names are reversed: "last first" vs "first last"
+    if ((parts1[0] === parts2[1] && parts1[1] === parts2[0]) ||
+        (parts1[0] === parts2[1] && parts1[1].startsWith(parts2[0])) ||
+        (parts1[1].startsWith(parts2[0]) && parts2[1] === parts1[0])) {
       return true;
     }
   }

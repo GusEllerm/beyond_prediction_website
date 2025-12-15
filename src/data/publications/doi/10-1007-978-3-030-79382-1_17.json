@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W3176577330",
+  "title": "Uniqueness Constraints on Property Graphs",
+  "year": 2021,
+  "venue": "Lecture notes in computer science",
+  "doi": "10.1007/978-3-030-79382-1_17",
+  "openAccessUrl": "https://doi.org/10.1007/978-3-030-79382-1_17",
+  "authors": [
+    {
+      "name": "Philipp Skavantzos",
+      "orcidId": "0000-0001-6034-7485",
+      "openAlexId": "https://openalex.org/A5031762182",
+      "position": 1
+    },
+    {
+      "name": "Kaiqi Zhao",
+      "orcidId": "0000-0002-0984-1629",
+      "openAlexId": "https://openalex.org/A5090118317",
+      "position": 2
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 3
+    }
+  ]
+}

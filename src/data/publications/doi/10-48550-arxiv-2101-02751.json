@@ -1,0 +1,39 @@
+{
+  "id": "https://openalex.org/W3118433720",
+  "title": "The Geometry of the space of Discrete Coalescent Trees",
+  "year": 2021,
+  "venue": "arXiv (Cornell University)",
+  "doi": "10.48550/arxiv.2101.02751",
+  "openAccessUrl": "https://arxiv.org/pdf/2101.02751",
+  "authors": [
+    {
+      "name": "Lena Collienne",
+      "orcidId": "0000-0003-4215-8263",
+      "openAlexId": "https://openalex.org/A5006811718",
+      "position": 1
+    },
+    {
+      "name": "Kieran Elmes",
+      "openAlexId": "https://openalex.org/A5023199094",
+      "position": 2
+    },
+    {
+      "name": "Mareike Fischer",
+      "orcidId": "0000-0002-9429-0859",
+      "openAlexId": "https://openalex.org/A5088362612",
+      "position": 3
+    },
+    {
+      "name": "David Bryant",
+      "orcidId": "0000-0003-1963-5535",
+      "openAlexId": "https://openalex.org/A5075139465",
+      "position": 4
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 5
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W3162777509",
+  "title": "On the optimistic performance evaluation of newly introduced bioinformatic methods",
+  "year": 2021,
+  "venue": "Genome biology",
+  "doi": "10.1186/s13059-021-02365-4",
+  "openAccessUrl": "https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-021-02365-4",
+  "authors": [
+    {
+      "name": "Stefan Buchka",
+      "orcidId": "0000-0002-5453-3406",
+      "openAlexId": "https://openalex.org/A5024535986",
+      "position": 1
+    },
+    {
+      "name": "Alexander Hapfelmeier",
+      "orcidId": "0000-0001-6765-6352",
+      "openAlexId": "https://openalex.org/A5042014267",
+      "position": 2
+    },
+    {
+      "name": "Paul P. Gardner",
+      "orcidId": "0000-0002-7808-1213",
+      "openAlexId": "https://openalex.org/A5067459027",
+      "position": 3
+    },
+    {
+      "name": "Rory Wilson",
+      "orcidId": "0000-0001-6135-3764",
+      "openAlexId": "https://openalex.org/A5074807537",
+      "position": 4
+    },
+    {
+      "name": "Anne‐Laure Boulesteix",
+      "orcidId": "0000-0002-2729-0947",
+      "openAlexId": "https://openalex.org/A5015152016",
+      "position": 5
+    }
+  ]
+}

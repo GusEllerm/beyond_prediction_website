@@ -4,5 +4,23 @@
   "year": 2021,
   "venue": "Journal of Statistical Computation and Simulation",
   "doi": "https://doi.org/10.1080/00949655.2020.1806279",
-  "openAccessUrl": "https://doi.org/10.1080/00949655.2020.1806279"
+  "openAccessUrl": "https://doi.org/10.1080/00949655.2020.1806279",
+  "authors": [
+    {
+      "name": "Adegoke, N.A.",
+      "position": 1
+    },
+    {
+      "name": "Smith, A.N.H.",
+      "position": 2
+    },
+    {
+      "name": "Anderson, M.J.",
+      "position": 3
+    },
+    {
+      "name": "Pawley, M.D.M.",
+      "position": 4
+    }
+  ]
 }

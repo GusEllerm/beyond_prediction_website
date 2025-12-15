@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W3118901901",
+  "title": "Testing for phylogenetic signal in single-cell RNA-seq data",
+  "year": 2021,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2021.01.07.425804",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2022/02/07/2021.01.07.425804.full.pdf",
+  "authors": [
+    {
+      "name": "Jiří C. Moravec",
+      "orcidId": "0000-0002-3651-1924",
+      "openAlexId": "https://openalex.org/A5024808613",
+      "position": 1
+    },
+    {
+      "name": "Robert Lanfear",
+      "orcidId": "0000-0002-1140-2596",
+      "openAlexId": "https://openalex.org/A5037983874",
+      "position": 2
+    },
+    {
+      "name": "David L. Spector",
+      "orcidId": "0000-0003-3614-4965",
+      "openAlexId": "https://openalex.org/A5079751903",
+      "position": 3
+    },
+    {
+      "name": "Sarah D. Diermeier",
+      "orcidId": "0000-0002-6120-2744",
+      "openAlexId": "https://openalex.org/A5002306992",
+      "position": 4
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 5
+    }
+  ]
+}

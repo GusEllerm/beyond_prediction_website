@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W3182965360",
+  "title": "Learning epistatic gene interactions from perturbation screens",
+  "year": 2021,
+  "venue": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0254491",
+  "openAccessUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0254491&type=printable",
+  "authors": [
+    {
+      "name": "Kieran Elmes",
+      "openAlexId": "https://openalex.org/A5023199094",
+      "position": 1
+    },
+    {
+      "name": "Fabian Schmich",
+      "orcidId": "0000-0003-1604-4406",
+      "openAlexId": "https://openalex.org/A5028827406",
+      "position": 2
+    },
+    {
+      "name": "Ewa Szczurek",
+      "orcidId": "0000-0002-1320-6695",
+      "openAlexId": "https://openalex.org/A5036326710",
+      "position": 3
+    },
+    {
+      "name": "Jeremy L. Jenkins",
+      "orcidId": "0000-0001-9795-0771",
+      "openAlexId": "https://openalex.org/A5009211876",
+      "position": 4
+    },
+    {
+      "name": "Niko Beerenwinkel",
+      "orcidId": "0000-0002-0573-6119",
+      "openAlexId": "https://openalex.org/A5035497488",
+      "position": 5
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 6
+    }
+  ]
+}

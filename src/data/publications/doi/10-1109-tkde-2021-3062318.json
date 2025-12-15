@@ -1,0 +1,21 @@
+{
+  "id": "https://openalex.org/W3134064579",
+  "title": "Possibilistic Data Cleaning",
+  "year": 2021,
+  "venue": "IEEE Transactions on Knowledge and Data Engineering",
+  "doi": "10.1109/tkde.2021.3062318",
+  "openAccessUrl": "https://doi.org/10.1109/tkde.2021.3062318",
+  "authors": [
+    {
+      "name": "Henning Köehler",
+      "openAlexId": "https://openalex.org/A5006183138",
+      "position": 1
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 2
+    }
+  ]
+}

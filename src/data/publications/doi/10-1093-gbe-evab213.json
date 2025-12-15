@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W3199267134",
+  "title": "Microbial Phylogenetic Context Using Phylogenetic Outlines",
+  "year": 2021,
+  "venue": "Genome Biology and Evolution",
+  "doi": "10.1093/gbe/evab213",
+  "openAccessUrl": "https://academic.oup.com/gbe/article-pdf/13/9/evab213/40436292/evab213.pdf",
+  "authors": [
+    {
+      "name": "Caner Bağcı",
+      "orcidId": "0000-0003-4428-9515",
+      "openAlexId": "https://openalex.org/A5001761525",
+      "position": 1
+    },
+    {
+      "name": "David Bryant",
+      "orcidId": "0000-0003-1963-5535",
+      "openAlexId": "https://openalex.org/A5075139465",
+      "position": 2
+    },
+    {
+      "name": "Banu Cetinkaya",
+      "openAlexId": "https://openalex.org/A5111243494",
+      "position": 3
+    },
+    {
+      "name": "Daniel H. Huson",
+      "openAlexId": "https://openalex.org/A5026094905",
+      "position": 4
+    }
+  ]
+}

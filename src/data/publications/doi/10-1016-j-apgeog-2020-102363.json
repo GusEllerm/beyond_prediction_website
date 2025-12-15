@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W3024728639",
+  "title": "A country comparison of place-based activity response to COVID-19 policies",
+  "year": 2020,
+  "venue": "Applied Geography",
+  "doi": "10.1016/j.apgeog.2020.102363",
+  "openAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/7604168",
+  "authors": [
+    {
+      "name": "Grant McKenzie",
+      "orcidId": "0000-0003-3247-2777",
+      "openAlexId": "https://openalex.org/A5067070198",
+      "position": 1
+    },
+    {
+      "name": "Benjamin Adams",
+      "orcidId": "0000-0002-1657-9809",
+      "openAlexId": "https://openalex.org/A5009482088",
+      "position": 2
+    }
+  ]
+}

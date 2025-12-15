@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W3092360857",
+  "title": "Features of Functional Human Genes",
+  "year": 2020,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2020.10.10.334193",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2020/10/10/2020.10.10.334193.full.pdf",
+  "authors": [
+    {
+      "name": "Helena B. Cooper",
+      "orcidId": "0000-0002-7096-0010",
+      "openAlexId": "https://openalex.org/A5043455248",
+      "position": 1
+    },
+    {
+      "name": "Paul P. Gardner",
+      "orcidId": "0000-0002-7808-1213",
+      "openAlexId": "https://openalex.org/A5067459027",
+      "position": 2
+    }
+  ]
+}

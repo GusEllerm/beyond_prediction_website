@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W3128309744",
+  "title": "A Fast Lasso-Based Method for Inferring Pairwise Interactions",
+  "year": 2021,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2021.01.28.428698",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2021/02/01/2021.01.28.428698.full.pdf",
+  "authors": [
+    {
+      "name": "Kieran Elmes",
+      "openAlexId": "https://openalex.org/A5023199094",
+      "position": 1
+    },
+    {
+      "name": "Astra Heywood",
+      "orcidId": "0000-0002-6953-7493",
+      "openAlexId": "https://openalex.org/A5041332324",
+      "position": 2
+    },
+    {
+      "name": "Zhiyi Huang",
+      "orcidId": "0000-0001-8561-2556",
+      "openAlexId": "https://openalex.org/A5090297023",
+      "position": 3
+    },
+    {
+      "name": "Alex Gavryushkin",
+      "orcidId": "0000-0001-6299-8249",
+      "openAlexId": "https://openalex.org/A5086499703",
+      "position": 4
+    }
+  ]
+}

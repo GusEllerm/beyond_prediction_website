@@ -1,4 +1,6 @@
 import type { PersonPublication } from '../data/publications';
+import { getPublicationAuthors } from './authorMatching';
+import { allPeople } from '../data/people';
 
 export type { PersonPublication };
 
@@ -162,21 +164,91 @@ export function renderPublicationsSection(publications: PersonPublication[]): st
   const cardsHtml = publications
     .map((work) => {
       const url = getPublicationUrl(work);
-      const year = work.year ? ` (${work.year})` : '';
-      const venue = work.venue ? ` ${escapeHtml(work.venue)}` : '';
+      const yearDisplay = work.year ? ` (${work.year})` : '';
+      const venueDisplay = work.venue ? ` ${escapeHtml(work.venue)}` : '';
+      
+      // Get matched authors for this publication
+      const authors = getPublicationAuthors(work, allPeople);
+      
+      // Check if there are additional authors not in people.ts
+      const totalAuthors = work.authors?.length || 0;
+      const matchedAuthorsCount = authors.length;
+      const hasAdditionalAuthors = totalAuthors > matchedAuthorsCount;
+      const additionalAuthorsCount = totalAuthors - matchedAuthorsCount;
+      
+      // Author photos HTML (small circular photos on the right)
+      const authorPhotosHtml = authors.length > 0
+        ? `<div class="col-auto">
+            <div class="d-flex flex-wrap gap-2 align-items-center">
+              ${authors
+                .slice(0, 6) // Limit to 6 authors to avoid clutter
+                .map((author) => {
+                  const personUrl = `/person.html?person=${encodeURIComponent(author.slug)}`;
+                  if (author.photoUrl) {
+                    return `
+                      <a href="${escapeHtml(personUrl)}" class="text-decoration-none" title="${escapeHtml(author.name)}">
+                        <img 
+                          src="${escapeHtml(author.photoUrl)}" 
+                          alt="${escapeHtml(author.name)}" 
+                          class="rounded-circle border border-2 border-light"
+                          style="width: 40px; height: 40px; object-fit: cover;"
+                          loading="lazy"
+                        />
+                      </a>
+                    `;
+                  } else {
+                    // Fallback: show initials in a circle
+                    const initials = author.name
+                      .split(' ')
+                      .map((n) => n[0])
+                      .join('')
+                      .toUpperCase()
+                      .slice(0, 2);
+                    return `
+                      <a href="${escapeHtml(personUrl)}" class="text-decoration-none d-inline-flex align-items-center justify-content-center rounded-circle border border-2 border-light bg-light text-dark" 
+                         style="width: 40px; height: 40px; font-size: 0.75rem; font-weight: 600;" 
+                         title="${escapeHtml(author.name)}">
+                        ${escapeHtml(initials)}
+                      </a>
+                    `;
+                  }
+                })
+                .join('')}
+              ${authors.length > 6 ? `<span class="text-muted small">+${authors.length - 6}</span>` : ''}
+              ${hasAdditionalAuthors && authors.length <= 6 ? `<span class="text-muted small" title="${additionalAuthorsCount} additional author${additionalAuthorsCount !== 1 ? 's' : ''} not in our database">+${additionalAuthorsCount}</span>` : ''}
+            </div>
+          </div>`
+        : '';
+
+      // Author names HTML (text list)
+      const authorsHtml = authors.length > 0
+        ? `<p class="card-text small mb-2">
+            <span class="text-muted">Authors:</span>
+            ${authors.map((author) => 
+              `<a href="/person.html?person=${encodeURIComponent(author.slug)}" class="text-decoration-none">${escapeHtml(author.name)}</a>`
+            ).join(', ')}
+            ${hasAdditionalAuthors ? ` <span class="text-muted">and ${additionalAuthorsCount} other${additionalAuthorsCount !== 1 ? 's' : ''}</span>` : ''}
+          </p>`
+        : '';
 
       return `
-        <div class="col">
-          <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none text-reset d-block h-100">
-            <div class="card h-100">
-              <div class="card-body">
-                <h3 class="h6 card-title">${escapeHtml(work.title)}</h3>
-                <p class="card-text small text-muted mb-0">
-                  ${year}${venue}
+        <div class="card mb-3">
+          <div class="card-body">
+            <div class="row g-3">
+              <div class="${authors.length > 0 ? 'col' : 'col-12'}">
+                <h5 class="card-title mb-2">
+                  <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="text-decoration-none">
+                    ${escapeHtml(work.title)}
+                  </a>
+                </h5>
+                <p class="card-text small text-muted mb-2">
+                  ${yearDisplay}${venueDisplay}
                 </p>
+                ${authorsHtml}
               </div>
+              ${authorPhotosHtml}
             </div>
-          </a>
+          </div>
         </div>
       `;
     })
@@ -186,9 +258,7 @@ export function renderPublicationsSection(publications: PersonPublication[]): st
     <section class="mt-4">
       <h2 class="h4 mb-3">Research Outputs</h2>
       <div class="bp-publications-container">
-        <div class="row row-cols-1 g-3">
-          ${cardsHtml}
-        </div>
+        ${cardsHtml}
       </div>
     </section>
   `;

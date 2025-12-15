@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W3095528690",
+  "title": "Structural and Computational Properties of Possibilistic Armstrong Databases",
+  "year": 2020,
+  "venue": "Lecture notes in computer science",
+  "doi": "10.1007/978-3-030-62522-1_43",
+  "openAccessUrl": "https://doi.org/10.1007/978-3-030-62522-1_43",
+  "authors": [
+    {
+      "name": "Seyeong Jeong",
+      "openAlexId": "https://openalex.org/A5057634253",
+      "position": 1
+    },
+    {
+      "name": "Haoming Ma",
+      "orcidId": "0009-0007-5071-0771",
+      "openAlexId": "https://openalex.org/A5115593854",
+      "position": 2
+    },
+    {
+      "name": "Ziheng Wei",
+      "orcidId": "0000-0002-0973-3759",
+      "openAlexId": "https://openalex.org/A5026257009",
+      "position": 3
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 4
+    }
+  ]
+}

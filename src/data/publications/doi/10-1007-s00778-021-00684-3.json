@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W3183283998",
+  "title": "Algorithms for the discovery of embedded functional dependencies",
+  "year": 2021,
+  "venue": "The VLDB Journal",
+  "doi": "10.1007/s00778-021-00684-3",
+  "openAccessUrl": "https://doi.org/10.1007/s00778-021-00684-3",
+  "authors": [
+    {
+      "name": "Ziheng Wei",
+      "orcidId": "0000-0002-0973-3759",
+      "openAlexId": "https://openalex.org/A5026257009",
+      "position": 1
+    },
+    {
+      "name": "Sven Hartmann",
+      "orcidId": "0000-0003-4565-9645",
+      "openAlexId": "https://openalex.org/A5103092450",
+      "position": 2
+    },
+    {
+      "name": "Sebastian Link",
+      "orcidId": "0000-0002-1816-2863",
+      "openAlexId": "https://openalex.org/A5069839542",
+      "position": 3
+    }
+  ]
+}

@@ -2,5 +2,43 @@
   "id": "https://openalex.org/Wa8a048b862cf84a78e0a3f2e8ca8979b7c70ddb7",
   "title": "An explainability analysis of a sentiment prediction task using a transformer-based attention ﬁlter",
   "year": 2021,
-  "venue": "Proceedings of the Ninth Annual Conference on Advances in Cognitive Systems"
+  "venue": "Proceedings of the Ninth Annual Conference on Advances in Cognitive Systems",
+  "authors": [
+    {
+      "name": "Neset Tan",
+      "position": 1
+    },
+    {
+      "name": "Joshua Bensemann",
+      "position": 2
+    },
+    {
+      "name": "Diana Benavides-Prado",
+      "position": 3
+    },
+    {
+      "name": "Yang Chen",
+      "position": 4
+    },
+    {
+      "name": "Mark Gahegan",
+      "position": 5
+    },
+    {
+      "name": "Lia Lee",
+      "position": 6
+    },
+    {
+      "name": "Alex Yuxuan Peng",
+      "position": 7
+    },
+    {
+      "name": "Patricia Riddle",
+      "position": 8
+    },
+    {
+      "name": "Michael Witbrock",
+      "position": 9
+    }
+  ]
 }
