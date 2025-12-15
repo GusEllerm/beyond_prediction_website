@@ -20,6 +20,9 @@ import { getPeopleForTheme } from './data/peopleByTheme';
 import { renderPersonCard } from './components/personCard';
 import { getPublicationsByIds, renderPublicationsSection } from './utils/publications';
 
+// Import utilities
+import { escapeHtml } from './utils/dom';
+
 // Discover all extension modules under src/projects/*.ts
 const extensionModules = import.meta.glob('./projects/*.ts', {
   eager: true,
@@ -51,17 +54,6 @@ function getProjectSlugFromUrl(): string | null {
   const params = new URLSearchParams(window.location.search);
   const slug = params.get('project');
   return slug;
-}
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
 }
 
 /**

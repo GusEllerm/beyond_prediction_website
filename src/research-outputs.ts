@@ -16,6 +16,9 @@ import { allPeople } from './data/people';
 import { createPublicationLookup, getPublicationUrl, type PersonPublication } from './utils/publications';
 import { getPublicationAuthors } from './utils/authorMatching';
 
+// Import utilities
+import { escapeHtml } from './utils/dom';
+
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
@@ -26,15 +29,6 @@ if (!navbarContainer || !app || !footerContainer) {
 
 renderNavbar(navbarContainer);
 footerContainer.innerHTML = renderFooter(partners);
-
-/**
- * Escapes HTML special characters to prevent XSS
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
 
 /**
  * Extended publication with project association

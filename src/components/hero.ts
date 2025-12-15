@@ -1,6 +1,7 @@
 import { heroShowcases } from '../data/heroShowcases';
 import type { HeroShowcase } from '../data/heroShowcases';
 import { currentForwardPlan } from '../data/reports';
+import { escapeHtml } from '../utils/dom';
 
 // YouTube IFrame API types
 declare global {
@@ -31,15 +32,6 @@ declare namespace YT {
     BUFFERING = 3,
     CUED = 5,
   }
-}
-
-/**
- * Helper function to escape HTML entities for safe rendering
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
 }
 
 /**

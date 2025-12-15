@@ -14,6 +14,9 @@ import { renderPersonCard } from './components/personCard';
 
 // Import data
 import { partners } from './data/partners';
+
+// Import utilities
+import { escapeHtml } from './utils/dom';
 import {
   principalInvestigators,
   coInvestigators,
@@ -31,17 +34,6 @@ if (!navbarContainer || !app || !footerContainer) {
 
 renderNavbar(navbarContainer);
 footerContainer.innerHTML = renderFooter(partners);
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
 
 /**
  * Renders a section of people as Bootstrap cards

@@ -24,6 +24,9 @@ import type {
   PersonPublicationsSnapshot,
 } from './data/publications';
 
+// Import utilities
+import { escapeHtml } from './utils/dom';
+
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const app = document.querySelector<HTMLElement>('#app');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
@@ -160,18 +163,6 @@ function renderPublicationsSection(
     </section>
   `;
 }
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
-
 
 /**
  * Renders the biography section for a person

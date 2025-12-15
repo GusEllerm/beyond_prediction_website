@@ -21,16 +21,8 @@ import { getPublicationAuthors } from './utils/authorMatching';
 import { researchProjects } from './data/researchProjects';
 import type { PersonPublication } from './data/publications';
 
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
+// Import utilities
+import { escapeHtml } from './utils/dom';
 
 /**
  * Parses the search query and type filter from URL query parameters

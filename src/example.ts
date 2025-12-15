@@ -19,6 +19,9 @@ import type { PersonPublication } from './data/publications';
 import { getPublicationsByIds, getPublicationUrl } from './utils/publications';
 import type { ExampleExtensionMount } from './example/extensions';
 
+// Import utilities
+import { escapeHtml } from './utils/dom';
+
 // Discover all extension modules under src/example/*.ts
 const extensionModules = import.meta.glob('./example/*.ts', {
   eager: true,
@@ -34,17 +37,6 @@ if (!navbarContainer || !app || !footerContainer) {
 
 renderNavbar(navbarContainer);
 footerContainer.innerHTML = renderFooter(partners);
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
 
 /**
  * Gets the example extension mount function for a given project and example slug

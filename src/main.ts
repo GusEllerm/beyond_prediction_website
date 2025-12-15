@@ -16,6 +16,9 @@ import { renderFooter } from './components/footer';
 import { researchProjects } from './data/researchProjects';
 import { partners } from './data/partners';
 
+// Import utilities
+import { escapeHtml } from './utils/dom';
+
 /**
  * Main application entry point
  */
@@ -94,17 +97,6 @@ function renderContent(container: HTMLElement): void {
       </div>
     </div>
   `;
-}
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
 }
 
 // Initialize the app when DOM is ready

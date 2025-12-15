@@ -1,3 +1,5 @@
+import { escapeHtml } from '../utils/dom';
+
 /**
  * Partner interface for footer logos
  * 
@@ -100,16 +102,5 @@ export function renderFooter(partners: Partner[] = []): string {
       </div>
     </footer>
   `;
-}
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
 }
 

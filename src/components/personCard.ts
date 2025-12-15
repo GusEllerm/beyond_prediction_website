@@ -1,15 +1,5 @@
 import type { Person } from '../data/people';
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
-}
+import { escapeHtml } from '../utils/dom';
 
 /**
  * Renders a person card for use in grids (People page, search results, etc.)

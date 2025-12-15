@@ -1,6 +1,7 @@
 import type { PersonPublication } from '../data/publications';
 import { getPublicationAuthors } from './authorMatching';
 import { allPeople } from '../data/people';
+import { escapeHtml } from './dom';
 
 export type { PersonPublication };
 
@@ -150,15 +151,6 @@ export function getPublicationUrl(work: PersonPublication): string {
 export function renderPublicationsSection(publications: PersonPublication[]): string {
   if (!publications || publications.length === 0) {
     return '';
-  }
-
-  /**
-   * Escapes HTML special characters to prevent XSS
-   */
-  function escapeHtml(text: string): string {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
   }
 
   const cardsHtml = publications

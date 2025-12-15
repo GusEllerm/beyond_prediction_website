@@ -1,17 +1,8 @@
+import { escapeHtml } from '../utils/dom';
+
 export interface BreadcrumbItem {
   label: string;
   href?: string; // if omitted or undefined, this item is treated as the active page
-}
-
-/**
- * Escapes HTML special characters to prevent XSS
- * @param text - Text to escape
- * @returns Escaped HTML string
- */
-function escapeHtml(text: string): string {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
 }
 
 /**
