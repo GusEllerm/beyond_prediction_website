@@ -289,20 +289,26 @@ function renderOutputsList(outputs: PublicationWithProject[]): void {
 }
 
 /**
- * Renders active filter tags
+ * Renders active filter tags in the sidebar
  */
 function renderActiveFilterTags(): void {
   const tagsContainer = document.getElementById('bp-active-filters');
   if (!tagsContainer) return;
 
   const tags: string[] = [];
+  const totalActiveFilters = filters.years.size + filters.themes.size + filters.authors.size + (filters.titleQuery.trim() ? 1 : 0);
+
+  if (totalActiveFilters === 0) {
+    tagsContainer.innerHTML = '';
+    return;
+  }
 
   // Year tags
   Array.from(filters.years).sort((a, b) => b - a).forEach((year) => {
     tags.push(`
-      <span class="badge rounded-pill text-bg-primary me-2 mb-2 d-inline-flex align-items-center">
-        Year: ${year}
-        <button type="button" class="btn-close btn-close-white btn-sm ms-1" aria-label="Remove year ${year}" data-filter-type="year" data-filter-value="${year}"></button>
+      <span class="badge rounded-pill text-bg-primary me-1 mb-1 d-inline-flex align-items-center">
+        ${year}
+        <button type="button" class="btn-close btn-close-white btn-sm ms-1" style="font-size: 0.65rem;" aria-label="Remove year ${year}" data-filter-type="year" data-filter-value="${year}"></button>
       </span>
     `);
   });
@@ -311,10 +317,12 @@ function renderActiveFilterTags(): void {
   Array.from(filters.themes).forEach((themeSlug) => {
     const theme = researchProjects.find((p) => p.slug === themeSlug);
     const themeName = theme?.title || themeSlug;
+    // Truncate long theme names
+    const displayName = themeName.length > 20 ? themeName.substring(0, 20) + '...' : themeName;
     tags.push(`
-      <span class="badge rounded-pill text-bg-primary me-2 mb-2 d-inline-flex align-items-center">
-        Theme: ${escapeHtml(themeName)}
-        <button type="button" class="btn-close btn-close-white btn-sm ms-1" aria-label="Remove theme ${escapeHtml(themeName)}" data-filter-type="theme" data-filter-value="${escapeHtml(themeSlug)}"></button>
+      <span class="badge rounded-pill text-bg-primary me-1 mb-1 d-inline-flex align-items-center" title="${escapeHtml(themeName)}">
+        ${escapeHtml(displayName)}
+        <button type="button" class="btn-close btn-close-white btn-sm ms-1" style="font-size: 0.65rem;" aria-label="Remove theme ${escapeHtml(themeName)}" data-filter-type="theme" data-filter-value="${escapeHtml(themeSlug)}"></button>
       </span>
     `);
   });
@@ -323,30 +331,41 @@ function renderActiveFilterTags(): void {
   Array.from(filters.authors).forEach((authorSlug) => {
     const author = allPeople.find((p) => p.slug === authorSlug);
     const authorName = author?.name || authorSlug;
+    // Truncate long author names
+    const displayName = authorName.length > 15 ? authorName.substring(0, 15) + '...' : authorName;
     tags.push(`
-      <span class="badge rounded-pill text-bg-primary me-2 mb-2 d-inline-flex align-items-center">
-        Author: ${escapeHtml(authorName)}
-        <button type="button" class="btn-close btn-close-white btn-sm ms-1" aria-label="Remove author ${escapeHtml(authorName)}" data-filter-type="author" data-filter-value="${escapeHtml(authorSlug)}"></button>
+      <span class="badge rounded-pill text-bg-primary me-1 mb-1 d-inline-flex align-items-center" title="${escapeHtml(authorName)}">
+        ${escapeHtml(displayName)}
+        <button type="button" class="btn-close btn-close-white btn-sm ms-1" style="font-size: 0.65rem;" aria-label="Remove author ${escapeHtml(authorName)}" data-filter-type="author" data-filter-value="${escapeHtml(authorSlug)}"></button>
       </span>
     `);
   });
 
   // Title search tag
   if (filters.titleQuery.trim()) {
+    const query = filters.titleQuery;
+    const displayQuery = query.length > 15 ? query.substring(0, 15) + '...' : query;
     tags.push(`
-      <span class="badge rounded-pill text-bg-primary me-2 mb-2 d-inline-flex align-items-center">
-        Search: "${escapeHtml(filters.titleQuery)}"
-        <button type="button" class="btn-close btn-close-white btn-sm ms-1" aria-label="Clear search" data-filter-type="title"></button>
+      <span class="badge rounded-pill text-bg-primary me-1 mb-1 d-inline-flex align-items-center" title="Search: ${escapeHtml(query)}">
+        "${escapeHtml(displayQuery)}"
+        <button type="button" class="btn-close btn-close-white btn-sm ms-1" style="font-size: 0.65rem;" aria-label="Clear search" data-filter-type="title"></button>
       </span>
     `);
   }
 
-  if (tags.length === 0) {
-    tagsContainer.innerHTML = '';
-    return;
-  }
-
-  tagsContainer.innerHTML = tags.join('');
+  tagsContainer.innerHTML = `
+    <div class="mb-3 pb-3 border-bottom">
+      <div class="d-flex justify-content-between align-items-center mb-2">
+        <small class="text-muted fw-semibold">Active Filters (${totalActiveFilters})</small>
+        <button type="button" class="btn btn-link btn-sm p-0 text-decoration-none" id="clear-all-filters-inline" style="font-size: 0.75rem;">
+          Clear all
+        </button>
+      </div>
+      <div class="d-flex flex-wrap gap-1">
+        ${tags.join('')}
+      </div>
+    </div>
+  `;
 
   // Attach event listeners to close buttons
   tagsContainer.querySelectorAll('button[data-filter-type]').forEach((btn) => {
@@ -373,6 +392,14 @@ function renderActiveFilterTags(): void {
       applyFiltersAndRender();
     });
   });
+
+  // Attach event listener to "Clear all" button in sidebar
+  const clearAllInline = document.getElementById('clear-all-filters-inline');
+  if (clearAllInline) {
+    clearAllInline.addEventListener('click', () => {
+      clearAllFilters();
+    });
+  }
 }
 
 /**
@@ -610,6 +637,7 @@ function renderFilterControls(): string {
   return `
     <div class="bg-light rounded p-3">
       <h2 class="h6 mb-3">Filters</h2>
+      <div id="bp-active-filters"></div>
       ${titleSearchHtml}
       ${yearFilterHtml}
       ${themeFilterHtml}
@@ -684,8 +712,6 @@ function renderResearchOutputsPage(): void {
         <p class="lead text-muted mb-2">Browse Beyond Prediction's research outputs</p>
         <p class="small text-muted mb-4"><em>This is an incomplete list, and is being actively added to.</em></p>
       </header>
-
-      <div id="bp-active-filters" class="mb-3"></div>
 
       <div class="row">
         <div class="col-lg-3 mb-4 mb-lg-0" id="filter-sidebar">
