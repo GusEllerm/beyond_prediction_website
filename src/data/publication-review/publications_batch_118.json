@@ -1,0 +1,112 @@
+[
+  {
+    "doi": "10.1007/11825890_1",
+    "title": "Common sense reasoning - From cyc to intelligent assistant",
+    "authors": [
+      "Michael Witbrock"
+    ],
+    "year": 2006,
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/s10469-006-0027-2",
+    "title": "Complexity of Ehrenfeucht models",
+    "authors": [
+      "Alex Gavryushkin"
+    ],
+    "year": 2006,
+    "venue": "Algebra and Logic",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1093/molbev/msj095",
+    "title": "Control of the false discovery rate applied to the detection of positively selected amino acid sites",
+    "authors": [
+      "Michael Black"
+    ],
+    "year": 2006,
+    "venue": "Molecular Biology and Evolution",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1126/science.1121556",
+    "title": "Cybertools and Archaeology",
+    "authors": [
+      "Mark Gahegan"
+    ],
+    "year": 2006,
+    "venue": "Science",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.tcs.2006.08.005",
+    "title": "Deciding implication for functional dependencies in complex-value databases",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2006,
+    "venue": "Theoretical Computer Science",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.jcpa.2005.06.008",
+    "title": "Detection by the polymerase chain reaction of Anaplasma phagocytophilum in tissues of persistently infected sheep",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2006,
+    "venue": "Journal of Comparative Pathology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.jcpa.2005.06.006",
+    "title": "Detection by the polymerase chain reaction of Anaplasma phagocytophilum in tissues of persistently infected sheep.",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2006,
+    "venue": "Journal of comparative pathology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.vaccine.2005.08.078",
+    "title": "Development of canine herpesvirus based antifertility vaccines for foxes using bacterial artificial chromosomes",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2006,
+    "venue": "Vaccine",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1111/j.1541-0420.2005.00440.x",
+    "title": "Distance-based tests for homogeneity of multivariate dispersions",
+    "authors": [
+      "Marti Anderson"
+    ],
+    "year": 2006,
+    "venue": "Biometrics",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.tcs.2006.05.001",
+    "title": "Erratum to \"Axiomatisations of functional dependencies in the presence of records, lists, sets and multisets\" (DOI:10.1016/j.tcs.2006.01.008)",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2006,
+    "venue": "Theoretical Computer Science",
+    "themeIds": [],
+    "notes": ""
+  }
+]

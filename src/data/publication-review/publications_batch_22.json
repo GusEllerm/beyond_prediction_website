@@ -1,0 +1,143 @@
+[
+  {
+    "doi": "10.1016/B978-0-12-822521-9.00035-6",
+    "title": "Campylobacter",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2023,
+    "venue": "Encyclopedia of Food Safety, Second Edition, Volume 1-4",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.48550/arxiv.2308.10370",
+    "title": "cantnlp@LT-EDI-2023: Homophobia/Transphobia Detection in Social Media Comments using Spatio-Temporally Retrained Language Models",
+    "authors": [
+      "Sidney Wong",
+      "Matthew Durward",
+      "Benjamin Adams",
+      "Jonathan Dunn"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1111/mec.16999",
+    "title": "Capturing species‐wide diversity of the gut microbiota and its relationship with genomic variation in the critically endangered kākāpō",
+    "authors": [
+      "Annie G. West",
+      "Andrew Digby",
+      "Anna W. Santure",
+      "Joseph Guhlin",
+      "Peter K. Dearden",
+      "Kākāpō Recovery Team",
+      "Michael W. Taylor",
+      "Lara Urban"
+    ],
+    "year": 2023,
+    "venue": "Molecular Ecology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.is.2023.102208",
+    "title": "Cardinality constraints and functional dependencies in SQL: Taming data redundancy in logical database design",
+    "authors": [
+      "Sebastian Link",
+      "Henning Köehler",
+      "Aniruddh Gandhi",
+      "Sven Hartmann",
+      "Bernhard Thalheim"
+    ],
+    "year": 2023,
+    "venue": "Information Systems",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1145/3581783.3612431",
+    "title": "Chain of Propagation Prompting for Node Classification",
+    "authors": [
+      "Michael Witbrock"
+    ],
+    "year": 2023,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1145/3588693",
+    "title": "Composite Object Normal Forms: Parameterizing Boyce-Codd Normal Form by the Number of Minimal Keys",
+    "authors": [
+      "Zhuoxing Zhang",
+      "Wu Chen",
+      "Sebastian Link"
+    ],
+    "year": 2023,
+    "venue": "Proceedings of the ACM on Management of Data",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1088/1741-2552/acf5a4",
+    "title": "Compression strategies for large-scale electrophysiology data",
+    "authors": [
+      "Alessio Paolo Buccino",
+      "Olivier Winter",
+      "David Bryant",
+      "David Feng",
+      "Karel Svoboda",
+      "Joshua H. Siegle"
+    ],
+    "year": 2023,
+    "venue": "Journal of Neural Engineering",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2023.05.22.541700",
+    "title": "Compression strategies for large-scale electrophysiology data",
+    "authors": [
+      "Alessio Paolo Buccino",
+      "Olivier Winter",
+      "David Bryant",
+      "David Feng",
+      "Karel Svoboda",
+      "Joshua H. Siegle"
+    ],
+    "year": 2023,
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/978-3-031-47262-6",
+    "title": "Conceptual Modeling",
+    "authors": [
+      "João Paulo A. Almeida",
+      "José Borbinha",
+      "Giancarlo Guizzardi",
+      "Sebastian Link",
+      "Jelena Zdravković"
+    ],
+    "year": 2023,
+    "venue": "Lecture notes in computer science",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.jcss.2023.04.004",
+    "title": "Controlling entity integrity with key sets",
+    "authors": [
+      "Miika Hannula",
+      "Xinyi Li",
+      "Sebastian Link"
+    ],
+    "year": 2023,
+    "venue": "Journal of Computer and System Sciences",
+    "themeIds": [],
+    "notes": ""
+  }
+]

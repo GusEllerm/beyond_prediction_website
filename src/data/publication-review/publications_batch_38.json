@@ -1,0 +1,129 @@
+[
+  {
+    "doi": "10.1007/978-3-031-08530-7_3",
+    "title": "Learning to Match Product Codes",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2022,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2022.08.08.503246",
+    "title": "LinguaPhylo: a probabilistic model specification language for reproducible phylogenetic analyses",
+    "authors": [
+      "Alexei J. Drummond",
+      "Kylie Chen",
+      "Fábio K. Mendes",
+      "Dong Xie"
+    ],
+    "year": 2022,
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2022.09.12.507676",
+    "title": "Lost in the Forest: Encoding Categorical Variables and the Absent Levels Problem",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2022,
+    "venue": "bioRxiv",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.48550/arxiv.2207.14000",
+    "title": "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation",
+    "authors": [
+      "Qiming Bao",
+      "Alex Yuxuan Peng",
+      "Tim Hartill",
+      "Neşet Tan",
+      "Zhenyun Deng",
+      "Michael Witbrock",
+      "Jiamou Liu"
+    ],
+    "year": 2022,
+    "venue": "arXiv (Cornell University)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1111/ele.14121",
+    "title": "Non‐linear models of species' responses to environmental and spatial gradients",
+    "authors": [
+      "Marti J. Anderson",
+      "Daniel C. I. Walsh",
+      "W. L. Sweatman",
+      "Andrew J. Punnett"
+    ],
+    "year": 2022,
+    "venue": "Ecology Letters",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/978-3-031-17995-2_25",
+    "title": "Object Normal Form, Fourth Normal Form and Their Application to Database Security",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2022,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2022.05.03.490538",
+    "title": "Online Bayesian Analysis with BEAST 2",
+    "authors": [
+      "Remco Bouckaert",
+      "Lena Collienne",
+      "Alex Gavryushkin"
+    ],
+    "year": 2022,
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.3389/fpsyg.2022.1041957",
+    "title": "Political attitude change over time following COVID-19 lockdown: Rallying effects and differences between left and right voters",
+    "authors": [
+      "Nicole Satherley",
+      "Elena Zubielevitch",
+      "Lara M. Greaves",
+      "Fiona Kate Barlow",
+      "Danny Osborne",
+      "Chris G. Sibley"
+    ],
+    "year": 2022,
+    "venue": "Frontiers in Psychology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1109/TKDE.2021.3062318",
+    "title": "Possibilistic Data Cleaning",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2022,
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.21203/rs.3.rs-1387051/v1",
+    "title": "Risk Factors for Campylobacteriosis in Australia: Outcomes of a 2018–2019 Case-Control Study",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2022,
+    "venue": "Research Square",
+    "themeIds": [],
+    "notes": ""
+  }
+]

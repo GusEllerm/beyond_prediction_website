@@ -1,0 +1,120 @@
+[
+  {
+    "doi": "10.1145/3625007.3627316",
+    "title": "Efficient size-prescribed k-core search",
+    "authors": [
+      "Michael Witbrock"
+    ],
+    "year": 2023,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.isci.2023.107462",
+    "title": "Emerging advances in biosecurity to underpin human, animal, plant, and ecosystem health",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2023,
+    "venue": "iScience",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1145/3581783.3613459",
+    "title": "Emotion Recognition ToolKit (ERTK): Standardising Tools For Emotion Recognition Research",
+    "authors": [
+      "Michael Witbrock"
+    ],
+    "year": 2023,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/s10115-022-01814-1",
+    "title": "Entity integrity management under data volume, variety and veracity",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2023,
+    "venue": "Knowledge and Information Systems",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2023.05.08.539790",
+    "title": "Estimating the mean in the space of ranked phylogenetic trees",
+    "authors": [
+      "Lars Berling",
+      "Lena Collienne",
+      "Alex Gavryushkin"
+    ],
+    "year": 2023,
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.ijid.2022.12.013",
+    "title": "Extended-spectrum β-lactamase- and AmpC β-lactamase-producing Enterobacterales associated with urinary tract infections in the New Zealand community: a case-control study",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2023,
+    "venue": "International Journal of Infectious Diseases",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1093/sysbio/syad067",
+    "title": "Fast Bayesian Inference of Phylogenies from Multiple Continuous Characters",
+    "authors": [
+      "Rong Zhang",
+      "Alexei J. Drummond",
+      "Fábio K. Mendes"
+    ],
+    "year": 2023,
+    "venue": "Systematic Biology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.7717/peerj.14969",
+    "title": "Finding priority bacterial ribosomes for future structural and antimicrobial research based upon global RNA and protein sequence analysis",
+    "authors": [
+      "Helena B. Cooper",
+      "Kurt L. Krause",
+      "Paul P. Gardner"
+    ],
+    "year": 2023,
+    "venue": "PeerJ",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1080/00224499.2023.2289517",
+    "title": "Fixed or Fluid? Sexual Identity Fluidity in a Large National Panel Study of New Zealand Adults",
+    "authors": [
+      "Kieren J. Lilly",
+      "Nicole Satherley",
+      "Chris G. Sibley",
+      "Fiona Kate Barlow",
+      "Lara M. Greaves"
+    ],
+    "year": 2023,
+    "venue": "The Journal of Sex Research",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.4230/lipics.giscience.2023.32",
+    "title": "From Reproducible to Explainable GIScience (Short Paper)",
+    "authors": [
+      "Mark Gahegan"
+    ],
+    "year": 2023,
+    "venue": "Leibniz-Zentrum für Informatik (Schloss Dagstuhl)",
+    "themeIds": [],
+    "notes": ""
+  }
+]

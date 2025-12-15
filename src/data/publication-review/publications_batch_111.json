@@ -1,0 +1,112 @@
+[
+  {
+    "doi": "10.1017/cbo9780511635694.002",
+    "title": "Theory: computing with knowledge to represent and share understanding",
+    "authors": [
+      "Mark Gahegan"
+    ],
+    "year": 2009,
+    "venue": "Sustainable Communities on a Sustainable Planet",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1093/nar/gkn763",
+    "title": "Transterm: A database to aid the analysis of regulatory sequences in mRNAs",
+    "authors": [
+      "Michael Black"
+    ],
+    "year": 2009,
+    "venue": "Nucleic Acids Research",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1201/9781420073980.ch11",
+    "title": "Visual Exploration and Explanation in Geography Analysis with Light",
+    "authors": [
+      "Mark Gahegan"
+    ],
+    "year": 2009,
+    "venue": "Geographic Data Mining and Knowledge Discovery, Second Edition",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1111/j.1467-9671.2008.01124.x",
+    "title": "A Platform for Visualizing and Experimenting with Measures of Semantic Similarity in Ontologies and Concept Maps",
+    "authors": [
+      "Mark Gahegan"
+    ],
+    "year": 2008,
+    "venue": "Transactions in GIS",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1093/treephys/28.10.1525",
+    "title": "Analyses of δ<sup>13</sup>C and δ<sup>18</sup>O in tree rings of Callitris columellaris provide evidence of a change in stomatal control of photosynthesis in response to regional changes in climate",
+    "authors": [
+      "Marti Anderson"
+    ],
+    "year": 2008,
+    "venue": "Tree Physiology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.jembe.2008.07.006",
+    "title": "Animal-sediment relationships re-visited: Characterising species' distributions along an environmental gradient using canonical analysis and quantile regression splines",
+    "authors": [
+      "Marti Anderson"
+    ],
+    "year": 2008,
+    "venue": "Journal of Experimental Marine Biology and Ecology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/978-3-540-77684-0_7",
+    "title": "Appropriate reasoning about data dependencies in fixed and undetermined universes",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2008,
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.apal.2007.11.004",
+    "title": "Characterising nested database dependencies by fragments of propositional logic",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2008,
+    "venue": "Annals of Pure and Applied Logic",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/s00236-008-0080-5",
+    "title": "Charting the completeness frontier of inference systems for multivalued dependencies",
+    "authors": [
+      "Sebastian Link"
+    ],
+    "year": 2008,
+    "venue": "Acta Informatica",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1051/vetres:2007040",
+    "title": "Descriptive spatial epidemiology of subclinical Salmonella infection in finisher pig herds: Application of a novel method of spatially adaptive smoothing",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2008,
+    "venue": "Veterinary Research",
+    "themeIds": [],
+    "notes": ""
+  }
+]

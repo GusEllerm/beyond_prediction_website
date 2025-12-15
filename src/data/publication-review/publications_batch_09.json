@@ -1,0 +1,147 @@
+[
+  {
+    "doi": "10.48550/arxiv.2501.13202",
+    "title": "Subtree Distances, Tight Spans and Diversities",
+    "authors": [
+      "David Bryant",
+      "Katharina T. Huber",
+      "Vincent Moulton",
+      "Andreas Spillner"
+    ],
+    "year": 2025,
+    "venue": "arXiv (Cornell University)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1145/3725362",
+    "title": "Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads: Parameterizing 3NF by the Numbers of Minimal Keys and Functional Dependencies",
+    "authors": [
+      "Zhuoxing Zhang",
+      "Sebastian Link"
+    ],
+    "year": 2025,
+    "venue": "Proceedings of the ACM on Management of Data",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1099/mgen.0.001525",
+    "title": "Temporal reconstruction of a Salmonella Enteritidis ST11 outbreak in New Zealand",
+    "authors": [
+      "Hugo Strydom",
+      "Jackie Wright",
+      "Collette Bromhead",
+      "David Welch",
+      "Ernest Williams",
+      "Kerry Mulqueen",
+      "Joep de Ligt",
+      "Patrick J. Biggs",
+      "Shevaun Paine",
+      "Sarah Jefferies",
+      "Nigel French"
+    ],
+    "year": 2025,
+    "venue": "Microbial Genomics",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.18653/v1/2025.uncertainlp-main.7",
+    "title": "The Benefits of Being Uncertain: Perplexity as a Signal for Naturalness in Multilingual Machine Translation",
+    "authors": [
+      "Timothy Pistotti",
+      "Michael Witbrock",
+      "Dianne P. O’Leary",
+      "Jason Brown"
+    ],
+    "year": 2025,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1145/3744897",
+    "title": "The Bounded Cardinality Normal Form for the Logical Design of Relational Database Schemata",
+    "authors": [
+      "Ziheng Wei",
+      "Sebastian Link"
+    ],
+    "year": 2025,
+    "venue": "ACM Transactions on Database Systems",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1111/anzs.70001",
+    "title": "The incremental progression from fixed to random factors in the analysis of variance: a new synthesis",
+    "authors": [
+      "Marti J. Anderson",
+      "Ray N. Gorley",
+      "Antonio Terlizzi"
+    ],
+    "year": 2025,
+    "venue": "Australian & New Zealand Journal of Statistics",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/s00778-025-00902-2",
+    "title": "Third and Boyce–Codd normal form for property graphs",
+    "authors": [
+      "Philipp Skavantzos",
+      "Sebastian Link"
+    ],
+    "year": 2025,
+    "venue": "The VLDB Journal",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1042/bst20253031",
+    "title": "Towards a phylogenetically informed approach to solving protein–protein interactions",
+    "authors": [
+      "Chun Shen Lim",
+      "Peter C. Fineran",
+      "Paul P. Gardner"
+    ],
+    "year": 2025,
+    "venue": "Biochemical Society Transactions",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/978-981-96-6576-1_2",
+    "title": "Transformers as Approximations of Solomonoff Induction",
+    "authors": [
+      "Nathan Young",
+      "Michael Witbrock"
+    ],
+    "year": 2025,
+    "venue": "Lecture notes in computer science",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1186/s13099-025-00691-7",
+    "title": "Transmission pathways of Campylobacter jejuni between humans and livestock in rural Ethiopia are highly complex and interdependent",
+    "authors": [
+      "Nitya Singh",
+      "Cecilie Thystrup",
+      "Bahar Mummed",
+      "Menuka Bhandari",
+      "Gireesh Rajashekara",
+      "Tine Hald",
+      "Mark Manary",
+      "Sarah McKune",
+      "Jemal Yusuf Hassen",
+      "Helen Smith",
+      "Jonathan C. Marshall",
+      "Nigel French",
+      "Arie H. Havelaar"
+    ],
+    "year": 2025,
+    "venue": "Gut Pathogens",
+    "themeIds": [],
+    "notes": ""
+  }
+]

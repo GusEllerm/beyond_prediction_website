@@ -1,0 +1,158 @@
+[
+  {
+    "doi": "10.1007/978-3-031-23101-8_7",
+    "title": "Visualizing Multispecies Coalescent Trees: Drawing Gene Trees Inside Species Trees",
+    "authors": [
+      "Jonathan Klawitter",
+      "Felix Klesen",
+      "Moritz Niederer",
+      "Alexander Wolff"
+    ],
+    "year": 2022,
+    "venue": "Lecture notes in computer science",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.48550/arxiv.2210.06744",
+    "title": "Visualizing Multispecies Coalescent Trees: Drawing Gene Trees Inside Species Trees",
+    "authors": [
+      "Jonathan Klawitter",
+      "Felix Klesen",
+      "Moritz Niederer",
+      "Alexander Wolff"
+    ],
+    "year": 2022,
+    "venue": "arXiv (Cornell University)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.3389/fpsyg.2022.868001",
+    "title": "What Is Targeted When We Train Working Memory? Evidence From a Meta-Analysis of the Neural Correlates of Working Memory Training Using Activation Likelihood Estimation",
+    "authors": [
+      "Oshin Vartanian",
+      "Vladyslava Replete",
+      "Sidney Ann Saint",
+      "Quan Lam",
+      "Sarah Forbes",
+      "Monique E. Beaudoin",
+      "Tad T. Brunyé",
+      "David Bryant",
+      "Kathryn A. Feltman",
+      "Kristin J. Heaton",
+      "Richard A. McKinley",
+      "Jan B. F. van Erp",
+      "Annika Vergin",
+      "Annalise H. Whittaker"
+    ],
+    "year": 2022,
+    "venue": "Frontiers in Psychology",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/B978-0-12-819470-6.00065-2",
+    "title": "Whole-genome sequencing for food safety",
+    "authors": [
+      "Nigel French"
+    ],
+    "year": 2022,
+    "venue": "Present Knowledge in Food Safety: A Risk-Based Approach through the Food Chain",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.2172/1847516",
+    "title": "WIRE-21 Sensor Irradiation Experiment Ready for HFIR Insertion",
+    "authors": [
+      "Christian Petrie",
+      "Austin Chapel",
+      "Padhraic Mulligan",
+      "David Bryant",
+      "Daniel C. Sweeney",
+      "James Adam",
+      "N. Dianne Ezell",
+      "Kurt Smith",
+      "Kara Godsey",
+      "Maureen Searles",
+      "Shawn Stafford",
+      "Jeff Arndt",
+      "Jorge V. Carvajal"
+    ],
+    "year": 2022,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.3390/genealogy5020054",
+    "title": "“You’re the One That Was on Uncle’s Wall!”: Identity, Whanaungatanga and Connection for Takatāpui (LGBTQ+ Māori)",
+    "authors": [
+      "Lara Greaves"
+    ],
+    "year": 2021,
+    "venue": "Genealogy",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/s1569-1993(21)02080-4",
+    "title": "657: Importance of screening for splice site and deep intronic variants—Insights from cystic fibrosis genetic testing on patients from the Indian subcontinent",
+    "authors": [
+      "Rekha Aaron",
+      "Rekha Aaron",
+      "M. Kumar",
+      "Paul P. Gardner",
+      "Sumitha Danda",
+      "Sneha Varkki"
+    ],
+    "year": 2021,
+    "venue": "Journal of Cystic Fibrosis",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2021.12.13.471844",
+    "title": "A Fast Lasso-Based Method for Inferring Higher-Order Interactions",
+    "authors": [
+      "Kieran Elmes",
+      "Astra Heywood",
+      "Zhiyi Huang",
+      "Alex Gavryushkin"
+    ],
+    "year": 2021,
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2021.01.28.428698",
+    "title": "A Fast Lasso-Based Method for Inferring Pairwise Interactions",
+    "authors": [
+      "Kieran Elmes",
+      "Astra Heywood",
+      "Zhiyi Huang",
+      "Alex Gavryushkin"
+    ],
+    "year": 2021,
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1002/cpe.6188",
+    "title": "A gastric cancer recognition algorithm on gastric pathological sections based on multistage attention‐DenseNet",
+    "authors": [
+      "Bo Liu",
+      "Yelong Zhao",
+      "Bin Yang",
+      "Shuangtao Zhao",
+      "Rentao Gu",
+      "Mark Gahegan"
+    ],
+    "year": 2021,
+    "venue": "Concurrency and Computation Practice and Experience",
+    "themeIds": [],
+    "notes": ""
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "doi": "10.1111/1755-0998.13783",
+    "title": "The promise and challenges of characterizing genome‐wide structural variants: A case study in a critically endangered parrot",
+    "authors": [
+      "Jana Wold",
+      "Joseph Guhlin",
+      "Peter K. Dearden",
+      "Anna W. Santure",
+      "Tammy E. Steeves"
+    ],
+    "year": 2023,
+    "venue": "Molecular Ecology Resources",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1016/j.is.2023.102224",
+    "title": "Towards the efficient discovery of meaningful functional dependencies",
+    "authors": [
+      "Ziheng Wei",
+      "Sebastian Link"
+    ],
+    "year": 2023,
+    "venue": "Information Systems",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1038/s41437-023-00621-w",
+    "title": "Tracing the introduction of the invasive common myna using population genomics",
+    "authors": [
+      "Kamolphat Atsawawaranunt",
+      "Kyle M. Ewart",
+      "Richard E. Major",
+      "Rebecca N. Johnson",
+      "Anna W. Santure",
+      "Annabel Whibley"
+    ],
+    "year": 2023,
+    "venue": "Heredity",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.48550/arxiv.2308.10811",
+    "title": "Tree Drawings with Columns",
+    "authors": [
+      "Jonathan Klawitter",
+      "Johannes Zink"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1007/978-3-031-49272-3_14",
+    "title": "Tree Drawings with Columns",
+    "authors": [
+      "Jonathan Klawitter",
+      "Johannes Zink"
+    ],
+    "year": 2023,
+    "venue": "Lecture notes in computer science",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1101/2023.07.06.547928",
+    "title": "TRIB1 modulates transcriptional programming in breast cancer cells to regulate cell proliferation",
+    "authors": [
+      "Hamish D. McMillan",
+      "Evangelia K. Papachristou",
+      "Jody Hazlett",
+      "Soleilmane Omarjee",
+      "Jason S. Carroll",
+      "Michael A. Black",
+      "Peter D. Mace",
+      "Anita K. Dunbier"
+    ],
+    "year": 2023,
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.31219/osf.io/pjzfb",
+    "title": "Understanding public opinion polling in New Zealand",
+    "authors": [
+      "Nicole Satherley",
+      "Lara M. Greaves",
+      "Andrew Sporle"
+    ],
+    "year": 2023,
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.1145/3581758",
+    "title": "Uniqueness Constraints for Object Stores",
+    "authors": [
+      "Philipp Skavantzos",
+      "Uwe Leck",
+      "Kaiqi Zhao",
+      "Sebastian Link"
+    ],
+    "year": 2023,
+    "venue": "Journal of Data and Information Quality",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.7155/jgaa.00617",
+    "title": "Upward Planar Drawings with Three and More Slopes",
+    "authors": [
+      "Jonathan Klawitter",
+      "Johannes Zink"
+    ],
+    "year": 2023,
+    "venue": "Journal of Graph Algorithms and Applications",
+    "themeIds": [],
+    "notes": ""
+  },
+  {
+    "doi": "10.4230/lipics.giscience.2023.5",
+    "title": "Visualizing Geophylogenies - Internal and External Labeling with Phylogenetic Tree Constraints",
+    "authors": [
+      "Jonathan Klawitter",
+      "Felix Klesen",
+      "Joris Y. Scholl",
+      "Thomas C. van Dijk",
+      "Alexander Zaft"
+    ],
+    "year": 2023,
+    "venue": "Leibniz-Zentrum für Informatik (Schloss Dagstuhl)",
+    "themeIds": [],
+    "notes": ""
+  }
+]
