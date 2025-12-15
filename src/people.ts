@@ -25,10 +25,10 @@ import {
 } from './data/people';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on People page');
 }
 
@@ -77,5 +77,5 @@ const peopleHtml = `
   </div>
 `;
 
-app.innerHTML = peopleHtml;
+main.innerHTML = peopleHtml;
 

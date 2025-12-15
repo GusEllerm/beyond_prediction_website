@@ -28,10 +28,10 @@ import type {
 import { escapeHtml } from './utils/dom';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on Person page');
 }
 
@@ -252,10 +252,10 @@ function findPersonBySlug(slug: string | null): Person | null {
  */
 function renderPersonNotFoundBody(): string {
   return `
-    <main class="container py-4">
+    <div class="container py-4">
       <p class="text-muted mb-4">We couldn't find the requested profile.</p>
       <a href="/people.html" class="btn btn-outline-primary">Back to People</a>
-    </main>
+    </div>
   `;
 }
 
@@ -384,12 +384,12 @@ function renderPersonDetailBody(p: Person): string {
   `;
 
   return `
-    <main class="container py-4">
+    <div class="container py-4">
       <div class="row">
         ${asideColumn}
         ${mainColumn}
       </div>
-    </main>
+    </div>
   `;
 }
 
@@ -427,9 +427,9 @@ const pageHeaderHtml = person
 
 if (!person) {
   const notFoundBody = renderPersonNotFoundBody();
-  app.innerHTML = pageHeaderHtml + notFoundBody;
+  main.innerHTML = pageHeaderHtml + notFoundBody;
 } else {
   const bodyHtml = renderPersonDetailBody(person);
-  app.innerHTML = pageHeaderHtml + bodyHtml;
+  main.innerHTML = pageHeaderHtml + bodyHtml;
 }
 

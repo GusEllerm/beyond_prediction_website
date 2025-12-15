@@ -20,10 +20,10 @@ import { getReportBySlug, getReportDocxPath } from './data/reports';
 import { escapeHtml } from './utils/dom';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on Report page');
 }
 
@@ -66,7 +66,7 @@ async function loadHtmlPartial(path: string): Promise<string> {
  * Renders the report detail page
  */
 async function renderReport(): Promise<void> {
-  if (!app) return;
+  if (!main) return;
 
   const slug = getSlugFromUrl();
   if (!slug) {
@@ -76,18 +76,18 @@ async function renderReport(): Promise<void> {
       { label: 'Report not found' },
     ]);
 
-    app.innerHTML = `
+    main.innerHTML = `
       <header class="bp-page-header">
         <div class="container py-3">
           ${breadcrumbHtml}
           <h1 class="h3 mb-0">Report not found</h1>
         </div>
       </header>
-      <main class="container py-4">
+      <div class="container py-4">
         <div class="alert alert-danger" role="alert">
           No report specified.
         </div>
-      </main>
+      </div>
     `;
     return;
   }
@@ -100,18 +100,18 @@ async function renderReport(): Promise<void> {
       { label: 'Report not found' },
     ]);
 
-    app.innerHTML = `
+    main.innerHTML = `
       <header class="bp-page-header">
         <div class="container py-3">
           ${breadcrumbHtml}
           <h1 class="h3 mb-0">Report not found</h1>
         </div>
       </header>
-      <main class="container py-4">
+      <div class="container py-4">
         <div class="alert alert-danger" role="alert">
           The requested report could not be found.
         </div>
-      </main>
+      </div>
     `;
     return;
   }
@@ -164,13 +164,13 @@ async function renderReport(): Promise<void> {
     { label: report.title },
   ]);
 
-  app.innerHTML = `
+  main.innerHTML = `
     <header class="bp-page-header">
       <div class="container py-3">
         ${breadcrumbHtml}
       </div>
     </header>
-    <main class="container py-4">
+    <div class="container py-4">
       <header class="mb-4">
         <p class="text-muted mb-1">${report.fromYear}–${report.toYear}</p>
         <h1 class="display-5 mb-2">${escapeHtml(report.title)}</h1>
@@ -186,7 +186,7 @@ async function renderReport(): Promise<void> {
       <section class="bp-report-content">
         ${htmlContent}
       </section>
-    </main>
+    </div>
   `;
 }
 

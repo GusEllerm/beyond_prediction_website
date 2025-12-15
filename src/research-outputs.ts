@@ -20,10 +20,10 @@ import { getPublicationAuthors } from './utils/authorMatching';
 import { escapeHtml } from './utils/dom';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on Research Outputs page');
 }
 
@@ -695,8 +695,8 @@ function initFilterControls(): void {
  * Renders the Research Outputs page
  */
 function renderResearchOutputsPage(): void {
-  if (!app) {
-    throw new Error('App container not found');
+  if (!main) {
+    throw new Error('Main container not found');
   }
 
   const pageHtml = `
@@ -726,7 +726,7 @@ function renderResearchOutputsPage(): void {
     </div>
   `;
 
-  app.innerHTML = pageHtml;
+  main.innerHTML = pageHtml;
 }
 
 /**

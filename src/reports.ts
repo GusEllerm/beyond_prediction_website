@@ -19,10 +19,10 @@ import { reports, getLatestReport, currentForwardPlan } from './data/reports';
 import { escapeHtml } from './utils/dom';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on Reports page');
 }
 
@@ -33,7 +33,7 @@ footerContainer.innerHTML = renderFooter(partners);
  * Renders the reports timeline
  */
 function renderReportsTimeline(): void {
-  if (!app) return;
+  if (!main) return;
 
   const sortedReports = [...reports].sort((a, b) => b.fromYear - a.fromYear);
   const latestReport = getLatestReport();
@@ -103,7 +103,7 @@ function renderReportsTimeline(): void {
     </div>
   `;
 
-  app.innerHTML = `
+  main.innerHTML = `
     <div class="container py-5">
       <div class="row">
         <div class="col-lg-10 col-xl-8">

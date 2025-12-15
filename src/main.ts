@@ -24,29 +24,30 @@ import { escapeHtml } from './utils/dom';
  */
 function initApp(): void {
   const appElement = document.querySelector<HTMLDivElement>('#app');
+  const mainElement = document.querySelector<HTMLElement>('#bp-main');
 
-  if (!appElement) {
-    console.error('App container element not found');
+  if (!appElement || !mainElement) {
+    console.error('App container or main element not found');
     return;
   }
 
   // Create navbar container
   const navbarContainer = document.createElement('div');
   navbarContainer.id = 'navbar-container';
-  appElement.appendChild(navbarContainer);
+  appElement.insertBefore(navbarContainer, mainElement);
   renderNavbar(navbarContainer);
 
   // Create hero container
   const heroContainer = document.createElement('div');
   heroContainer.id = 'hero-container';
-  appElement.appendChild(heroContainer);
+  mainElement.appendChild(heroContainer);
   renderHero(heroContainer);
 
   // Create content section
   const contentContainer = document.createElement('div');
   contentContainer.id = 'content-container';
   contentContainer.className = 'content-section';
-  appElement.appendChild(contentContainer);
+  mainElement.appendChild(contentContainer);
   renderContent(contentContainer);
 
   // Create footer container

@@ -18,10 +18,10 @@ import { principalInvestigators, coInvestigators } from './data/people';
 import { renderPersonCard } from './components/personCard';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on About page');
 }
 
@@ -32,8 +32,8 @@ footerContainer.innerHTML = renderFooter(partners);
  * Renders the About page
  */
 function renderAboutPage(): void {
-  if (!app) {
-    throw new Error('App container not found');
+  if (!main) {
+    throw new Error('Main container not found');
   }
 
   const plan = currentForwardPlan;
@@ -90,7 +90,7 @@ function renderAboutPage(): void {
     </div>
   `;
 
-  app.innerHTML = aboutHtml;
+  main.innerHTML = aboutHtml;
 }
 
 // Render page

@@ -278,7 +278,7 @@ function renderAuthorPublicationsSection(
 
 /**
  * Renders search results in the container
- * @param container - The container element to render results into
+ * @param container - The container element to render results into (should be #bp-main)
  * @param query - The search query string
  * @param typeFilter - Optional type filter
  */
@@ -329,13 +329,18 @@ function renderResults(
     return;
   }
 
-  // Create a wrapper div for the results
-  const wrapper = document.createElement('div');
-  wrapper.className = 'container py-5';
-  wrapper.innerHTML = `
-    <h1 class="mb-4">Search results</h1>
-    <p class="text-muted mb-4">Showing ${allMatches.length} result(s) for "<strong>${escapeHtml(query)}</strong>".</p>
+  // Build HTML content directly (container is #bp-main)
+  const wrapperHtml = `
+    <div class="container py-5">
+      <h1 class="mb-4">Search results</h1>
+      <p class="text-muted mb-4">Showing ${allMatches.length} result(s) for "<strong>${escapeHtml(query)}</strong>".</p>
+    </div>
   `;
+
+  container.innerHTML = wrapperHtml;
+  const wrapper = container.querySelector<HTMLElement>('.container');
+
+  if (!wrapper) return;
 
   // Render projects first, then publications, then people
   renderProjectsSection(wrapper, projectResults);
@@ -347,9 +352,6 @@ function renderResults(
     const matchedPersonSlugs = personResults.map((item) => item.id);
     renderAuthorPublicationsSection(wrapper, matchedPersonSlugs);
   }
-
-  container.innerHTML = '';
-  container.appendChild(wrapper);
 }
 
 /**
@@ -357,15 +359,16 @@ function renderResults(
  */
 function initSearchPage(): void {
   const app = document.querySelector<HTMLDivElement>('#app');
+  const main = document.querySelector<HTMLElement>('#bp-main');
 
-  if (!app) {
-    throw new Error('#app container not found');
+  if (!app || !main) {
+    throw new Error('#app container or #bp-main not found');
   }
 
   // Create navbar container
   const navbarContainer = document.createElement('div');
   navbarContainer.id = 'navbar-container';
-  app.appendChild(navbarContainer);
+  app.insertBefore(navbarContainer, main);
   renderNavbar(navbarContainer);
 
   // Get search parameters from URL
@@ -379,11 +382,8 @@ function initSearchPage(): void {
     searchInput.value = query;
   }
 
-  // Create main content container
-  const mainContainer = document.createElement('div');
-  mainContainer.id = 'search-results-container';
-  app.appendChild(mainContainer);
-  renderResults(mainContainer, query, typeFilter);
+  // Render results into main element
+  renderResults(main, query, typeFilter);
 
   // Create footer container
   const footerContainer = document.createElement('div');
@@ -400,9 +400,9 @@ try {
         initSearchPage();
       } catch (error) {
         console.error('Error initializing search page:', error);
-        const app = document.querySelector<HTMLDivElement>('#app');
-        if (app) {
-          app.innerHTML = `
+        const main = document.querySelector<HTMLElement>('#bp-main');
+        if (main) {
+          main.innerHTML = `
             <div class="container py-5">
               <h1 class="mb-4">Search</h1>
               <p class="text-danger">An error occurred while loading the search page. Please try refreshing the page.</p>
@@ -417,9 +417,9 @@ try {
       initSearchPage();
     } catch (error) {
       console.error('Error initializing search page:', error);
-      const app = document.querySelector<HTMLDivElement>('#app');
-      if (app) {
-        app.innerHTML = `
+      const main = document.querySelector<HTMLElement>('#bp-main');
+      if (main) {
+        main.innerHTML = `
           <div class="container py-5">
             <h1 class="mb-4">Search</h1>
             <p class="text-danger">An error occurred while loading the search page. Please try refreshing the page.</p>
@@ -431,9 +431,9 @@ try {
   }
 } catch (error) {
   console.error('Fatal error in search page:', error);
-  const app = document.querySelector<HTMLDivElement>('#app');
-  if (app) {
-    app.innerHTML = `
+  const main = document.querySelector<HTMLElement>('#bp-main');
+  if (main) {
+    main.innerHTML = `
       <div class="container py-5">
         <h1 class="mb-4">Search</h1>
         <p class="text-danger">A fatal error occurred. Please try refreshing the page.</p>

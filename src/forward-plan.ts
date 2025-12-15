@@ -20,10 +20,10 @@ import { currentForwardPlan } from './data/reports';
 import { escapeHtml } from './utils/dom';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on Forward Plan page');
 }
 
@@ -56,7 +56,7 @@ async function loadHtmlPartial(path: string): Promise<string> {
  * Initializes the forward plan page
  */
 async function initForwardPlanPage(): Promise<void> {
-  if (!app) return;
+  if (!main) return;
 
   const plan = currentForwardPlan;
 
@@ -80,13 +80,13 @@ async function initForwardPlanPage(): Promise<void> {
 
   const htmlContent = await loadHtmlPartial(plan.htmlPartialPath);
 
-  app.innerHTML = `
+  main.innerHTML = `
     <header class="bp-page-header">
       <div class="container py-3">
         ${breadcrumbHtml}
       </div>
     </header>
-    <main class="container py-4">
+    <div class="container py-4">
       <header class="mb-4">
         <p class="text-muted mb-1">${plan.fromYear}–${plan.toYear}</p>
         <h1 class="display-5 mb-2">${escapeHtml(plan.title)}</h1>
@@ -100,7 +100,7 @@ async function initForwardPlanPage(): Promise<void> {
       <section class="bp-forward-plan-content">
         ${htmlContent}
       </section>
-    </main>
+    </div>
   `;
 }
 

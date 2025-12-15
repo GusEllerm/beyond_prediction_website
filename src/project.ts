@@ -148,9 +148,10 @@ function setupKeyQuestionSpotlight(questions: string[]): void {
  */
 function initProjectPage(): void {
   const app = document.querySelector<HTMLDivElement>('#app');
+  const main = document.querySelector<HTMLElement>('#bp-main');
 
-  if (!app) {
-    throw new Error('#app container not found');
+  if (!app || !main) {
+    throw new Error('#app container or #bp-main not found');
   }
 
   const slug = getProjectSlugFromUrl();
@@ -159,7 +160,7 @@ function initProjectPage(): void {
   // Render navbar
     const navbarContainer = document.createElement('div');
     navbarContainer.id = 'navbar-container';
-    app.appendChild(navbarContainer);
+    app.insertBefore(navbarContainer, main);
     renderNavbar(navbarContainer);
 
   if (!project) {
@@ -180,13 +181,13 @@ function initProjectPage(): void {
     `;
 
     const bodyHtml = `
-      <main class="container py-4">
+      <div class="container py-4">
         <p class="text-muted mb-4">We couldn't find the requested project.</p>
         <a href="/" class="btn btn-outline-primary">Back to research themes</a>
-      </main>
+      </div>
     `;
 
-    app.innerHTML += pageHeaderHtml + bodyHtml;
+    main.innerHTML = pageHeaderHtml + bodyHtml;
 
     const footerContainer = document.createElement('div');
     footerContainer.id = 'footer-container';
@@ -319,7 +320,7 @@ function initProjectPage(): void {
 
   // Build body content
   const bodyHtml = `
-    <main class="container py-4">
+    <div class="container py-4">
       <div class="row align-items-stretch" id="bp-key-questions">
         <div class="col-lg-8 mb-4 mb-lg-0 d-flex">
           <div class="flex-grow-1">
@@ -364,10 +365,10 @@ function initProjectPage(): void {
           </div>
         </div>
       ` : ''}
-    </main>
+    </div>
   `;
 
-  app.innerHTML += pageHeaderHtml + bodyHtml;
+  main.innerHTML = pageHeaderHtml + bodyHtml;
 
   // Initialise key question spotlight
   if (project.keyQuestions && project.keyQuestions.length > 0) {

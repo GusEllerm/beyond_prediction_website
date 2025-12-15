@@ -28,10 +28,10 @@ const extensionModules = import.meta.glob('./example/*.ts', {
 }) as Record<string, { mountExampleExtension?: ExampleExtensionMount }>;
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
-const app = document.querySelector<HTMLElement>('#app');
+const main = document.querySelector<HTMLElement>('#bp-main');
 const footerContainer = document.querySelector<HTMLElement>('#footer');
 
-if (!navbarContainer || !app || !footerContainer) {
+if (!navbarContainer || !main || !footerContainer) {
   throw new Error('Layout containers not found on Example page');
 }
 
@@ -205,11 +205,11 @@ function renderPublicationsSection(publications: PersonPublication[]): string {
  * Renders the example detail page
  */
 function renderExample(): void {
-  if (!app) return;
+  if (!main) return;
 
   const slugs = getSlugsFromUrl();
   if (!slugs) {
-    app.innerHTML = `
+    main.innerHTML = `
       <div class="container py-5">
         <div class="alert alert-danger" role="alert">
           <h1 class="h4">Example not found</h1>
@@ -225,7 +225,7 @@ function renderExample(): void {
   const project = findProjectDetail(projectSlug);
   
   if (!project) {
-    app.innerHTML = `
+    main.innerHTML = `
       <div class="container py-5">
         <div class="alert alert-danger" role="alert">
           <h1 class="h4">Project not found</h1>
@@ -243,7 +243,7 @@ function renderExample(): void {
   );
 
   if (!example) {
-    app.innerHTML = `
+    main.innerHTML = `
       <div class="container py-5">
         <div class="alert alert-danger" role="alert">
           <h1 class="h4">Example not found</h1>
@@ -286,9 +286,9 @@ function renderExample(): void {
     </header>
   `;
 
-  app.innerHTML = `
+  main.innerHTML = `
     ${pageHeaderHtml}
-    <main class="container py-4">
+    <div class="container py-4">
       <header class="mb-4">
         <h1 class="h3 mb-1">${escapeHtml(example.title)}</h1>
         <p class="text-muted mb-0">Project from ${escapeHtml(project.title)}</p>
@@ -334,7 +334,7 @@ function renderExample(): void {
           </div>
         </div>
       ` : ''}
-    </main>
+    </div>
   `;
 
   // Mount extension if it exists
