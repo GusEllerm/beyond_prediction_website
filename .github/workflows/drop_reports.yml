@@ -1,0 +1,71 @@
+name: Drop reports assign Copilot
+
+on:
+  push:
+    branches: [drops]
+    paths:
+      - "incoming/reports/**"
+
+jobs:
+  assign:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine changed report files
+        id: changed
+        run: |
+          set -euo pipefail
+          before="${{ github.event.before }}"
+          after="${{ github.sha }}"
+          files="$(git diff --name-only "$before" "$after" | grep '^incoming/reports/' || true)"
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$files" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Create issue + assign Copilot agent
+        if: ${{ steps.changed.outputs.files != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.COPILOT_AGENT_TOKEN }}  # fine-grained PAT
+          FILES: ${{ steps.changed.outputs.files }}
+        run: |
+          set -euo pipefail
+          OWNER="${GITHUB_REPOSITORY%/*}"
+          REPO="${GITHUB_REPOSITORY#*/}"
+
+          title="Describe the file dropped into site"
+          body=$(cat <<EOF
+          A report was dropped into incoming/reports on branch 'drops'.
+
+          Changed files:
+          ${FILES}
+
+          Task:
+          - describe the file dropped into site
+          EOF
+          )
+
+          payload=$(jq -n \
+            --arg title "$title" \
+            --arg body "$body" \
+            --arg target_repo "${OWNER}/${REPO}" \
+            '{
+              title: $title,
+              body: $body,
+              assignees: ["copilot-swe-agent[bot]"],
+              agent_assignment: {
+                target_repo: $target_repo,
+                base_branch: "drops",
+                custom_instructions: ""
+              }
+            }'
+          )
+
+          echo "$payload" | gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "/repos/${OWNER}/${REPO}/issues" \
+            --input -
