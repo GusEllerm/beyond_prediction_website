@@ -1,0 +1,33 @@
+name: Promote drops -> main
+
+on:
+  push:
+    branches: [drops]
+
+jobs:
+  open_pr:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Create or reuse PR from drops to main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          repo="${GITHUB_REPOSITORY}"
+
+          # If a PR already exists, do nothing
+          existing="$(gh pr list --repo "$repo" --base main --head drops --state open --json number -q '.[0].number' || true)"
+          if [ -n "$existing" ]; then
+            echo "PR already exists: #$existing"
+            exit 0
+          fi
+
+          gh pr create \
+            --repo "$repo" \
+            --base main \
+            --head drops \
+            --title "Promote drops to main" \
+            --body "Automated promotion PR. Merge after reviewing changes and checks."
