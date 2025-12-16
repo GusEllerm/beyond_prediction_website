@@ -14,13 +14,13 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Determine changed report files
+      - name: Determine changed publication files
         id: changed
         run: |
           set -euo pipefail
           before="${{ github.event.before }}"
           after="${{ github.sha }}"
-          files="$(git diff --name-only "$before" "$after" | grep '^incoming/reports/' || true)"
+          files="$(git diff --name-only "$before" "$after" | grep '^incoming/publications/' || true)"
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$files" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
