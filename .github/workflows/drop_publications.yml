@@ -20,7 +20,8 @@ jobs:
           set -euo pipefail
           before="${{ github.event.before }}"
           after="${{ github.sha }}"
-          files="$(git diff --name-only "$before" "$after" | grep '^incoming/publications/' || true)"
+          # Only Added (A). (You can add R for renames, D for deletions, and M for modifications if you want.)
+          files="$(git diff --name-only --diff-filter=A "$before" "$after" -- 'incoming/publications/**' || true)"
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$files" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT

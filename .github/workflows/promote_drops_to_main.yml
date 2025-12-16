@@ -1,27 +1,29 @@
 name: Promote drops -> main
 
 on:
-  push:
+  pull_request:
     branches: [drops]
+    types: [closed]
+  workflow_dispatch:
 
 jobs:
   open_pr:
+    # Only run when a PR into 'drops' was merged
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.pull_request.merged == true }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
     steps:
       - name: Create or reuse PR from drops to main
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use PAT if you still have the "Actions can't create PRs" restriction,
+          # otherwise GITHUB_TOKEN is fine.
+          GH_TOKEN: ${{ secrets.COPILOT_AGENT_TOKEN }}
         run: |
           set -euo pipefail
           repo="${GITHUB_REPOSITORY}"
 
-          # If a PR already exists, do nothing
           existing="$(gh pr list --repo "$repo" --base main --head drops --state open --json number -q '.[0].number' || true)"
           if [ -n "$existing" ]; then
-            echo "PR already exists: #$existing"
+            echo "Promotion PR already exists: #$existing"
             exit 0
           fi
 
