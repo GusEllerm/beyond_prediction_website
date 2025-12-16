@@ -505,28 +505,6 @@ function updateFilterUI(): void {
   }
 }
 
-/**
- * Sets year range from slider values
- */
-const setYearRange = debounce((minYear: number, maxYear: number): void => {
-  const uniqueYears = getUniqueYears(allOutputs);
-  if (uniqueYears.length === 0) return;
-
-  const minAvailable = uniqueYears[uniqueYears.length - 1];
-  const maxAvailable = uniqueYears[0];
-
-  // If range is at full extent, clear the filter
-  if (minYear === minAvailable && maxYear === maxAvailable) {
-    filters.minYear = null;
-    filters.maxYear = null;
-  } else {
-    filters.minYear = minYear;
-    filters.maxYear = maxYear;
-  }
-  
-  applyFiltersAndRender();
-}, 100);
-
 function toggleTheme(themeSlug: string): void {
   if (filters.themes.has(themeSlug)) {
     filters.themes.delete(themeSlug);
