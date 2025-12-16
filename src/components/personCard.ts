@@ -24,7 +24,7 @@ export function renderPersonCard(person: Person): string {
     : '';
 
   return `
-    <div class="col-md-4 col-lg-3">
+    <div class="col-md-6 col-lg-4 col-xl-3">
       <a href="${href}" class="text-decoration-none text-reset d-block h-100">
         <div class="card h-100 bp-person-card">
           <div class="card-body d-flex flex-column">
