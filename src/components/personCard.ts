@@ -13,26 +13,23 @@ export function renderPersonCard(person: Person): string {
 
   const photoHtml = person.photoUrl
     ? `
-      <div class="col-auto">
+      <div class="bp-person-photo-wrapper">
         <img 
           src="${escapeHtml(person.photoUrl)}" 
           alt="${escapeHtml(person.name)}" 
-          class="person-card-photo rounded"
-          style="width: 80px; height: 80px; object-fit: cover;"
+          class="bp-person-photo rounded"
         />
       </div>
     `
     : '';
 
-  const contentColumnClass = person.photoUrl ? 'col' : 'col-12';
-
   return `
     <div class="col-md-4 col-lg-3">
       <a href="${href}" class="text-decoration-none text-reset d-block h-100">
-        <div class="card h-100">
-          <div class="card-body">
-            <div class="row g-2 align-items-start">
-              <div class="${contentColumnClass}">
+        <div class="card h-100 bp-person-card">
+          <div class="card-body d-flex flex-column">
+            <div class="d-flex align-items-start justify-content-between gap-3 bp-person-card-header">
+              <div class="bp-person-text flex-grow-1">
                 <h3 class="h5 card-title mb-1">${escapeHtml(person.name)}</h3>
                 ${
                   person.title
@@ -44,14 +41,14 @@ export function renderPersonCard(person: Person): string {
                     ? `<p class="card-text mb-2"><small>${escapeHtml(person.affiliation)}</small></p>`
                     : ''
                 }
-                ${
-                  person.bioShort
-                    ? `<p class="card-text"><small>${escapeHtml(person.bioShort)}</small></p>`
-                    : ''
-                }
               </div>
               ${photoHtml}
             </div>
+            ${
+              person.bioShort
+                ? `<p class="card-text mt-2"><small>${escapeHtml(person.bioShort)}</small></p>`
+                : ''
+            }
           </div>
         </div>
       </a>

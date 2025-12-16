@@ -463,10 +463,57 @@ body {
   border: 0;
 }
 
-/* Person card photo styles */
+/* Person card header: text on the left, photo on the right */
+.bp-person-card-header {
+  /* Ensures consistent header height; adjust if needed */
+  min-height: 110px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+/* Text column should flex and wrap inside available width */
+.bp-person-text {
+  flex: 1 1 0;
+  min-width: 0; /* Allow text to shrink and wrap instead of forcing overflow */
+}
+
+/* Photo wrapper: fixed column; do not grow or shrink */
+.bp-person-photo-wrapper {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start; /* Pin photo to top of the header row */
+}
+
+/* Person photo: consistent size */
+.bp-person-photo {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border: 2px solid #e9ecef;
+}
+
+/* Responsive adjustments for person cards on smaller screens */
+@media (max-width: 576px) {
+  .bp-person-card-header {
+    min-height: auto;
+    gap: 0.75rem;
+  }
+  
+  .bp-person-photo {
+    width: 64px;
+    height: 64px;
+  }
+}
+
+/* Legacy class for backward compatibility (if used elsewhere) */
 .person-card-photo {
   flex-shrink: 0;
   border: 2px solid #e9ecef;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
 }
 
 /* Person detail page photo styles */
