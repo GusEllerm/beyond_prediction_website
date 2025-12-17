@@ -1,0 +1,45 @@
+name: Validate
+
+on:
+  pull_request:
+    branches: [main, drops]
+  push:
+    branches: [main, drops]
+  workflow_dispatch:
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint --if-present
+
+      # Vite builds don't always typecheck by default; enforce it explicitly.
+      - name: Typecheck (site)
+        run: npx tsc -p tsconfig.json --noEmit
+
+      - name: Typecheck (scripts)
+        run: npx tsc -p tsconfig.scripts.json --noEmit
+
+      - name: Build
+        run: npm run build --if-present
+
+      - name: Prettier check
+        run: npx prettier --check .

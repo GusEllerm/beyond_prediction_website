@@ -1,72 +1,97 @@
-name: Drop publications assign Copilot
+name: Add publication (DOI) -> assign Copilot
 
 on:
-  push:
-    branches: [drops]
-    paths:
-      - "incoming/publications/**"
-      
+  workflow_dispatch:
+    inputs:
+      doi:
+        description: "DOI (e.g. 10.1234/abcd.5678 or https://doi.org/10.1234/abcd.5678)"
+        required: true
+        type: string
+      target_branch:
+        description: "Which branch Copilot should target for its PR"
+        required: true
+        type: choice
+        options:
+          - main
+          - drops
+        default: drops
+
 jobs:
   assign:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Determine changed publication files
-        id: changed
+      - name: Normalize DOI + quick duplicate check
+        id: norm
         run: |
           set -euo pipefail
-          before="${{ github.event.before }}"
-          after="${{ github.sha }}"
-          # Only Added (A). (You can add R for renames, D for deletions, and M for modifications if you want.)
-          files="$(git diff --name-only --diff-filter=A "$before" "$after" -- 'incoming/publications/**' || true)"
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          echo "$files" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          doi="${{ inputs.doi }}"
+
+          # normalize common prefixes + whitespace
+          doi="$(echo "$doi" | tr -d '\r' | sed -E 's#^https?://(dx\.)?doi\.org/##i; s#^doi:##i' | xargs)"
+          doi_lc="$(echo "$doi" | tr '[:upper:]' '[:lower:]')"
+
+          echo "doi=$doi_lc" >> "$GITHUB_OUTPUT"
+
+          # quick precheck: if DOI already appears anywhere in publications data, stop here
+          if grep -R -n -i -F "$doi_lc" src/data/publications >/dev/null 2>&1; then
+            echo "DOI already exists in src/data/publications. Not creating Copilot issue."
+            exit 0
+          fi
 
       - name: Create issue + assign Copilot agent
-        if: ${{ steps.changed.outputs.files != '' }}
         env:
-          GH_TOKEN: ${{ secrets.COPILOT_AGENT_TOKEN }}  # fine-grained PAT
-          FILES: ${{ steps.changed.outputs.files }}
+          GH_TOKEN: ${{ secrets.COPILOT_AGENT_TOKEN }} # fine-grained PAT (user token)
+          DOI: ${{ steps.norm.outputs.doi }}
+          TARGET_BRANCH: ${{ inputs.target_branch }}
         run: |
           set -euo pipefail
           OWNER="${GITHUB_REPOSITORY%/*}"
           REPO="${GITHUB_REPOSITORY#*/}"
 
-          title="Describe the file dropped into site"
-          body=$(cat <<EOF
-          A publication was dropped into incoming/publications on branch 'drops'.
+          title="Ingest publication DOI: ${DOI}"
 
-          Changed files:
-          ${FILES}
+          body="$(jq -rn --arg doi "$DOI" '
+            [
+              "Please ingest this publication into the website data model.",
+              "",
+              "**DOI:** `\($doi)`",
+              "",
+              "## Steps",
+              "1) Duplicate check: scan `src/data/publications/**` and confirm this DOI is not already present. If present, comment and stop (no PR).",
+              "2) If new: add it under `src/data/publications/doi/` using `scripts/add_doi_publication.ts` (and any other relevant scripts under `scripts/`).",
+              "3) Enrich authors using `scripts/enrich_publications_with_authors.ts`.",
+              "4) Cross-reference publication authors with `people.ts`. Prefer ORCID match; otherwise be conservative. If zero matches, comment and stop (no PR).",
+              "5) Classify the publication against themes in `researchProjects.ts` (use title + shortDescription).",
+              "6) Append the new publication ID to the chosen theme’s `publicationIds` array.",
+              "",
+              "## Acceptance criteria",
+              "- Minimal changes only (no refactors).",
+              "- If you stop early, explain why in an issue comment."
+            ] | join(\"\\n\")
+          ')"
 
-          Task:
-          - describe the publication dropped into site
-          EOF
-          )
-
-          payload=$(jq -n \
+          payload="$(jq -n \
             --arg title "$title" \
             --arg body "$body" \
             --arg target_repo "${OWNER}/${REPO}" \
+            --arg base_branch "$TARGET_BRANCH" \
             '{
               title: $title,
               body: $body,
               assignees: ["copilot-swe-agent[bot]"],
               agent_assignment: {
                 target_repo: $target_repo,
-                base_branch: "drops",
+                base_branch: $base_branch,
                 custom_instructions: ""
               }
             }'
-          )
+          )"
 
-          echo "$payload" | gh api \
+          gh api \
             --method POST \
             -H "Accept: application/vnd.github+json" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
             "/repos/${OWNER}/${REPO}/issues" \
-            --input -
+            --input - <<<"$payload"
