@@ -262,6 +262,7 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W4407402889',
       'https://openalex.org/W4411205819',
       'https://openalex.org/W4413110717',
+      'https://openalex.org/W4416755022',
       'https://openalex.org/W6930048546',
       'inbreeding-load-hihi-genomics-2025',
     ],

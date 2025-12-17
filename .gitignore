@@ -70,3 +70,4 @@ temp_*.json
 # ignore documentation
 documentation/
 publications_to_check.json
+publication-people-cross-reference-report.txt

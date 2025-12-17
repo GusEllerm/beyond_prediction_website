@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W4416755022",
+  "title": "Single-cell phylodynamics reveal rapid late-stage colorectal cancer expansions",
+  "year": 2025,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2025.11.25.690378",
+  "openAccessUrl": "https://www.biorxiv.org/content/biorxiv/early/2025/11/27/2025.11.25.690378.full.pdf",
+  "authors": [
+    {
+      "name": "João M. Alves",
+      "orcidId": "0000-0002-9599-5463",
+      "openAlexId": "https://openalex.org/A5057885028",
+      "position": 1
+    },
+    {
+      "name": "Kylie Chen",
+      "orcidId": "0000-0002-4536-4057",
+      "openAlexId": "https://openalex.org/A5005881998",
+      "position": 2
+    },
+    {
+      "name": "Sonia Prado‐Lòpez",
+      "orcidId": "0000-0003-0918-7919",
+      "openAlexId": "https://openalex.org/A5075333906",
+      "position": 3
+    },
+    {
+      "name": "Nuria Estévez‐Gómez",
+      "orcidId": "0000-0002-7281-3137",
+      "openAlexId": "https://openalex.org/A5004843716",
+      "position": 4
+    },
+    {
+      "name": "Juana Alonso",
+      "openAlexId": "https://openalex.org/A5104085263",
+      "position": 5
+    },
+    {
+      "name": "Laura Tomás‐Gallardo",
+      "orcidId": "0000-0001-9661-0521",
+      "openAlexId": "https://openalex.org/A5075920807",
+      "position": 6
+    },
+    {
+      "name": "Antoine Zwaans",
+      "orcidId": "0000-0001-9175-8738",
+      "openAlexId": "https://openalex.org/A5032191795",
+      "position": 7
+    },
+    {
+      "name": "Tanja Stadler",
+      "openAlexId": "https://openalex.org/A5055449742",
+      "position": 8
+    },
+    {
+      "name": "Alexei J. Drummond",
+      "orcidId": "0000-0003-4454-2576",
+      "openAlexId": "https://openalex.org/A5079724732",
+      "position": 9
+    },
+    {
+      "name": "David Posada",
+      "orcidId": "0000-0003-1407-3406",
+      "openAlexId": "https://openalex.org/A5042649313",
+      "position": 10
+    }
+  ]
+}
