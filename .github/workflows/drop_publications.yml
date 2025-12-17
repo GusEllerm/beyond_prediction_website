@@ -69,7 +69,7 @@ jobs:
               "## Acceptance criteria",
               "- Minimal changes only (no refactors).",
               "- If you stop early, explain why in an issue comment."
-            ] | join(\"\\n\")
+            ] | join("\n")
           ')"
 
           payload="$(jq -n \
