@@ -1,5 +1,5 @@
 /* scripts/check_publication_issues.ts
- * 
+ *
  * This script checks for publications that:
  * 1. Don't have authors
  * 2. Have authors but none match anyone in people.ts
@@ -66,26 +66,34 @@ This file lists publications that need attention:
 
 These publications don't have any author information in their metadata:
 
-${issues.noAuthors.length === 0 
-  ? '*None*' 
-  : issues.noAuthors.map((issue) => 
-      `- **${issue.title}**${issue.doi ? ` (DOI: ${issue.doi})` : ''} - \`${issue.file}\``
-    ).join('\n')
+${
+  issues.noAuthors.length === 0
+    ? '*None*'
+    : issues.noAuthors
+        .map(
+          (issue) =>
+            `- **${issue.title}**${issue.doi ? ` (DOI: ${issue.doi})` : ''} - \`${issue.file}\``
+        )
+        .join('\n')
 }
 
 ## Publications With Authors But None Matched
 
 These publications have authors, but none of them match anyone in \`people.ts\`:
 
-${issues.noMatchedAuthors.length === 0 
-  ? '*None*' 
-  : issues.noMatchedAuthors.map((issue) => 
-      `- **${issue.title}**${issue.doi ? ` (DOI: ${issue.doi})` : ''}
+${
+  issues.noMatchedAuthors.length === 0
+    ? '*None*'
+    : issues.noMatchedAuthors
+        .map(
+          (issue) =>
+            `- **${issue.title}**${issue.doi ? ` (DOI: ${issue.doi})` : ''}
   - File: \`${issue.file}\`
   - Total authors: ${issue.totalAuthors}
   - Matched authors: ${issue.matchedAuthors}
   - Author names: ${issue.authorNames?.join(', ') || 'N/A'}`
-    ).join('\n\n')
+        )
+        .join('\n\n')
 }
 
 ---
@@ -102,4 +110,3 @@ console.log(`✓ Generated ISSUES.md`);
 console.log(`  - Publications without authors: ${issues.noAuthors.length}`);
 console.log(`  - Publications with unmatched authors: ${issues.noMatchedAuthors.length}`);
 console.log(`  - Total publications checked: ${files.length}`);
-

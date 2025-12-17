@@ -45,4 +45,3 @@ export function renderBreadcrumb(items: BreadcrumbItem[]): string {
     </nav>
   `;
 }
-

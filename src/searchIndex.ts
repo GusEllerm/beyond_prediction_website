@@ -41,4 +41,3 @@ export function searchRecords(query: string): SearchRecord[] {
     return inTitle || inSummary || inTags;
   });
 }
-

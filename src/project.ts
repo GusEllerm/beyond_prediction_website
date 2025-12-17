@@ -158,10 +158,10 @@ function initProjectPage(): void {
   const project = findProjectDetail(slug);
 
   // Render navbar
-    const navbarContainer = document.createElement('div');
-    navbarContainer.id = 'navbar-container';
-    app.insertBefore(navbarContainer, main);
-    renderNavbar(navbarContainer);
+  const navbarContainer = document.createElement('div');
+  navbarContainer.id = 'navbar-container';
+  app.insertBefore(navbarContainer, main);
+  renderNavbar(navbarContainer);
 
   if (!project) {
     // Project not found - render error page
@@ -238,7 +238,6 @@ function initProjectPage(): void {
     `
       : '';
 
-
   const examplesHtml =
     project.examples && project.examples.length > 0
       ? `
@@ -246,10 +245,9 @@ function initProjectPage(): void {
         <h2 class="h4 mb-2">Research</h2>
         <div class="row g-3">
           ${project.examples
-            .map(
-              (example) => {
-                const exampleUrl = `/example.html?project=${encodeURIComponent(project.slug)}&example=${encodeURIComponent(example.slug)}`;
-                return `
+            .map((example) => {
+              const exampleUrl = `/example.html?project=${encodeURIComponent(project.slug)}&example=${encodeURIComponent(example.slug)}`;
+              return `
                 <div class="col-md-6">
                   <a href="${exampleUrl}" class="text-decoration-none text-reset d-block h-100">
                     <div class="card h-100">
@@ -261,8 +259,7 @@ function initProjectPage(): void {
                   </a>
                 </div>
               `;
-              }
-            )
+            })
             .join('')}
         </div>
       </section>
@@ -284,10 +281,7 @@ function initProjectPage(): void {
       : '';
 
   // Build breadcrumb and page header
-  const breadcrumbHtml = renderBreadcrumb([
-    { label: 'Home', href: '/' },
-    { label: project.title },
-  ]);
+  const breadcrumbHtml = renderBreadcrumb([{ label: 'Home', href: '/' }, { label: project.title }]);
 
   const pageHeaderHtml = `
     <header class="bp-page-header">
@@ -334,37 +328,45 @@ function initProjectPage(): void {
         </div>
         ${questionsCardHtml}
       </div>
+      ${extensionMount ? '<section class="mt-5" id="project-extension-root"></section>' : ''}
       ${
-        extensionMount
-          ? '<section class="mt-5" id="project-extension-root"></section>'
-          : ''
-      }
-      ${examplesHtml ? `
+        examplesHtml
+          ? `
         <div class="row">
           <div class="col-12">
             ${examplesHtml}
           </div>
         </div>
-      ` : ''}
-      ${publicationsHtml ? `
+      `
+          : ''
+      }
+      ${
+        publicationsHtml
+          ? `
         <div class="row">
           <div class="col-12">
             ${publicationsHtml}
           </div>
         </div>
-      ` : ''}
+      `
+          : ''
+      }
       <div class="row">
         <div class="col-lg-10 col-xl-8">
           ${extraSectionsHtml}
         </div>
       </div>
-      ${peopleSectionHtml ? `
+      ${
+        peopleSectionHtml
+          ? `
         <div class="row">
           <div class="col-12">
             ${peopleSectionHtml}
           </div>
         </div>
-      ` : ''}
+      `
+          : ''
+      }
     </div>
   `;
 
@@ -398,4 +400,3 @@ if (document.readyState === 'loading') {
 } else {
   initProjectPage();
 }
-

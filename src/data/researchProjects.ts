@@ -11,12 +11,12 @@ export interface ProjectExample {
   title: string;
   description: string; // general description of the example
   shortDescription?: string; // optional shorter description for use in example cards on project pages (overrides description)
-  
+
   // Showcase feature (primary visual/interactive element)
   showcaseKind?: ExampleShowcaseKind;
   showcaseSource?: string; // URL for iframe/image/video/pdf, or HTML string for html kind
   showcaseDescription?: string; // description specific to the showcase feature
-  
+
   // Associated publications (OpenAlex work IDs)
   publicationIds?: string[]; // e.g. ["https://openalex.org/W12345", "https://openalex.org/W67890"]
 }
@@ -84,38 +84,38 @@ export const researchProjects: ResearchProject[] = [
         title: 'Live Publication Poster',
         shortDescription:
           'A poster demonstrating the LivePublication framework and its applications to scientific research.',
-        description: "LivePublication is a prototype that treats a research article as part of a live computational system rather than a static PDF. It connects an experiment infrastructure (running workflows on Sentinel-2 satellite data), an interface that collects results and provenance, and a web-based “LivePaper” that updates its figures and text as new computations are run. The poster shows how this approach supports reproducibility, transparency, and ongoing data-driven updates to the publication.",
+        description:
+          'LivePublication is a prototype that treats a research article as part of a live computational system rather than a static PDF. It connects an experiment infrastructure (running workflows on Sentinel-2 satellite data), an interface that collects results and provenance, and a web-based “LivePaper” that updates its figures and text as new computations are run. The poster shows how this approach supports reproducibility, transparency, and ongoing data-driven updates to the publication.',
         showcaseKind: 'pdf',
         showcaseSource: 'projects/live-research-articles/livepub-early-poster.pdf',
         publicationIds: [
-      'https://openalex.org/W4312933824',
-      'https://openalex.org/W4387005217',
-      'https://openalex.org/W6922639269',
-      'https://openalex.org/W6977410951',
-      'https://openalex.org/W7076806724',
-    ],
+          'https://openalex.org/W4312933824',
+          'https://openalex.org/W4387005217',
+          'https://openalex.org/W6922639269',
+          'https://openalex.org/W6977410951',
+          'https://openalex.org/W7076806724',
+        ],
       },
       {
         slug: 'early-proof-of-concept',
         title: 'Early Proof of Concept',
         shortDescription:
           'An early demonstration of the LivePublication framework showcasing how static research papers can be transformed into living documents that update automatically as new data and code become available.',
-        description: 'This paper presents LivePublication, a framework that turns a research article into the front-end of a running scientific workflow rather than a static report. It integrates distributed workflows (via Globus) with RO-Crate research object containers so that each execution step produces rich artefacts that can be woven into a live, updating publication. A language-identification case study demonstrates how this approach supports liveness, reproducibility, and reuse by automatically regenerating figures, metrics, and method descriptions as new runs are executed.',
+        description:
+          'This paper presents LivePublication, a framework that turns a research article into the front-end of a running scientific workflow rather than a static report. It integrates distributed workflows (via Globus) with RO-Crate research object containers so that each execution step produces rich artefacts that can be woven into a live, updating publication. A language-identification case study demonstrates how this approach supports liveness, reproducibility, and reuse by automatically regenerating figures, metrics, and method descriptions as new runs are executed.',
         showcaseKind: 'iframe',
         showcaseSource: 'https://livepublication.github.io/LP_Pub_LID/',
         showcaseDescription:
           'This LivePublication webpage is a simple site hosted on the orchestration node that turns the latest workflow outputs into a readable article using standard web technologies (HTML, CSS, and a lightweight backend hooked into Globus Flows). After each workflow run, the system writes a new RO-Crate artefact describing the execution; an adaptor on the server reindexes these artefacts and updates linked figures, tables, and datasets in the page. Parts of the text (such as the methodology section) are generated automatically from the workflow execution plan using a language model, so rerunning the flow can refresh both the visuals and sections of the narrative to reflect the most recent computation.',
-        publicationIds: [
-          'https://openalex.org/W4387005217', 
-          'https://openalex.org/W4312933824', 
-        ],
+        publicationIds: ['https://openalex.org/W4387005217', 'https://openalex.org/W4312933824'],
       },
       {
         slug: 'new-zealand-coastal-dynamics',
         title: 'New Zealand Coastal Dynamics',
         shortDescription:
           'A live research article tracking coastal changes in New Zealand, with visualizations and analyses that update automatically as new satellite and monitoring data arrives.',
-        description: 'CoastSat is an automated coastline monitoring project that uses the CoastSat Toolkit—an open-source Python library built on Google Earth Engine with Landsat and Sentinel-2 imagery—to track shoreline change along transects in New Zealand and Sardinia, updating its datasets on a regular schedule. In this case study, LivePublication is layered on top of the existing CoastSat system without modifying its codebase or runtime environment, by observing version-controlled artefacts and published Zenodo releases. CoastSat’s evolving workflows and outputs are modelled as an interface.crate (a standards-based RO-Crate that captures data, processes, and results), which is then wrapped by two headless publication.crates: one that generates concise, per-transect micropublications and another that produces aggregated shoreline-level research articles. These publication crates are integrated directly into CoastSat’s Leaflet map interface, allowing users to click on transects or shorelines and request on-demand, data-driven articles that explain trends, data quality, and provenance, effectively transforming a static dashboard into a live, narrative-driven publication surface.',
+        description:
+          'CoastSat is an automated coastline monitoring project that uses the CoastSat Toolkit—an open-source Python library built on Google Earth Engine with Landsat and Sentinel-2 imagery—to track shoreline change along transects in New Zealand and Sardinia, updating its datasets on a regular schedule. In this case study, LivePublication is layered on top of the existing CoastSat system without modifying its codebase or runtime environment, by observing version-controlled artefacts and published Zenodo releases. CoastSat’s evolving workflows and outputs are modelled as an interface.crate (a standards-based RO-Crate that captures data, processes, and results), which is then wrapped by two headless publication.crates: one that generates concise, per-transect micropublications and another that produces aggregated shoreline-level research articles. These publication crates are integrated directly into CoastSat’s Leaflet map interface, allowing users to click on transects or shorelines and request on-demand, data-driven articles that explain trends, data quality, and provenance, effectively transforming a static dashboard into a live, narrative-driven publication surface.',
         showcaseKind: 'iframe',
         showcaseSource: 'https://coastsat.livepublication.org/#6/-42.000/172.000',
         showcaseDescription:
@@ -193,10 +193,7 @@ export const researchProjects: ResearchProject[] = [
           'An automatically updating literature review that incorporates new papers as they are published, maintaining currentness without manual updates.',
       },
     ],
-    publicationIds: [
-      'https://openalex.org/W4312933824',
-      'https://openalex.org/W4387005217',
-    ],
+    publicationIds: ['https://openalex.org/W4312933824', 'https://openalex.org/W4387005217'],
   },
   {
     slug: 'genomics-data-science',
@@ -289,31 +286,31 @@ export const researchProjects: ResearchProject[] = [
         slug: 'host-microbiome-environmental-change',
         title: 'Modelling Host–Microbiome Responses to Environmental Change',
         publicationIds: [
-      'https://openalex.org/W3048524266',
-      'https://openalex.org/W3097983343',
-      'https://openalex.org/W3136519070',
-      'https://openalex.org/W3164335725',
-      'https://openalex.org/W3172075717',
-      'https://openalex.org/W3175859783',
-      'https://openalex.org/W3178740768',
-      'https://openalex.org/W3181472207',
-      'https://openalex.org/W3182747289',
-      'https://openalex.org/W3193475000',
-      'https://openalex.org/W3194504126',
-      'https://openalex.org/W3203862906',
-      'https://openalex.org/W3209038930',
-      'https://openalex.org/W3213354154',
-      'https://openalex.org/W4220972070',
-      'https://openalex.org/W4232122850',
-      'https://openalex.org/W4281561633',
-      'https://openalex.org/W4287378331',
-      'https://openalex.org/W4307009264',
-      'https://openalex.org/W4366245332',
-      'https://openalex.org/W4401246348',
-      'https://openalex.org/W4404328254',
-      'https://openalex.org/W4414057662',
-      'inbreeding-load-hihi-genomics-2025',
-    ],
+          'https://openalex.org/W3048524266',
+          'https://openalex.org/W3097983343',
+          'https://openalex.org/W3136519070',
+          'https://openalex.org/W3164335725',
+          'https://openalex.org/W3172075717',
+          'https://openalex.org/W3175859783',
+          'https://openalex.org/W3178740768',
+          'https://openalex.org/W3181472207',
+          'https://openalex.org/W3182747289',
+          'https://openalex.org/W3193475000',
+          'https://openalex.org/W3194504126',
+          'https://openalex.org/W3203862906',
+          'https://openalex.org/W3209038930',
+          'https://openalex.org/W3213354154',
+          'https://openalex.org/W4220972070',
+          'https://openalex.org/W4232122850',
+          'https://openalex.org/W4281561633',
+          'https://openalex.org/W4287378331',
+          'https://openalex.org/W4307009264',
+          'https://openalex.org/W4366245332',
+          'https://openalex.org/W4401246348',
+          'https://openalex.org/W4404328254',
+          'https://openalex.org/W4414057662',
+          'inbreeding-load-hihi-genomics-2025',
+        ],
         showcaseKind: 'image',
         showcaseSource: 'projects/biodiversity-ecology-biosecurity/microbe-fitness.webp',
         showcaseDescription:
@@ -321,15 +318,12 @@ export const researchProjects: ResearchProject[] = [
         description:
           'This research uses agent-based models to explore how hosts and their microbiomes (“holobionts”) evolve together in changing environments. The results show that rapid microbial evolution can transform a host–microbe conflict into a mutual benefit. When microbes experience only a few generations per host generation, increasing vertical transmission tends to favour microbial fitness at the expense of host fitness, or vice versa. But when microbes undergo many generations within a single host lifetime, they can quickly adapt to shifting environmental conditions in ways that maintain or improve both microbial and host fitness, especially in environments that change in predictable (autocorrelated) ways.',
         shortDescription:
-          'This research uses agent-based models to explore how hosts and their microbiomes (“holobionts”) evolve together in changing environments.'
+          'This research uses agent-based models to explore how hosts and their microbiomes (“holobionts”) evolve together in changing environments.',
       },
       {
         slug: 'hihi-conservation-genomics',
         title: 'Genomic Tools for Conservation of the Hihi (Stitchbird)',
-        publicationIds: [
-          'https://openalex.org/W4413110717',
-          'https://openalex.org/W4401246348',
-        ],
+        publicationIds: ['https://openalex.org/W4413110717', 'https://openalex.org/W4401246348'],
         shortDescription:
           'This research develops and applies cutting-edge genomic methods to support conservation of the threatened hihi, an endemic New Zealand forest bird.',
         description:
@@ -338,7 +332,6 @@ export const researchProjects: ResearchProject[] = [
         showcaseSource: 'projects/biodiversity-ecology-biosecurity/hihi-conservation.webp',
         showcaseDescription:
           'This figure shows the first genome-wide genetic map for the hihi. Each vertical bar represents one chromosome, with coloured bands marking how frequently recombination occurs along its length: cooler colours indicate regions where recombination is rare, while warmer colours highlight recombination “hotspots.” Together, these maps reveal that smaller chromosomes tend to have higher recombination rates and that recombination is very unevenly distributed within and between chromosomes. The inset locates the study population on Tiritiri Matangi Island and links the genetic work back to a real, endangered New Zealand bird.',
-
       },
       {
         slug: 'invasive-species-genomic-survey-design',
@@ -399,7 +392,7 @@ export const researchProjects: ResearchProject[] = [
       'https://openalex.org/W3097983343', // pub91: Source attributed case-control study campylobacteriosis
       'https://openalex.org/W3193475000', // pub90: COVID-19 vaccine strategies
     ],
-  },  
+  },
   {
     slug: 'maori-genomics-data-sovereignty',
     title: 'Māori Genomics & Data Sovereignty',
@@ -409,7 +402,7 @@ export const researchProjects: ResearchProject[] = [
       'This project works in partnership with Māori communities to develop genomic tools and population models that support health equity while respecting tino rangatiratanga (self-determination) over data. It emphasizes community-led research, data sovereignty principles, and culturally appropriate methods.',
     keyQuestions: [
       'How can genomic research support Māori health equity?',
-      "What does tino rangatiratanga mean in data contexts?",
+      'What does tino rangatiratanga mean in data contexts?',
       'How do we ensure community leadership in genomic research?',
       'What are culturally appropriate methods for population genomics?',
     ],
@@ -450,7 +443,8 @@ export const researchProjects: ResearchProject[] = [
       {
         slug: 'resbaz-aotearoa',
         title: 'ResBaz Aotearoa',
-        shortDescription: 'ResBaz (Research Bazaar) is a digital research skills festival designed to boost the computational and data capabilities of the research community.',
+        shortDescription:
+          'ResBaz (Research Bazaar) is a digital research skills festival designed to boost the computational and data capabilities of the research community.',
         description:
           'ResBaz (Research Bazaar) is a digital research skills festival designed to boost the computational and data capabilities of the research community. It exists because modern scholarship increasingly depends on digital tools and workflows, yet PhD students and early-career researchers often have limited formal opportunities to learn these skills. ResBaz responds to this gap by offering accessible, practical training that builds digital literacy, dexterity, and capacity for collaboration across disciplines.',
         showcaseKind: `iframe`,
@@ -523,13 +517,9 @@ export const researchProjects: ResearchProject[] = [
  * @param slug - The project slug to search for
  * @returns The matching ResearchProject or null if not found
  */
-export function findProjectDetail(
-  slug: string | null
-): ResearchProject | null {
+export function findProjectDetail(slug: string | null): ResearchProject | null {
   if (!slug) return null;
-  return (
-    researchProjects.find((project) => project.slug === slug) ?? null
-  );
+  return researchProjects.find((project) => project.slug === slug) ?? null;
 }
 
 /**
@@ -537,18 +527,22 @@ export function findProjectDetail(
  * Note: Both 'biodiversity-ecology-biosecurity' and 'infectious-disease-phylodynamics' map to the same project
  * since they share the same project page (biodiversity-ecology-biosecurity)
  */
-const biodiversityProject = researchProjects.find((p) => p.slug === 'biodiversity-ecology-biosecurity') ?? null;
+const biodiversityProject =
+  researchProjects.find((p) => p.slug === 'biodiversity-ecology-biosecurity') ?? null;
 
 export const projectsBySlug: Record<string, ResearchProject | null> = {
-  'live-research-articles': researchProjects.find((p) => p.slug === 'live-research-articles') ?? null,
-  'trustworthy-explainable-ai': researchProjects.find((p) => p.slug === 'trustworthy-explainable-ai') ?? null,
+  'live-research-articles':
+    researchProjects.find((p) => p.slug === 'live-research-articles') ?? null,
+  'trustworthy-explainable-ai':
+    researchProjects.find((p) => p.slug === 'trustworthy-explainable-ai') ?? null,
   'genomics-data-science': researchProjects.find((p) => p.slug === 'genomics-data-science') ?? null,
   'biodiversity-ecology-biosecurity': biodiversityProject,
   'infectious-disease-phylodynamics': biodiversityProject, // Maps to biodiversity-ecology-biosecurity project
-  'maori-genomics-data-sovereignty': researchProjects.find((p) => p.slug === 'maori-genomics-data-sovereignty') ?? null,
-  'digital-research-skills': researchProjects.find((p) => p.slug === 'digital-research-skills') ?? null,
+  'maori-genomics-data-sovereignty':
+    researchProjects.find((p) => p.slug === 'maori-genomics-data-sovereignty') ?? null,
+  'digital-research-skills':
+    researchProjects.find((p) => p.slug === 'digital-research-skills') ?? null,
 };
 
 // Legacy export alias for backward compatibility during migration
 export const researchProjectDetails = researchProjects;
-

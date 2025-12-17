@@ -145,18 +145,20 @@ async function renderReport(): Promise<void> {
     <div class="alert alert-info d-flex flex-wrap align-items-center justify-content-between mb-4" role="alert">
       <div class="me-3">
         <strong>Download this report</strong><br />
-        ${docxPath && pdfPath
-          ? 'Get the full annual report as a Word document (.docx) or PDF.'
-          : docxPath
-            ? 'Get the full annual report as a Word document (.docx).'
-            : 'Get the full annual report as a PDF document.'}
+        ${
+          docxPath && pdfPath
+            ? 'Get the full annual report as a Word document (.docx) or PDF.'
+            : docxPath
+              ? 'Get the full annual report as a Word document (.docx).'
+              : 'Get the full annual report as a PDF document.'
+        }
       </div>
       <div class="d-flex gap-2">
         ${downloadButtons.join('')}
       </div>
     </div>
     `
-    : '';
+      : '';
 
   const breadcrumbHtml = renderBreadcrumb([
     { label: 'Home', href: '/' },
@@ -174,11 +176,7 @@ async function renderReport(): Promise<void> {
       <header class="mb-4">
         <p class="text-muted mb-1">${report.fromYear}–${report.toYear}</p>
         <h1 class="display-5 mb-2">${escapeHtml(report.title)}</h1>
-        ${
-          report.summary
-            ? `<p class="lead text-muted mb-2">${escapeHtml(report.summary)}</p>`
-            : ''
-        }
+        ${report.summary ? `<p class="lead text-muted mb-2">${escapeHtml(report.summary)}</p>` : ''}
       </header>
 
       ${docxBannerHtml}
@@ -198,4 +196,3 @@ if (document.readyState === 'loading') {
 } else {
   void renderReport();
 }
-

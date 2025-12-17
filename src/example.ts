@@ -45,13 +45,16 @@ footerContainer.innerHTML = renderFooter(partners);
  * @param exampleSlug - The example slug to find an extension for
  * @returns The mount function or null if no extension exists
  */
-function getExampleExtension(projectSlug: string, exampleSlug: string): ExampleExtensionMount | null {
+function getExampleExtension(
+  projectSlug: string,
+  exampleSlug: string
+): ExampleExtensionMount | null {
   for (const [path, mod] of Object.entries(extensionModules)) {
     // Example path: "./example/project-slug-example-slug.ts" or "./example/example-slug.ts"
     // We'll support both patterns: project-specific and example-specific
     const projectExamplePath = `/example/${projectSlug}-${exampleSlug}.ts`;
     const exampleOnlyPath = `/example/${exampleSlug}.ts`;
-    
+
     if (
       (path.endsWith(projectExamplePath) || path.endsWith(exampleOnlyPath)) &&
       typeof mod.mountExampleExtension === 'function'
@@ -70,14 +73,13 @@ function getSlugsFromUrl(): { projectSlug: string; exampleSlug: string } | null 
   const params = new URLSearchParams(window.location.search);
   const projectSlug = params.get('project');
   const exampleSlug = params.get('example');
-  
+
   if (!projectSlug || !exampleSlug) {
     return null;
   }
-  
+
   return { projectSlug, exampleSlug };
 }
-
 
 /**
  * Renders the showcase feature based on its kind
@@ -212,7 +214,7 @@ function renderExample(): void {
 
   const { projectSlug, exampleSlug } = slugs;
   const project = findProjectDetail(projectSlug);
-  
+
   if (!project) {
     main.innerHTML = `
       <div class="container py-5">
@@ -227,9 +229,7 @@ function renderExample(): void {
   }
 
   // Find the example in the project by slug
-  const example = project.examples?.find(
-    (ex) => ex.slug === exampleSlug
-  );
+  const example = project.examples?.find((ex) => ex.slug === exampleSlug);
 
   if (!example) {
     main.innerHTML = `
@@ -248,15 +248,10 @@ function renderExample(): void {
   const extensionMount = getExampleExtension(projectSlug, exampleSlug);
 
   // Get publications for this example
-  const publications = example.publicationIds
-    ? getPublicationsByIds(example.publicationIds)
-    : [];
+  const publications = example.publicationIds ? getPublicationsByIds(example.publicationIds) : [];
 
   // Render showcase content
-  const showcaseContent = renderShowcaseContent(
-    example.showcaseKind,
-    example.showcaseSource
-  );
+  const showcaseContent = renderShowcaseContent(example.showcaseKind, example.showcaseSource);
 
   // Render publications section
   const publicationsHtml = renderPublicationsSection(publications);
@@ -285,9 +280,10 @@ function renderExample(): void {
       <section class="bp-example-content mb-4">
         <p class="lead">${escapeHtml(example.description)}</p>
       </section>
-      ${showcaseContent
-        ? example.showcaseDescription
-          ? `
+      ${
+        showcaseContent
+          ? example.showcaseDescription
+            ? `
             <div class="row">
               <div class="col-lg-10 col-xl-8">
                 <div class="bp-showcase-section mb-0">
@@ -301,7 +297,7 @@ function renderExample(): void {
               </div>
             </div>
           `
-          : `
+            : `
             <div class="row">
               <div class="col-12">
                 <div class="mb-4">
@@ -310,19 +306,20 @@ function renderExample(): void {
               </div>
             </div>
           `
-        : ''}
-      ${
-        extensionMount
-          ? '<section class="mt-5" id="example-extension-root"></section>'
           : ''
       }
-      ${publicationsHtml ? `
+      ${extensionMount ? '<section class="mt-5" id="example-extension-root"></section>' : ''}
+      ${
+        publicationsHtml
+          ? `
         <div class="row">
           <div class="col-12">
             ${publicationsHtml}
           </div>
         </div>
-      ` : ''}
+      `
+          : ''
+      }
     </div>
   `;
 
@@ -343,4 +340,3 @@ if (document.readyState === 'loading') {
 } else {
   renderExample();
 }
-

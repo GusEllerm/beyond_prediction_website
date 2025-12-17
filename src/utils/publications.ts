@@ -5,12 +5,9 @@ import { renderPublicationCard } from '../components/publicationCard';
 export type { PersonPublication };
 
 // Load all publication snapshots to create a lookup by publication ID
-const openAlexSnapshots = import.meta.glob(
-  '../data/publications/openalex/*.json',
-  {
-    eager: true,
-  }
-) as Record<string, { default: { works: PersonPublication[] } }>;
+const openAlexSnapshots = import.meta.glob('../data/publications/openalex/*.json', {
+  eager: true,
+}) as Record<string, { default: { works: PersonPublication[] } }>;
 
 const orcidSnapshots = import.meta.glob('../data/publications/orcid/*.json', {
   eager: true,
@@ -85,14 +82,14 @@ export function createPublicationLookup(): Map<string, PersonPublication> {
       }
       // Index by DOI
       if (publication.doi) {
-        const doiUrl = publication.doi.startsWith('http') 
-          ? publication.doi 
+        const doiUrl = publication.doi.startsWith('http')
+          ? publication.doi
           : `https://doi.org/${publication.doi}`;
         if (!lookup.has(doiUrl)) {
           lookup.set(doiUrl, publication);
         }
         // Also index http://dx.doi.org format
-        const dxDoiUrl = publication.doi.startsWith('http') 
+        const dxDoiUrl = publication.doi.startsWith('http')
           ? publication.doi.replace(/^https?:\/\/(dx\.)?doi\.org\//i, 'http://dx.doi.org/')
           : `http://dx.doi.org/${publication.doi}`;
         if (dxDoiUrl !== doiUrl && !lookup.has(dxDoiUrl)) {
@@ -113,14 +110,14 @@ export function createPublicationLookup(): Map<string, PersonPublication> {
 export function getPublicationsByIds(publicationIds: string[]): PersonPublication[] {
   const lookup = createPublicationLookup();
   const publications: PersonPublication[] = [];
-  
+
   for (const id of publicationIds) {
     const pub = lookup.get(id);
     if (pub) {
       publications.push(pub);
     }
   }
-  
+
   return publications;
 }
 
@@ -153,14 +150,16 @@ export function renderPublicationsSection(publications: PersonPublication[]): st
   }
 
   const cardsHtml = publications
-    .map((work) => renderPublicationCard(work, {
-      showAuthors: true,
-      showAuthorPhotos: true,
-      showVenue: true,
-      showYear: true,
-      withMargin: true,
-      allPeopleForMatching: allPeople,
-    }))
+    .map((work) =>
+      renderPublicationCard(work, {
+        showAuthors: true,
+        showAuthorPhotos: true,
+        showVenue: true,
+        showYear: true,
+        withMargin: true,
+        allPeopleForMatching: allPeople,
+      })
+    )
     .join('');
 
   return `
@@ -172,4 +171,3 @@ export function renderPublicationsSection(publications: PersonPublication[]): st
     </section>
   `;
 }
-

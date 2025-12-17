@@ -10,24 +10,32 @@
   /* Base dark blue from navbar */
   --bp-dark-blue: rgb(12, 12, 72);
   --bp-dark-blue-rgb: 12, 12, 72;
-  
+
   /* Medium blue for primary actions (derived from dark blue) */
   --bp-primary-blue: rgb(30, 30, 140);
   --bp-primary-blue-rgb: 30, 30, 140;
-  
+
   /* Light blue for backgrounds (very light tint of dark blue) */
   --bp-light-blue: rgb(235, 236, 248);
-  
+
   /* Very light blue for subtle backgrounds */
   --bp-very-light-blue: rgb(245, 246, 252);
-  
+
   /* Bootstrap primary color - using our medium blue */
   --bs-primary: var(--bp-primary-blue);
   --bs-primary-rgb: var(--bp-primary-blue-rgb);
 }
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family:
+    'Inter',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    sans-serif;
 }
 
 /* Hero section customizations */
@@ -135,7 +143,9 @@ body {
   transform: translateY(-50%);
   opacity: 0.9;
   z-index: 10;
-  transition: opacity 0.2s ease, background 0.2s ease;
+  transition:
+    opacity 0.2s ease,
+    background 0.2s ease;
 }
 
 #bp-hero-carousel .carousel-control-prev {
@@ -217,7 +227,7 @@ body {
   .bp-header > .navbar:first-child .navbar-toggler {
     display: none;
   }
-  
+
   .bp-header > .navbar:first-child .navbar-collapse {
     display: flex !important;
   }
@@ -227,13 +237,15 @@ body {
 /* Navbar has py-3 (1rem top + 1rem bottom = 2rem padding) + content height */
 /* Logo should be roughly 70-80% of total navbar height */
 .bp-header > .navbar:last-child .navbar-brand img {
-  height: calc(1rem + 1.5rem + 1rem); /* 1rem top padding + 1.5rem content + 0.5rem for visual balance = 3rem */
+  height: calc(
+    1rem + 1.5rem + 1rem
+  ); /* 1rem top padding + 1.5rem content + 0.5rem for visual balance = 3rem */
   max-height: 5rem;
   width: auto;
 }
 
 /* MBIE logo in bottom navbar - slightly larger */
-.bp-header > .navbar:last-child img[src="/logos/mbie.svg"] {
+.bp-header > .navbar:last-child img[src='/logos/mbie.svg'] {
   height: calc(1rem + 1.75rem + 1rem); /* Slightly taller than university logo */
   max-height: 5.5rem;
   width: auto;
@@ -244,8 +256,8 @@ body {
     height: 2.5rem;
     max-height: 3rem;
   }
-  
-  .bp-header > .navbar:last-child img[src="/logos/mbie.svg"] {
+
+  .bp-header > .navbar:last-child img[src='/logos/mbie.svg'] {
     height: 2.75rem;
     max-height: 3.25rem;
   }
@@ -321,7 +333,7 @@ body {
   .bp-navbar-title {
     max-width: 400px;
   }
-  
+
   .bp-navbar-search-top {
     min-width: 200px;
     max-width: 350px;
@@ -500,7 +512,7 @@ body {
     min-height: auto;
     gap: 0.75rem;
   }
-  
+
   .bp-person-photo {
     width: 64px;
     height: 64px;
@@ -691,7 +703,10 @@ body {
 
 /* Key question spotlight card styles */
 .bp-key-question-card {
-  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    opacity 0.2s ease;
   cursor: pointer;
 }
 
@@ -822,7 +837,7 @@ body {
     padding-right: 0;
     margin-bottom: 1.5rem;
   }
-  
+
   .bp-iframe-section {
     min-height: auto;
   }

@@ -40,8 +40,8 @@ footerContainer.innerHTML = renderFooter(partners);
  * Supports multiple projects/themes per publication
  */
 interface PublicationWithProject extends PersonPublication {
-  projectSlugs: string[];   // all projects/themes this publication belongs to
-  projectTitles: string[];  // human-readable project/theme titles (same order as projectSlugs)
+  projectSlugs: string[]; // all projects/themes this publication belongs to
+  projectTitles: string[]; // human-readable project/theme titles (same order as projectSlugs)
 }
 
 /**
@@ -59,7 +59,7 @@ interface ResearchOutputFilters {
  * Global state
  */
 let allOutputs: PublicationWithProject[] = [];
-let filters: ResearchOutputFilters = {
+const filters: ResearchOutputFilters = {
   minYear: null,
   maxYear: null,
   themes: new Set(),
@@ -72,9 +72,9 @@ let isUpdatingSliderProgrammatically = false;
 /**
  * Debounce helper function
  */
-function debounce<F extends (...args: any[]) => void>(fn: F, delay: number): F {
+function debounce<F extends (...args: unknown[]) => void>(fn: F, delay: number): F {
   let timeout: number | undefined;
-  return function(this: unknown, ...args: any[]) {
+  return function (this: unknown, ...args: unknown[]) {
     window.clearTimeout(timeout);
     timeout = window.setTimeout(() => fn.apply(this, args), delay);
   } as F;
@@ -189,14 +189,15 @@ function getUniqueYears(publications: PublicationWithProject[]): number[] {
  */
 function renderPublicationCard(pub: PublicationWithProject): string {
   // Build themes/projects links - show all associated projects
-  const themesLinks = pub.projectTitles.length > 0
-    ? pub.projectTitles
-        .map((title, index) => {
-          const slug = pub.projectSlugs[index];
-          return `<a href="/project.html?project=${encodeURIComponent(slug)}" class="text-decoration-none">${escapeHtml(title)}</a>`;
-        })
-        .join(', ')
-    : '';
+  const themesLinks =
+    pub.projectTitles.length > 0
+      ? pub.projectTitles
+          .map((title, index) => {
+            const slug = pub.projectSlugs[index];
+            return `<a href="/project.html?project=${encodeURIComponent(slug)}" class="text-decoration-none">${escapeHtml(title)}</a>`;
+          })
+          .join(', ')
+      : '';
 
   // Render the base card (without project context, we'll add custom themes display)
   const baseCardHtml = renderPubCard(pub, {
@@ -221,8 +222,11 @@ function renderPublicationCard(pub: PublicationWithProject): string {
     // The card structure ends with card-body closing: </div>\n    </article>
     // We want to insert before the last </div> that's inside card-body
     // Pattern: match </div> followed by whitespace and </article>
-    return baseCardHtml.replace(/(\s+)<\/div>\s+<\/article>/s, `${themesLine}$1</div>
-    </article>`);
+    return baseCardHtml.replace(
+      /(\s+)<\/div>\s+<\/article>/s,
+      `${themesLine}$1</div>
+    </article>`
+    );
   }
 
   return baseCardHtml;
@@ -261,7 +265,11 @@ function renderActiveFilterTags(): void {
 
   const tags: string[] = [];
   const hasYearFilter = filters.minYear !== null || filters.maxYear !== null;
-  const totalActiveFilters = (hasYearFilter ? 1 : 0) + filters.themes.size + filters.authors.size + (filters.titleQuery.trim() ? 1 : 0);
+  const totalActiveFilters =
+    (hasYearFilter ? 1 : 0) +
+    filters.themes.size +
+    filters.authors.size +
+    (filters.titleQuery.trim() ? 1 : 0);
 
   if (totalActiveFilters === 0) {
     tagsContainer.innerHTML = '';
@@ -414,7 +422,7 @@ function updateUrlFromFilters(): void {
  */
 function initFiltersFromUrl(): void {
   const params = new URLSearchParams(window.location.search);
-  
+
   const yearsParam = params.get('years');
   const themesParam = params.get('themes');
   const authorsParam = params.get('authors');
@@ -428,7 +436,10 @@ function initFiltersFromUrl(): void {
       filters.maxYear = yearMatch[2] ? Number.parseInt(yearMatch[2], 10) : null;
     } else {
       // Fallback: try to parse as comma-separated list (old format)
-      const years = yearsParam.split(',').map((y) => Number.parseInt(y, 10)).filter(Number.isFinite);
+      const years = yearsParam
+        .split(',')
+        .map((y) => Number.parseInt(y, 10))
+        .filter(Number.isFinite);
       if (years.length > 0) {
         filters.minYear = Math.min(...years);
         filters.maxYear = Math.max(...years);
@@ -469,7 +480,7 @@ function updateFilterUI(): void {
       isUpdatingSliderProgrammatically = true;
       yearSlider.set([minYear, maxYear]);
       isUpdatingSliderProgrammatically = false;
-      
+
       // Update labels
       const minLabel = document.getElementById('bp-year-min');
       const maxLabel = document.getElementById('bp-year-max');
@@ -534,12 +545,12 @@ function clearAllFilters(): void {
   filters.themes.clear();
   filters.authors.clear();
   filters.titleQuery = '';
-  
+
   const searchInput = document.getElementById('bp-title-search') as HTMLInputElement | null;
   if (searchInput) {
     searchInput.value = '';
   }
-  
+
   updateFilterUI();
   applyFiltersAndRender();
 }
@@ -549,14 +560,16 @@ function clearAllFilters(): void {
  */
 function renderFilterControls(): string {
   const uniqueYears = getUniqueYears(allOutputs);
-  
+
   // Get people who have publications
-  const peopleWithPublications = allPeople.filter((person) => {
-    return allOutputs.some((pub) => {
-      const authors = getPublicationAuthors(pub, allPeople);
-      return authors.some((author) => author.slug === person.slug);
-    });
-  }).sort((a, b) => a.name.localeCompare(b.name));
+  const peopleWithPublications = allPeople
+    .filter((person) => {
+      return allOutputs.some((pub) => {
+        const authors = getPublicationAuthors(pub, allPeople);
+        return authors.some((author) => author.slug === person.slug);
+      });
+    })
+    .sort((a, b) => a.name.localeCompare(b.name));
 
   // Get projects with publications
   const projectsWithPublications = researchProjects
@@ -564,9 +577,10 @@ function renderFilterControls(): string {
     .sort((a, b) => a.title.localeCompare(b.title));
 
   // Year filter slider
-  const minYear = uniqueYears.length > 0 ? uniqueYears[uniqueYears.length - 1] : new Date().getFullYear();
+  const minYear =
+    uniqueYears.length > 0 ? uniqueYears[uniqueYears.length - 1] : new Date().getFullYear();
   const maxYear = uniqueYears.length > 0 ? uniqueYears[0] : new Date().getFullYear();
-  
+
   const yearFilterHtml = `
     <div class="mb-3">
       <label class="form-label fw-semibold mb-2">Filter by Year</label>
@@ -583,7 +597,9 @@ function renderFilterControls(): string {
     <div class="mb-3">
       <label class="form-label fw-semibold mb-2">Filter by Theme</label>
       <div class="d-flex flex-column gap-2" style="max-height: 300px; overflow-y: auto;">
-        ${projectsWithPublications.map((project) => `
+        ${projectsWithPublications
+          .map(
+            (project) => `
           <button 
             type="button" 
             class="btn btn-sm text-start ${filters.themes.has(project.slug) ? 'btn-primary' : 'btn-outline-primary'}"
@@ -592,7 +608,9 @@ function renderFilterControls(): string {
           >
             ${escapeHtml(project.title)}
           </button>
-        `).join('')}
+        `
+          )
+          .join('')}
       </div>
     </div>
   `;
@@ -602,7 +620,9 @@ function renderFilterControls(): string {
     <div class="mb-3">
       <label class="form-label fw-semibold mb-2">Filter by Author</label>
       <div class="d-flex flex-column gap-2" style="max-height: 300px; overflow-y: auto;">
-        ${peopleWithPublications.map((person) => `
+        ${peopleWithPublications
+          .map(
+            (person) => `
           <button 
             type="button" 
             class="btn btn-sm text-start ${filters.authors.has(person.slug) ? 'btn-primary' : 'btn-outline-primary'}"
@@ -610,7 +630,9 @@ function renderFilterControls(): string {
           >
             ${escapeHtml(person.name)}
           </button>
-        `).join('')}
+        `
+          )
+          .join('')}
       </div>
     </div>
   `;

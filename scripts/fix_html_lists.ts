@@ -14,23 +14,27 @@ function fixLists(html: string): string {
   // The single-line processor works by finding paragraphs, which works regardless of line breaks
   return processSingleLineHtml(html);
   const result: string[] = [];
-  
+
   let inList = false;
   let listType: 'ul' | 'ol' | null = null;
   let listItems: string[] = [];
   let currentListStart = -1;
-  
+
   /**
    * Detects if a line contains a list item pattern
    */
-  function detectListItem(line: string): { isListItem: boolean; type: 'ul' | 'ol' | null; content: string } {
+  function detectListItem(line: string): {
+    isListItem: boolean;
+    type: 'ul' | 'ol' | null;
+    content: string;
+  } {
     const trimmed = line.trim();
-    
+
     // Skip empty lines
     if (!trimmed) {
       return { isListItem: false, type: null, content: '' };
     }
-    
+
     // Pattern for numbered lists: <p>1. content</p> or <p><strong>1. content</strong></p>
     const numberedMatch = trimmed.match(/^<p>(?:<strong>)?(\d+)\.\s+(.+?)(?:<\/strong>)?<\/p>$/i);
     if (numberedMatch) {
@@ -40,14 +44,14 @@ function fixLists(html: string): string {
       const cleanedContent = fullContent.replace(/^\d+\.\s+/, '');
       return { isListItem: true, type: 'ol', content: cleanedContent };
     }
-    
+
     // Pattern for letter lists: <p>A. content</p> or <p><strong>A. content</strong></p>
     // Match single capital letter followed by period or parenthesis
-    const letterMatch = trimmed.match(/^<p>(?:<strong>)?([A-Z])[\.\)]\s+(.+?)(?:<\/strong>)?<\/p>$/);
+    const letterMatch = trimmed.match(/^<p>(?:<strong>)?([A-Z])[.)]\s+(.+?)(?:<\/strong>)?<\/p>$/);
     if (letterMatch) {
       const fullContent = letterMatch[2];
       // Remove the letter prefix if duplicated
-      const cleanedContent = fullContent.replace(/^[A-Z][\.\)]\s+/i, '');
+      const cleanedContent = fullContent.replace(/^[A-Z][.)]\s+/i, '');
       // Preserve strong tags if they wrap the whole content
       let finalContent = cleanedContent;
       if (trimmed.includes('<strong>') && !cleanedContent.includes('<strong>')) {
@@ -55,47 +59,49 @@ function fixLists(html: string): string {
       }
       return { isListItem: true, type: 'ol', content: finalContent };
     }
-    
+
     // Pattern for bullet lists: <p>• content</p> or <p>- content</p> or <p><strong>• content</strong></p>
-    const bulletMatch = trimmed.match(/^<p>(?:<strong>)?([•·▪▫○●◦‣⁃\-\*])\s+(.+?)(?:<\/strong>)?<\/p>$/);
+    const bulletMatch = trimmed.match(
+      /^<p>(?:<strong>)?([•·▪▫○●◦‣⁃\-*])\s+(.+?)(?:<\/strong>)?<\/p>$/
+    );
     if (bulletMatch) {
       const fullContent = bulletMatch[2];
-      const cleanedContent = fullContent.replace(/^[•·▪▫○●◦‣⁃\-\*]\s+/, '');
+      const cleanedContent = fullContent.replace(/^[•·▪▫○●◦‣⁃\-*]\s+/, '');
       let finalContent = cleanedContent;
       if (trimmed.includes('<strong>') && !cleanedContent.includes('<strong>')) {
         finalContent = `<strong>${cleanedContent}</strong>`;
       }
       return { isListItem: true, type: 'ul', content: finalContent };
     }
-    
+
     // Pattern for lists that might span multiple lines within a single <p> tag
     // This is trickier - we need to check if the content inside <p> starts with list markers
     const multiLineMatch = trimmed.match(/^<p>(.+?)<\/p>$/);
     if (multiLineMatch) {
       const innerContent = multiLineMatch[1];
-      
+
       // Check for numbered pattern inside
       const innerNumbered = innerContent.match(/^(?:<strong>)?(\d+)\.\s+(.+)$/i);
       if (innerNumbered) {
         const cleanedContent = innerNumbered[2].replace(/^\d+\.\s+/, '');
         return { isListItem: true, type: 'ol', content: cleanedContent };
       }
-      
+
       // Check for letter pattern inside
-      const innerLetter = innerContent.match(/^(?:<strong>)?([A-Z])[\.\)]\s+(.+)$/);
+      const innerLetter = innerContent.match(/^(?:<strong>)?([A-Z])[.)]\s+(.+)$/);
       if (innerLetter) {
-        const cleanedContent = innerLetter[2].replace(/^[A-Z][\.\)]\s+/i, '');
+        const cleanedContent = innerLetter[2].replace(/^[A-Z][.)]\s+/i, '');
         let finalContent = cleanedContent;
         if (innerContent.includes('<strong>') && !cleanedContent.includes('<strong>')) {
           finalContent = `<strong>${cleanedContent}</strong>`;
         }
         return { isListItem: true, type: 'ol', content: finalContent };
       }
-      
+
       // Check for bullet pattern inside
-      const innerBullet = innerContent.match(/^(?:<strong>)?([•·▪▫○●◦‣⁃\-\*])\s+(.+)$/);
+      const innerBullet = innerContent.match(/^(?:<strong>)?([•·▪▫○●◦‣⁃\-*])\s+(.+)$/);
       if (innerBullet) {
-        const cleanedContent = innerBullet[2].replace(/^[•·▪▫○●◦‣⁃\-\*]\s+/, '');
+        const cleanedContent = innerBullet[2].replace(/^[•·▪▫○●◦‣⁃\-*]\s+/, '');
         let finalContent = cleanedContent;
         if (innerContent.includes('<strong>') && !cleanedContent.includes('<strong>')) {
           finalContent = `<strong>${cleanedContent}</strong>`;
@@ -103,10 +109,10 @@ function fixLists(html: string): string {
         return { isListItem: true, type: 'ul', content: finalContent };
       }
     }
-    
+
     return { isListItem: false, type: null, content: '' };
   }
-  
+
   function closeList() {
     if (inList && listItems.length > 0) {
       const tag = listType === 'ul' ? 'ul' : 'ol';
@@ -125,17 +131,17 @@ function fixLists(html: string): string {
       currentListStart = -1;
     }
   }
-  
+
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const detection = detectListItem(line);
-    
+
     if (detection.isListItem) {
       // If we're starting a new list or the type changed, close the old one
       if (!inList || listType !== detection.type) {
         closeList();
       }
-      
+
       inList = true;
       listType = detection.type;
       if (currentListStart === -1) {
@@ -159,15 +165,15 @@ function fixLists(html: string): string {
           currentListStart = -1;
         }
       }
-      
+
       // Emit the regular line
       result.push(line);
     }
   }
-  
+
   // Close any remaining list
   closeList();
-  
+
   return result.join('\n');
 }
 
@@ -179,7 +185,7 @@ function processSingleLineHtml(html: string): string {
   const paraRegex = /<p[^>]*>(.*?)<\/p>/g;
   const paragraphs: Array<{ full: string; content: string; index: number; paraIndex: number }> = [];
   let match;
-  
+
   let paraIndex = 0;
   while ((match = paraRegex.exec(html)) !== null) {
     paragraphs.push({
@@ -189,11 +195,11 @@ function processSingleLineHtml(html: string): string {
       paraIndex: paraIndex++,
     });
   }
-  
+
   if (paragraphs.length === 0) {
     return html; // No paragraphs found
   }
-  
+
   const result: string[] = [];
   let i = 0;
   let lastIndex = 0;
@@ -201,7 +207,7 @@ function processSingleLineHtml(html: string): string {
   let listType: 'ul' | 'ol' | null = null;
   let listItems: Array<{ content: string; original: string; index: number }> = [];
   let nonListGap: Array<{ content: string; index: number }> = [];
-  
+
   function closeList() {
     if (inList && listItems.length >= 2) {
       const tag = listType === 'ul' ? 'ul' : 'ol';
@@ -223,76 +229,80 @@ function processSingleLineHtml(html: string): string {
       nonListGap = [];
     }
   }
-  
+
   function shouldContinueList(newParaIndex: number): boolean {
     if (listItems.length === 0) return false;
     if (nonListGap.length === 0) return true;
-    
+
     // If we have list items and a small gap (1-2 paragraphs), continue the list
     // This handles cases like "A. Item" [regular para] "B. Item" [regular para] "C. Item"
     const lastListItemIndex = listItems[listItems.length - 1].index;
     const gapSize = newParaIndex - lastListItemIndex - 1; // Number of paragraphs in between
     return gapSize <= 2; // Allow up to 2 intervening paragraphs
   }
-  
-  function detectListItem(para: { full: string; content: string }): { isListItem: boolean; type: 'ul' | 'ol' | null; content: string } {
+
+  function detectListItem(para: { full: string; content: string }): {
+    isListItem: boolean;
+    type: 'ul' | 'ol' | null;
+    content: string;
+  } {
     const content = para.content.trim();
-    
+
     // Pattern 1: <strong>A. content</strong> - letter inside strong tags
-    const strongLetterMatch = content.match(/^<strong>([A-Z])[\.\)]\s+(.+?)<\/strong>$/s);
+    const strongLetterMatch = content.match(/^<strong>([A-Z])[.)]\s+(.+?)<\/strong>$/s);
     if (strongLetterMatch) {
       const cleaned = `<strong>${strongLetterMatch[2]}</strong>`;
       if (cleaned.replace(/<[^>]+>/g, '').trim().length > 0) {
         return { isListItem: true, type: 'ol', content: cleaned };
       }
     }
-    
+
     // Pattern 2: A. content or A. <strong>content</strong> - letter at start
-    const letterMatch = content.match(/^([A-Z])[\.\)]\s+(.+)$/s);
+    const letterMatch = content.match(/^([A-Z])[.)]\s+(.+)$/s);
     if (letterMatch) {
-      let cleaned = letterMatch[2].trim();
+      const cleaned = letterMatch[2].trim();
       // Ensure we have actual content (not just whitespace or empty)
       if (cleaned.replace(/<[^>]+>/g, '').trim().length > 0) {
         return { isListItem: true, type: 'ol', content: cleaned };
       }
     }
-    
+
     // Pattern 3: <strong>1. content</strong> - number inside strong tags
     const strongNumberMatch = content.match(/^<strong>(\d+)\.\s+(.+?)<\/strong>$/s);
     if (strongNumberMatch) {
       return { isListItem: true, type: 'ol', content: `<strong>${strongNumberMatch[2]}</strong>` };
     }
-    
+
     // Pattern 4: 1. content - number at start
     const numberedMatch = content.match(/^(\d+)\.\s+(.+)$/s);
     if (numberedMatch) {
-      let cleaned = numberedMatch[2].trim();
+      const cleaned = numberedMatch[2].trim();
       if (cleaned.replace(/<[^>]+>/g, '').trim().length > 0) {
         return { isListItem: true, type: 'ol', content: cleaned };
       }
     }
-    
+
     // Pattern 5: <strong>• content</strong> - bullet inside strong tags
-    const strongBulletMatch = content.match(/^<strong>([•·▪▫○●◦‣⁃\-\*])\s+(.+?)<\/strong>$/s);
+    const strongBulletMatch = content.match(/^<strong>([•·▪▫○●◦‣⁃\-*])\s+(.+?)<\/strong>$/s);
     if (strongBulletMatch) {
       return { isListItem: true, type: 'ul', content: `<strong>${strongBulletMatch[2]}</strong>` };
     }
-    
+
     // Pattern 6: • content - bullet at start
-    const bulletMatch = content.match(/^([•·▪▫○●◦‣⁃\-\*])\s+(.+)$/s);
+    const bulletMatch = content.match(/^([•·▪▫○●◦‣⁃\-*])\s+(.+)$/s);
     if (bulletMatch) {
-      let cleaned = bulletMatch[2].trim();
+      const cleaned = bulletMatch[2].trim();
       if (cleaned.replace(/<[^>]+>/g, '').trim().length > 0) {
         return { isListItem: true, type: 'ul', content: cleaned };
       }
     }
-    
+
     return { isListItem: false, type: null, content: '' };
   }
-  
+
   while (i < paragraphs.length) {
     const para = paragraphs[i];
-    
+
     // Add any content before this paragraph
     if (para.index > lastIndex) {
       const before = html.substring(lastIndex, para.index);
@@ -301,17 +311,18 @@ function processSingleLineHtml(html: string): string {
         result.push(before);
       }
     }
-    
+
     const detection = detectListItem(para);
-    
+
     if (detection.isListItem) {
       // Check if we should continue an existing list or start a new one
-      const shouldContinue = inList && listType === detection.type && shouldContinueList(para.paraIndex);
-      
+      const shouldContinue =
+        inList && listType === detection.type && shouldContinueList(para.paraIndex);
+
       if (!inList || listType !== detection.type || !shouldContinue) {
         closeList();
       }
-      
+
       // If we're continuing a list, add any gap content first (as regular content)
       if (shouldContinue && nonListGap.length > 0) {
         for (const gapItem of nonListGap) {
@@ -319,7 +330,7 @@ function processSingleLineHtml(html: string): string {
         }
         nonListGap = [];
       }
-      
+
       inList = true;
       listType = detection.type;
       listItems.push({ content: detection.content, original: para.full, index: para.paraIndex });
@@ -332,18 +343,18 @@ function processSingleLineHtml(html: string): string {
         result.push(para.full);
       }
     }
-    
+
     lastIndex = para.index + para.full.length;
     i++;
   }
-  
+
   closeList();
-  
+
   // Add any remaining content
   if (lastIndex < html.length) {
     result.push(html.substring(lastIndex));
   }
-  
+
   return result.join('');
 }
 
@@ -353,19 +364,21 @@ function processSingleLineHtml(html: string): string {
 function processFile(filePath: string): void {
   console.log(`Processing ${path.basename(filePath)}...`);
   const html = fs.readFileSync(filePath, 'utf-8');
-  
+
   // Count lists before
   const listsBefore = (html.match(/<ul>|<ol>/gi) || []).length;
-  
+
   const fixed = fixLists(html);
-  
+
   // Count lists after
   const listsAfter = (fixed.match(/<ul>|<ol>/gi) || []).length;
-  
+
   fs.writeFileSync(filePath, fixed, 'utf-8');
-  
+
   if (listsAfter > listsBefore) {
-    console.log(`  ✓ Fixed lists: ${listsBefore} → ${listsAfter} (added ${listsAfter - listsBefore})`);
+    console.log(
+      `  ✓ Fixed lists: ${listsBefore} → ${listsAfter} (added ${listsAfter - listsBefore})`
+    );
   } else if (listsAfter === listsBefore && listsAfter > 0) {
     console.log(`  ✓ Already had ${listsAfter} list(s), processed for consistency`);
   } else {
@@ -375,15 +388,11 @@ function processFile(filePath: string): void {
 
 async function main(): Promise<void> {
   const reportsDir = path.join(__dirname, '..', 'public', 'content', 'reports');
-  
-  const files = [
-    '2021-2022.html',
-    '2022-2023.html',
-    '2023-2024.html',
-  ];
-  
+
+  const files = ['2021-2022.html', '2022-2023.html', '2023-2024.html'];
+
   console.log('Fixing list structures in HTML reports...\n');
-  
+
   for (const file of files) {
     const filePath = path.join(reportsDir, file);
     if (fs.existsSync(filePath)) {
@@ -392,7 +401,7 @@ async function main(): Promise<void> {
       console.warn(`  ⚠️  File not found: ${filePath}`);
     }
   }
-  
+
   console.log('\n✅ Processing complete!');
 }
 
@@ -400,4 +409,3 @@ main().catch((error) => {
   console.error('Error:', error);
   process.exit(1);
 });
-

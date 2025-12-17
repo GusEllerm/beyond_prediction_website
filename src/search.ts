@@ -34,10 +34,13 @@ function getSearchParamsFromUrl(): { query: string; typeFilter?: SearchItemType 
   const query = (params.get('q') ?? '').trim();
   const typeParam = params.get('type');
   const typeFilter: SearchItemType | undefined =
-    typeParam === 'people' ? 'person' 
-    : typeParam === 'projects' ? 'project' 
-    : typeParam === 'publications' ? 'publication'
-    : undefined;
+    typeParam === 'people'
+      ? 'person'
+      : typeParam === 'projects'
+        ? 'project'
+        : typeParam === 'publications'
+          ? 'publication'
+          : undefined;
   return { query, typeFilter };
 }
 
@@ -46,10 +49,7 @@ function getSearchParamsFromUrl(): { query: string; typeFilter?: SearchItemType 
  * @param container - The container element to render into
  * @param results - Array of project search items
  */
-function renderProjectsSection(
-  container: HTMLElement,
-  results: SearchItem[]
-): void {
+function renderProjectsSection(container: HTMLElement, results: SearchItem[]): void {
   if (!results.length) return;
 
   const cardsHtml = results
@@ -84,10 +84,7 @@ function renderProjectsSection(
  * @param container - The container element to render into
  * @param results - Array of publication search items
  */
-function renderPublicationsSection(
-  container: HTMLElement,
-  results: SearchItem[]
-): void {
+function renderPublicationsSection(container: HTMLElement, results: SearchItem[]): void {
   if (!results.length) return;
 
   const cardsHtml = results
@@ -122,16 +119,11 @@ function renderPublicationsSection(
  * @param container - The container element to render into
  * @param results - Array of person search items
  */
-function renderPeopleSection(
-  container: HTMLElement,
-  results: SearchItem[]
-): void {
+function renderPeopleSection(container: HTMLElement, results: SearchItem[]): void {
   if (!results.length) return;
 
   // Build a slug → Person map
-  const personBySlug = new Map<string, Person>(
-    allPeople.map((p) => [p.slug, p])
-  );
+  const personBySlug = new Map<string, Person>(allPeople.map((p) => [p.slug, p]));
 
   const cardsHtml = results
     .map((item) => {
@@ -154,9 +146,14 @@ function renderPeopleSection(
 /**
  * Gets all publications from all projects
  */
-function getAllPublications(): Array<PersonPublication & { projectSlug: string; projectTitle: string }> {
+function getAllPublications(): Array<
+  PersonPublication & { projectSlug: string; projectTitle: string }
+> {
   const lookup = createPublicationLookup();
-  const publicationsMap = new Map<string, PersonPublication & { projectSlug: string; projectTitle: string }>();
+  const publicationsMap = new Map<
+    string,
+    PersonPublication & { projectSlug: string; projectTitle: string }
+  >();
 
   for (const project of researchProjects) {
     if (project.publicationIds && project.publicationIds.length > 0) {
@@ -192,13 +189,16 @@ function renderAuthorPublicationsSection(
   if (!matchedPersonSlugs.length) return;
 
   const allPublications = getAllPublications();
-  const matchedPublications = new Map<string, PersonPublication & { projectSlug: string; projectTitle: string }>();
+  const matchedPublications = new Map<
+    string,
+    PersonPublication & { projectSlug: string; projectTitle: string }
+  >();
 
   // Find publications by matched authors
   for (const pub of allPublications) {
     const authors = getPublicationAuthors(pub, allPeople);
     const hasMatchedAuthor = authors.some((author) => matchedPersonSlugs.includes(author.slug));
-    
+
     if (hasMatchedAuthor) {
       matchedPublications.set(pub.id, pub);
     }
@@ -207,16 +207,15 @@ function renderAuthorPublicationsSection(
   if (matchedPublications.size === 0) return;
 
   // Get person names for the heading
-  const personBySlug = new Map<string, Person>(
-    allPeople.map((p) => [p.slug, p])
-  );
+  const personBySlug = new Map<string, Person>(allPeople.map((p) => [p.slug, p]));
   const matchedPersonNames = matchedPersonSlugs
     .map((slug) => personBySlug.get(slug)?.name)
     .filter(Boolean) as string[];
 
-  const headingText = matchedPersonNames.length === 1
-    ? `Research Outputs by ${matchedPersonNames[0]}`
-    : `Research Outputs by ${matchedPersonNames.join(', ')}`;
+  const headingText =
+    matchedPersonNames.length === 1
+      ? `Research Outputs by ${matchedPersonNames[0]}`
+      : `Research Outputs by ${matchedPersonNames.join(', ')}`;
 
   const cardsHtml = Array.from(matchedPublications.values())
     .sort((a, b) => {
@@ -260,11 +259,7 @@ function renderAuthorPublicationsSection(
  * @param query - The search query string
  * @param typeFilter - Optional type filter
  */
-function renderResults(
-  container: HTMLElement,
-  query: string,
-  typeFilter?: SearchItemType
-): void {
+function renderResults(container: HTMLElement, query: string, typeFilter?: SearchItemType): void {
   if (!query) {
     container.innerHTML = `
       <div class="container py-5">
@@ -353,9 +348,7 @@ function initSearchPage(): void {
   const { query, typeFilter } = getSearchParamsFromUrl();
 
   // Sync the search input with the query if present
-  const searchInput = navbarContainer.querySelector<HTMLInputElement>(
-    '#bp-search-input'
-  );
+  const searchInput = navbarContainer.querySelector<HTMLInputElement>('#bp-search-input');
   if (searchInput && query) {
     searchInput.value = query;
   }

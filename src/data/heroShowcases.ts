@@ -42,7 +42,8 @@ export const heroShowcases: HeroShowcase[] = [
   {
     id: 'echology',
     title: 'Echology and Evolution',
-    summary: 'Studying sex differences in genetic recombination helps explain how genomes evolve and guides modern conservation of threatened species.',
+    summary:
+      'Studying sex differences in genetic recombination helps explain how genomes evolve and guides modern conservation of threatened species.',
     kind: 'image',
     imageUrl: '/showcase/hehe.webp', // placeholder
   },
@@ -55,4 +56,3 @@ export const heroShowcases: HeroShowcase[] = [
     imageAlt: 'Stencila logo',
   },
 ];
-

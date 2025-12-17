@@ -78,14 +78,16 @@ function renderAboutPage(): void {
           (person) => person.roleLabel === 'Co-PI' || person.title === 'Co-Principal Investigator'
         );
         const allPIs = [...principalInvestigators, ...coPrincipalInvestigators];
-        return allPIs.length > 0 ? `
+        return allPIs.length > 0
+          ? `
           <section class="mt-5">
             <h2 class="h4 mb-3">Principal and Co-Principal Investigators</h2>
             <div class="row g-3">
               ${allPIs.map(renderPersonCard).join('')}
             </div>
           </section>
-        ` : '';
+        `
+          : '';
       })()}
     </div>
   `;
@@ -95,4 +97,3 @@ function renderAboutPage(): void {
 
 // Render page
 renderAboutPage();
-

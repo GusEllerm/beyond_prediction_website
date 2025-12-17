@@ -73,7 +73,7 @@ export function renderPublicationCard(
   if (typeof year === 'number' && showYear) {
     venueYearParts.push(String(year));
   }
-  
+
   // Determine margin for venue/year line based on what comes after
   let venueYearMargin = '0';
   if (venueYearParts.length > 0) {
@@ -83,7 +83,7 @@ export function renderPublicationCard(
       venueYearMargin = '2';
     }
   }
-  
+
   const venueYearHtml = venueYearParts.length
     ? `<p class="card-text small text-muted mb-${venueYearMargin}">${venueYearParts.join(' • ')}</p>`
     : '';

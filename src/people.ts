@@ -17,12 +17,7 @@ import { partners } from './data/partners';
 
 // Import utilities
 import { escapeHtml } from './utils/dom';
-import {
-  principalInvestigators,
-  coInvestigators,
-  industryPartners,
-  postDocs,
-} from './data/people';
+import { principalInvestigators, coInvestigators, industryPartners, postDocs } from './data/people';
 
 const navbarContainer = document.querySelector<HTMLElement>('#navbar');
 const main = document.querySelector<HTMLElement>('#bp-main');
@@ -43,7 +38,14 @@ footerContainer.innerHTML = renderFooter(partners);
  */
 function renderPeopleSection(
   heading: string,
-  people: Array<{ slug: string; name: string; title?: string; affiliation?: string; bioShort?: string; photoUrl?: string }>
+  people: Array<{
+    slug: string;
+    name: string;
+    title?: string;
+    affiliation?: string;
+    bioShort?: string;
+    photoUrl?: string;
+  }>
 ): string {
   if (!people.length) {
     return '';
@@ -78,4 +80,3 @@ const peopleHtml = `
 `;
 
 main.innerHTML = peopleHtml;
-

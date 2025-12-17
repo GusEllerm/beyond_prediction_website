@@ -28,4 +28,3 @@ export interface PersonPublicationsSnapshot {
   updatedAt: string; // ISO timestamp when the snapshot was generated
   works: PersonPublication[];
 }
-

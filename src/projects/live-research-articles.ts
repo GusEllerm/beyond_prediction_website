@@ -31,4 +31,3 @@ export const mountProjectExtension: ProjectExtensionMount = (root, _project) => 
     </section>
   `;
 };
-

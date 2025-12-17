@@ -99,13 +99,15 @@ function namesMatch(name1: string, name2: string): boolean {
   }
 
   // Check for reversed name order (e.g., "Gahegan Mark" vs "Mark Gahegan")
-  const parts1 = norm1.split(/\s+/).filter(p => p.length > 0);
-  const parts2 = norm2.split(/\s+/).filter(p => p.length > 0);
+  const parts1 = norm1.split(/\s+/).filter((p) => p.length > 0);
+  const parts2 = norm2.split(/\s+/).filter((p) => p.length > 0);
   if (parts1.length === 2 && parts2.length === 2) {
     // Check if names are reversed: "last first" vs "first last"
-    if ((parts1[0] === parts2[1] && parts1[1] === parts2[0]) ||
-        (parts1[0] === parts2[1] && parts1[1].startsWith(parts2[0])) ||
-        (parts1[1].startsWith(parts2[0]) && parts2[1] === parts1[0])) {
+    if (
+      (parts1[0] === parts2[1] && parts1[1] === parts2[0]) ||
+      (parts1[0] === parts2[1] && parts1[1].startsWith(parts2[0])) ||
+      (parts1[1].startsWith(parts2[0]) && parts2[1] === parts1[0])
+    ) {
       return true;
     }
   }
@@ -116,10 +118,7 @@ function namesMatch(name1: string, name2: string): boolean {
 /**
  * Matches a publication author to a person by name
  */
-function matchAuthorByName(
-  author: PublicationAuthor,
-  people: Person[]
-): Person | null {
+function matchAuthorByName(author: PublicationAuthor, people: Person[]): Person | null {
   // First check if the author name matches any known aliases
   const normalizedAuthorName = normalizeName(author.name);
   const aliasSlug = nameAliases[normalizedAuthorName];
@@ -142,10 +141,7 @@ function matchAuthorByName(
 /**
  * Matches a publication author to a person by ORCID ID
  */
-function matchAuthorByOrcid(
-  author: PublicationAuthor,
-  people: Person[]
-): Person | null {
+function matchAuthorByOrcid(author: PublicationAuthor, people: Person[]): Person | null {
   if (!author.orcidId) return null;
 
   for (const person of people) {
@@ -264,4 +260,3 @@ export function createPersonToPublicationsMap(
 
   return map;
 }
-

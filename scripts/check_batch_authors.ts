@@ -1,5 +1,5 @@
 /* scripts/check_batch_authors.ts
- * 
+ *
  * This script checks publications from a batch JSON file against OpenAlex
  * to verify if author lists are complete.
  */
@@ -15,6 +15,17 @@ const __dirname = path.dirname(__filename);
 // OpenAlex API configuration
 const OPENALEX_BASE_URL = 'https://api.openalex.org';
 const CONTACT_EMAIL = process.env.OPENALEX_CONTACT_EMAIL ?? '';
+
+interface OpenAlexAuthor {
+  id?: string;
+  display_name?: string;
+  orcid?: string;
+}
+
+interface OpenAlexAuthorship {
+  author: OpenAlexAuthor | null;
+  raw_author_name?: string;
+}
 
 interface BatchPublication {
   doi: string;
@@ -87,10 +98,10 @@ async function fetchAuthorsFromOpenAlex(doi: string): Promise<PublicationAuthor[
     }
 
     const authors: PublicationAuthor[] = work.authorships.map(
-      (authorship: any, index: number) => {
+      (authorship: OpenAlexAuthorship, index: number) => {
         const author = authorship.author;
         const name = author?.display_name ?? authorship.raw_author_name ?? 'Unknown Author';
-        
+
         let orcidId: string | undefined;
         if (author?.orcid) {
           const orcidMatch = author.orcid.match(/orcid\.org\/(\d{4}-\d{4}-\d{4}-\d{4})/);
@@ -109,8 +120,9 @@ async function fetchAuthorsFromOpenAlex(doi: string): Promise<PublicationAuthor[
     );
 
     return authors;
-  } catch (error: any) {
-    console.error(`  Error fetching ${doi}:`, error.message || error);
+  } catch (error: unknown) {
+    const errorMessage = error instanceof Error ? error.message : String(error);
+    console.error(`  Error fetching ${doi}:`, errorMessage);
     return null;
   }
 }
@@ -133,7 +145,11 @@ function compareAuthors(
   const missingInJson: string[] = [];
   for (const oaAuthor of openalexAuthors) {
     const normalized = normalizeAuthorName(oaAuthor.name);
-    if (!jsonNormalized.some((json) => json === normalized || json.includes(normalized) || normalized.includes(json))) {
+    if (
+      !jsonNormalized.some(
+        (json) => json === normalized || json.includes(normalized) || normalized.includes(json)
+      )
+    ) {
       missingInJson.push(oaAuthor.name);
     }
   }
@@ -155,7 +171,9 @@ async function main(): Promise<void> {
     console.error('Usage: tsx scripts/check_batch_authors.ts <batch-json-file>');
     console.error('');
     console.error('Example:');
-    console.error('  tsx scripts/check_batch_authors.ts src/data/publication-review/publications_batch_07.json');
+    console.error(
+      '  tsx scripts/check_batch_authors.ts src/data/publication-review/publications_batch_07.json'
+    );
     process.exit(1);
   }
 
@@ -182,7 +200,9 @@ async function main(): Promise<void> {
     const pub = batchPublications[i];
     const doi = normalizeDoi(pub.doi);
 
-    console.log(`[${i + 1}/${batchPublications.length}] Checking: ${pub.title.substring(0, 60)}...`);
+    console.log(
+      `[${i + 1}/${batchPublications.length}] Checking: ${pub.title.substring(0, 60)}...`
+    );
 
     const jsonAuthors = pub.authors || [];
     const openalexAuthors = await fetchAuthorsFromOpenAlex(doi);
@@ -227,9 +247,13 @@ async function main(): Promise<void> {
       comparison.missingInJson.forEach((name) => {
         console.log(`     - ${name}`);
       });
-      console.log(`  JSON: ${jsonAuthors.length} authors | OpenAlex: ${openalexAuthors.length} authors\n`);
+      console.log(
+        `  JSON: ${jsonAuthors.length} authors | OpenAlex: ${openalexAuthors.length} authors\n`
+      );
     } else if (jsonAuthors.length < openalexAuthors.length) {
-      console.log(`  ✅ All JSON authors found, but OpenAlex has more (${openalexAuthors.length} vs ${jsonAuthors.length})\n`);
+      console.log(
+        `  ✅ All JSON authors found, but OpenAlex has more (${openalexAuthors.length} vs ${jsonAuthors.length})\n`
+      );
     } else {
       console.log(`  ✅ Author lists match (${jsonAuthors.length} authors)\n`);
     }
@@ -242,7 +266,9 @@ async function main(): Promise<void> {
   console.log(`Total publications checked: ${batchPublications.length}`);
   console.log(`Publications with missing authors: ${comparisons.length}`);
   console.log(`Publications with errors: ${errors.length}`);
-  console.log(`Publications with complete author lists: ${batchPublications.length - comparisons.length - errors.length}`);
+  console.log(
+    `Publications with complete author lists: ${batchPublications.length - comparisons.length - errors.length}`
+  );
 
   if (comparisons.length > 0) {
     console.log('\n' + '='.repeat(80));

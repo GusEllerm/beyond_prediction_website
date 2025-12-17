@@ -4,10 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { allPeople, type Person } from '../src/data/people.js';
-import type {
-  PersonPublication,
-  PersonPublicationsSnapshot,
-} from '../src/data/publications.js';
+import type { PersonPublication, PersonPublicationsSnapshot } from '../src/data/publications.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -23,7 +20,22 @@ function delay(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function fetchJson(url: string): Promise<any> {
+interface OpenAlexResponse {
+  results?: OpenAlexWork[];
+  [key: string]: unknown;
+}
+
+interface OpenAlexWork {
+  id?: string;
+  title?: string;
+  display_name?: string;
+  doi?: string;
+  publication_year?: number;
+  venue?: string;
+  [key: string]: unknown;
+}
+
+async function fetchJson(url: string): Promise<OpenAlexResponse> {
   const fullUrl = CONTACT_EMAIL
     ? `${url}${url.includes('?') ? '&' : '?'}mailto=${encodeURIComponent(CONTACT_EMAIL)}`
     : url;
@@ -41,9 +53,7 @@ async function fetchJson(url: string): Promise<any> {
   return response.json();
 }
 
-async function fetchWorksForPerson(
-  person: Person
-): Promise<PersonPublication[]> {
+async function fetchWorksForPerson(person: Person): Promise<PersonPublication[]> {
   if (!person.orcidId) return [];
 
   const orcid = person.orcidId;
@@ -58,7 +68,7 @@ async function fetchWorksForPerson(
 
   const results = Array.isArray(data.results) ? data.results : [];
 
-  const works: PersonPublication[] = results.map((w: any) => {
+  const works: PersonPublication[] = results.map((w: OpenAlexWork) => {
     const id: string = w.id ?? '';
 
     const title: string = w.title ?? w.display_name ?? 'Untitled work';
@@ -103,9 +113,7 @@ async function main(): Promise<void> {
 
   const peopleWithOrcid = allPeople.filter((p) => p.orcidId);
 
-  console.log(
-    `Found ${peopleWithOrcid.length} people with ORCID. Fetching OpenAlex works...`
-  );
+  console.log(`Found ${peopleWithOrcid.length} people with ORCID. Fetching OpenAlex works...`);
 
   for (const person of peopleWithOrcid) {
     try {
@@ -139,4 +147,3 @@ main().catch((error) => {
   console.error('Fatal error in update_openalex_publications:', error);
   process.exit(1);
 });
-

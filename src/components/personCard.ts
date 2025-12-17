@@ -7,9 +7,7 @@ import { escapeHtml } from '../utils/dom';
  * @returns HTML string for the person card
  */
 export function renderPersonCard(person: Person): string {
-  const href = person.slug
-    ? `/person.html?person=${encodeURIComponent(person.slug)}`
-    : '#';
+  const href = person.slug ? `/person.html?person=${encodeURIComponent(person.slug)}` : '#';
 
   const photoHtml = person.photoUrl
     ? `
@@ -55,4 +53,3 @@ export function renderPersonCard(person: Person): string {
     </div>
   `;
 }
-

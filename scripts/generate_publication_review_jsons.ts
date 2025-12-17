@@ -195,16 +195,17 @@ function convertToReviewRecord(
   originalId: string
 ): PublicationReviewRecord {
   // Extract author names
-  const authors = pub.authors
-    ? pub.authors.map((a) => a.name).filter((n) => n && n.trim())
-    : [];
+  const authors = pub.authors ? pub.authors.map((a) => a.name).filter((n) => n && n.trim()) : [];
 
   // Get DOI - prefer from pub.doi, otherwise try to extract from originalId
   let doi: string;
   if (pub.doi) {
     const normalized = normalizeDoi(pub.doi);
     doi = normalized || pub.doi;
-  } else if (originalId.startsWith('https://doi.org/') || originalId.startsWith('http://dx.doi.org/')) {
+  } else if (
+    originalId.startsWith('https://doi.org/') ||
+    originalId.startsWith('http://dx.doi.org/')
+  ) {
     const normalized = normalizeDoi(originalId);
     doi = normalized || originalId;
   } else if (originalId.startsWith('https://openalex.org/')) {
@@ -301,9 +302,9 @@ function writeBatches(publications: PublicationReviewRecord[]): void {
 
   // Remove old batch files
   if (fs.existsSync(REVIEW_DIR)) {
-    const existingFiles = fs.readdirSync(REVIEW_DIR).filter((f) =>
-      f.match(/^publications_batch_\d+\.json$/)
-    );
+    const existingFiles = fs
+      .readdirSync(REVIEW_DIR)
+      .filter((f) => f.match(/^publications_batch_\d+\.json$/));
     for (const file of existingFiles) {
       fs.unlinkSync(path.join(REVIEW_DIR, file));
     }
@@ -324,10 +325,8 @@ function writeBatches(publications: PublicationReviewRecord[]): void {
  * Write the index file by DOI
  */
 function writeIndex(publications: PublicationReviewRecord[]): void {
-  const index: Record<
-    string,
-    { title: string; authors: string[]; year?: number; venue?: string }
-  > = {};
+  const index: Record<string, { title: string; authors: string[]; year?: number; venue?: string }> =
+    {};
 
   for (const pub of publications) {
     index[pub.doi] = {

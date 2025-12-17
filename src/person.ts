@@ -14,15 +14,8 @@ import { renderBreadcrumb } from './components/breadcrumb';
 
 // Import data
 import { partners } from './data/partners';
-import {
-  allPeople,
-  type Person,
-  type PublicationSource,
-} from './data/people';
-import type {
-  PersonPublication,
-  PersonPublicationsSnapshot,
-} from './data/publications';
+import { allPeople, type Person, type PublicationSource } from './data/people';
+import type { PersonPublication, PersonPublicationsSnapshot } from './data/publications';
 import { researchProjects, type ResearchProject } from './data/researchProjects';
 
 // Import utilities
@@ -41,12 +34,9 @@ renderNavbar(navbarContainer);
 footerContainer.innerHTML = renderFooter(partners);
 
 // Load all publication snapshots from both sources
-const openAlexSnapshots = import.meta.glob(
-  './data/publications/openalex/*.json',
-  {
-    eager: true,
-  }
-) as Record<string, { default: PersonPublicationsSnapshot }>;
+const openAlexSnapshots = import.meta.glob('./data/publications/openalex/*.json', {
+  eager: true,
+}) as Record<string, { default: PersonPublicationsSnapshot }>;
 
 const orcidSnapshots = import.meta.glob('./data/publications/orcid/*.json', {
   eager: true,
@@ -57,9 +47,7 @@ const orcidSnapshots = import.meta.glob('./data/publications/orcid/*.json', {
  * @param person - The person object
  * @returns The publications snapshot or null if not found
  */
-function getSnapshotForPerson(
-  person: Person
-): PersonPublicationsSnapshot | null {
+function getSnapshotForPerson(person: Person): PersonPublicationsSnapshot | null {
   const source: PublicationSource = person.publicationSource ?? 'openalex';
 
   const modules = source === 'orcid' ? orcidSnapshots : openAlexSnapshots;
@@ -67,7 +55,9 @@ function getSnapshotForPerson(
   const targetSuffix = `/${person.slug}.json`;
   for (const [path, mod] of Object.entries(modules)) {
     if (path.endsWith(targetSuffix)) {
-      const data = (mod as any).default ?? mod;
+      const data =
+        (mod as { default?: PersonPublicationsSnapshot } | PersonPublicationsSnapshot).default ??
+        mod;
       return data as PersonPublicationsSnapshot;
     }
   }
@@ -80,9 +70,7 @@ function getSnapshotForPerson(
  * @param person - The person object
  * @returns Array of publications or null if not found
  */
-function getPublicationsForPerson(
-  person: Person
-): PersonPublication[] | null {
+function getPublicationsForPerson(person: Person): PersonPublication[] | null {
   const snapshot = getSnapshotForPerson(person);
   return snapshot?.works ?? null;
 }
@@ -145,10 +133,7 @@ function renderPublicationsSection(
  * @param allProjects - Array of all research projects
  * @returns Array of research projects the person is involved in
  */
-function getProjectsForPerson(
-  person: Person,
-  allProjects: ResearchProject[]
-): ResearchProject[] {
+function getProjectsForPerson(person: Person, allProjects: ResearchProject[]): ResearchProject[] {
   if (!person.themeSlugs || person.themeSlugs.length === 0) {
     return [];
   }
@@ -171,9 +156,7 @@ function renderPersonThemesSection(personProjects: ResearchProject[]): string {
   const cardsHtml = personProjects
     .map((project) => {
       const title = escapeHtml(project.title);
-      const description = project.shortDescription
-        ? escapeHtml(project.shortDescription)
-        : '';
+      const description = project.shortDescription ? escapeHtml(project.shortDescription) : '';
       const slug = escapeHtml(project.slug);
 
       return `
@@ -181,11 +164,7 @@ function renderPersonThemesSection(personProjects: ResearchProject[]): string {
           <article class="card h-100">
             <div class="card-body">
               <h3 class="h5 card-title mb-1">${title}</h3>
-              ${
-                description
-                  ? `<p class="card-text small text-muted mb-2">${description}</p>`
-                  : ''
-              }
+              ${description ? `<p class="card-text small text-muted mb-2">${description}</p>` : ''}
               <a
                 href="/project.html?project=${slug}"
                 class="btn btn-sm btn-outline-primary"
@@ -304,7 +283,6 @@ function renderPersonNotFoundBody(): string {
   `;
 }
 
-
 /**
  * Renders the body content for a person detail view
  * @param p - The person object to render
@@ -399,20 +377,25 @@ function renderPersonDetailBody(p: Person): string {
       : '';
 
   // Left column: image, badges, tags, and contact
-  const asideColumn = p.photoUrl || badges.length || tagsSectionHtml || contactSectionHtml
-    ? `
+  const asideColumn =
+    p.photoUrl || badges.length || tagsSectionHtml || contactSectionHtml
+      ? `
       <aside class="col-md-4 col-lg-3 mb-4">
-        ${p.photoUrl ? `<img 
+        ${
+          p.photoUrl
+            ? `<img 
           src="${escapeHtml(p.photoUrl)}" 
           class="img-fluid rounded mb-3" 
           alt="${safeName}" 
-        />` : ''}
+        />`
+            : ''
+        }
         ${badgesHtml}
         ${tagsSectionHtml}
         ${contactSectionHtml}
       </aside>
     `
-    : '';
+      : '';
 
   // Right column: name, bio, themes, publications
   // Get projects for this person
@@ -482,4 +465,3 @@ if (!person) {
   const bodyHtml = renderPersonDetailBody(person);
   main.innerHTML = pageHeaderHtml + bodyHtml;
 }
-

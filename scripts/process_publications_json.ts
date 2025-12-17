@@ -31,7 +31,7 @@ function doiToSlug(doi: string): string {
   return doi
     .replace(/^https?:\/\/(dx\.)?doi\.org\//i, '')
     .replace(/^doi:/i, '')
-    .replace(/[\/\:\.]/g, '-')
+    .replace(/[/:.]/g, '-')
     .toLowerCase()
     .trim();
 }
@@ -47,11 +47,11 @@ function publicationExists(doi: string): boolean {
 function getPublicationIdFromFile(doi: string): string | null {
   const slug = doiToSlug(doi);
   const filePath = path.join(__dirname, '..', 'src', 'data', 'publications', 'doi', `${slug}.json`);
-  
+
   if (!fs.existsSync(filePath)) {
     return null;
   }
-  
+
   try {
     const content = fs.readFileSync(filePath, 'utf-8');
     const pub = JSON.parse(content);
@@ -66,21 +66,24 @@ function getPublicationIdFromFile(doi: string): string | null {
 async function findDoiByTitle(title: string, year: number): Promise<string | null> {
   const encodedTitle = encodeURIComponent(title);
   const url = `https://api.openalex.org/works?search=${encodedTitle}&filter=publication_year:${year}&per-page=1`;
-  
+
   try {
     const response = await fetch(url, {
-      headers: { Accept: 'application/json' }
+      headers: { Accept: 'application/json' },
     });
-    
+
     if (!response.ok) return null;
-    
+
     const data = await response.json();
     if (data.results && data.results.length > 0) {
       const work = data.results[0];
       // Check if title is similar (fuzzy match)
       const resultTitle = (work.title || '').toLowerCase();
       const searchTitle = title.toLowerCase();
-      if (resultTitle.includes(searchTitle.substring(0, 30)) || searchTitle.includes(resultTitle.substring(0, 30))) {
+      if (
+        resultTitle.includes(searchTitle.substring(0, 30)) ||
+        searchTitle.includes(resultTitle.substring(0, 30))
+      ) {
         if (work.doi) {
           const cleanDoi = work.doi.replace(/^https?:\/\/(dx\.)?doi\.org\//i, '');
           return `https://doi.org/${cleanDoi}`;
@@ -90,7 +93,7 @@ async function findDoiByTitle(title: string, year: number): Promise<string | nul
   } catch (error) {
     console.error(`Error searching for DOI: ${error}`);
   }
-  
+
   return null;
 }
 
@@ -153,7 +156,7 @@ async function main(): Promise<void> {
       try {
         execSync(`npm run add:doi -- "${doi}"`, {
           stdio: 'inherit',
-          cwd: path.join(__dirname, '..')
+          cwd: path.join(__dirname, '..'),
         });
         pubId = getPublicationIdFromFile(doi);
         results.added.push(pub.id);
@@ -175,7 +178,7 @@ async function main(): Promise<void> {
     let projectsContent = fs.readFileSync(researchProjectsPath, 'utf-8');
 
     // Normalize project slugs (handle mappings)
-    const normalizedProjects = pub.projects.map(slug => PROJECT_SLUG_MAP[slug] || slug);
+    const normalizedProjects = pub.projects.map((slug) => PROJECT_SLUG_MAP[slug] || slug);
     const uniqueProjects = [...new Set(normalizedProjects)];
 
     for (const projectSlug of uniqueProjects) {
@@ -192,7 +195,10 @@ async function main(): Promise<void> {
       // Check if publication ID is already in the project's publicationIds
       const projectStart = projectMatch.index!;
       const projectEnd = projectsContent.indexOf('\n  },', projectStart);
-      const projectSection = projectsContent.substring(projectStart, projectEnd !== -1 ? projectEnd : undefined);
+      const projectSection = projectsContent.substring(
+        projectStart,
+        projectEnd !== -1 ? projectEnd : undefined
+      );
 
       const publicationId = pubId.startsWith('https://') ? pubId : `https://openalex.org/${pubId}`;
 
@@ -218,7 +224,8 @@ async function main(): Promise<void> {
           const insertPos = projectSection.lastIndexOf('\n  },');
           if (insertPos !== -1) {
             const beforeComma = projectSection.substring(0, insertPos);
-            const newSection = beforeComma + `,\n    publicationIds: [\n      '${publicationId}',\n    ],\n  },`;
+            const newSection =
+              beforeComma + `,\n    publicationIds: [\n      '${publicationId}',\n    ],\n  },`;
             projectsContent = projectsContent.replace(projectSection, newSection);
             console.log(`  ✓ Added publicationIds array to ${projectSlug}`);
             results.linked.push({ id: pub.id, project: projectSlug, pubId: publicationId });
@@ -256,4 +263,3 @@ main().catch((error) => {
   console.error('Fatal error:', error);
   process.exit(1);
 });
-

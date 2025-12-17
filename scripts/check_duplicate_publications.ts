@@ -1,5 +1,5 @@
 /* scripts/check_duplicate_publications.ts
- * 
+ *
  * This script checks for duplicate publications by:
  * 1. Same OpenAlex ID
  * 2. Same DOI
@@ -106,7 +106,8 @@ for (const pub of publications) {
 for (const pub of publications) {
   if (pub.title) {
     const normalizedTitle = normalizeTitle(pub.title);
-    if (normalizedTitle.length > 10) { // Only check titles with meaningful length
+    if (normalizedTitle.length > 10) {
+      // Only check titles with meaningful length
       if (!seenTitles.has(normalizedTitle)) {
         seenTitles.set(normalizedTitle, []);
       }
@@ -149,9 +150,7 @@ for (const [doi, pubs] of seenDOIs.entries()) {
 for (const [title, pubs] of seenTitles.entries()) {
   if (pubs.length > 1) {
     // Check if this isn't already reported
-    const isAlreadyReported = duplicates.some(
-      (d) => d.publications.some((p) => pubs.includes(p))
-    );
+    const isAlreadyReported = duplicates.some((d) => d.publications.some((p) => pubs.includes(p)));
     if (!isAlreadyReported) {
       duplicates.push({
         reason: 'Same Title',
@@ -171,30 +170,35 @@ if (fs.existsSync(issuesPath)) {
 }
 
 // Generate duplicates section
-const duplicatesMarkdown = duplicates.length === 0
-  ? '*None*'
-  : duplicates.map((group) => {
-      const filesList = group.publications.map((pub) => {
-        const details: string[] = [];
-        if (pub.doi) {
-          // Check if it's a preprint
-          const isPreprint = pub.doi.includes('10.1101') || pub.doi.includes('10.48550/arxiv');
-          if (isPreprint) details.push(`DOI: ${pub.doi} (preprint)`);
-          else details.push(`DOI: ${pub.doi}`);
-        }
-        if (pub.id) details.push(`OpenAlex: ${pub.id}`);
-        return `- \`${pub.file}\`${details.length > 0 ? ` (${details.join(', ')})` : ''}`;
-      }).join('\n');
-      
-      // Check if this is a preprint vs published version
-      const hasPreprint = group.publications.some((p) => 
-        p.doi && (p.doi.includes('10.1101') || p.doi.includes('10.48550/arxiv'))
-      );
-      const note = hasPreprint 
-        ? '\n*Note: This appears to be a preprint and published version of the same work.*'
-        : '';
-      
-      return `### ${group.reason}: ${group.value}
+const duplicatesMarkdown =
+  duplicates.length === 0
+    ? '*None*'
+    : duplicates
+        .map((group) => {
+          const filesList = group.publications
+            .map((pub) => {
+              const details: string[] = [];
+              if (pub.doi) {
+                // Check if it's a preprint
+                const isPreprint =
+                  pub.doi.includes('10.1101') || pub.doi.includes('10.48550/arxiv');
+                if (isPreprint) details.push(`DOI: ${pub.doi} (preprint)`);
+                else details.push(`DOI: ${pub.doi}`);
+              }
+              if (pub.id) details.push(`OpenAlex: ${pub.id}`);
+              return `- \`${pub.file}\`${details.length > 0 ? ` (${details.join(', ')})` : ''}`;
+            })
+            .join('\n');
+
+          // Check if this is a preprint vs published version
+          const hasPreprint = group.publications.some(
+            (p) => p.doi && (p.doi.includes('10.1101') || p.doi.includes('10.48550/arxiv'))
+          );
+          const note = hasPreprint
+            ? '\n*Note: This appears to be a preprint and published version of the same work.*'
+            : '';
+
+          return `### ${group.reason}: ${group.value}
 
 Files:
 ${filesList}
@@ -203,7 +207,8 @@ ${note}
 Publications:
 ${group.publications.map((pub) => `- **${pub.title || 'Untitled'}**`).join('\n')}
 `;
-    }).join('\n---\n\n');
+        })
+        .join('\n---\n\n');
 
 // Generate new ISSUES.md content
 // Remove existing duplicate section if it exists, then add new one
@@ -248,4 +253,3 @@ if (duplicates.length > 0) {
     console.log(`  - ${group.reason}: ${group.value} (${group.files.length} files)`);
   }
 }
-

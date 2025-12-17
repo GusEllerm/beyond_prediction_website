@@ -22,7 +22,7 @@ const CONTACT_EMAIL = process.env.OPENALEX_CONTACT_EMAIL ?? '';
  */
 function normalizeDoi(doi: string): string {
   // Remove URL prefixes
-  let cleanDoi = doi
+  const cleanDoi = doi
     .replace(/^https?:\/\/(dx\.)?doi\.org\//i, '')
     .replace(/^doi:/i, '')
     .trim();
@@ -69,9 +69,7 @@ async function fetchPublicationByDoi(doi: string): Promise<PersonPublication | n
       undefined;
 
     // Extract DOI (normalize to clean format)
-    const doiValue: string | undefined = work.doi 
-      ? normalizeDoi(work.doi) 
-      : cleanDoi;
+    const doiValue: string | undefined = work.doi ? normalizeDoi(work.doi) : cleanDoi;
 
     // Best open access URL (if any)
     const openAccessUrl: string | undefined =
@@ -101,7 +99,7 @@ async function fetchPublicationByDoi(doi: string): Promise<PersonPublication | n
 function doiToSlug(doi: string): string {
   const cleanDoi = normalizeDoi(doi);
   // Replace slashes and special characters with hyphens
-  return cleanDoi.replace(/[\/\:\.]/g, '-').toLowerCase();
+  return cleanDoi.replace(/[/:.]/g, '-').toLowerCase();
 }
 
 /**
@@ -114,7 +112,9 @@ async function main(): Promise<void> {
     console.error('Usage: tsx scripts/add_doi_publication.ts <doi>');
     console.error('');
     console.error('Examples:');
-    console.error('  tsx scripts/add_doi_publication.ts http://dx.doi.org/10.13140/RG.2.2.34953.97123');
+    console.error(
+      '  tsx scripts/add_doi_publication.ts http://dx.doi.org/10.13140/RG.2.2.34953.97123'
+    );
     console.error('  tsx scripts/add_doi_publication.ts 10.13140/RG.2.2.34953.97123');
     process.exit(1);
   }
@@ -126,7 +126,7 @@ async function main(): Promise<void> {
 
   try {
     console.log(`Fetching publication data for DOI: ${doiArg}`);
-    
+
     const publication = await fetchPublicationByDoi(doiArg);
 
     if (!publication) {
@@ -144,15 +144,16 @@ async function main(): Promise<void> {
     // Save as JSON file using DOI slug as filename
     const slug = doiToSlug(doiArg);
     const outPath = path.join(outputDir, `${slug}.json`);
-    
+
     fs.writeFileSync(outPath, JSON.stringify(publication, null, 2), 'utf-8');
 
     console.log(`\n✓ Saved publication to: ${outPath}`);
-    console.log(`\nTo use this publication in an example, add its OpenAlex ID to the example's publicationIds:`);
+    console.log(
+      `\nTo use this publication in an example, add its OpenAlex ID to the example's publicationIds:`
+    );
     console.log(`  publicationIds: ['${publication.id}']`);
     console.log(`\nOr if you want to use the DOI directly, you can also use:`);
     console.log(`  publicationIds: ['https://doi.org/${publication.doi}']`);
-
   } catch (error) {
     console.error('\nError:', error instanceof Error ? error.message : String(error));
     process.exit(1);
@@ -163,4 +164,3 @@ main().catch((error) => {
   console.error('Fatal error:', error);
   process.exit(1);
 });
-

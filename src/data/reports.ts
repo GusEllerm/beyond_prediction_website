@@ -21,7 +21,8 @@ export const reports: AnnualReport[] = [
     fromYear: 2022,
     toYear: 2023,
     title: 'Annual Report 2022–2023',
-    summary: 'In 2022–2023 Beyond Prediction achieved significant progress in four key areas: phylogenetic analysis linking genomics to disease, ecological modelling of endangered species, live science publishing that embeds experiments in research articles, and AI tools for validating scientific claims. The programme developed new methods and open-source software, strengthened collaborations with ESR and Genomics Aotearoa, and sponsored ResBaz 2022, training hundreds of researchers in data science skills.',
+    summary:
+      'In 2022–2023 Beyond Prediction achieved significant progress in four key areas: phylogenetic analysis linking genomics to disease, ecological modelling of endangered species, live science publishing that embeds experiments in research articles, and AI tools for validating scientific claims. The programme developed new methods and open-source software, strengthened collaborations with ESR and Genomics Aotearoa, and sponsored ResBaz 2022, training hundreds of researchers in data science skills.',
     htmlPartialPath: '/content/reports/2022-2023.html',
     docxPath: '/content/reports/2022-2023.docx',
   },
@@ -30,7 +31,8 @@ export const reports: AnnualReport[] = [
     fromYear: 2023,
     toYear: 2024,
     title: 'Annual Report 2023–2024',
-    summary: 'In 2023–2024 Beyond Prediction consolidated earlier advances into tools that make science more transparent and actionable, deploying a retrieval-augmented AI system and web interface for checking the evidence behind scientific claims, and an RO-Crate-based provenance model that lets research articles "write themselves" from distributed workflows. A genomic digital twin of the taonga hihi species now supports conservation decisions under climate change, while ResBaz 2024 and strengthened partnerships with ESR, Genomics Aotearoa and international institutes broadened the programme\'s impact.',
+    summary:
+      'In 2023–2024 Beyond Prediction consolidated earlier advances into tools that make science more transparent and actionable, deploying a retrieval-augmented AI system and web interface for checking the evidence behind scientific claims, and an RO-Crate-based provenance model that lets research articles "write themselves" from distributed workflows. A genomic digital twin of the taonga hihi species now supports conservation decisions under climate change, while ResBaz 2024 and strengthened partnerships with ESR, Genomics Aotearoa and international institutes broadened the programme\'s impact.',
     htmlPartialPath: '/content/reports/2023-2024.html',
     docxPath: '/content/reports/2023-2024.docx',
   },
@@ -39,7 +41,8 @@ export const reports: AnnualReport[] = [
     fromYear: 2024,
     toYear: 2025,
     title: 'Annual Report 2024–2025',
-    summary: 'In 2024–2025 Beyond Prediction delivered new methods for linking genomes to disease risk, models to understand how threatened and invasive species respond to environmental change, and a flagship LivePublication case study that turns static papers into updatable, data-driven research objects. The programme also strengthened New Zealand’s AI capability through shared tools, open datasets, and training that connects researchers, government, and iwi partners.',
+    summary:
+      'In 2024–2025 Beyond Prediction delivered new methods for linking genomes to disease risk, models to understand how threatened and invasive species respond to environmental change, and a flagship LivePublication case study that turns static papers into updatable, data-driven research objects. The programme also strengthened New Zealand’s AI capability through shared tools, open datasets, and training that connects researchers, government, and iwi partners.',
     htmlPartialPath: '/content/reports/2024-2025.html',
   },
 ];
@@ -107,4 +110,3 @@ export const currentForwardPlan: ForwardPlan = {
   fromYear: 2025,
   toYear: 2026,
 };
-

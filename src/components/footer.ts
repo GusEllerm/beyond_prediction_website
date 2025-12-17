@@ -2,13 +2,13 @@ import { escapeHtml } from '../utils/dom';
 
 /**
  * Partner interface for footer logos
- * 
+ *
  * To add a new partner, create a Partner object with:
  * - name: The partner's display name (required for accessibility)
  * - url: Optional URL to link to the partner's website
  * - logoSrc: Optional path to logo image (e.g., '/logos/partner-name.png')
  *   If not provided, a placeholder will be shown instead.
- * 
+ *
  * Logo images should be placed in the `public/logos/` directory.
  * They will be accessible at the root path (e.g., `/logos/partner-name.png`).
  */
@@ -20,7 +20,7 @@ export interface Partner {
 
 /**
  * Renders the site footer with partner logos
- * 
+ *
  * @param partners - Array of partner objects to display as logos
  * @returns HTML string for the footer
  */
@@ -103,4 +103,3 @@ export function renderFooter(partners: Partner[] = []): string {
     </footer>
   `;
 }
-

@@ -3,26 +3,49 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { allPeople, type Person } from '../src/data/people.js';
-import type {
-  PersonPublication,
-  PersonPublicationsSnapshot,
-} from '../src/data/publications.js';
+import { allPeople } from '../src/data/people.js';
+import type { PersonPublication, PersonPublicationsSnapshot } from '../src/data/publications.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // ORCID API configuration
-const ORCID_API_BASE =
-  process.env.ORCID_API_BASE ?? 'https://pub.orcid.org/v3.0';
+const ORCID_API_BASE = process.env.ORCID_API_BASE ?? 'https://pub.orcid.org/v3.0';
 const ORCID_PUBLIC_TOKEN = process.env.ORCID_PUBLIC_TOKEN;
+
+interface OrcidWorkSummary {
+  'put-code'?: number;
+  path?: string;
+  title?: {
+    title?: { value?: string };
+  };
+  'external-ids'?: {
+    'external-id'?: Array<{
+      'external-id-type'?: string;
+      'external-id-value'?: string;
+    }>;
+  };
+  'publication-date'?: {
+    year?: { value?: string };
+  };
+  'journal-title'?: { value?: string };
+}
+
+interface OrcidWorkGroup {
+  'work-summary'?: OrcidWorkSummary[];
+}
+
+interface OrcidWorksResponse {
+  group?: OrcidWorkGroup[];
+  [key: string]: unknown;
+}
 
 // Basic rate limiting / politeness
 function delay(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function fetchOrcidWorks(orcidId: string): Promise<any> {
+async function fetchOrcidWorks(orcidId: string): Promise<OrcidWorksResponse> {
   const headers: Record<string, string> = {
     Accept: 'application/json',
   };
@@ -40,9 +63,7 @@ async function fetchOrcidWorks(orcidId: string): Promise<any> {
   const response = await fetch(url, { headers });
 
   if (!response.ok) {
-    throw new Error(
-      `ORCID API error for ${orcidId}: ${response.status} ${response.statusText}`
-    );
+    throw new Error(`ORCID API error for ${orcidId}: ${response.status} ${response.statusText}`);
   }
 
   return response.json();
@@ -50,7 +71,7 @@ async function fetchOrcidWorks(orcidId: string): Promise<any> {
 
 function mapOrcidWorksToPublicationWorks(
   orcidId: string,
-  json: any
+  json: OrcidWorksResponse
 ): PersonPublication[] {
   const groups = json.group ?? [];
   const works: PersonPublication[] = [];
@@ -62,9 +83,7 @@ function mapOrcidWorksToPublicationWorks(
       const putCode = summary['put-code'];
 
       const title =
-        summary.title?.title?.value ??
-        summary.title?.subtitle?.value ??
-        'Untitled work';
+        summary.title?.title?.value ?? summary.title?.subtitle?.value ?? 'Untitled work';
 
       const yearStr = summary['publication-date']?.year?.value;
       const year = yearStr ? Number.parseInt(yearStr, 10) : undefined;
@@ -106,22 +125,13 @@ function mapOrcidWorksToPublicationWorks(
 }
 
 async function main(): Promise<void> {
-  const outputDir = path.join(
-    __dirname,
-    '..',
-    'src',
-    'data',
-    'publications',
-    'orcid'
-  );
+  const outputDir = path.join(__dirname, '..', 'src', 'data', 'publications', 'orcid');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
   // Filter to people who have ORCID and want ORCID as their source
-  const targets = allPeople.filter(
-    (p) => p.orcidId && p.publicationSource === 'orcid'
-  );
+  const targets = allPeople.filter((p) => p.orcidId && p.publicationSource === 'orcid');
 
   console.log(
     `Found ${targets.length} people with ORCID as publication source. Fetching ORCID works...`
@@ -129,9 +139,7 @@ async function main(): Promise<void> {
 
   for (const person of targets) {
     try {
-      console.log(
-        `→ Fetching works for ${person.name} (${person.orcidId})`
-      );
+      console.log(`→ Fetching works for ${person.name} (${person.orcidId})`);
 
       const json = await fetchOrcidWorks(person.orcidId!);
       const works = mapOrcidWorksToPublicationWorks(person.orcidId!, json);
@@ -148,10 +156,7 @@ async function main(): Promise<void> {
 
       console.log(`   Saved ${works.length} works to ${outPath}`);
     } catch (error) {
-      console.error(
-        `   Error fetching works for ${person.name}:`,
-        error
-      );
+      console.error(`   Error fetching works for ${person.name}:`, error);
     }
 
     // Small delay between requests to be polite
@@ -165,4 +170,3 @@ main().catch((error) => {
   console.error('Fatal error in update_orcid_publications:', error);
   process.exit(1);
 });
-

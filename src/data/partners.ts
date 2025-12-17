@@ -1,7 +1,7 @@
 /**
  * Project partners database
  * This acts as the data source for partner logos displayed in the site footer.
- * 
+ *
  * To add a new partner:
  * 1. Add the logo image to `public/logos/` directory
  * 2. Add a new object to this array with:
@@ -32,7 +32,8 @@ export const partners: Partner[] = [
     url: 'https://stencila.com/',
     logoSrc: '/logos/stencila.svg',
   },
-  { name: 'Massey University',
+  {
+    name: 'Massey University',
     url: 'https://www.massey.ac.nz/',
     logoSrc: '/logos/massey_university.svg',
   },
@@ -40,6 +41,5 @@ export const partners: Partner[] = [
     name: 'Allen AI',
     url: 'https://www.allenai.org',
     logoSrc: '/logos/allen_ai.svg',
-  }
+  },
 ];
-

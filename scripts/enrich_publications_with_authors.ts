@@ -1,5 +1,5 @@
 /* scripts/enrich_publications_with_authors.ts
- * 
+ *
  * This script enriches publication data with author information from OpenAlex API.
  * It fetches full work details for publications that have OpenAlex IDs and extracts
  * author information, then updates the publication files.
@@ -8,10 +8,11 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { allPeople, type Person } from '../src/data/people.js';
+import { allPeople } from '../src/data/people.js';
 import type {
   PersonPublication,
   PublicationAuthor,
+  PersonPublicationsSnapshot,
 } from '../src/data/publications.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -23,11 +24,27 @@ const OPENALEX_BASE_URL = 'https://api.openalex.org';
 // Optional: set your email here to be polite to OpenAlex
 const CONTACT_EMAIL = process.env.OPENALEX_CONTACT_EMAIL ?? '';
 
+interface OpenAlexAuthor {
+  id?: string;
+  display_name?: string;
+  orcid?: string;
+}
+
+interface OpenAlexAuthorship {
+  author: OpenAlexAuthor | null;
+  raw_author_name?: string;
+}
+
+interface OpenAlexWork {
+  authorships?: OpenAlexAuthorship[];
+  [key: string]: unknown;
+}
+
 function delay(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function fetchJson(url: string): Promise<any> {
+async function fetchJson(url: string): Promise<OpenAlexWork> {
   const fullUrl = CONTACT_EMAIL
     ? `${url}${url.includes('?') ? '&' : '?'}mailto=${encodeURIComponent(CONTACT_EMAIL)}`
     : url;
@@ -83,10 +100,10 @@ async function fetchWorkWithAuthors(
     }
 
     const authors: PublicationAuthor[] = work.authorships.map(
-      (authorship: any, index: number) => {
+      (authorship: OpenAlexAuthorship, index: number) => {
         const author = authorship.author;
         const name = author?.display_name ?? authorship.raw_author_name ?? 'Unknown Author';
-        
+
         // Extract ORCID ID if available
         let orcidId: string | undefined;
         if (author?.orcid) {
@@ -107,10 +124,13 @@ async function fetchWorkWithAuthors(
     );
 
     return { authors };
-  } catch (error: any) {
+  } catch (error: unknown) {
     // Check if it's an HTML response (rate limiting or error page)
-    if (error.message?.includes('<!doctype') || error.message?.includes('Unexpected token')) {
-      console.error(`  OpenAlex returned HTML instead of JSON for ${workId} (likely rate limited or invalid ID)`);
+    const errorMessage = error instanceof Error ? error.message : String(error);
+    if (errorMessage.includes('<!doctype') || errorMessage.includes('Unexpected token')) {
+      console.error(
+        `  OpenAlex returned HTML instead of JSON for ${workId} (likely rate limited or invalid ID)`
+      );
       return null;
     }
     console.error(`  Error fetching work ${workId}:`, error.message || error);
@@ -121,9 +141,7 @@ async function fetchWorkWithAuthors(
 /**
  * Enriches a single publication with author data
  */
-async function enrichPublication(
-  publication: PersonPublication
-): Promise<PersonPublication> {
+async function enrichPublication(publication: PersonPublication): Promise<PersonPublication> {
   // If already has authors, skip
   if (publication.authors && publication.authors.length > 0) {
     return publication;
@@ -151,7 +169,7 @@ async function enrichPublication(
  * Enriches publications in an ORCID snapshot with the snapshot owner as author
  */
 function enrichOrcidSnapshot(
-  snapshot: any,
+  snapshot: PersonPublicationsSnapshot,
   personSlug: string,
   orcidId?: string
 ): void {
@@ -175,9 +193,7 @@ function enrichOrcidSnapshot(
       ];
     } else {
       // If authors exist, check if snapshot owner is already in the list
-      const hasOwner = work.authors.some(
-        (a: any) => a.orcidId === orcidId
-      );
+      const hasOwner = work.authors.some((a: PublicationAuthor) => a.orcidId === orcidId);
       if (!hasOwner && orcidId) {
         // Add snapshot owner if not already present
         work.authors.push({
@@ -219,10 +235,7 @@ async function processPublicationsInDirectory(
           const enrichedWorks: PersonPublication[] = [];
           for (const work of data.works) {
             // Only fetch from OpenAlex if it's an OpenAlex work and doesn't have authors
-            if (
-              work.id?.includes('openalex.org') &&
-              (!work.authors || work.authors.length === 0)
-            ) {
+            if (work.id?.includes('openalex.org') && (!work.authors || work.authors.length === 0)) {
               const enriched = await enrichPublication(work);
               enrichedWorks.push(enriched);
               // Small delay between API calls
@@ -281,4 +294,3 @@ main().catch((error) => {
   console.error('Fatal error in enrich_publications_with_authors:', error);
   process.exit(1);
 });
-

@@ -89,8 +89,6 @@ function renderReportsTimeline(): void {
     )
     .join('');
 
-
-
   const forwardPlanBannerHtml = `
     <div class="alert alert-secondary d-flex flex-wrap align-items-center justify-content-between mb-4" role="alert">
       <div class="me-3">
@@ -151,4 +149,3 @@ if (document.readyState === 'loading') {
 } else {
   renderReportsTimeline();
 }
-

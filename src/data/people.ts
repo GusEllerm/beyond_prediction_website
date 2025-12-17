@@ -1,7 +1,7 @@
 /**
  * Person interface for people data
  * Extensible for future fields like email, photo, bio, etc.
- * 
+ *
  * To add a photo:
  * 1. Place the photo file in `public/photos/` directory
  * 2. Name it using the person's slug (e.g., `mark-gahegan.webp`)
@@ -65,7 +65,7 @@ export const principalInvestigators: Person[] = [
       'biodiversity-ecology-biosecurity',
       'digital-research-skills',
     ],
-    bio: "Professor Mark Gahegan is Director of the Centre for eResearch at Waipapa Taumata Rau, The University of Auckland. His work spans geographic information science, spatial data analysis, and the design of eResearch infrastructures that help researchers manage, analyse and share complex, data-intensive workflows. Mark has led a range of national and international initiatives around AI, research data platforms, and digital research tools, and brings long-standing experience in building interdisciplinary collaborations between computer science, the geosciences and the wider research community.",
+    bio: 'Professor Mark Gahegan is Director of the Centre for eResearch at Waipapa Taumata Rau, The University of Auckland. His work spans geographic information science, spatial data analysis, and the design of eResearch infrastructures that help researchers manage, analyse and share complex, data-intensive workflows. Mark has led a range of national and international initiatives around AI, research data platforms, and digital research tools, and brings long-standing experience in building interdisciplinary collaborations between computer science, the geosciences and the wider research community.',
     bioSources: [
       {
         label: 'University of Auckland – AI in Research (Centre for eResearch)',
@@ -92,10 +92,7 @@ export const coInvestigators: Person[] = [
     email: 'alexei@cs.auckland.ac.nz',
     photoUrl: '/photos/alexei-drummond.webp',
     orcidId: '0000-0003-4454-2576',
-    themeSlugs: [
-      'genomics-data-science',
-      'biodiversity-ecology-biosecurity',
-    ],
+    themeSlugs: ['genomics-data-science', 'biodiversity-ecology-biosecurity'],
     bio: "Professor Alexei Drummond is an evolutionary biologist and computational phylogeneticist at Waipapa Taumata Rau, The University of Auckland. He is widely known for co-developing the BEAST software platform and for pioneering Bayesian methods for inferring evolutionary histories and molecular clocks. Alexei holds a James Cook Research Fellowship from Royal Society Te Apārangi and leads research that integrates genomics, statistics and computation to understand how populations and pathogens evolve through time, expertise that underpins the project's phylogenetic and modelling components.",
     bioSources: [
       {
@@ -124,7 +121,7 @@ export const coInvestigators: Person[] = [
       'ai-research-literature',
       'digital-research-skills',
     ],
-    bio: "Associate Professor Ben Adams is a geospatial data scientist in the Department of Computer Science and Software Engineering at the University of Canterbury. His research focuses on geographic information science, spatial data infrastructures and the design of systems that make complex environmental and urban data more usable. Ben has led and contributed to projects spanning spatial knowledge graphs, geospatial semantics and reproducible spatial analysis, and he contributes to the project by connecting novel publication workflows with real-world, spatially rich research data.",
+    bio: 'Associate Professor Ben Adams is a geospatial data scientist in the Department of Computer Science and Software Engineering at the University of Canterbury. His research focuses on geographic information science, spatial data infrastructures and the design of systems that make complex environmental and urban data more usable. Ben has led and contributed to projects spanning spatial knowledge graphs, geospatial semantics and reproducible spatial analysis, and he contributes to the project by connecting novel publication workflows with real-world, spatially rich research data.',
     bioSources: [
       {
         label: 'University of Canterbury – Research profile (Ben Adams)',
@@ -146,10 +143,7 @@ export const coInvestigators: Person[] = [
     email: 'paul.gardner@otago.ac.nz',
     orcidId: '0000-0002-7808-1213',
     publicationSource: 'orcid',
-    themeSlugs: [
-      'genomics-data-science',
-      'biodiversity-ecology-biosecurity',
-    ],
+    themeSlugs: ['genomics-data-science', 'biodiversity-ecology-biosecurity'],
     bio: "Associate Professor Paul Gardner is a bioinformatician at the University of Otago whose research centres on RNA biology, comparative genomics and the development of computational methods for analysing high-throughput sequencing data. He has contributed to widely used RNA databases and tools, and works at the interface of molecular biology, statistics and computer science. Paul's experience in building and maintaining research software and data resources informs the project's approach to sustainable, reproducible computational pipelines.",
     bioSources: [
       {
@@ -225,10 +219,7 @@ export const coInvestigators: Person[] = [
     email: 'alex@biods.org',
     orcidId: '0000-0001-6299-8249',
     publicationSource: 'orcid',
-    themeSlugs: [
-      'genomics-data-science',
-      'biodiversity-ecology-biosecurity',
-    ],
+    themeSlugs: ['genomics-data-science', 'biodiversity-ecology-biosecurity'],
     bio: "Associate Professor Alex Gavryushkin is a data scientist whose research lies in computational genomics, algorithm design and mathematical biology. Based at the University of Canterbury, he leads the Biological Data Science lab and holds a Rutherford Discovery Fellowship. Alex's work focuses on scalable algorithms for molecular sequence data and on modelling complex evolutionary and biosecurity scenarios, making his expertise central to the project's goals around rigorous, high-dimension statistical modelling and efficient analysis pipelines.",
     bioSources: [
       {
@@ -252,7 +243,7 @@ export const coInvestigators: Person[] = [
     orcidId: '0000-0002-1816-2863',
     publicationSource: 'orcid',
     themeSlugs: ['trustworthy-explainable-ai'],
-    bio: "Professor Sebastian Link is a computer scientist at Waipapa Taumata Rau, The University of Auckland, whose research covers data management, database theory and information quality. His work on dependencies, schemas and data modelling underpins reliable, high-integrity information systems. Sebastian has contributed to both theoretical and applied aspects of data engineering, and in this project he lends expertise in formalising data structures, ensuring that research outputs and provenance records remain consistent, queryable and robust over time.",
+    bio: 'Professor Sebastian Link is a computer scientist at Waipapa Taumata Rau, The University of Auckland, whose research covers data management, database theory and information quality. His work on dependencies, schemas and data modelling underpins reliable, high-integrity information systems. Sebastian has contributed to both theoretical and applied aspects of data engineering, and in this project he lends expertise in formalising data structures, ensuring that research outputs and provenance records remain consistent, queryable and robust over time.',
     bioSources: [
       {
         label: 'University of Auckland – Sebastian Link profile',
@@ -305,7 +296,8 @@ export const coInvestigators: Person[] = [
     bio: "Professor Michael (Mik) Black is a biostatistician at the University of Otago whose research focuses on statistical genomics and the development of methods for analysing high-dimensional genomic data, especially in cancer and other human diseases. He co-leads the Genomics Aotearoa Bioinformatics Capability project and works extensively with collaborative, cross-disciplinary teams. Mik's experience in designing robust statistical pipelines and integrating diverse datasets supports the project's emphasis on reproducible, scalable analysis of genomic and biomedical information.",
     bioSources: [
       {
-        label: 'University of Otago news – Promotion to professor for statistical genomics specialist',
+        label:
+          'University of Otago news – Promotion to professor for statistical genomics specialist',
         url: 'https://www.otago.ac.nz/news/newsroom/promotion-to-professor-for-statistical-genomics-specialist',
       },
       {
@@ -324,10 +316,7 @@ export const coInvestigators: Person[] = [
     email: 'david.bryant@otago.ac.nz',
     orcidId: '0000-0003-1963-5535',
     publicationSource: 'orcid',
-    themeSlugs: [
-      'genomics-data-science',
-      'biodiversity-ecology-biosecurity',
-    ],
+    themeSlugs: ['genomics-data-science', 'biodiversity-ecology-biosecurity'],
     bio: "Professor David Bryant is an applied mathematician in the Department of Mathematics and Statistics at the University of Otago. His research sits at the interface of mathematics, statistics and evolutionary biology, with contributions to phylogenetics, Bayesian statistics and the development of new models for evolutionary processes. David's work on tree- and network-based methods for evolutionary inference informs the project's mathematical foundations and helps ensure that its analytical tools for complex biological data are rigorous and well-grounded.",
     bioSources: [
       {
@@ -373,7 +362,7 @@ export const coInvestigators: Person[] = [
     email: 'a.santure@auckland.ac.nz',
     orcidId: '0000-0001-8965-1042',
     themeSlugs: ['biodiversity-ecology-biosecurity'],
-    bio: "Associate Professor Anna Santure is a geneticist in the School of Biological Sciences at Waipapa Taumata Rau, The University of Auckland. Her research uses genomic, ecological and environmental data to understand how wild populations respond and adapt to rapid environmental change, including work on threatened taonga species and invasive species. Anna is a principal investigator with Te Pūnaha Matatini, and brings to the project expertise in evolutionary genomics, conservation genetics and the integration of complex biological datasets into reproducible analytical workflows.",
+    bio: 'Associate Professor Anna Santure is a geneticist in the School of Biological Sciences at Waipapa Taumata Rau, The University of Auckland. Her research uses genomic, ecological and environmental data to understand how wild populations respond and adapt to rapid environmental change, including work on threatened taonga species and invasive species. Anna is a principal investigator with Te Pūnaha Matatini, and brings to the project expertise in evolutionary genomics, conservation genetics and the integration of complex biological datasets into reproducible analytical workflows.',
     bioSources: [
       {
         label: 'Te Pūnaha Matatini – Anna Santure profile',
@@ -427,10 +416,7 @@ export const industryPartners: Person[] = [
     photoUrl: '/photos/nokome-bentley.webp',
     email: 'nokome@stenci.la',
     orcidId: '0000-0003-1608-7967',
-    themeSlugs: [
-      'live-research-articles',
-      'ai-research-literature'
-    ],
+    themeSlugs: ['live-research-articles', 'ai-research-literature'],
     bio: "Nokome Bentley is a marine scientist and data scientist, and the founder of Stencila, an open-source platform for reproducible, data-driven documents. He has more than two decades of experience in fisheries science and environmental data analysis, and works as a principal data scientist with Dragonfly Data Science. Nokome's recent work explores how generative AI can support transparent and provenance-aware scientific writing. He contributes to the project through his expertise in reproducible research tooling, open science and software engineering for scientific publishing.",
     bioSources: [
       {
@@ -463,7 +449,7 @@ export const postDocs: Person[] = [
     email: 'neset.tan@auckland.ac.nz',
     orcidId: '0000-0001-6201-7295',
     themeSlugs: ['trustworthy-explainable-ai'],
-    bio: "Dr Neşet (Neset) Tan is a researcher in the Strong AI Lab at Waipapa Taumata Rau, The University of Auckland. With a background in mathematics and experience across academia and industry, his work focuses on natural language processing and the automation of data-science workflows. Neset contributes to the project by investigating how modern AI techniques can support live, interpretable research pipelines and by helping to bridge between statistical computing, software engineering and large-scale machine-learning systems.",
+    bio: 'Dr Neşet (Neset) Tan is a researcher in the Strong AI Lab at Waipapa Taumata Rau, The University of Auckland. With a background in mathematics and experience across academia and industry, his work focuses on natural language processing and the automation of data-science workflows. Neset contributes to the project by investigating how modern AI techniques can support live, interpretable research pipelines and by helping to bridge between statistical computing, software engineering and large-scale machine-learning systems.',
     bioSources: [
       {
         label: 'University of Auckland – Neset Tan profile',
@@ -493,7 +479,8 @@ export const postDocs: Person[] = [
     bio: "Dr Jonathan (Jo) Klawitter is a researcher in phylogenetic theory and algorithms whose work focuses on tree- and network-based models of evolutionary history. He has developed new results on rearrangement operations and distances on phylogenetic networks, and more recently on credible sets for Bayesian phylogenetic tree topology distributions and methods for visualising geophylogenies. Jo's expertise in discrete mathematics, algorithm design and computational phylogenetics strengthens the project's capability to represent, analyse and visualise complex evolutionary scenarios within live, updateable research outputs.",
     bioSources: [
       {
-        label: 'Theory and Applications of Graphs – Rearrangement operations on unrooted phylogenetic networks',
+        label:
+          'Theory and Applications of Graphs – Rearrangement operations on unrooted phylogenetic networks',
         url: 'https://digitalcommons.georgiasouthern.edu/tag/vol6/iss2/6',
       },
       {
@@ -515,10 +502,7 @@ export const postDocs: Person[] = [
     email: 'gus.ellerm@auckland.ac.nz',
     orcidId: '0000-0001-8260-231X',
     photoUrl: '/photos/gus-ellerm.webp',
-    themeSlugs: [
-      'live-research-articles',
-      'ai-research-literature',
-    ],
+    themeSlugs: ['live-research-articles', 'ai-research-literature'],
     bio: 'Augustus (Gus) Ellerm is a computer scientist whose research centres on research workflows, provenance and live scientific publications. Based at the University of Canterbury, he is lead author of the "Enabling LivePublication" and "LivePublication: The Science Workflow Creates and Updates the Publication" papers, which prototype systems where computational workflows directly drive and update scientific articles. Gus\'s work on integrating workflow systems, provenance standards and publication technologies underpins this project\'s vision of dynamic, reproducible and machine-actionable research outputs.',
     bioSources: [
       {
@@ -526,11 +510,13 @@ export const postDocs: Person[] = [
         url: 'https://www.computer.org/csdl/proceedings-article/e-science/2022/612400a419/1J6ht6w9Sa4',
       },
       {
-        label: 'IEEE e-Science 2023 – LivePublication: The Science Workflow Creates and Updates the Publication',
+        label:
+          'IEEE e-Science 2023 – LivePublication: The Science Workflow Creates and Updates the Publication',
         url: 'https://dblp.org/rec/conf/eScience/EllermGA23.html',
       },
       {
-        label: 'eResearch NZ talk – From Static to Dynamic: LivePublication and the quest for reproducible living articles',
+        label:
+          'eResearch NZ talk – From Static to Dynamic: LivePublication and the quest for reproducible living articles',
         url: 'https://eresearchnz.figshare.com/articles/presentation/From_Static_to_Dynamic_LivePublication_and_the_quest_for_reproducible_living_articles/28561049',
       },
     ],

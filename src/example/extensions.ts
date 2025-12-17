@@ -9,4 +9,3 @@ export type ExampleExtensionMount = (
   project: ResearchProject,
   example: ProjectExample
 ) => void;
-

@@ -9,4 +9,3 @@ import type { Person } from './people';
 export function getPeopleForTheme(projectSlug: string): Person[] {
   return allPeople.filter((person) => person.themeSlugs?.includes(projectSlug));
 }
-

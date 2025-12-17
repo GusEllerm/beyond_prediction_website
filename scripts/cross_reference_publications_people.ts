@@ -1,5 +1,5 @@
 /* scripts/cross_reference_publications_people.ts
- * 
+ *
  * This script demonstrates the cross-referencing of publications with people.
  * It loads all publications, matches authors to people, and generates a report.
  */
@@ -11,7 +11,6 @@ import { allPeople, type Person } from '../src/data/people.js';
 import { researchProjects } from '../src/data/researchProjects.js';
 import type { PersonPublication, PersonPublicationsSnapshot } from '../src/data/publications.js';
 import {
-  getPublicationAuthors,
   createPublicationToAuthorsMap,
   createPersonToPublicationsMap,
 } from '../src/utils/authorMatching.js';
@@ -142,9 +141,7 @@ function generateReport(
       .map((id) => publications.find((p) => p.id === id))
       .filter((p): p is PersonPublication => p !== undefined);
 
-    const pubsWithMatchedAuthors = projectPubs.filter((p) =>
-      pubToAuthors.has(p.id)
-    );
+    const pubsWithMatchedAuthors = projectPubs.filter((p) => pubToAuthors.has(p.id));
 
     lines.push(`\n${project.title} (${project.slug})`);
     lines.push(`  Total publications: ${projectPubs.length}`);
@@ -270,4 +267,3 @@ main().catch((error) => {
   console.error('Fatal error in cross_reference_publications_people:', error);
   process.exit(1);
 });
-

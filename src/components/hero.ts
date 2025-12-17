@@ -11,6 +11,7 @@ declare global {
   }
 }
 
+// eslint-disable-next-line @typescript-eslint/no-namespace
 declare namespace YT {
   class Player {
     constructor(id: string | HTMLElement, options?: PlayerOptions);
@@ -46,7 +47,7 @@ function isYouTubeUrl(url: string): boolean {
  */
 function addYouTubeApiParams(url: string): string {
   if (!isYouTubeUrl(url)) return url;
-  
+
   const urlObj = new URL(url);
   urlObj.searchParams.set('enablejsapi', '1');
   urlObj.searchParams.set('origin', window.location.origin);
@@ -69,7 +70,7 @@ function renderShowcaseContent(showcase: HeroShowcase, index: number): string {
           />
         </div>
       `;
-    case 'iframe':
+    case 'iframe': {
       if (!showcase.iframeSrc) return '';
       const iframeSrc = isYouTubeUrl(showcase.iframeSrc)
         ? addYouTubeApiParams(showcase.iframeSrc)
@@ -87,7 +88,8 @@ function renderShowcaseContent(showcase: HeroShowcase, index: number): string {
           ></iframe>
         </div>
       `;
-    case 'video':
+    }
+    case 'video': {
       if (!showcase.videoSrc) return '';
       const videoId = `bp-hero-video-${index}`;
       return `
@@ -98,6 +100,7 @@ function renderShowcaseContent(showcase: HeroShowcase, index: number): string {
           </video>
         </div>
       `;
+    }
     case 'html':
     default:
       return showcase.html ?? '';
@@ -227,9 +230,10 @@ function setupCarouselVideoControl(): void {
     }
 
     // Set up callback for when YouTube API is ready
-    (window as unknown as { onYouTubeIframeAPIReady?: () => void }).onYouTubeIframeAPIReady = () => {
-      initializeYouTubePlayers();
-    };
+    (window as unknown as { onYouTubeIframeAPIReady?: () => void }).onYouTubeIframeAPIReady =
+      () => {
+        initializeYouTubePlayers();
+      };
   } else {
     // API already loaded, initialize players
     setTimeout(initializeYouTubePlayers, 100);
@@ -242,7 +246,9 @@ function setupCarouselVideoControl(): void {
     const carouselEl = document.querySelector<HTMLElement>('#bp-hero-carousel');
     if (!carouselEl) return;
 
-    const iframes = carouselEl.querySelectorAll<HTMLIFrameElement>('iframe[data-youtube-iframe="true"]');
+    const iframes = carouselEl.querySelectorAll<HTMLIFrameElement>(
+      'iframe[data-youtube-iframe="true"]'
+    );
     iframes.forEach((iframe) => {
       const iframeId = iframe.id;
       if (!iframeId || youtubePlayers.has(iframeId)) return;
@@ -275,7 +281,7 @@ function setupCarouselVideoControl(): void {
         if (player.getPlayerState && player.getPlayerState() === YT.PlayerState.PLAYING) {
           player.pauseVideo();
         }
-      } catch (error) {
+      } catch {
         // Player might not be ready yet
       }
     });

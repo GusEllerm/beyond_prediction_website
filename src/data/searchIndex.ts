@@ -1,9 +1,6 @@
 import { researchProjects } from './researchProjects';
 import { allPeople } from './people';
-import type {
-  PersonPublication,
-  PersonPublicationsSnapshot,
-} from './publications';
+import type { PersonPublication, PersonPublicationsSnapshot } from './publications';
 import { createPublicationLookup } from '../utils/publications';
 
 /**
@@ -50,30 +47,28 @@ function getPublicationsForSlug(slug: string): PersonPublication[] {
 const projectItems: SearchItem[] = researchProjects
   .filter((project) => project.slug !== 'unassigned-publications')
   .map((project) => ({
-  id: project.slug,
-  type: 'project' as const,
-  title: project.title,
-  summary: project.shortDescription,
-  url: `/project.html?project=${project.slug}`,
-  searchableText: [
-    project.title,
-    project.shortDescription,
-    project.longDescription,
-    (project.tags ?? []).join(' '),
-    (project.keyQuestions ?? []).join(' '),
-  ]
-    .filter(Boolean)
-    .join(' \n '),
-}));
+    id: project.slug,
+    type: 'project' as const,
+    title: project.title,
+    summary: project.shortDescription,
+    url: `/project.html?project=${project.slug}`,
+    searchableText: [
+      project.title,
+      project.shortDescription,
+      project.longDescription,
+      (project.tags ?? []).join(' '),
+      (project.keyQuestions ?? []).join(' '),
+    ]
+      .filter(Boolean)
+      .join(' \n '),
+  }));
 
 /**
  * Index people with their publication metadata
  */
 const personItems: SearchItem[] = allPeople.map((person) => {
   const pubs = getPublicationsForSlug(person.slug);
-  const pubText = pubs
-    .map((w) => `${w.title ?? ''} ${w.venue ?? ''}`)
-    .join(' \n ');
+  const pubText = pubs.map((w) => `${w.title ?? ''} ${w.venue ?? ''}`).join(' \n ');
 
   const rolePart = person.roleLabel ?? '';
   const orgPart = person.affiliation ?? '';
@@ -107,11 +102,14 @@ const personItems: SearchItem[] = allPeople.map((person) => {
  */
 const publicationItems: SearchItem[] = (() => {
   const lookup = createPublicationLookup();
-  const publicationEntriesById = new Map<string, {
-    pub: PersonPublication;
-    projectSlugs: string[];
-    projectTitles: string[];
-  }>();
+  const publicationEntriesById = new Map<
+    string,
+    {
+      pub: PersonPublication;
+      projectSlugs: string[];
+      projectTitles: string[];
+    }
+  >();
 
   // Aggregate all projects for each publication
   for (const project of researchProjects) {
@@ -146,15 +144,20 @@ const publicationItems: SearchItem[] = (() => {
     // Use publication ID as unique identifier (remove https:// prefix for cleaner slug-like ID)
     const pubSlug = pub.id.replace(/^https?:\/\//, '').replace(/\//g, '-');
     const pubUrl = pub.openAccessUrl || (pub.doi ? `https://doi.org/${pub.doi}` : pub.id);
-    
+
     // Build searchable text including all project titles
-    const authorNames = pub.authors?.map((a) => (typeof a === 'string' ? a : a.name)).join(' ') || '';
-    
+    const authorNames =
+      pub.authors?.map((a) => (typeof a === 'string' ? a : a.name)).join(' ') || '';
+
     items.push({
       id: pubSlug,
       type: 'publication' as const,
       title: pub.title,
-      summary: pub.venue ? `${pub.venue}${pub.year ? ` (${pub.year})` : ''}` : pub.year ? `(${pub.year})` : '',
+      summary: pub.venue
+        ? `${pub.venue}${pub.year ? ` (${pub.year})` : ''}`
+        : pub.year
+          ? `(${pub.year})`
+          : '',
       url: pubUrl,
       searchableText: [
         pub.title,
@@ -183,16 +186,11 @@ export const searchIndex: SearchItem[] = [...projectItems, ...personItems, ...pu
  * @param typeFilter - Optional type filter ('project' or 'person')
  * @returns Array of matching SearchItem items
  */
-export function searchItems(
-  query: string,
-  typeFilter?: SearchItemType
-): SearchItem[] {
+export function searchItems(query: string, typeFilter?: SearchItemType): SearchItem[] {
   const q = query.trim().toLowerCase();
   if (!q) {
     // If no query, return all items (optionally filtered by type)
-    return typeFilter
-      ? searchIndex.filter((item) => item.type === typeFilter)
-      : searchIndex;
+    return typeFilter ? searchIndex.filter((item) => item.type === typeFilter) : searchIndex;
   }
 
   const matches = searchIndex.filter((item) => {
@@ -207,4 +205,3 @@ export function searchItems(
 
   return matches;
 }
-

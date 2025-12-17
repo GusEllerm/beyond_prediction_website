@@ -105,7 +105,6 @@ function getCategoryCountsForYear(
   return counts;
 }
 
-
 // Chart rendering function
 function renderDestinationChart(container: HTMLElement): void {
   const years = [2022, 2023, 2024, 2025];
@@ -225,7 +224,10 @@ function renderDestinationChart(container: HTMLElement): void {
 
   // Store references to all segments and legend items for hover effects
   const allSegments: SVGRectElement[] = [];
-  const legendItems = new Map<DestinationCategory, { swatch: SVGRectElement; label: SVGTextElement }>();
+  const legendItems = new Map<
+    DestinationCategory,
+    { swatch: SVGRectElement; label: SVGTextElement }
+  >();
   const trendPoints: Array<{ x: number; y: number; year: number; total: number }> = [];
 
   // Render bars for each year
@@ -271,10 +273,7 @@ function renderDestinationChart(container: HTMLElement): void {
 
           // Dim other segments in the same bar
           allSegments.forEach((seg) => {
-            if (
-              seg.getAttribute('data-year') === String(hoverYear) &&
-              seg !== target
-            ) {
+            if (seg.getAttribute('data-year') === String(hoverYear) && seg !== target) {
               seg.style.opacity = '0.4';
             }
           });
@@ -569,4 +568,3 @@ export const mountExampleExtension: ExampleExtensionMount = (root, _project, _ex
     renderDestinationChart(container);
   }
 };
-
