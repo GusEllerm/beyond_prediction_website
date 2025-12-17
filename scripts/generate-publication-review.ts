@@ -61,25 +61,25 @@ function extractAuthorNames(publication: PersonPublication | { authors?: unknown
     return [];
   }
 
-  return publication.authors
-    .map((author: string | { name?: string }) => {
+  return (publication.authors as Array<string | { name?: string }>)
+    .map((author) => {
       if (typeof author === 'string') {
         return author;
       }
-      if (author.name) {
+      if (author && typeof author === 'object' && 'name' in author && author.name) {
         return author.name;
       }
       return '';
     })
-    .filter((name: string) => name.length > 0);
+    .filter((name): name is string => typeof name === 'string' && name.length > 0);
 }
 
 /**
  * Determines if a publication record is "better" than another (for deduplication)
  */
 function isBetterRecord(
-  a: PersonPublication | { title?: string; venue?: string; year?: number },
-  b: PersonPublication | { title?: string; venue?: string; year?: number }
+  a: PersonPublication | { title?: string; venue?: string; year?: number; authors?: unknown[] },
+  b: PersonPublication | { title?: string; venue?: string; year?: number; authors?: unknown[] }
 ): boolean {
   // Prefer records with title
   if (a.title && !b.title) return true;

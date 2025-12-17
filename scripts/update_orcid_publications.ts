@@ -18,6 +18,7 @@ interface OrcidWorkSummary {
   path?: string;
   title?: {
     title?: { value?: string };
+    subtitle?: { value?: string };
   };
   'external-ids'?: {
     'external-id'?: Array<{
@@ -66,7 +67,7 @@ async function fetchOrcidWorks(orcidId: string): Promise<OrcidWorksResponse> {
     throw new Error(`ORCID API error for ${orcidId}: ${response.status} ${response.statusText}`);
   }
 
-  return response.json();
+  return response.json() as Promise<OrcidWorksResponse>;
 }
 
 function mapOrcidWorksToPublicationWorks(

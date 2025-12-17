@@ -53,7 +53,19 @@ async function fetchPublicationByDoi(doi: string): Promise<PersonPublication | n
       throw new Error(`OpenAlex API error: ${response.status} ${response.statusText}`);
     }
 
-    const work = await response.json();
+    const work = (await response.json()) as {
+      id?: string;
+      title?: string;
+      display_name?: string;
+      publication_year?: number;
+      doi?: string;
+      primary_location?: {
+        source?: { display_name?: string };
+        host_venue?: { display_name?: string };
+        landing_page_url?: string;
+      };
+      open_access?: { oa_url?: string };
+    };
 
     const id: string = work.id ?? '';
 

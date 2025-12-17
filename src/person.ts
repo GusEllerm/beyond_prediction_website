@@ -56,7 +56,7 @@ function getSnapshotForPerson(person: Person): PersonPublicationsSnapshot | null
   for (const [path, mod] of Object.entries(modules)) {
     if (path.endsWith(targetSuffix)) {
       const data =
-        (mod && typeof mod === 'object' && 'default' in mod)
+        mod && typeof mod === 'object' && 'default' in mod
           ? (mod as { default: PersonPublicationsSnapshot }).default
           : (mod as PersonPublicationsSnapshot);
       return data as PersonPublicationsSnapshot;

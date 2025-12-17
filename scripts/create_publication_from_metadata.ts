@@ -32,7 +32,7 @@ const PUBLICATIONS_DIR = join(process.cwd(), 'src/data/publications/doi');
  */
 async function searchCrossRef(
   title: string,
-  author?: string,
+  _author?: string,
   year?: number
 ): Promise<PublicationRecord | null> {
   try {
@@ -42,7 +42,17 @@ async function searchCrossRef(
     const response = await fetch(url);
     if (!response.ok) return null;
 
-    const data = await response.json();
+    const data = (await response.json()) as {
+      message?: {
+        items?: Array<{
+          title?: string[];
+          DOI?: string;
+          published?: { 'date-parts'?: number[][] };
+          'container-title'?: string[];
+          publisher?: string;
+        }>;
+      };
+    };
     if (!data.message?.items || data.message.items.length === 0) return null;
 
     // Try to find best match
@@ -53,8 +63,9 @@ async function searchCrossRef(
         item.title[0]?.toLowerCase().includes(title.toLowerCase().substring(0, 20))
       ) {
         const doi = item.DOI;
+        if (!doi) continue;
         return {
-          id: `https://openalex.org/W${item.DOI.replace(/[^a-zA-Z0-9]/g, '')}`, // Generate a placeholder ID
+          id: `https://openalex.org/W${doi.replace(/[^a-zA-Z0-9]/g, '')}`, // Generate a placeholder ID
           title: item.title[0],
           year: item.published?.['date-parts']?.[0]?.[0] || year || new Date().getFullYear(),
           venue: item['container-title']?.[0] || item['publisher'] || 'Unknown',
@@ -84,7 +95,15 @@ async function searchSemanticScholar(
     const response = await fetch(url);
     if (!response.ok) return null;
 
-    const data = await response.json();
+    const data = (await response.json()) as {
+      data?: Array<{
+        title?: string;
+        year?: number;
+        venue?: string;
+        paperId?: string;
+        externalIds?: { DOI?: string };
+      }>;
+    };
     if (!data.data || data.data.length === 0) return null;
 
     // Try to find best match

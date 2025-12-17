@@ -59,7 +59,7 @@ async function fetchJson(url: string): Promise<OpenAlexWork> {
     throw new Error(`OpenAlex error ${response.status} for ${fullUrl}`);
   }
 
-  return response.json();
+  return response.json() as Promise<OpenAlexWork>;
 }
 
 /**

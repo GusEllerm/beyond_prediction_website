@@ -32,6 +32,13 @@ interface OpenAlexWork {
   doi?: string;
   publication_year?: number;
   venue?: string;
+  primary_location?: {
+    source?: { display_name?: string };
+    host_venue?: { display_name?: string };
+    landing_page_url?: string;
+    pdf_url?: string;
+  };
+  open_access?: { oa_url?: string };
   [key: string]: unknown;
 }
 
@@ -50,7 +57,7 @@ async function fetchJson(url: string): Promise<OpenAlexResponse> {
     throw new Error(`OpenAlex error ${response.status} for ${fullUrl}`);
   }
 
-  return response.json();
+  return response.json() as Promise<OpenAlexResponse>;
 }
 
 async function fetchWorksForPerson(person: Person): Promise<PersonPublication[]> {

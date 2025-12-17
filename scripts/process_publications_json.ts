@@ -74,7 +74,12 @@ async function findDoiByTitle(title: string, year: number): Promise<string | nul
 
     if (!response.ok) return null;
 
-    const data = await response.json();
+    const data = (await response.json()) as {
+      results?: Array<{
+        title?: string;
+        doi?: string;
+      }>;
+    };
     if (data.results && data.results.length > 0) {
       const work = data.results[0];
       // Check if title is similar (fuzzy match)

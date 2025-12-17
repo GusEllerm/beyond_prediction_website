@@ -22,11 +22,6 @@ interface OpenAlexAuthor {
   orcid?: string;
 }
 
-interface OpenAlexAuthorship {
-  author: OpenAlexAuthor | null;
-  raw_author_name?: string;
-}
-
 interface BatchPublication {
   doi: string;
   title: string;
@@ -91,33 +86,36 @@ async function fetchAuthorsFromOpenAlex(doi: string): Promise<PublicationAuthor[
       throw new Error(`OpenAlex API error: ${response.status} ${response.statusText}`);
     }
 
-    const work = await response.json();
+    const work = (await response.json()) as {
+      authorships?: Array<{
+        author?: { display_name?: string; orcid?: string; id?: string } | null;
+        raw_author_name?: string;
+      }>;
+    };
 
     if (!work.authorships || !Array.isArray(work.authorships)) {
       return [];
     }
 
-    const authors: PublicationAuthor[] = work.authorships.map(
-      (authorship: OpenAlexAuthorship, index: number) => {
-        const author = authorship.author;
-        const name = author?.display_name ?? authorship.raw_author_name ?? 'Unknown Author';
+    const authors: PublicationAuthor[] = work.authorships.map((authorship, index: number) => {
+      const author = (authorship.author ?? null) as OpenAlexAuthor | null;
+      const name = author?.display_name ?? authorship.raw_author_name ?? 'Unknown Author';
 
-        let orcidId: string | undefined;
-        if (author?.orcid) {
-          const orcidMatch = author.orcid.match(/orcid\.org\/(\d{4}-\d{4}-\d{4}-\d{4})/);
-          if (orcidMatch) {
-            orcidId = orcidMatch[1];
-          }
+      let orcidId: string | undefined;
+      if (author?.orcid) {
+        const orcidMatch = author.orcid.match(/orcid\.org\/(\d{4}-\d{4}-\d{4}-\d{4})/);
+        if (orcidMatch) {
+          orcidId = orcidMatch[1];
         }
-
-        return {
-          name,
-          orcidId,
-          openAlexId: author?.id,
-          position: index + 1,
-        };
       }
-    );
+
+      return {
+        name,
+        orcidId,
+        openAlexId: author?.id,
+        position: index + 1,
+      };
+    });
 
     return authors;
   } catch (error: unknown) {
