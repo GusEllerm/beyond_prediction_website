@@ -1,0 +1,8 @@
+@inproceedings{ellerm2023livepublication,
+  title={Livepublication: The science workflow creates and updates the publication},
+  author={Ellerm, Augustus and Gahegan, Mark and Adams, Benjamin},
+  booktitle={2023 IEEE 19th International Conference on e-Science (e-Science)},
+  pages={1--10},
+  year={2023},
+  organization={IEEE}
+}
