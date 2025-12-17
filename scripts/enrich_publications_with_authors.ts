@@ -133,7 +133,7 @@ async function fetchWorkWithAuthors(
       );
       return null;
     }
-    console.error(`  Error fetching work ${workId}:`, error.message || error);
+    console.error(`  Error fetching work ${workId}:`, errorMessage);
     return null;
   }
 }
